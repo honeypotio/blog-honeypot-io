@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to honeypot!"
 date:   2015-09-01 09:48:35
 categories: jekyll update
 ---
