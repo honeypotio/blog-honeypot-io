@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello world!"
 date:   2015-09-08 09:48:35
+author: Hugo Duksis
 categories: jekyll update
 ---
 
