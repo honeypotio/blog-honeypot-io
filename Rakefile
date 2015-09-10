@@ -2,7 +2,7 @@ require 'erb'
 
 desc 'Generate new post'
 task :new, [:title] do |t, args|
-  template = File.read(File.join(File.dirname(__FILE__),'templates', 'post.erb'))
+  template = File.read(File.join(File.dirname(__FILE__),'_templates', 'post.erb'))
 
   title            = args.title
   title_normalized = title.downcase.split.join('-')
