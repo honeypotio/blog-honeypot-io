@@ -11,3 +11,7 @@ github_username:  teamhoneypot
 
 # Build settings
 markdown: kramdown
+
+#SASS
+sass:
+  sass_dir: _sass
