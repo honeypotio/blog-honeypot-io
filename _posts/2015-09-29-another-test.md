@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Hello world!"
-date:   2015-09-08 09:48:35
+title:  "That's another test!"
+date:   2015-09-29 12:07:00
 author: Hugo Duksis
-categories: jekyll update
+categories: test article html css
 cover_image: post1.jpg
-importance: 1
+importance: 2
 ---
 
 # Header1

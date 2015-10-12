@@ -1,0 +1,23 @@
+{% assign post = include.post %}
+<li class="post-listing__item post-listing__item--importance-{{ include.importance }} js-post-listing-item">
+  <a href="{{ post.url }}" class="post-listing__link">
+    <figure class="post-listing__cover">
+      <img src="/cover_images/{{ post.cover_image }}" class="post-listing__cover__img" width="200" />
+      <figcaption class="post-listing__cover__text-container">
+        <h3 class="post-listing__cover__title">{{ post.title }}</h3>
+        <p class="post-listing__cover__tags">{{ post.categories | array_to_sentence_string }}</p>
+      </figcaption>
+    </figure>
+    <div class="post-listing__item__meta">
+      <div class="media">
+        <div class="media-left">
+          {% include avatar.html author=post.author sizing=40 %}
+        </div>
+        <div class="media-body post-listing__item__meta-contents">
+          <h4 class="post-listing__item__author">{{ post.author }}</h4>
+          <time class="post-listing__item__date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        </div>
+      </div> <!-- ./media -->
+    </div>
+  </a>
+</li>

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Hello world!"
-date:   2015-09-08 09:48:35
+title:  "Testing Testing!"
+date:   2015-09-28 12:07:00
 author: Hugo Duksis
-categories: jekyll update
+categories: test article html css
 cover_image: post1.jpg
 importance: 1
 ---
