@@ -18,14 +18,13 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    {{ content }}
 
     {% include footer.html %}
-
+    <script src="{{ "/bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
+    <script src="{{ "/bower_components/packery/dist/packery.pkgd.js" | prepend: site.baseurl }}" charset="utf-8"></script>
+    <script src="{{ "/bower_components/imagesloaded/imagesloaded.pkgd.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
+    <script src="{{ "/scripts/app.js" | prepend: site.baseurl }}" charset="utf-8"></script>
   </body>
 
 </html>

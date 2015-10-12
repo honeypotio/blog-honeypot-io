@@ -1,15 +1,45 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="container">
+  <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+    <header class="post__header text-center">
+      <p class="post__meta">
+        {% if page.author %} By <b class="post__emphasis">{{ page.author }}</b> on {% endif %}
+        <b class="post__emphasis">{{ page.date | date: "%b %-d, %Y" }}</b>{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+      <h1 class="post-title post__heading">{{ page.title }}</h1>
+    </header>
 
+    <img class="post__cover" src="/cover_images/{{page.cover_image}}" width="746" />
+
+    <article class="post__content">
+      {{ content }}
+    </article>
+
+    <hr />
+
+    <div class="media">
+      <div class="media-left">
+        {% include avatar.html author=page.author sizing=70 %}
+      </div>
+      <div class="media-body post-listing__item__meta-contents">
+        <h4 class="post-listing__item__author post-listing__item__author--big">{{ page.author }}</h4>
+        <p class="post-listing__item__author-desc">
+          {% assign author = site.data.authors[page.author] %}
+          {{ author.desc }}
+        </p>
+      </div>
+    </div> <!-- ./media -->
+  </div>
 </div>
+<section class="latest-posts">
+  <div class="latest-posts__container">
+    <ul class="post-listing__list clearfix">
+      {% for post in site.posts limit:3 %}
+        {% include post.html post=post importance=0 %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
