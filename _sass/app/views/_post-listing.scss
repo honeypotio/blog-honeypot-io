@@ -1,0 +1,115 @@
+.post-listing {
+  margin: 35px 0;
+
+  &__link {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  &__list {
+    padding-left: 0;
+    max-width: 1200px;
+    list-style-type: none;
+  }
+
+  &__item {
+    float: left;
+    margin: 0 30px 28px 0;
+    max-width: 300px;
+
+    $item-importance-levels: (
+      (0, 218px),
+      (1, 260px),
+      (2, 330px),
+      (3, 450px)
+    );
+
+    @each $importance-level in $item-importance-levels {
+      $number: nth($importance-level, 1);
+      $width: nth($importance-level, 2);
+
+      &--importance-#{$number} {
+        max-width: $width;
+      }
+    }
+
+    &__meta {
+      padding: 10px;
+      border: 2px solid $light-blue-1-color;
+      border-top: 0;
+      border-radius: 5px;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
+
+    &__meta-contents {
+      vertical-align: middle;
+    }
+
+    &__author {
+      margin: 0;
+      font-size: $fs-1;
+      font-weight: $fw-bold;
+      color: $black-color;
+
+      &--big {
+        margin-bottom: 10px;
+        font-size: $fs-4;
+      }
+    }
+
+    &__author-desc {
+      padding-bottom: 20px;
+      font-size: $fs-1;
+    }
+
+    &__date {
+      font-size: $fs-1;
+      color: $text-1-color;
+    }
+  }
+
+  &__cover {
+    position: relative;
+
+    &:after {
+      @include sizing(100% 100%);
+      @include absolute(top 0);
+      content: '';
+      background: linear-gradient(to bottom,
+        transparent 0%,
+        transparent 50%,
+        rgba($black-color, .5) 100%
+      );
+    }
+
+    &__img {
+      display: block;
+      width: 100%;
+      border-radius: 5px;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+
+    &__text-container {
+      @include absolute(bottom 0 left 10px);
+      padding: 0 10px;
+      width: 100%;
+      z-index: 100;
+    }
+
+    &__title {
+      font-size: $fs-2;
+      font-weight: $fw-bold;
+      color: $white-color;
+    }
+
+    &__tags {
+      font-size: $fs-3;
+      font-weight: $fw-bold;
+      text-transform: uppercase;
+      color: $white-color;
+    }
+  }
+}

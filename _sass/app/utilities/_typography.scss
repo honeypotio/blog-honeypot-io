@@ -1,0 +1,35 @@
+*,
+*:after,
+*:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'Proxima-Nova';
+  font-weight: 100;
+  src: url('../assets/fonts/ProximaNova-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Proxima-Nova';
+  src: url('../assets/fonts/ProximaNova-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Proxima-Nova';
+  font-weight: 600;
+  src: url('../assets/fonts/ProximaNova-SBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Proxima-Nova';
+  font-weight: 800;
+  src: url('../assets/fonts/ProximaNova-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Proxima-Nova';
+  font-style: italic;
+  src: url('../assets/fonts/ProximaNova-RegItalic.otf') format('opentype');
+}

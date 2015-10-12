@@ -1,0 +1,11 @@
+$xs-only: '(max-width: #{$screen-xs-max})';
+
+$sm-up:   '(min-width: #{$screen-sm-min})';
+$sm-down: '(max-width: #{$screen-sm-max})';
+$sm-only: '(min-width: #{$screen-sm-min}) and (max-width: #{$screen-sm-max})';
+
+$md-up:   '(min-width: #{$screen-md-min})';
+$md-down: '(max-width: #{$screen-md-max})';
+$md-only: '(min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max})';
+
+$lg-up:   '(min-width: #{$screen-lg-min})';

@@ -1,0 +1,27 @@
+.site-header {
+  padding: 12px;
+  border-bottom: 1px solid $light-blue-1-color;
+}
+
+.site-logo {
+  @include sizing(131px 33px);
+}
+
+.site-nav {
+  float: right;
+}
+
+.site-footer {
+  margin-top: 50px;
+  padding: 50px;
+  text-align: center;
+  color: $text-1-color;
+
+  &__link {
+    margin: 0 45px 0 0;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: inherit;
+  }
+}

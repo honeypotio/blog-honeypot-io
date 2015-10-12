@@ -1,0 +1,9 @@
+.latest-posts {
+  padding-top: 20px;
+  border-top: 1px solid $light-blue-1-color;
+
+  &__container {
+    width: $post-page-width;
+    margin: 0 auto;
+  }
+}

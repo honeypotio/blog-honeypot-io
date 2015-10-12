@@ -1,0 +1,41 @@
+.post {
+  width: $post-page-width;
+  margin: 0 auto;
+  font-size: $fs-4;
+  color: $text-1-color;
+
+  &__header {
+    margin-top: 70px;
+  }
+
+  &__cover {
+    margin-bottom: 45px;
+  }
+
+  &__meta {
+    margin-bottom: 0;
+    font-size: $fs-1;
+  }
+
+  &__emphasis {
+    color: $black-color;
+  }
+
+  &__heading {
+    @include text($fs-5, $fw-bold, $black-color);
+    margin: 0 0 61px;
+  }
+
+  &__content {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: $fw-bold;
+      color: $black-color;
+    }
+  }
+}
