@@ -3,11 +3,11 @@ title: Honey I’m Home! Welcome to Honeypot
 subtitle: "Why IT recruitment is broken and how Honeypot plans to fix it"
 date: 2015-10-07 16:27:15
 layout: post
-author: kaya
+author: kaya_taner
 categories: Company
 cover_image: honey01.jpg
 permalink:  2015-10-07-honey-im-home
-importance: 1
+importance: 3
 ---
 
 
