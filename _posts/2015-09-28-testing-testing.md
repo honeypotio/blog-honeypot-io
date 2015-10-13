@@ -5,6 +5,7 @@ date:   2015-09-28 12:07:00
 author: duksis
 categories: test article html css
 cover_image: post1.jpg
+permalink: 2015-09-28-testing-testing
 importance: 1
 ---
 

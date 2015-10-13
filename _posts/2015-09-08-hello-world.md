@@ -5,6 +5,7 @@ date:   2015-09-08 09:48:35
 author: duksis
 categories: jekyll update
 cover_image: post1.jpg
+permalink: 2015-09-08-hello-world
 importance: 1
 ---
 
