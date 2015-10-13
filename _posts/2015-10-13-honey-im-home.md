@@ -11,7 +11,7 @@ importance: 1
 ---
 
 
-Hello! Welcome to our first Honeypot blog post. We launched the platform last Thursday to some very nice press from the likes of [TechCrunch][3], [VentureBeat][4] and [Gruenderszene][5]. We have also had great feedback from the 400+ new users who signed up in the first week.
+Hello! Welcome to our first Honeypot blog post. We launched the platform last Thursday to some very nice press from the likes of [TechCrunch][3]{:target="_blank"}, [VentureBeat][4]{:target="_blank"} and [Gruenderszene][5]{:target="_blank"}. We have also had great feedback from the 400+ new users who signed up in the first week.
 
 So now that we have launched it's time to ask what is Honeypot all about?
 
@@ -30,7 +30,7 @@ Next step was to increase transparency. On Honeypot developers build a profile t
 * *Expanding talent base:* Currently we have developers from Germany, Austria, Poland, Russia, Ukraine, Romania, France, Spain, Italy, Portugal, the UK, Ireland, Brazil, and India, among other countries. The list is growing and we are excited!
 * *Developing new features:* We are continuously rolling out new features for the platform and improving ones we already have in place.
 
-Exciting times ahead! Remember if you aren’t already onboard with Honeypot you can request an invite as a [developer][6] or a [company][7].  And if you are already a user, we would love to hear your feedback so send us an email to [hello@honeypot.io][2].
+Exciting times ahead! Remember if you aren’t already onboard with Honeypot you can request an invite as a [developer][6]{:target="_blank"} or a [company][7]{:target="_blank"}.  And if you are already a user, we would love to hear your feedback so send us an email to [hello@honeypot.io][2].
 
 Aside from that, enjoy the platform. And don’t forget to follow us on Twitter [@honeypotio][1]!
 
