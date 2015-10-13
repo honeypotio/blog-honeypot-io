@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+{% assign author = site.data.authors[page.author] %}
 <div class="container">
   <div class="post">
 
     <header class="post__header text-center">
       <p class="post__meta">
-        {% if page.author %} By <b class="post__emphasis">{{ page.author }}</b> on {% endif %}
+        {% if page.author %} By <b class="post__emphasis">{{ author.name }}</b> on {% endif %}
         <b class="post__emphasis">{{ page.date | date: "%b %-d, %Y" }}</b>{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
       <h1 class="post-title post__heading">{{ page.title }}</h1>
@@ -22,12 +23,11 @@ layout: default
 
     <div class="media">
       <div class="media-left">
-        {% include avatar.html author=page.author sizing=70 %}
+        {% include avatar.html author=author.avatar sizing=70 %}
       </div>
       <div class="media-body post-listing__item__meta-contents">
-        <h4 class="post-listing__item__author post-listing__item__author--big">{{ page.author }}</h4>
+        <h4 class="post-listing__item__author post-listing__item__author--big">{{ author.name }}</h4>
         <p class="post-listing__item__author-desc">
-          {% assign author = site.data.authors[page.author] %}
           {{ author.desc }}
         </p>
       </div>
