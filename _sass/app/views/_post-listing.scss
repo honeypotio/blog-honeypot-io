@@ -49,9 +49,11 @@
       border-radius: 5px;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
+      background-color: $white-color;
     }
 
     &__meta-contents {
+      padding-top: 12px;
       vertical-align: middle;
     }
 
