@@ -5,9 +5,11 @@ layout: default
   <div class="post-listing">
     <ul class="post-listing__list js-post-listing">
       {% for post in site.posts %}
-        {% include post.html post=post importance=post.importance %}  
+        {% include post.html post=post importance=post.importance %}
       {% endfor %}
     </ul>
 
   </div>
 </div>
+
+{% include footer.html bluefooter=false %}

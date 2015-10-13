@@ -2,6 +2,7 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
+
 <div class="container">
   <div class="post">
 
@@ -21,7 +22,7 @@ layout: default
 
     <hr />
 
-    <div class="media">
+    <div class="media post__author-details">
       <div class="media-left">
         {% include avatar.html author=author.avatar sizing=70 %}
       </div>
@@ -41,8 +42,10 @@ layout: default
         {% include post.html post=post importance=0 %}
       {% endfor %}
     </ul>
-    <p class="text-center">
-      <a class="btn btn-default" href="{{site.baseurl}}/">See all</a>
+    <p class="text-center post__see-more">
+      <a class="btn btn-default post__see-more__btn" href="{{site.baseurl}}/">See all</a>
     </p>
   </div>
 </section>
+
+{% include footer.html bluefooter=true %}
