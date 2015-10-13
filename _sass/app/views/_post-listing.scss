@@ -14,9 +14,13 @@
   }
 
   &__item {
-    float: left;
-    margin: 0 30px 28px 0;
-    max-width: 300px;
+    float: none;
+    margin: 0 auto 28px;
+
+    @media #{$md-up} {
+      float: left;
+      margin: 0 30px 28px 0;
+    }
 
     $item-importance-levels: (
       (0, 218px),
@@ -30,7 +34,11 @@
       $width: nth($importance-level, 2);
 
       &--importance-#{$number} {
-        max-width: $width;
+        width: 90%;
+
+        @media #{$md-up} {
+          max-width: $width;
+        }
       }
     }
 

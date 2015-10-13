@@ -1,15 +1,23 @@
 .post {
-  width: $post-page-width;
   margin: 0 auto;
   font-size: $fs-4;
   color: $text-1-color;
+
+  @media #{$md-up} {
+    width: $post-page-width;
+  }
 
   &__header {
     margin-top: 70px;
   }
 
   &__cover {
+    width: 100%;
     margin-bottom: 45px;
+
+    @media #{$md-up} {
+      width: $post-page-width;
+    }
   }
 
   &__meta {

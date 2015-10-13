@@ -7,6 +7,10 @@
   @include sizing(131px 33px);
 }
 
+.page-logo {
+  padding: 9px 15px;
+}
+
 .site-nav {
   float: right;
 }
@@ -18,10 +22,24 @@
   color: $text-1-color;
 
   &__link {
-    margin: 0 45px 0 0;
+    margin: 0 16px 0 0;
     font-size: 13px;
     font-weight: 600;
     letter-spacing: 1px;
     color: inherit;
+
+    @media #{$md-up} {
+      margin: 0 45px 0 0;
+    }
+  }
+
+  &__copyright {
+    display: block;
+    margin-bottom: 10px;
+
+    @media #{$md-up} {
+      margin-bottom: 0;
+      display: inline;
+    }
   }
 }

@@ -3,7 +3,11 @@
   border-top: 1px solid $light-blue-1-color;
 
   &__container {
-    width: $post-page-width;
+    width: 100%;
     margin: 0 auto;
+
+    @media #{$md-up} {
+      width: $post-page-width;
+    }
   }
 }
