@@ -1,0 +1,28 @@
+.navbar {
+  margin-bottom: 0;
+  border-bottom: 1px solid $light-blue-1-color;
+
+  &-nav {
+    font-family: $ff-sans-serif;
+    font-size: $fs-3;
+    font-weight: $fw-semibold;
+    text-transform: uppercase;
+    color: $gray-1-color;
+
+    a {
+      color: inherit;
+    }
+
+    li {
+      text-align: center;
+
+      @media #{$md-up} {
+        text-align: left;
+      }
+    }
+  }
+
+  .icon-bar {
+    background-color: $gray-1-color;
+  }
+}
