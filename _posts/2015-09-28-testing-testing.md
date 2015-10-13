@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing Testing!"
 date:   2015-09-28 12:07:00
-author: Hugo Duksis
+author: duksis
 categories: test article html css
 cover_image: post1.jpg
 importance: 1

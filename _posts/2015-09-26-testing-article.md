@@ -2,7 +2,7 @@
 layout: post
 title:  "How to test articles properly?"
 date:   2015-09-26 12:07:00
-author: Hugo Duksis
+author: duksis
 categories: test article html css
 cover_image: post2.jpg
 importance: 3

@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to honeypot!"
 date:   2015-09-01 09:48:35
-author: Hugo Duksis
+author: duksis
 categories: jekyll update
 cover_image: post1.jpg
 importance: 1

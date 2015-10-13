@@ -2,7 +2,7 @@
 layout: post
 title:  "That's another test!"
 date:   2015-09-29 12:07:00
-author: Hugo Duksis
+author: duksis 
 categories: test article html css
 cover_image: post1.jpg
 importance: 2
