@@ -31,7 +31,12 @@
 
   &__heading {
     @include text($fs-5, $fw-bold, $black-color);
-    margin: 0 0 61px;
+    margin: 0;
+  }
+
+  &__subheading {
+    @include text($fs-6, $fw-light, $text-1-color);
+    margin: 6px 0 61px;
   }
 
   &__content {
