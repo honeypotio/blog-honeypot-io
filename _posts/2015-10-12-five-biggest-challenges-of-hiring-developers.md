@@ -28,9 +28,9 @@ Honeypot was founded with all this in mind. We have been through all that pain a
 
 3.  **How do you judge what motivates a developer?**
 
-    **Solution: Know the candidates ideal position on through their personal profile**
+    **Solution: Know the candidate's ideal position through their personal profile**
 
-    This is valuable feature. We don’t just let developers describe what they have done but also what they would ideally do. Knowing a candidate's preferences for technologies lets you plan for the future and think about where to fit them in as your grow and develop.
+    This is a valuable feature. We don’t just let developers describe what they have done but also what they would ideally do. Knowing a candidate's preferences for technologies lets you plan for the future and think about where to fit them in as your grow and develop.
 
     Oh, and isn’t it just better for everyone involved with salary demands are laid out from the start!
 
