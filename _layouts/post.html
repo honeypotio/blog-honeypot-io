@@ -9,7 +9,7 @@ layout: default
     <header class="post__header text-center">
       <p class="post__meta">
         {% if page.author %} By <b class="post__emphasis">{{ author.name }}</b> on {% endif %}
-        <b class="post__emphasis">{{ page.date | date: "%b %-d, %Y" }}</b>{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        <b class="post__emphasis">{{ page.date | date: "%b %-d, %Y" }}</b> in {% if page.categories %}<b class="post__emphasis">{{ page.categories | array_to_sentence_string}}</b>{% endif %}</p>
 
       <h1 class="post-title post__heading">{{ page.title }}</h1>
       <h2 class="post-title post__subheading">{{ page.subtitle }}</h2>
