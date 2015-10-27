@@ -4,7 +4,7 @@ subtitle: An interview with Fabio, a Honeypot Talent Rep
 date:    2015-10-27 11:36:06
 layout:  post
 author:  fabio_migliorini
-categories: Company
+categories: Developers
 cover_image: batch.png
 permalink:  2015-10-27-introducing-the-batch
 importance: 2
