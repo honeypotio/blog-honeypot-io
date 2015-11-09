@@ -67,7 +67,7 @@ Ironically, the bottom line is that there are other things that are equally or m
 ***If you are interested in what you could make as a developer in Berlin, try out Honeypot's [developer calculator] [4].***
 
 
-[1]: wwww.glassdoor.com
-[2]: wwww.payscale.com
-[3]: wwww.whatamiworth.io "developer salary calculator"
-[4]: wwww.whatamirworth.io "developer salary calculator"
+[1]: http://www.glassdoor.com
+[2]: http://www.payscale.com
+[3]: http://www.whatamiworth.io "developer salary calculator"
+[4]: http://www.whatamirworth.io "developer salary calculator"
