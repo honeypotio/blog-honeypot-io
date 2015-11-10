@@ -64,6 +64,8 @@ Always stay aware of what you're worth. Even if you are not actively looking - i
 
 Ironically, the bottom line is that there are other things that are equally or more important than your salary at work. This is exactly why it's important to take care of your salary and put the topic aside. It takes only half an hour to formulate your work and figure out your average pay. It would take another couple of hours every year to maintain your CV and keep an eye out for advancement opportunities. Invest this time so that you'll be free to focus on what really matters - being good, staying happy and sharp, and doing awesome work with wonderful people.
 
+*** You can read more helpful advice from Eyal on his [blog] [5] or check out his profile on [LinkedIn] [6].***
+
 ***If you are interested in what you could make as a developer in Berlin, try out Honeypot's [developer calculator] [4].***
 
 
@@ -71,3 +73,5 @@ Ironically, the bottom line is that there are other things that are equally or m
 [2]: http://www.payscale.com
 [3]: http://www.whatamiworth.io "developer salary calculator"
 [4]: http://www.whatamirworth.io "developer salary calculator"
+[5]: http://matzkelon.com/
+[6]: https://www.linkedin.com/in/ematzkel "
