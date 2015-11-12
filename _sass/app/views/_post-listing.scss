@@ -2,8 +2,11 @@
   margin: 35px 0;
 
   &__link {
+    color: inherit;
+
     &:hover {
       text-decoration: none;
+      color: inherit;
     }
   }
 
@@ -43,13 +46,10 @@
     }
 
     &__meta {
-      padding: 10px;
-      border: 2px solid $light-blue-1-color;
+      padding: 10px 0;
       border-top: 0;
-      border-radius: 5px;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
-      background-color: $white-color;
     }
 
     &__meta-contents {
@@ -58,15 +58,21 @@
     }
 
     &__author {
-      margin: 0;
-      font-size: $fs-1;
-      font-weight: $fw-bold;
-      color: $black-color;
+      margin: 0 0 0 19px;
+      font-size: $fs-7;
+      font-weight: $fw-normal;
+      color: $text-1-color;
 
       &--big {
-        margin-bottom: 10px;
+        margin: 0 0 10px;
         font-size: $fs-4;
+        font-weight: $fw-bold;
+        color: $black-color;
       }
+    }
+
+    &__author-date {
+      margin-top: 20px;
     }
 
     &__author-desc {
@@ -76,31 +82,40 @@
     }
 
     &__date {
-      font-size: $fs-1;
+      font-size: $fs-7;
       color: $text-1-color;
+    }
+
+    &__clock {
+      @include sizing(15px);
+      margin-bottom: 3px;
     }
   }
 
   &__cover {
     position: relative;
 
-    &:after {
-      @include sizing(100% 100%);
-      @include absolute(top 0);
-      content: '';
-      background: linear-gradient(to bottom,
-        transparent 0%,
-        transparent 50%,
-        rgba($black-color, .5) 100%
-      );
-    }
+    &:hover {
+      &:after {
+        @include absolute(top 0 left 0);
+        @include sizing(100%);
+        content: '';
+        background-color: rgba($black-color, .8);
+      }
 
-    &__img {
-      display: block;
-      width: 100%;
-      border-radius: 5px;
-      border-bottom-left-radius: 0;
-      border-bottom-right-radius: 0;
+      .backdrop {
+        @include absolute(top 50% left 50%);
+        display: block;
+        transform: translate(-50%, -50%);
+        z-index: $z-index-3;
+        font-weight: $fw-light;
+        font-size: $fs-6;
+        text-align: center;
+        text-transform: uppercase;
+        color: $white-color;
+        border-top: 1px solid $white-color;
+        border-bottom: 1px solid $white-color;
+      }
     }
 
     &__text-container {
@@ -110,17 +125,27 @@
       z-index: 100;
     }
 
+    &__img {
+      display: block;
+      width: 100%;
+    }
+
     &__title {
-      font-size: $fs-2;
+      margin-top: 10px;
+      font-size: $fs-6;
       font-weight: $fw-bold;
-      color: $white-color;
+      color: $black-color;
     }
 
     &__tags {
-      font-size: $fs-3;
-      font-weight: $fw-bold;
+      font-size: $fs-7;
+      font-weight: $fw-normal;
       text-transform: uppercase;
-      color: $white-color;
+      color: $text-1-color;
+    }
+
+    .backdrop {
+      display: none;
     }
   }
 }

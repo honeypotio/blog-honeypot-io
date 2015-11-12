@@ -40,7 +40,7 @@ layout: default
   <div class="latest-posts__container">
     <ul class="post-listing__list clearfix">
       {% for post in site.posts limit:3 %}
-        {% include post.html post=post importance=0 %}
+        {% include post.html post=post importance=0 details=false %}
       {% endfor %}
     </ul>
     <p class="text-center post__see-more">

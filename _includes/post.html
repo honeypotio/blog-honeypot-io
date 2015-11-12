@@ -1,24 +1,25 @@
 {% assign post = include.post %}
 {% assign author = site.data.authors[post.author] %}
+{% assign details = include.details %}
 <li class="post-listing__item post-listing__item--importance-{{ include.importance }} js-post-listing-item">
   <a href="{{ post.url }}" class="post-listing__link">
     <figure class="post-listing__cover">
       <img src="/cover_images/{{ post.cover_image }}" class="post-listing__cover__img" width="200" />
-      <figcaption class="post-listing__cover__text-container">
-        <h3 class="post-listing__cover__title">{{ post.title }}</h3>
-        <p class="post-listing__cover__tags">{{ post.categories | array_to_sentence_string }}</p>
-      </figcaption>
+      <div class="backdrop">
+        Read more
+      </div>
     </figure>
     <div class="post-listing__item__meta">
-      <div class="media">
-        <div class="media-left">
-          {% include avatar.html author=author.avatar sizing=40 %}
-        </div>
-        <div class="media-body post-listing__item__meta-contents">
-          <h4 class="post-listing__item__author">{{ author.name }}</h4>
-          <time class="post-listing__item__date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        </div>
-      </div> <!-- ./media -->
+      {% if details %}
+        <p class="post-listing__cover__tags">{{ post.categories | array_to_sentence_string }}</p>
+      {% endif %}
+      <h3 class="post-listing__cover__title">{{ post.title }}</h3>
+      {% if details %}
+      <div class="post-listing__item__author-date">
+        <img src="{{ site.baseurl }}/assets/images/clock.svg" class="post-listing__item__clock" />
+        <time class="post-listing__item__date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time> <span class="post-listing__item__author">by {{ author.name }}</span>
+      </div>
+      {% endif %}
     </div>
   </a>
 </li>
