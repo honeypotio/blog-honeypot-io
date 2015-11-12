@@ -11,4 +11,12 @@
       width: $post-page-width;
     }
   }
+
+  &__heading {
+    margin: 16px 0 55px;
+    font-family: $ff-sans-serif-2;
+    font-weight: $fw-bold;
+    font-size: $fs-8;
+    text-transform: uppercase;
+  }
 }

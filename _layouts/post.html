@@ -38,6 +38,7 @@ layout: default
 </div>
 <section class="latest-posts">
   <div class="latest-posts__container">
+    <h4 class="latest-posts__heading">Previous Posts</h4>
     <ul class="post-listing__list clearfix">
       {% for post in site.posts limit:3 %}
         {% include post.html post=post importance=0 details=false %}
