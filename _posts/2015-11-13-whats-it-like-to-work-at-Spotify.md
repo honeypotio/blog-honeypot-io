@@ -60,7 +60,7 @@ The squad is collectively responsible. Larger organizations who are attempting t
 **Does Spotify have managers?**
 
 
-This is another common misperception. We do have managers, it’s just a different perspective. Instead of having team managers, we have line managers, which we call Chapter Leads. They look after all those people with the same skillset across the squads. For example, I might be the Chapter Lead for all Android developers. The cool thing is Chapter Leads are part-time developers, they usually sit on one of a squad themselves.
+This is another common misperception. We do have managers, it’s just a different perspective. Instead of having team managers, we have line managers, which we call Chapter Leads. They look after all those people with the same skillset across the squads. For example, I might be the Chapter Lead for all Android developers. The cool thing is Chapter Leads are part-time developers, they usually sit on one of the squads themselves.
 
 
 **What are the benefits of this vertical leadership?**
@@ -142,7 +142,7 @@ Big projects can be challenging. Especially given our model of autonomous teams.
 **What is your attitude towards failure?** 
 
 
-Failure is part of the life of a continuous improvement organization. Failure is punished at big corporations. They wants to be innovative but this attitude forces staff to play it safe. One of my favourite quotes is from the film director Kevin Smith, “Failure is success practice.” I really believe that. 
+Failure is part of the life of a continuous improvement organization. Failure is punished at big corporations. They want to be innovative but this attitude forces staff to play it safe. One of my favourite quotes is from the film director Kevin Smith, “Failure is success practice.” I really believe that. 
 
 
 
