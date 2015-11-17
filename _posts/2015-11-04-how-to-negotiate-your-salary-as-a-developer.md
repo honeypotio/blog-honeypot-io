@@ -73,6 +73,6 @@ Ironically, the bottom line is that there are other things that are equally or m
 [1]: http://www.glassdoor.com
 [2]: http://www.payscale.com
 [3]: http://www.whatamiworth.io "developer salary calculator"
-[4]: http://www.whatamirworth.io "developer salary calculator"
+[4]: http://www.whatamiworth.io "developer salary calculator"
 [5]: http://matzkelon.com/
 [6]: https://www.linkedin.com/in/ematzkel
