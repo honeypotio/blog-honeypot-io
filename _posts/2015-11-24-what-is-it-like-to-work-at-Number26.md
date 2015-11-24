@@ -11,7 +11,7 @@ importance: 2
 ---
 
 
-[Christian Rebernik][1]{:target="_blank"} is CTO of Number26. Prior to joining Germany’s first digital bank, he was CTO  at Zanox and Parship. We met Christian at the [Data Natives][2]{:target="_blank"} conference in Berlin and discussed Number26’s tech stack, why its easy to attract developers to FinTech and the company's plans for new features.
+[Christian Rebernik][1]{:target="_blank"} is CTO of [Number26][8]{:target="_blank"}. Prior to joining Germany’s first digital bank, he was CTO  at Zanox and Parship. We met Christian at the [Data Natives][2]{:target="_blank"} conference in Berlin and discussed Number26’s tech stack, why its easy to attract developers to FinTech and the company's plans for new features.
 
 **Hello Christian! How big is your tech team at Number 26?**
  
@@ -66,3 +66,4 @@ We launch the overdraft feature on December 1st. The next thing is Maestro card.
 [5]: http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/Welcome.html "SQS Developer Guide"
 [6]: http://www.mckinsey.com/insights/business_technology/the_rise_of_the_digital_bank "McKinsey Digital Banking Report"
 [7]: https://www.honeypot.io/invite_requests/new?source=blog "Sign-up"
+[8]: https://number26.de/en/ "Number26"
