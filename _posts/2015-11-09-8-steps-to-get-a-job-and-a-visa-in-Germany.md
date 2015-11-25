@@ -5,7 +5,7 @@ date: 2015-11-09 11:27:15
 layout: post
 author: frederik_bohn
 categories: Developer
-cover_image: airplane.jpg
+cover_image: jobgermany.png
 permalink:  2015-11-09-8-steps-to-finding-a-job-and-getting-a-visa-in-Germany
 importance: 2
 ---
@@ -76,4 +76,4 @@ Have a Bier, revel in your newly approved working authorisation, and then get to
 [11]: https://www.berlin.de/labo/willkommen-in-berlin/dienstleistungen/service.245714.php/dienstleistung/305304/en/ 
 [12]: https://upload.wikimedia.org/wikipedia/commons/c/cd/Fiktionsbescheinigung-Klebeetikett.jpg "Example Temporary Residence Permit"
 [13]: https://www.honeypot.io/ "The developer-focused job platform"
-[14]: https://www.honeypot.io/invite_requests/new "Request an invite"
+[14]: https://www.honeypot.io/invite_requests/new?source=blog "Request an invite"

@@ -3,7 +3,7 @@ title: This infographic makes your Berlin move easy-peasy
 subtitle: Berlin may be relaxed but it still loves paperwork!    
 date: 2015-11-23 12:30:15
 layout: post
-author: emma_tracey
+author: johanna_dahlroos
 categories: Developer
 cover_image: Move-to-Berlin.png
 permalink:  moving-to-berlin-infographic

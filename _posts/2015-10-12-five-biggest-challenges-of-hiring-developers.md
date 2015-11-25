@@ -1,11 +1,11 @@
 ---
-title:   The five biggest challenges of hiring developers
+title:   The 5 biggest challenges HR face hiring developers
 subtitle: And how to use Honeypot to solve them
 date:    2015-10-12 16:13:23
 layout:  post
 author:  joana_monteiro
 categories: Company
-cover_image: happy_stick_man.jpg
+cover_image: challenge.png
 permalink:  2015-10-12-five-biggest-challenges-of-hiring-developers
 importance: 2
 ---
@@ -46,7 +46,7 @@ Honeypot was founded with all this in mind. We have been through all that pain a
 
     We will automatically create a company profile for you from the assets you provide.  The more complete the profile the higher the chance of hiring the developer.
 
-So that's five of our many solutions! If you are hiring developers and want to make your life a little [easier][1], get in touch.
+So that's five of our many solutions! If you are hiring developers and want to make your life a little easier, get in [touch][1].
 
 And don’t forget to check us out on Twitter [@honeypotio][2]!
 
@@ -55,7 +55,7 @@ Bye for now!
 
 *photo credit: [Happy crowd][3] via [photopin][4] [(license)][5]*
 
-[1]: mailto:partners@honeypot.io
+[1]: https://www.honeypot.io/invite_requests/new?invitation_type=company?source=blog 
 [2]: https://twitter.com/honeypotio
 [3]: http://www.flickr.com/photos/95361738@N00/356136498
 [4]: http://photopin.com

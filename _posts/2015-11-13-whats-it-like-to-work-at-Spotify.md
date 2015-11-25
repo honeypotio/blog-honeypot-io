@@ -4,7 +4,7 @@ subtitle: An interview with Kevin Goldsmith, VP of Engineering at Spotify
 date: 2015-11-13 15:30:15
 layout: post
 author: emma_tracey
-categories: Company
+categories: Developer
 cover_image: spotify.png
 permalink:  2015-11-13-what's-it-like-to-work-at-Spotify
 importance: 2
@@ -182,7 +182,7 @@ I admire [Automattic][3]{:target="_blank"}, [GitHub][4]{:target="_blank"} and [M
 
 Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly Csikszentmihalyi’s [“Flow: The Psychology of Optimal Experience”][7]{:target="_blank"}. [The Hard Thing About Hard Things][8]{:target="_blank"} and [The Advantage][9]{:target="_blank"} I also like. Currently [High Output Management][10]{:target="_blank"} is on my reading list. 
 
-
+* * *
 
 
 
@@ -199,5 +199,5 @@ Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly 
 [8]: http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205 "The hard thing about hard things"
 [9]: http://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529/ref=sr_1_1?s=books&ie=UTF8&qid=1444318583&sr=1-1&keywords=the+advantage "The Advantage"
 [10]: http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?s=books&ie=UTF8&qid=1444318646&sr=1-1&keywords=andy+grove+high+output+management "High output management"
-[11]: https://www.honeypot.io/invite_requests/new "Sign-up"
+[11]: https://www.honeypot.io/invite_requests/new?source=blog "Sign-up"
 [12]: http://2015.mobiconf.org/ "MobiConf"

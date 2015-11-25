@@ -3,9 +3,9 @@ title: A guide to the EU Blue Card for software developers
 subtitle: Beat the bureaucracy blues with our blue card infographic!  
 date: 2015-11-17 18:30:15
 layout: post
-author: emma_tracey
-categories: Developers
-cover_image: the-blue-card.png
+author: johanna_dahlroos
+categories: Developer
+cover_image: bluecard.png
 permalink:  EU-Bluecard-for-software-developers
 importance: 2
 ---
@@ -19,4 +19,4 @@ If the Blue Card infographic leaves you with questions, drop us an [email][1]!
 ![blue-card-infographic](/assets/images/Blue-card-infographic.png)
 
 [1]: mailto:hello@honeypot.io "Hello Honeypot"
-[2]: http://www.honeypot.io "Developer jobs in Europe"
+[2]: https://www.honeypot.io/invite_requests/new?source=blog "Developer jobs in Europe"
