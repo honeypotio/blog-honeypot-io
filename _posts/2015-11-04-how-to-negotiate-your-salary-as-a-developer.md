@@ -5,7 +5,7 @@ date: 2015-11-04 11:27:15
 layout: post
 author: eyal_matzkel
 categories: Developer
-cover_image: salary.png
+cover_image: Salary.png
 permalink:  2015-11-04-how-to-negotiate-your-salary-as-a-developer
 importance: 2
 ---
