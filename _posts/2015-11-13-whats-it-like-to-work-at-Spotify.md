@@ -5,7 +5,7 @@ date: 2015-11-13 15:30:15
 layout: post
 author: emma_tracey
 categories: Developer
-cover_image: Spotify.png
+cover_image: spotify.png
 permalink:  2015-11-13-what's-it-like-to-work-at-Spotify
 importance: 2
 ---
