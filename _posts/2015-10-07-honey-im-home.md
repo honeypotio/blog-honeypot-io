@@ -5,7 +5,7 @@ date: 2015-10-07 16:27:15
 layout: post
 author: kaya_taner
 categories: Company
-cover_image: honey01.jpg
+cover_image: Honey.png
 permalink:  2015-10-07-honey-im-home
 importance: 2
 ---
@@ -39,5 +39,5 @@ Aside from that, enjoy the platform. And don’t forget to follow us on Twitter 
 [3]: http://techcrunch.com/2015/10/01/honeypot-wants-to-be-berlins-hired "Honeypot Wants To Be Berlin’s Hired"
 [4]: http://venturebeat.com/2015/10/01/berlins-honeypot "Honeypot tries novel way to recruit skilled developers"
 [5]: http://www.gruenderszene.de/allgemein/honeypot-kaya-taner-applift "Das neue Startup des AppLift-Gründers will das IT-Recruiting umkrempeln"
-[6]: https://www.honeypot.io/invite_requests/new "Request an invite"
+[6]: https://www.honeypot.io/invite_requests/new?source=blog "Request an invite"
 [7]: https://www.honeypot.io/pages/for_employers "Companies"

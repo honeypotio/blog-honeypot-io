@@ -4,7 +4,7 @@ subtitle: An interview with Fabio, a Honeypot Talent Rep
 date:    2015-10-27 11:36:06
 layout:  post
 author:  fabio_migliorini
-categories: Developers
+categories: Developer
 cover_image: batch.png
 permalink:  2015-10-27-introducing-the-batch
 importance: 2
@@ -50,6 +50,6 @@ Oh yes! We add a headline to developer profiles before they go live in the batch
 
 To be part of the batch, first you need to request an [invite] [3] to Honeypot! 
 
-[1]: https://www.honeypot.io/invite_requests/new "Request an invite"
+[1]: https://www.honeypot.io/invite_requests/new?source=blog "Request an invite"
 [2]: mailto:fabio@honeypot.io "Hello Fabio"
-[3]: https://www.honeypot.io/invite_requests/new "Request an invite"
+[3]: https://www.honeypot.io/invite_requests/new?source=blog "Request an invite"

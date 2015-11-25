@@ -12,7 +12,7 @@ joana_monteiro:
   avatar: joana.jpg
 fabio_migliorini:
   name: Fabio Migliorini
-  desc: Fabio is a Talent Rep at Honeypot. He spends a lot of time talking to developers about their ideal positions. He then spends even more time finding those positions. He always looks angry in photos and is learning ukulele!
+  desc: Fabio is a Talent Rep at Honeypot. He spends a lot of time talking to developers about their ideal positions. He then spends even more time finding those positions. He is currently learning ukulele!
   avatar: fabio.jpg
 eyal_matzkel:
   name: Eyal Matzkel
@@ -26,3 +26,7 @@ emma_tracey:
   name: Emma Tracey
   desc: Emma is Marketing Manager at Honeypot. Born in Dublin, Emma moved to Berlin after spending time in Colombia and South Africa. She is a former journalist and likes to write about team culture and diversity. 
   avatar: emma.jpg
+johanna_dahlroos:
+  name: Johanna Dahlroos
+  desc: Johanna is Honeypot’s graphic designer. A Finnish dog-lover with a passion for art, architecture and snowboarding, she’s up for any challenge – as long as enough coffee is provided.  
+  avatar: johanna.jpg
