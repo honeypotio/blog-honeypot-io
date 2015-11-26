@@ -1,11 +1,11 @@
 ---
 title: What is it like to work as a developer at Number26? 
 subtitle: An interview with Christian Rebernik, CTO of Number26   
-date: 2015-11-23 12:30:15
+date: 2015-11-22 12:30:15
 layout: post
 author: emma_tracey
 categories: Developer
-cover_image: number26.png
+cover_image: christian.jpg
 permalink: what-is-it-like-to-work-at-Number26
 importance: 2
 ---
