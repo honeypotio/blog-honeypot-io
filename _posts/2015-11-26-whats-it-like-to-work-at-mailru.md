@@ -1,5 +1,5 @@
 ---
-title: Whats it like to work as a developer at Mail.Ru? 
+title: Whats it like to work as a developer at Mail.Ru?
 subtitle: An interview with Dennis Anikin, Director of Engineering of Cloud and Email Service
 date: 2015-11-26 15:44:15
 layout: post
@@ -37,15 +37,14 @@ Email service is a very complicated thing! The user’s browser is HTML and Java
 **Tarantool is Mail.Ru’s open-source NoSQL database management system. Can you tell us some history of the project?**
 
 Tarantool is an in-memory database. The project started as a graph database for one of our social networks.  With time it began to develop. We can’t widely use other databases such as MySQL, because we need a system which works fast and has a low total cost of ownership.
- 
+
 **What are the advantages of Tarantool?**
 
 It is faster than most other in-memory databases. Tarantool is a real database with transactions, replication and stored procedures. We’ve also run tests to compare it with Couchbase and Redis – the results are available [online][5]{:target="_blank"}.  Today there are many companies using Tarantool, but it's still not too well-known since we have not advertised it yet.
 
 **Tarantool was built by just 10 engineers. How is it faster than MySQL, when so many more engineers were involved?**
 
-Many other database vendors are focused on features, but we are focused on performance. We are very passionate about optimization and we try to get every last drop of performance out of our service.
-
+Many other database vendors are focused on features, but we are focused on performance. We are very passionate about optimization and we try to get every last drop of performance out of servers.
 **Aside from Tarantool, do you have any other open source projects?**
 
 We have some open source projects listed on the open source section of our [wesbite][6]{:target="_blank"}. The most important one is [maps.me][7]{:target="_blank"}. It’s one of the biggest mobile map applications in the world. In coordination with OSM, a project dedicated to providing crowdsourced mapped data of the world, opening maps.me’s source code became an important step in changing the ecosystem of the development of mapping apps.
@@ -57,7 +56,7 @@ Our cloud and email service is 30 petabytes each, so altogether they are 60 peta
 **You are currently trying to migrate your email storage. How and why?**
 
 Our current email storage needs to be more efficient. It consists of big attachments, which we partially store on machines with 16 disks with 2 terabytes of storage each.  We need to move it to 24 by 4 terabyte disks. This move could save us millions of dollars and make our system much faster. For our email and cloud storage, we are not using SSD discs. We are using normal spinning discs. They are 10 times cheaper than SSD. Even for meta-information we are not using SSD. The main advantage of magnetic is price – this is what makes our cloud service so affordable.
- 
+
 **What do you think Mail.Ru does better than Gmail?**
 I think speed, efficiency and uptime are our key strengths. It’s difficult to compare interfaces and user experience formally but most Russians prefer Mail.Ru. We are six times bigger than Gmail in Russia in terms of the monthly audience. That is some indication for us about the success of our product.
 
@@ -78,6 +77,6 @@ If you are a developer who likes working with cool open-source projects on par w
 [3]: https://www.linkedin.com/in/dennis-anikin-b3898526 "Dennis Anikin"
 [4]: https://en.wikipedia.org/wiki/XS_%28Perl%29 "What is XS?"
 [5]: http://articles.rvncerr.org/how-to-chose-an-in-memory-nosql-solution-performance-measuring/ "Tarantool Comparison"
-[6]: http://opensource.mail.ru/ 
-[7]: http://maps.me/en/home 
+[6]: http://opensource.mail.ru/
+[7]: http://maps.me/en/home
 [8]: https://www.honeypot.io/invite_requests/new?source=blog "Sign-up"
