@@ -45,6 +45,7 @@ It is faster than most other in-memory databases. Tarantool is a real database w
 **Tarantool was built by just 10 engineers. How is it faster than MySQL, when so many more engineers were involved?**
 
 Many other database vendors are focused on features, but we are focused on performance. We are very passionate about optimization and we try to get every last drop of performance out of servers.
+
 **Aside from Tarantool, do you have any other open source projects?**
 
 We have some open source projects listed on the open source section of our [wesbite][6]{:target="_blank"}. The most important one is [maps.me][7]{:target="_blank"}. It’s one of the biggest mobile map applications in the world. In coordination with OSM, a project dedicated to providing crowdsourced mapped data of the world, opening maps.me’s source code became an important step in changing the ecosystem of the development of mapping apps.
