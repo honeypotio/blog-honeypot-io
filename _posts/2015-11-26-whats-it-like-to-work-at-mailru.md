@@ -40,7 +40,7 @@ Tarantool is an in-memory database. The project started as a graph database for 
  
 **What are the advantages of Tarantool?**
 
-It is faster than most other in-memory databases, including SQL. We’ve also run tests to compare it with Couchbase and Redis – the results are available [online][5]{:target="_blank"}.  Today there are many companies using Tarantool, but it's still not too well-known since we have not advertised it yet.
+It is faster than most other in-memory databases. Tarantool is a real database with transactions, replication and stored procedures. We’ve also run tests to compare it with Couchbase and Redis – the results are available [online][5]{:target="_blank"}.  Today there are many companies using Tarantool, but it's still not too well-known since we have not advertised it yet.
 
 **Tarantool was built by just 10 engineers. How is it faster than MySQL, when so many more engineers were involved?**
 
