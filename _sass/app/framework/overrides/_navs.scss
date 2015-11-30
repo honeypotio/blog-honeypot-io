@@ -1,7 +1,7 @@
-.nav-pills {
+.nav {
   .page-link {
-    font-size: $fs-1;
-    font-weight: $fw-semibold;
-    color: $black-color;
+    &:hover {
+      background-color: $light-gray-color;
+    }
   }
 }
