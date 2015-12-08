@@ -4,11 +4,11 @@
 }
 
 .site-logo {
-  @include sizing(131px 33px);
+  @include sizing(131px 45px);
 }
 
 .page-logo {
-  padding: 9px 15px;
+  padding: 0;
 }
 
 .site-nav {

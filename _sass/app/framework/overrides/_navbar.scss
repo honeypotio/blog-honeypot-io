@@ -1,6 +1,10 @@
 .navbar {
   margin-bottom: 0;
 
+  &-brand {
+    padding: 0;    
+  }
+
   &-nav {
     font-family: $ff-sans-serif;
     font-size: $fs-3;
