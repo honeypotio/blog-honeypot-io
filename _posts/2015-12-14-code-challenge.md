@@ -11,16 +11,16 @@ importance: 2
 ---
 
 
-Every developer on Honeypot is prescreened before they are accepted onto a batch.
+Every developer on Honeypot is prescreened before he is accepted onto a batch.
 This is beneficial for both sides: for devs, passing the challenge
 grants access to a platform with high quality companies and job offers, and for companies,
 pre-screening simplifies their work.
 
 
-Our first stop for evaluation is activity on relevant public profiles. In cases where talent doesn’t
-have any opensource code on github or contributions on other platforms we offer a challenge.
-The challenges are delivered through a git repositories hosted on GitHub that contain a simple description of the task.
-After results are submitted and the talent is accepted onto a batch this repository gets
+Our first step for evaluation is activity on relevant public profiles. In cases where the developer doesn’t
+have any opensource code on GitHub or contributions on other platforms we offer a challenge.
+The challenges are delivered through git repositories hosted on GitHub that contain a simple description of the task.
+After results are submitted and the developer is accepted onto a batch this repository gets
 shared with companies. We are currently beta-testing our initial set of challenges and using the
 learnings to improve and further expand the variety of our challenges.
 
@@ -35,8 +35,8 @@ So what do we value? We have divided it in two categories, workflow best practic
 The following is an overview of what we are up to at Honeypot:
 
 
-*Workflow best practices*: these general characteristics show a developer’s
-ability to constructive communication, work in teams and think organizationally.
+*Workflow best practices*: these general characteristics show a developer's ability
+to communicate constructively, work in teams and think organizationally.
 
 
  1. Usage of Source Control System such as Mercurial, CVS, GIT, SVN
@@ -69,15 +69,15 @@ expands the scope of possible solutions when a problem is faced. And shows gener
 abilities.
 
 
- *Code quelity*
+ *Code quality*
 
  1. Does it work? (is executable and behaves as specified)
 Does the solution solve the problem at hand.
 
  2. Testing (unit, integration and/or acceptance tests, they pass and cover public interface)
-It is always good tho have someone else to verify that your changes and are delivering the expected
+It is always good to have someone else to verify that your changes are delivering the expected
 results. This gets even more important while work in teams and on larger code bases.
-It makes it easier for others to understand and change.
+It makes it easier for others to understand and change the code.
 
  3. Size of files, classes, modules, functions and methods
 Structuring code in smaller chunks, grouping and assigning meaningful names makes the code
