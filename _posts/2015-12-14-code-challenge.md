@@ -35,7 +35,7 @@ So what do we value? We have divided it in two categories, workflow best practic
 The following is an overview of what we are up to at Honeypot:
 
 
-*Workflow best practices*: these general characteristics show a developer's ability
+**Workflow best practices**: these general characteristics show a developer's ability
 to communicate constructively, work in teams and think organizationally.
 
 
@@ -69,7 +69,7 @@ expands the scope of possible solutions when a problem is faced. And shows gener
 abilities.
 
 
- *Code quality*
+ **Code quality**
 
  1. Does it work? (is executable and behaves as specified)
 Does the solution solve the problem at hand.
