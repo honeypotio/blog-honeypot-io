@@ -54,7 +54,7 @@ Documentation, such as a basic README, describes what the code does,
 how it is set up, why one framework instead of another was chosen. This allows newcomers
 to the project get easier up to speed.
 
- 4. Usage of automated server setup, tools such as Chef, Ansible, Saltstack, Docker, Vagrant
+ 4. Usage of automated server setup tools such as Chef, Ansible, Saltstack, Docker, Vagrant
 Manual server setup, as opposed to automated server setup, wastes time and
 are generally more prone to error than automated setups.
 
