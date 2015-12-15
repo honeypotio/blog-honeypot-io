@@ -5,7 +5,7 @@ date:    2015-12-14 16:30:05
 layout:  post
 author:  hugo_duksis
 categories: Developer
-cover_image: honey01.jpg
+cover_image: code-challenge.png
 permalink:  code-challenge
 importance: 2
 ---
