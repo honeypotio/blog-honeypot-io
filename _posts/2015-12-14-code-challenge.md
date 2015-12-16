@@ -1,6 +1,6 @@
 ---
 title:   Code Challenge
-subtitle:
+subtitle: How honeypot does code challenges
 date:    2015-12-14 16:30:05
 layout:  post
 author:  hugo_duksis
