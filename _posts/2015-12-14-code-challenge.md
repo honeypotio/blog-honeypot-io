@@ -1,6 +1,6 @@
 ---
-title:   Code Challenge
-subtitle: How honeypot does code challenges
+title:   Coding challenges on Honeypot
+subtitle: How we screen developers on our platform
 date:    2015-12-14 16:30:05
 layout:  post
 author:  hugo_duksis
