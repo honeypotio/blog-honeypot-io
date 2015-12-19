@@ -1,6 +1,6 @@
 ---
 title:   Berlin life for Russian developers 
-subtitle: And that includes where to get the best pelmeni and borsch! 
+subtitle: 9 tips including where to get the best pelmeni and borsch! 
 date:    2015-12-03 10:45:06
 layout:  post
 author:  sasha_pliusnina
