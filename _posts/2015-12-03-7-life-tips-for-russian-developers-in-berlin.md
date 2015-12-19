@@ -1,5 +1,5 @@
 ---
-title:   9 things all Russian developers should know about life in Berlin 
+title:   Berlin life for Russian developers 
 subtitle: And that includes where to get the best pelmeni and borsch! 
 date:    2015-12-03 10:45:06
 layout:  post
