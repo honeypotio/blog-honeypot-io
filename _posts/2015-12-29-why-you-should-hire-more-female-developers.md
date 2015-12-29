@@ -60,7 +60,7 @@ Understanding some of the **obstacles facing women looking at careers in tech** 
 * Lack of childcare assistance
 
 
-While individual and structural obstacles can be difficult to overcome and certainly take a more concerted long term effort, changes in workplace and cultural contexts are easier to implement. Over the next month, [Honeypot][6]{:target="_blank"} will exploring issues facing women in tech. We will also be offering advice and tips for female developers working in Berlin and for companies looking to hire female developers in Berlin. We are [actively encouraging more women to join Honeypot][8] in order to take advantage of the opportunities for developers in the city. 
+While individual and structural obstacles can be difficult to overcome and certainly take a more concerted long term effort, changes in workplace and cultural contexts are easier to implement. Over the next month, [Honeypot][6]{:target="_blank"} will be exploring issues facing women in tech. We will also be offering advice and tips for female developers working in Berlin and for companies looking to hire female developers in Berlin. We are [actively encouraging more women to join Honeypot][8] in order to take advantage of the opportunities for developers in the city. 
 
 
 *** 
