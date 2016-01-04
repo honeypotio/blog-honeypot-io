@@ -1,5 +1,5 @@
 ---
-title:   Have you ever seen a computer programmer dressed as a bear? 
+title:   Have you ever seen a bear dressed as a computer programmer? 
 subtitle: Honeypot's mascot dresses up as 12 computer scientists!
 date:    2016-01-04 16:00:26
 layout:  post
