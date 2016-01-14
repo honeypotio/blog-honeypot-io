@@ -14,7 +14,7 @@ importance: 2
 
 ##Geek Girls Carrots##
 
-**[Geek Girls Carrots][1]{:target="_blank"}** is a community focused on bringing women in tech together for educational and motivational purposes. Geek Girls Carrots organizes meetups, workshops and [other events][2]{:target="_blank"}  in Poland, Germany, USA, Luxembourg, France, Ireland, UK, Japan, Portugal, Gibraltar and Israel. The Berlin group has more than 1000 members and organizes meetups with talks, dedicated to various IT-related subjects, like big data and product management. 
+**[Geek Girls Carrots][1]{:target="_blank"}** is a community focused on bringing women in tech together for educational and motivational purposes. Geek Girls Carrots organizes meetups, workshops and other events in Poland, Germany, USA, Luxembourg, France, Ireland, UK, Japan, Portugal, Gibraltar and Israel. The Berlin group has more than 1000 members and organizes meetups with talks, dedicated to various IT-related subjects, like big data and product management. 
 
 ##Women who Code##
 
@@ -22,11 +22,11 @@ importance: 2
 
 ##Women Techmakers##
 
-**[Women Techmakers][4]{:target="_blank"}**  belongs to Google developers community and was started in 2012 by the VP of Google Megan Smith. For the past two years the Women Techmakers community has organized over 200 global events across 52 countries in order to provide visibility, resources and networking opportunities for women in technology. In Berlin, Women Techmakers organizes [workshops][Berlin Meetup group][5]{:target="_blank"} ] and lectures on a regular basis.
+**[Women Techmakers][4]{:target="_blank"}**  belongs to Google developers community and was started in 2012 by the VP of Google Megan Smith. For the past two years the Women Techmakers community has organized over 200 global events across 52 countries in order to provide visibility, resources and networking opportunities for women in technology. In Berlin, Women Techmakers organizes workshops and lectures on a regular basis.
 
 ##Geekettes##
 
-**[Geekettes][6]{:target="_blank"}**  is a community focused on helping aspiring and established female tech innovators through organizing of [meetups][7]{:target="_blank", hackathons and providing a mentorship program. The organization currently has chapters in Berlin, Hamburg, London, Maastricht, Portugal, NYC, and Minneapolis. Berlin Meetup group has 600+ members and they meet regularly. 
+**[Geekettes][6]{:target="_blank"}**  is a community focused on helping aspiring and established female tech innovators through organizing of meetups, hackathons and providing a mentorship program. The organization currently has chapters in Berlin, Hamburg, London, Maastricht, Portugal, NYC, and Minneapolis. Berlin Meetup group has 600+ members and they meet regularly. 
 
 ##Rails Girls##
 
@@ -34,9 +34,7 @@ importance: 2
 
 ##PyLadies##
 
-[PyLadies][9]{:target="_blank"}  is global mentorship group dedicated to help more women to become a part of a Python open-source community. The group’s mission is to promote, educate and advance a diverse Python community through organizing open-source conferences, events and meetups.  The organization was created in Los Angeles in April 2011 and is currently represented in around 40 cities.
-Monthly meetups usually have a short talk and workshop.  
-[Berlin Meetup group]  
+[PyLadies][9]{:target="_blank"}  is global mentorship group dedicated to help more women to become a part of a Python open-source community. The group’s mission is to promote, educate and advance a diverse Python community through organizing open-source conferences, events and meetups.  The organization was created in Los Angeles in April 2011 and is currently represented in around 40 cities. Monthly meetups usually have a short talk and workshop.  
 
 ##Django Girls##
 
