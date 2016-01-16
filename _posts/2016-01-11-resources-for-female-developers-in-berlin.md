@@ -14,7 +14,7 @@ importance: 2
 
 ##Geek Girls Carrots##
 
-**[Geek Girls Carrots][1]{:target="_blank"}** is a community focused on bringing women in tech together for educational and motivational purposes. Geek Girls Carrots organizes meetups, workshops and other events in Poland, Germany, USA, Luxembourg, France, Ireland, UK, Japan, Portugal, Gibraltar and Israel. The Berlin group has more than 1000 members and organizes meetups with talks, dedicated to various IT-related subjects, like big data and product management. 
+**[Geek Girls Carrots][1]{:target="_blank"}** is a community focused on bringing women in tech together for educational and motivational purposes. Geek Girls Carrots organizes meetups, workshops and other events in Poland, Germany, USA, Luxembourg, France, Ireland, UK, Japan, Portugal, Gibraltar and Israel. The Berlin group has more than 1000 members and organizes meetups with talks, dedicated to various IT-related subjects, like big data and product management.
 
 ##Women who Code##
 
@@ -26,7 +26,7 @@ importance: 2
 
 ##Geekettes##
 
-**[Geekettes][6]{:target="_blank"}**  is a community focused on helping aspiring and established female tech innovators through organizing of meetups, hackathons and providing a mentorship program. The organization currently has chapters in Berlin, Hamburg, London, Maastricht, Portugal, NYC, and Minneapolis. Berlin Meetup group has 600+ members and they meet regularly. 
+**[Geekettes][6]{:target="_blank"}**  is a community focused on helping aspiring and established female tech innovators through organizing of meetups, hackathons and providing a mentorship program. The organization currently has chapters in Berlin, Hamburg, London, Maastricht, Portugal, NYC, and Minneapolis. Berlin Meetup group has 600+ members and they meet regularly.
 
 ##Rails Girls##
 
@@ -34,11 +34,11 @@ importance: 2
 
 ##PyLadies##
 
-[PyLadies][9]{:target="_blank"}  is global mentorship group dedicated to help more women to become a part of a Python open-source community. The group’s mission is to promote, educate and advance a diverse Python community through organizing open-source conferences, events and meetups.  The organization was created in Los Angeles in April 2011 and is currently represented in around 40 cities. Monthly meetups usually have a short talk and workshop.  
+[PyLadies][9]{:target="_blank"}  is global mentorship group dedicated to help more women to become a part of a Python open-source community. The group’s mission is to promote, educate and advance a diverse Python community through organizing open-source conferences, events and meetups.  The organization was created in Los Angeles in April 2011 and is currently represented in around 40 cities. Monthly meetups usually have a short talk and workshop.
 
 ##Django Girls##
 
-[DjangoGirls][10]{:target="_blank"} provide free programming workshops for women interested in learning how to create a website using Python and Django. You don’t need to have any previous experience in programming to attend the workshops, which are in English. Django girls was founded in Berlin in 2014. In 2016 they have events planned across the world, in cities such as  Oslo, Oxford, Lagos, Portland and Mexico City. 
+[DjangoGirls][10]{:target="_blank"} provide free programming workshops for women interested in learning how to create a website using Python and Django. You don’t need to have any previous experience in programming to attend the workshops, which are in English. Django girls was founded in Berlin in 2014. In 2016 they have events planned across the world, in cities such as  Oslo, Oxford, Lagos, Portland and Mexico City.
 
 
 ***
@@ -57,4 +57,4 @@ importance: 2
 [8]: https://www.facebook.com/RailsGirlsBerlin/
 [9]: http://www.meetup.com/PyLadies-Berlin/
 [10]: https://djangogirls.org/berlin/
-[11]: https://www.honeypot.io/invite_requests/new?source=blogresources
+[11]: https://www.honeypot.io/users/sign_up?utm_source=blogresources

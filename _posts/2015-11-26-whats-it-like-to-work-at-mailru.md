@@ -80,4 +80,4 @@ If you are a developer who likes working with cool open-source projects on par w
 [5]: http://articles.rvncerr.org/how-to-chose-an-in-memory-nosql-solution-performance-measuring/ "Tarantool Comparison"
 [6]: http://opensource.mail.ru/
 [7]: http://maps.me/en/home
-[8]: https://www.honeypot.io/invite_requests/new?source=blog "Sign-up"
+[8]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"

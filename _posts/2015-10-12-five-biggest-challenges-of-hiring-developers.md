@@ -55,7 +55,7 @@ Bye for now!
 
 *photo credit: [Happy crowd][3] via [photopin][4] [(license)][5]*
 
-[1]: https://www.honeypot.io/invite_requests/new?invitation_type=company?source=blog 
+[1]: https://www.honeypot.io/invite_requests/new?utm_source=blog
 [2]: https://twitter.com/honeypotio
 [3]: http://www.flickr.com/photos/95361738@N00/356136498
 [4]: http://photopin.com
