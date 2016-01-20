@@ -56,7 +56,7 @@ Dubbed Europe’s coolest tech conference by The Next Web, Tech Open Air is one 
 JSConf is a federated group of developers who support locally-run javascript conferences across the world. Berlin hosts the European edition and it is one of the most anticipated frontend conferences of the year. Their stated aim is to focus on “pushing the boundaries of what is thought to be conceivable with JS and providing exceptional human social activities that encourage community and friendship building.” Judging by its popularity, they seem to be succeeding in doing just that. 
 
 
-##[Reject.JS 2015][6]{:target=_"blank"}##  
+##[Reject.JS][6]{:target=_"blank"}##  
 
 **Date:** September (TBC)
 
