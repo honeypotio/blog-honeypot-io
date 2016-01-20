@@ -14,7 +14,7 @@ importance: 2
 
 * * *
 
-##Join [Honeypot][9] and work for companies which give you the time to go these conferences!##
+##Join [Honeypot][9] and work for companies which give you the time to go to these conferences!##
 
 * * *
 
