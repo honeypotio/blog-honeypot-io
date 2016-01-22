@@ -14,7 +14,7 @@ importance: 2
 
 ##Honeypot helps developers find the best jobs in Berlin. [Sign-up][1] now and have companies apply directly to you.## 
 
-##For a personalized salary breakdown, try this [salary estimator tool][2].##
+If you need a personalized salary estimate for Berlin, try this handy [salary estimator tool][2].
 
 * * *
 
