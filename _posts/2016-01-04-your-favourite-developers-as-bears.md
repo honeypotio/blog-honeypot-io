@@ -12,7 +12,7 @@ importance: 2
 
 *We had a little fun over the new year, by dressing our little Honeypot mascot up as some famous computer programmers, developers and scientists from history.  Check out the full results of #12devs below!*
 
-##Day 1: Yukihiro Matsumoto##
+## Day 1: Yukihiro Matsumoto
 
 Matsumoto (a.k.a Matz) is the chief designer of the Ruby programming language.
 
@@ -23,7 +23,7 @@ Matsumoto (a.k.a Matz) is the chief designer of the Ruby programming language.
 ---Matz in [interview][1]{:target="_blank"}, 2014
 
 
-##Day 2: Richard Stallman##
+## Day 2: Richard Stallman
 
 Richard Matthew Stallman (a.k.a RMS) is a software freedom activist and computer programmer, famed for the GNU Project and his Free Software Foundation.
 
@@ -34,7 +34,7 @@ Richard Matthew Stallman (a.k.a RMS) is a software freedom activist and computer
 ---RMS [interview][2]{:target="_blank"}, 2014
 
 
-##Day 3: Tim Berners-Lee##
+## Day 3: Tim Berners-Lee
 
 Tim Berners-Lee is an English computer scientist, best known as the inventor of the World Wide Web.
 
@@ -44,7 +44,7 @@ Tim Berners-Lee is an English computer scientist, best known as the inventor of 
 
 ---Tim Berners-Lee [interview][3]{:target="_blank"} with CNet, 2014
 
-##Day 4: Ada Lovelace##
+## Day 4: Ada Lovelace
 
 Ada Lovelace was a British mathematician and writer, credited with writing the first algorithm.
 
@@ -54,7 +54,7 @@ Ada Lovelace was a British mathematician and writer, credited with writing the f
 
 ---Ada Lovelace [quote][4]{:target="_blank"}, undated
 
-##Day 5: Linus Torvalds##
+## Day 5: Linus Torvalds
 
 Linus Torvalds is a Finnish-American programmer best known as the creator of Linux and Git.
 
@@ -64,7 +64,7 @@ Linus Torvalds is a Finnish-American programmer best known as the creator of Lin
 
 ---Linus Torvalds in [interview][5]{:target="_blank"} with Bloomberg, 2015
 
-##Day 6: James Gosling##
+## Day 6: James Gosling
 
 James Gosling, is a Canadian computer scientist, best known as the father of the Java programming language.
 
@@ -74,7 +74,7 @@ James Gosling, is a Canadian computer scientist, best known as the father of the
 
 ---James Gosling in [interview][6]{:target="_blank"} with SD Times, 2015:
 
-##Day 7: Dennis Ritchie##
+## Day 7: Dennis Ritchie
 
 Dennis MacAlistair Ritchie was an American computer scientist, who created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system.
 
@@ -84,7 +84,7 @@ Dennis MacAlistair Ritchie was an American computer scientist, who created the C
 
 ---Dennis Ritchie, Reflections on Software Research, [Turing Award Lecture][8]{:target="_blank"}, 1983
 
-##Day 8: Margaret Hamilton##
+## Day 8: Margaret Hamilton
 
 Margaret Hamilton was Director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for the Apollo space program.
 
@@ -94,7 +94,7 @@ Margaret Hamilton was Director of the Software Engineering Division of the MIT I
 
 ---Margaret Hamitlon in [interview][9]{:target="_blank"}, 2014
 
-##Day 9: Bjarne Stroustrup##
+## Day 9: Bjarne Stroustrup
 
 Bjarne Stroustrup is a Danish computer scientist, most notable for the creation and development of the widely used C++ programming language.
 
@@ -105,7 +105,7 @@ Bjarne Stroustrup is a Danish computer scientist, most notable for the creation 
 ---Bjarne Stroustrup in [interview][10]{:target="_blank"} with Dennis Ritchie and James Gosling, 2000
 
 
-##Day 10: Guido von Rossum##
+## Day 10: Guido von Rossum
 
 Guido van Rossum is the creator and benevolent dictator for life (a.k.a. BDFL) of the Python programming language
 
@@ -116,7 +116,7 @@ Guido van Rossum is the creator and benevolent dictator for life (a.k.a. BDFL) o
 ---Guido von Rossum [interview][11]{:target="_blank"} in Medium, 2014
 
 
-##Day 11: Eric Raymond##
+## Day 11: Eric Raymond
 
 Eric S. Raymond is a computer programmer, advocate of open source software, and author or editor of several written works, including The Cathedral and the Bazaar and the Jargon File.
 
@@ -127,7 +127,7 @@ Eric S. Raymond is a computer programmer, advocate of open source software, and 
 ---Eric S. Raymond, The Cathedral and the Bazaar, 1999.
 
 
-##Day 12: Ken Thompson##
+## Day 12: Ken Thompson
 
 Ken Thompson designed and implemented the Unix operating system with Dennis Ritchie and since 2006 has worked at Google, where he co-invented the Go programming language.
 
@@ -139,7 +139,7 @@ Ken Thompson designed and implemented the Unix operating system with Dennis Ritc
 
 ***
 
-###Startups hire the best Java, Python, C++, C, and Ruby programmers (and most other languages too!) through Honeypot. If you are interested in working in Europe [sign-up][12] to Honeypot and have companies apply directly to you.###
+### Startups hire the best Java, Python, C++, C, and Ruby programmers (and most other languages too!) through Honeypot. If you are interested in working in Europe [sign-up][12] to Honeypot and have companies apply directly to you.
 
 
 [1]: https://blog.engineyard.com/2014/software-is-not-soft

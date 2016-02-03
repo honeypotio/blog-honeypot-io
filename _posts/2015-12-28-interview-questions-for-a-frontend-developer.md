@@ -45,7 +45,7 @@ Another [GitHub repository][2]{:target="_blank"} of interview questions for fron
 
 ***
 
-###Honeypot connects innovative startups with skilled developers. Signup as a [company][3] or a [developer][4] to make your life a little bit easier!###
+### Honeypot connects innovative startups with skilled developers. Signup as a [company][3] or a [developer][4] to make your life a little bit easier!
 
 [1]: https://github.com/h5bp/Front-end-Developer-Interview-Questions
 [2]: https://github.com/khan4019/front-end-Interview-Questions

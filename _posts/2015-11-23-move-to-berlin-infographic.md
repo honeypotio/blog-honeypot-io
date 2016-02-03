@@ -10,7 +10,7 @@ permalink:  moving-to-berlin-infographic/
 importance: 2
 ---
 
-##Honeypot places developers from all over the world with Berlin's most exciting startups. [Signup][1] to get offers with tech stack and salary upfront##
+## Honeypot places developers from all over the world with Berlin's most exciting startups. [Signup][1] to get offers with tech stack and salary upfront
 
 * * *
 

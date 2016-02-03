@@ -57,7 +57,7 @@ We launch the overdraft feature on December 1st. The next thing is Maestro card.
 
 * * *
 
-##Number 26 is one of Berlin's many innovative startups. To get job offers from startups like them [signup][7] to Honeypot today!##
+## Number 26 is one of Berlin's many innovative startups. To get job offers from startups like them [signup][7] to Honeypot today!
 
 [1]: https://www.linkedin.com/in/crebernik
 [2]: http://datanatives.io "Data Natives Conference"

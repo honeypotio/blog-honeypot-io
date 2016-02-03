@@ -27,7 +27,7 @@ They would likely join a squad. A squad is an autonomous, full-stack team compos
 
 
 
-###*“Squads are essentially Spotify’s mini-start-ups with full responsibility for a single feature or component.”*
+### *“Squads are essentially Spotify’s mini-start-ups with full responsibility for a single feature or component.”*
 
 
 
@@ -52,7 +52,7 @@ The squad is collectively responsible. Larger organizations who are attempting t
 
 
 
-###*“Spotify does have managers, its just a different perspective.”*
+### *“Spotify does have managers, its just a different perspective.”*
 
 
 
@@ -71,7 +71,7 @@ Your boss is doing the same job as you, that’s a huge benefit. They can unders
 
 
 
-###*“Your boss is doing the same job as you. This means they can understand what you are doing day to day.”*
+### *“Your boss is doing the same job as you. This means they can understand what you are doing day to day.”*
 
 
 
@@ -103,7 +103,7 @@ The funny thing was the senior leaders at Spotify approached me because they wan
 
 
 
-###*"I like Spotify for everything that sets it apart from big-company culture."*
+### *"I like Spotify for everything that sets it apart from big-company culture."*
 
 
 
@@ -122,7 +122,7 @@ I joined Adobe in 2004 and stayed for 9 years. Adobe had a different feeling for
 
 
 
-###*“Microsoft were famous for their competitive culture. In fact, they were quite proud of it.”*
+### *“Microsoft were famous for their competitive culture. In fact, they were quite proud of it.”*
 
 
 
@@ -147,7 +147,7 @@ Failure is part of the life of a continuous improvement organization. Failure is
 
 
 
-###*"Failure is part of the life of a continuous improvement organization."*
+### *"Failure is part of the life of a continuous improvement organization."*
 
 
 
@@ -166,7 +166,7 @@ We want people to be happy, to build careers at Spotify, to have a sense of owne
 
 
 
-###*"We want people to be happy, to build careers at Spotify, to have a sense of ownership."*
+### *"We want people to be happy, to build careers at Spotify, to have a sense of ownership."*
 
 
 
