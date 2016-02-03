@@ -6,7 +6,7 @@ layout:  post
 author:  sasha_pliusnina
 categories: Developer
 cover_image: female.png
-permalink:  resources-for-female-developers-in-berlin
+permalink:  resources-for-female-developers-in-berlin/
 importance: 2
 ---
 

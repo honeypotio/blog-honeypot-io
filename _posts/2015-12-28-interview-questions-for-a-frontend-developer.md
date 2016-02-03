@@ -6,7 +6,7 @@ layout:  post
 author:  janet_todorova
 categories: HRinTech
 cover_image: frontend.png
-permalink:  interview-questions-for-a-frontend-developer
+permalink:  interview-questions-for-a-frontend-developer/
 importance: 2
 ---
 

@@ -6,7 +6,7 @@ layout: post
 author: johanna_dahlroos
 categories: Developer
 cover_image: Move-to-Berlin.png
-permalink:  moving-to-berlin-infographic
+permalink:  moving-to-berlin-infographic/
 importance: 2
 ---
 

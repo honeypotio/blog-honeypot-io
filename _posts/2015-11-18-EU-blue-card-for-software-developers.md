@@ -6,7 +6,7 @@ layout: post
 author: johanna_dahlroos
 categories: Developer
 cover_image: bluecard.png
-permalink:  EU-Bluecard-for-software-developers
+permalink:  EU-Bluecard-for-software-developers/
 importance: 2
 ---
 

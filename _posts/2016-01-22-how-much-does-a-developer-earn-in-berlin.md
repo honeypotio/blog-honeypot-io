@@ -6,13 +6,13 @@ layout:  post
 author:  johanna_dahlroos
 categories: Developers
 cover_image: matrix.png
-permalink:  how-much-does-a-developer-earn-in-berlin
+permalink:  how-much-does-a-developer-earn-in-berlin/
 importance: 2
 ---
 
 * * *
 
-##Honeypot helps developers find the best jobs in Berlin. [Sign-up][1] now and have companies apply directly to you.## 
+##Honeypot helps developers find the best jobs in Berlin. [Sign-up][1] now and have companies apply directly to you.##
 
 If you need a personalized salary estimate for Berlin, try this handy [salary estimator tool][2].
 

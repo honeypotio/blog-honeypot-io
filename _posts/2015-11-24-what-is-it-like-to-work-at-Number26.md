@@ -6,7 +6,7 @@ layout: post
 author: emma_tracey
 categories: Developer
 cover_image: christian.jpg
-permalink: what-is-it-like-to-work-at-Number26
+permalink: what-is-it-like-to-work-at-Number26/
 importance: 2
 ---
 

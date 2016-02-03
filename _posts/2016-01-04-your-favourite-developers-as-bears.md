@@ -6,7 +6,7 @@ layout:  post
 author:  emma_tracey
 categories: Developer
 cover_image: famous-devs.png
-permalink:  12-famous-computer-programmers-as-bears
+permalink:  12-famous-computer-programmers-as-bears/
 importance: 2
 ---
 

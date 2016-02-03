@@ -6,7 +6,7 @@ layout:  post
 author:  sasha_pliusnina
 categories: Developer
 cover_image: russia.png
-permalink:  9-things-all-Russian-developers-should-know-about-life-in-berlin
+permalink:  9-things-all-Russian-developers-should-know-about-life-in-berlin/
 importance: 2
 ---
 

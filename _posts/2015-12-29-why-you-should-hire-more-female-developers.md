@@ -6,7 +6,7 @@ layout:  post
 author:  emma_tracey
 categories: Developer
 cover_image: women.png
-permalink:  why-you-should-hire-more-female-developers
+permalink:  why-you-should-hire-more-female-developers/
 importance: 2
 ---
 

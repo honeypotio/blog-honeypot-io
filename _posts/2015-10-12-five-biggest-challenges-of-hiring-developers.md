@@ -6,7 +6,7 @@ layout:  post
 author:  joana_monteiro
 categories: Company
 cover_image: challenge.png
-permalink:  2015-10-12-five-biggest-challenges-of-hiring-developers
+permalink:  2015-10-12-five-biggest-challenges-of-hiring-developers/
 importance: 2
 ---
 

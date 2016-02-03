@@ -8,7 +8,7 @@ task :new, [:title] do |t, args|
   title_normalized = title.downcase.split.join('-')
   time             = Time.now
   user_name        = `git config user.name`.chop.split.join('_').downcase
-  permalink        = title_normalized
+  permalink        = title_normalized + '/'
   file_name        = "#{time.strftime('%Y-%m-%d')}-#{title_normalized}.md"
   file_path        = File.join('_posts', file_name)
 

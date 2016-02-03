@@ -6,7 +6,7 @@ layout:  post
 author:  hugo_duksis
 categories: Developer
 cover_image: code-challenge.png
-permalink:  code-challenge
+permalink:  code-challenge/
 importance: 2
 ---
 

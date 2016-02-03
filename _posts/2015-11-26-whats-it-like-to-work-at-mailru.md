@@ -6,7 +6,7 @@ layout: post
 author: emma_tracey
 categories: Developer
 cover_image: anikin.jpg
-permalink:  what's-it-like-to-work-at-mailru
+permalink:  what's-it-like-to-work-at-mailru/
 importance: 2
 ---
 

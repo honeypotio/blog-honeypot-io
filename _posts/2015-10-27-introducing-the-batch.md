@@ -6,7 +6,7 @@ layout:  post
 author:  fabio_migliorini
 categories: Developer
 cover_image: batch.png
-permalink:  2015-10-27-introducing-the-batch
+permalink:  2015-10-27-introducing-the-batch/
 importance: 2
 ---
 
