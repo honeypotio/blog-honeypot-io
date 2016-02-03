@@ -12,7 +12,7 @@ importance: 2
 
 *We researched 58 CTOs from Berlin’s biggest startups to reveal what it takes to be a CTO in this city. Combined our sample companies have raised more than  $3.06 billion in funding and span 26 industries. The research reveals the nationalities, educational and work background, years of experience and skills of Berlin's CTOs.*
 
-##Nationalities##
+## Nationalities
 
 Berlin’s CTOs are fairly homogenous in terms of nationality, with close to ​ 60% hailing from Germany​ . French and American are the second most common nationalities and following this there is a diverse spread covering 13 nationalities in total.
 
@@ -22,13 +22,13 @@ Berlin’s CTOs are fairly homogenous in terms of nationality, with close to ​
 ![Berlin CTOs](/assets/images/nationalities.png)
 
 
-##Job Titles##
+## Job Titles
 
 Not every startup has a CTO. This can be due to the size of the company or the unique needs of the product.  80% of the companies we surveyed had a CTO. When a CTO was not present in the company, the most senior technical leaders were either SVP of Technology, VP of Engineering,  Head of IT or Chief Architect.
 
 ![CTOs job titles](/assets/images/title.png)
 
-##Educational Background##
+## Educational Background
 
 Despite the precedent set by the role’s name, there is some debate in tech circles about the necessity of a technical background for CTOs. On the one hand, it can be hard to manage a development team when you have little technical knowledge. On the other hand, technical skill does not necessarily translate into leadership skill.
 
@@ -39,11 +39,11 @@ The **most common educational path for CTOs is a bachelor in Computer Science fo
 ![CTO education](/assets/images/education.png)
 
 
-##Skills##
+## Skills
 
 ![CTOs skills](/assets/images/skills.png)
 
-##Founder Experience##
+## Founder Experience
 
 Over 60% of Berlin’s CTOs were either (co-)founders of a previous venture or (co-)founders of their current venture.  More often than not, CTOs are co-founders of the companies with which they currently work, reflecting the core technical skills which are frequently required to build a successful startup.
 
@@ -52,7 +52,7 @@ Over 60% of Berlin’s CTOs were either (co-)founders of a previous venture or (
 ![CTOs as Founders](/assets/images/experience.png)
 
 
-##A note on the companies surveyed##
+## A note on the companies surveyed
 
 * All companies are HQ’d in Berlin
 * All companies are founded after 2006
@@ -64,7 +64,7 @@ Over 60% of Berlin’s CTOs were either (co-)founders of a previous venture or (
 
 * * *
 
-##Honeypot helps Berlin's most innovative startups find their CTOs. [Sign-up][2] find your next technical leader!##
+## Honeypot helps Berlin's most innovative startups find their CTOs. [Sign-up][2] find your next technical leader!
 
 [2]: https://www.honeypot.io/pages/for_employers?utm_source=google
 [1]: https://www.honeypot.io/invite_requests/new?utm_source=blogc

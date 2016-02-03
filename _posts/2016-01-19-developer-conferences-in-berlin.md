@@ -14,11 +14,11 @@ importance: 2
 
 * * *
 
-##Join [Honeypot][9] and work for companies which give you the time to go to these conferences!##
+## Join [Honeypot][9] and work for companies which give you the time to go to these conferences!
 
 * * *
 
-##[Berlin Web Week][1]{:target=_"blank"}##
+## [Berlin Web Week][1]{:target=_"blank"}
 
 **Date**: 7th - 17th June
 
@@ -26,7 +26,7 @@ importance: 2
 
 The Berlin Web Week is a one-week festival, with numerous events around the topics of internet, digital industries, technologies and digital media. 2015 saw 20,000 visitors participate in 20 events, ranging from mini-conferences and matchmaking dinners to hackathons.
 
-##[Droidcon][2]{:target=_"blank"}##
+## [Droidcon][2]{:target=_"blank"}
 
 **Date**: 15th - 17th June
 
@@ -37,7 +37,7 @@ The Berlin Web Week is a one-week festival, with numerous events around the topi
 
 Droidcon Berlin is part of a series of conferences under the same name which are hosted globally. The 2015 edition of the Berlin event hosted 800 android enthusiasts. Calls for papers for the 2016 version are open until February 28th.
 
-##[Tech Open Air][3]{:target=_"blank"}##
+## [Tech Open Air][3]{:target=_"blank"}
 
 **Date**: 13th - 15th July
 
@@ -47,7 +47,7 @@ Droidcon Berlin is part of a series of conferences under the same name which are
 
 Dubbed Europe’s coolest tech conference by The Next Web, Tech Open Air is one of the most anticipated events of the summer. TOA is built around a central conference with smaller satellite events. Presentations, panels, workshops and demos blend with live music, fireside chats and some infamous after parties.  For the 2016 edition, the organizers expect an attendance of 7,500 people, up from 5,000 in 2015.
 
-##[JSConfEu][5]{:target=_"blank"}##
+## [JSConfEu][5]{:target=_"blank"}
 
 **Date:** September (TBC)
 
@@ -56,7 +56,7 @@ Dubbed Europe’s coolest tech conference by The Next Web, Tech Open Air is one 
 JSConf is a federated group of developers who support locally-run javascript conferences across the world. Berlin hosts the European edition and it is one of the most anticipated frontend conferences of the year. Their stated aim is to focus on “pushing the boundaries of what is thought to be conceivable with JS and providing exceptional human social activities that encourage community and friendship building.” Judging by its popularity, they seem to be succeeding in doing just that.
 
 
-##[Reject.JS][6]{:target=_"blank"}##
+## [Reject.JS][6]{:target=_"blank"}
 
 **Date:** September (TBC)
 
@@ -65,7 +65,7 @@ JSConf is a federated group of developers who support locally-run javascript con
 If you don’t get tickets to JSConfEU, Reject.Js, is a great alternative.  Run wholly by volunteers, it is is one of Berlin’s coolest community conferences.  The event was born out of the monthly BerlinJS meetups and was inspired by the JSConfEU event. There were 11 talks at the 2015 edition and proposals will likely open soon for the 2016 version.
 
 
-##[CodeMotion][7]{:target=_"blank"}##
+## [CodeMotion][7]{:target=_"blank"}
 
 **Date:** October 24th & 25th, 2016
 
@@ -75,7 +75,7 @@ If you don’t get tickets to JSConfEU, Reject.Js, is a great alternative.  Run 
 
 Codemotion originated in Rome and has since spread to Milan, Berlin, Madrid and Tel Aviv. The conference covers a broad section of topics, including UI/UX, web, mobile, agile & lean, big data, builders, cloud, devops, games, SQL & NoSql, languages, Internet of Things, security and more. Speaking slots are 20 and 40 minute slots and the organizers are currently taking proposals.
 
-##[Beyond Tellerand][4]{:target=_"blank"}##
+## [Beyond Tellerand][4]{:target=_"blank"}
 
 **Date:** November 7th - 9th
 
@@ -86,7 +86,7 @@ Codemotion originated in Rome and has since spread to Milan, Berlin, Madrid and 
 The name of this conference comes from a mix of the English word “beyond” and the German phrase “Über den Tellerrand schauen,” which means “Think outside the box”. The conference prides itself on keeping things affordable, though the workshops around the event can be a little bit more pricey. The conference is generally known for good speakers and a fun atmosphere. Definitely worth checking out if you are a design fanatic!
 
 
-##[GOTO Berlin][8]{:target=_"blank"}##
+## [GOTO Berlin][8]{:target=_"blank"}
 
 **Date:** December (TBC)
 
