@@ -38,12 +38,6 @@
   }
 
   &__copyright {
-    display: block;
-    margin-bottom: 10px;
-
-    @media #{$md-up} {
-      margin-bottom: 0;
-      display: inline;
-    }
+    margin: 50px 0 10px;
   }
 }
