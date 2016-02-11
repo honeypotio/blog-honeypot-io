@@ -19,7 +19,7 @@ importance: 2
 ![women-in-computer-science](/assets/images/women-in-computer-science-infographic.png)
 
 
-#What happened to women in computer science?# 
+#What happened to women in computer science? 
 
 * In the mid-80s the number of women in computer science began to drop. 
 * Some argue this is because of the rise of the personal computer and its strong association with boys.
@@ -28,7 +28,7 @@ importance: 2
 * Less that 1/3 of software developers in the US are women.
 * Once women enter technology careers the quit rate (41%) is higher than for men (17%).
 
-#How can companies promote women in tech?#
+#How can companies promote women in tech?
 
 * Promote learning opportunities  for younger female developers
 * Encourage female developers to speak up and pursue "creator" roles
