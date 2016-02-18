@@ -19,7 +19,7 @@ More often than not it comes down to **workflow**. Workflow complications are th
 
 But, trust me, *they are solvable.*
 
-Honeypot users with streamlined workflows hire fast and hire better. And most importantly, candidates tend to be happier. Here’s how Berlin's biggest and best recruiting teams have **streamlined their workflow using Honeypot:**
+Honeypot users with streamlined workflows hire faster and hire better. And most importantly, candidates tend to be happier. Berlin's biggest and best recruiting teams have **streamlined their workflow using Honeypot.** Here's some tips on how to follow suit: 
 
 
 
@@ -29,7 +29,7 @@ Honeypot users with streamlined workflows hire fast and hire better. And most im
 
 
 
-### 2. Encourage your hiring manager saves their favourite developers
+### 2. Encourage your hiring manager to save their favourite developers
 
 >In our top performing companies, the hiring manager logs in once a week, on Mondays, copies the links of the profiles they like and sends them to the recruiter. 
 
