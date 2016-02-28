@@ -84,7 +84,7 @@ importance: 2
 
 ### 21: [Startup Berlin][21]{:target="_blank"} - we like these guys! :) 
 
-# # # 
+* * *
 
 ### [Signup][22] to Honeypot today and work for companies who love slack as much as you do! 
 
