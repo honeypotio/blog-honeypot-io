@@ -1,5 +1,5 @@
 ---
-title:   Berlin startups mapped by ubahn
+title:   Berlin's startups mapped by ubahn station
 subtitle: East side versus west side 
 date:    2016-03-09 16:01:14
 layout:  post
@@ -10,7 +10,7 @@ permalink:  berlin-startup-map
 importance: 2
 ---
 
-Insterested in [working in Berlin's startups][36]? Or just curious Europe's fastest growing tech hub? To discover what kind of startups are operating in the German capital and where in the city they are based, **we took a 10% sample, sorted them by industry and mapped them by ubahn station.**The following post details our findings.
+Interested in [working in Berlin's startups][36]? Or just curious Europe's fastest growing tech hub? To discover what kind of startups are operating in the German capital and where in the city they are based, **we took a 10% sample, sorted them by industry and mapped them by ubahn station.**The following post details our findings.
 
 
 [![berlin's startups](/assets/images/startupmap.png)](/assets/images/startup@2.png)
