@@ -1,5 +1,5 @@
 ---
-title:   Berlin's startups mapped by ubahn station
+title:   Berlin's startups mapped by U-bahn station
 subtitle: East side versus west side 
 date:    2016-03-09 16:01:14
 layout:  post
@@ -10,54 +10,54 @@ permalink:  berlin-startup-map
 importance: 2
 ---
 
-Interested in [working in Berlin's startups][36]? Or just curious Europe's fastest growing tech hub? To discover what kind of startups are operating in the German capital and where in the city they are based, **we took a 10% sample, sorted them by industry and mapped them by ubahn station.**The following post details our findings.
+Interested in [working in Berlin's startups][36]? Or just curious about Europe's fastest growing tech hub? To discover what kind of startups are operating in the German capital and where in the city they are based, **we took a 10% sample, sorted them by industry and mapped them by U-bahn station. **The following post details our findings.
 
 
 [![berlin's startups](/assets/images/startupmap.png)](/assets/images/startup@2.png)
 
-## East Side to the West Side
+## East Side verus West Side
 
 According to EY, **in 2015 [growth in Germany][9]{:target="_blank"}  outpaced other European tech regions such as the UK, Sweden or France.** With Berlin centered at the beating heart of this growth and home to roughly [1,800 active tech startups][1]{:target="_blank"}, analysts estimate that the city's startups could create between [40,000][1]{:target="_blank"} and [100,000][30]{:target="_blank"} new jobs by 2020.
 
 Our research reveals **56% of Berlin’s startups are in the former east of the city**, clustered around the famous Torstrasse, otherwise known as Silicon Allee. 
 
-Pockets of startups can also be found huddled in hubs around **Prenzlauer Berg (former East Berlin) and Kreuzberg** (former west Berlin). Both of these neighbourhoods once bordered the Berlin wall making loft space in desinstrualized buildings affordable and attractive. 
+Pockets of startups can also be found huddled in hubs around **Prenzlauer Berg (former East Berlin) and Kreuzberg (former west Berlin).** Both of these neighbourhoods once bordered the Berlin wall making loft space in desinstrualized buildings affordable and attractive. 
 
-**Berlin's startups are largely heterogeneous** and many escape easy classification. Our sample showed that ecommerce and adtech dominate, while fintech, retail technology and marketing solutions also have significant representation. 
+**Berlin's startups are largely heterogeneous** and many escape easy classification. Our sample showed that eCommerce and AdTech dominate, while FinTech, retail technology and marketing solutions also have significant representation. 
 
 ![berlin's industries](/assets/images/industries.png) 
 
-# Ecommerce
+# eCommerce
 
-17% of our sample are ecommerce companies. **Zalando, Berlin’s most famous ecommerce startup, was founded in 2008** by Robert Gentz and David Schneider under [Rocket Internet][7]. In Autumn 2014, Zalando IPO’d to the tune of €5.3 billion.
+17% of our sample are eCommerce companies. **Zalando, Berlin’s most famous eCommerce startup, was founded in 2008** by Robert Gentz and David Schneider under [Rocket Internet][7]. In Autumn 2014, Zalando IPO’d to the tune of €5.3 billion.
 
-Spurred by Zalando's success, **Berlin’s ecommerce landscape today is varied.** Its possible to find companies specialized in the [sale of classic car parts][10]{:target="_blank"} , [luxury watches][11]{:target="_blank"}, [perfume][12]{:target="_blank"}, [glasses][13]{:target="_blank"} and many other niche items. 
+Spurred by Zalando's success, **Berlin’s eCommerce landscape today is varied.** Its possible to find companies specialized in the [sale of classic car parts][10]{:target="_blank"} , [luxury watches][11]{:target="_blank"}, [perfume][12]{:target="_blank"}, [glasses][13]{:target="_blank"} and many other niche items. 
 
 **Companies are also playing with the business model, trying out new forms of ownership and service.** [ByeBuy][14]{:target="_blank"}, for example, are offering phones, gaming consoles and other products on a pay as you go basis, while [Outfittery][31]{:target="_blank"} and [Modomoto][32]{:target="_blank"} offer personal stylists to assist in sartorial decisions.   
 
-![ecommerce](/assets/images/ecommerce.png)
+![eCommerce](/assets/images/ecommerce.png)
 
 ## AdTech
 
-Following on from ecommerce, **adtech startups had the second biggest representation amongst our sample (11%).** 
+Following on from eCommerce, **AdTech startups had the second biggest representation amongst our sample (11%).** 
 
-**2014 was a breakthrough year for Berlin’s adtech firms**, with a number of players, such as [Adjust][15]{:target="_blank"}, [Remerge][16]{:target="_blank"}, [AdSquare][18]{:target="_blank"} and [Fyber][17]{:target="_blank"}, successfully exiting or securing funding. 
+**2014 was a breakthrough year for Berlin’s AdTech firms**, with a number of players, such as [Adjust][15]{:target="_blank"}, [Remerge][16]{:target="_blank"}, [AdSquare][18]{:target="_blank"} and [Fyber][17]{:target="_blank"}, successfully exiting or securing funding. 
 
-Many point to the **legacy of [HitFox Group][8]{:target="_blank"}, the company builder focused on adtech and big data**, which acquired or helped to launch companies like [AppLift][33]{:target="_blank"} and [ad2games][34]{:target="_blank"}, to explain the high concentration of adtech startups in the city. 
+Many point to the **legacy of [HitFox Group][8]{:target="_blank"}, the company builder focused on AdTech and big data**, which acquired or helped to launch companies like [AppLift][33]{:target="_blank"} and [ad2games][34]{:target="_blank"}, to explain the high concentration of AdTech startups in the city. 
 
-Berlin has consolidated its position as Europe’s [adtech hub][4]{:target="_blank"}. According to eMarketer, **mobile ad spend will [top $100 billion in 2016][20]{:target="_blank"}.** Despite this, competition in the city is fierce and Berlin’s adtech industry will likely see [consolidation in 2016][21]{:target="_blank"}, similar to what has been seen internationally.
+Berlin has consolidated its position as Europe’s [AdTech hub][4]{:target="_blank"}. According to eMarketer, **mobile ad spend will [top $100 billion in 2016][20]{:target="_blank"}.** Despite this, competition in the city is fierce and Berlin’s AdTech industry will likely see [consolidation in 2016][21]{:target="_blank"}, similar to what has been seen internationally.
 
-![adtech](/assets/images/adtech.png) 
+![AdTech](/assets/images/adtech.png) 
 
 ## FinTech
 
-The third most common industry in our sample is FinTech. **9% of our sample can be classified as FinTech companies**. In 2014, the DACH region (Germany, Austria, Switzerland) attracted [the second largest amount of fintech funding][22]{:target="_blank"} in Europe after the U.K.
+The third most common industry in our sample is FinTech. **9% of our sample can be classified as FinTech companies**. In 2014, the DACH region (Germany, Austria, Switzerland) attracted [the second largest amount of FinTech funding][22]{:target="_blank"} in Europe after the U.K.
 
 Germany’s bureaucratic and low-tech banking system leaves space for FinTech companies to seize opportunities. **[Number26][19]{:target="_blank"} is one of the city’s hottest startups**, which young tech-savvy clients preferring the branch-free approach to banking.  
 
-Berlin is also **home to the world’s first FinTech incubator, [FinLeap][35]{:target="_blank"}. FinLeap**, which was founded in 2014, is led by HitFox founders Jan Beckers and Dr. Hanno Fichtner, along with fintech veteran Jochen Siegert, who helped build PayPal in Europe as Strategy Director EMEA.  
+Berlin is also **home to the world’s first FinTech incubator, [FinLeap][35]{:target="_blank"}. FinLeap**, which was founded in 2014, is led by HitFox founders Jan Beckers and Dr. Hanno Fichtner, along with FinTech veteran Jochen Siegert, who helped build PayPal in Europe as Strategy Director EMEA.  
 
-![fintech](/assets/images/fintech.png) 
+![FinTech](/assets/images/fintech.png) 
 
 ## Retail Technology
 
@@ -72,7 +72,7 @@ While **retail tech is still underdeveloped,** market interest is beginning to g
 
 ## Marketing Solutions
 
-Sometimes referred to as MarTech, this industry in its broadest sense can also encompass BI, analytics, adtech and even [ecommerce][5]{:target="_blank"}. 
+Sometimes referred to as MarTech, this industry in its broadest sense can also encompass BI, analytics, AdTech and even [eCommerce][5]{:target="_blank"}. 
 
 Our definition focuses on **marketing operations, including areas such as cross channel marketing, content solutions, email marketing and lead generation tools.**
 
@@ -82,11 +82,11 @@ According to Venture Beat, **marketing technology startups have secured [$134 bi
 
 ## Other
 
-The remainder of our sample is heterogeneous, **split across various industries, including games, mobile apps,  health, edutech, food delivery, travel, real estate, HR, service, and other.**
+The remainder of our sample is heterogeneous, **split across various industries, including Games, Mobile Apps,  Health, EduTech, Food Delivery, Travel, Real Estate, HR, Service, and other.**
 
 **Food startups are in a fierce battle for control of the city's takeaway consumers.** [Delivery Hero][37]{:target="_blank"}, an online food and beverage-ordering service operating internationally in 29 countries, is the champion of Berlin’s food delivery startups and one of the city’s “unicorns”.  
 
-2015 was a positive year for Berlin’s travel startups, with **two bumper financing rounds back to back**. Travel planner platform GoEuro raised [$45 million][28]{:target="_blank"} in December 2015, in a Series B round led by Goldman Sachs, while [GetyourGuide raised $50 million][38]{:target="_blank"} one month earlier.
+2015 was a positive year for Berlin’s travel startups, with **two bumper financing rounds back to back**. Travel planner platform GoEuro raised [$45 million][28]{:target="_blank"} in December 2015, in a Series B round led by Goldman Sachs, while [GetYourGuide raised $50 million][38]{:target="_blank"} one month earlier.
 
 HR tech startups are addressing some of the most consistently-felt problems by businesses: payroll, compliance, recruitment and talent management. **At [Honeypot][25]{:target="_blank"} we are on a mission  to make tech recruitment more efficient and more transparent.** Others in the city, such as [GoHiring][26], are looking at clever ways to automate job postings. 
 
@@ -114,20 +114,20 @@ Berlin is also home to a number of interesting **accelerators and incubators cre
 
 Berlin’s low cost of living and creative culture has attracted national and international tech talent but more recent increases in the cost of living and the **demand for apartments generally means securing your spot in the right location can be quite a battle.** This begs the question where is the best place to live in Berlin if you want to work in a startup? 
 
-Well, the answer is **anywhere along the U2 ubahn line.** A whopping 38% of Berlin's startups are along this line which runs from west to east across the city. At Rosa Luxemburg Platz alone, which lies close to the famous Silicon Allee, we counted 13 startups.  
+Well, the answer is **anywhere along the U2 U-bahn line.** A whopping 38% of Berlin's startups are along this line which runs from west to east across the city. At Rosa Luxemburg Platz alone, which lies close to the famous Silicon Allee, we counted 13 startups.  
 
 ![ubahn](/assets/images/busiest.png)
 
 
 ## How did we define each industry?
 
-**Ecommerce:** ecommerce, rental, auction
+**eCommerce:** eCommerce, rental, auction
 
-**AdTech:** big data, data analytics, data management, BI, data visualization, bidding, retargeting, audience management
+**AdTech:** Big data, data analytics, data management, BI, data visualization, bidding, retargeting, audience management
 
-**FinTech:** payment solutions, crowdfunding, investment tools, banking, insurance 
+**FinTech:** Payment solutions, crowdfunding, investment tools, banking, insurance 
 
-**Marketing Solutions:** cross channel marketing, content solutions, email marketing, lead generation tools 
+**Marketing Solutions:** Cross channel marketing, content solutions, email marketing, lead generation tools 
 
 **Retail:** Classifieds, enterprise software, inventory, local sales search, instore analytics, returns
 
@@ -151,13 +151,13 @@ Well, the answer is **anywhere along the U2 ubahn line.** A whopping 38% of Berl
 
 **Music:** Streaming, music software and hardware 
 
-**Other:** some startups just escape definition! (12%) 
+**Other:** Some startups just escape definition! 
 
 [1]: https://s3-us-west-2.amazonaws.com/compassco/The_Global_Startup_Ecosystem_Report_2015_v1.2.pdf 
-[2]: http://venturebeat.com/2015/07/10/3-5b-on-96-investments-from-250-vcs-e-commerce-adtech-lead-q2-2015-martech-funding/ 
+[2]: http://venturebeat.com/2015/07/10/3-5b-on-96-investments-from-250-vcs-e-commerce-AdTech-lead-q2-2015-martech-funding/ 
 [3]: http://adexchanger.com/investment/the-year-in-acquisitions-suggests-an-ad-tech-reality-check/
 [4]:https://www.tune.com/blog/5-reasons-why-berlin-is-europes-ad-tech-capital/ 
-[5]:http://venturebeat.com/2015/07/10/3-5b-on-96-investments-from-250-vcs-e-commerce-adtech-lead-q2-2015-martech-funding/ 
+[5]:http://venturebeat.com/2015/07/10/3-5b-on-96-investments-from-250-vcs-e-commerce-AdTech-lead-q2-2015-martech-funding/ 
 [6]: https://www.honeypot.io 
 [7]: https://www.rocket-internet.com/
 [8]: http://www.hitfoxgroup.com/
