@@ -10,8 +10,7 @@ permalink:  berlin-startup-map
 importance: 2
 ---
 
-Interested in [working in Berlin's startups][36]? Or just curious about Europe's fastest growing tech hub? To discover what kind of startups are operating in the German capital and where in the city they are based, we took a 10% sample, sorted them by industry and mapped them by U-bahn station. The following post details our findings.
-
+Did you know there are over 1800 active startup companies operating in Berlin? To discover more about them, we took a 10% sample sorted them by industry and mapped them by U-bahn station. The following post details our findings. 
 
 [![berlin's startups](/assets/images/startupmap.png)](/assets/images/startup@2.png)
 
