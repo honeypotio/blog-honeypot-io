@@ -1,6 +1,6 @@
 ---
 title:  Step-by-step guide to the German visa for developers
-subtitle: Honeypot launces free visa support for users!
+subtitle: Honeypot launches free visa support for users!
 date:    2016-03-15 12:03:24
 layout:  post
 author:  ewe_grajko
@@ -19,8 +19,7 @@ Honeypot recently [launched free visa support][6] for all non-EU developers hire
 
 Below we detail the process of getting the visa in Germany. If you want more information about the Blue Card you can read [this post][7].  
 
-
-![visa](/assets/images/visa.png)
+[![visa](/assets/images/visa.png)](/assets/images/visa2.png)
 
 ## Company To-Dos 
 
