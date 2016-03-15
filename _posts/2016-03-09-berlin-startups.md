@@ -28,7 +28,7 @@ Berlin's startups are largely heterogeneous and many escape easy classification.
 
 # eCommerce
 
-17% of our sample are eCommerce companies. Zalando, Berlin’s most famous eCommerce startup, was founded in 2008 by Robert Gentz and David Schneider under [Rocket Internet][7]. In Autumn 2014, Zalando IPO’d to the tune of €5.3 billion.
+17% of our sample are eCommerce companies. Zalando, Berlin’s most famous eCommerce startup, was founded in 2008 by Robert Gentz and David Schneider. In Autumn 2014, Zalando IPO’d to the tune of €5.3 billion.
 
 Spurred by Zalando's success, Berlin’s eCommerce landscape today is varied. Its possible to find companies specialized in the [sale of classic car parts][10]{:target="_blank"} , [luxury watches][11]{:target="_blank"}, [perfume][12]{:target="_blank"}, [glasses][13]{:target="_blank"} and many other niche items. 
 
@@ -54,7 +54,7 @@ The third most common industry in our sample is FinTech. 9% of our sample can be
 
 Germany’s bureaucratic and low-tech banking system leaves space for FinTech companies to seize opportunities. [Number26][19]{:target="_blank"} is one of the city’s hottest startups, which young tech-savvy clients preferring the branch-free approach to banking.  
 
-Berlin is also home to the world’s first FinTech incubator, [FinLeap][35]{:target="_blank"}. FinLeap, which was founded in 2014, is led by HitFox founders Jan Beckers and Dr. Hanno Fichtner, along with FinTech veteran Jochen Siegert, who helped build PayPal in Europe as Strategy Director EMEA.  
+Berlin is also home to the world’s first FinTech incubator, [FinLeap][35]{:target="_blank"}, which was founded in 2014.
 
 ![FinTech](/assets/images/fintech.png) 
 
