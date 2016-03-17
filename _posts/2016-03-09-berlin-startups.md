@@ -30,7 +30,7 @@ Berlin's startups are largely heterogeneous and many escape easy classification.
 
 17% of our sample are eCommerce companies. Zalando, Berlin’s most famous eCommerce startup, was founded in 2008 by Robert Gentz and David Schneider. In Autumn 2014, Zalando IPO’d to the tune of €5.3 billion.
 
-Spurred by Zalando's success, Berlin’s eCommerce landscape today is varied. Its possible to find companies specialized in the [sale of classic car parts][10]{:target="_blank"} , [luxury watches][11]{:target="_blank"}, [perfume][12]{:target="_blank"}, [glasses][13]{:target="_blank"} and many other niche items. 
+Spurred by Zalando's success, Berlin’s eCommerce landscape today is varied. It's possible to find companies specialized in the [sale of classic car parts][10]{:target="_blank"} , [luxury watches][11]{:target="_blank"}, [perfume][12]{:target="_blank"}, [glasses][13]{:target="_blank"} and many other niche items. 
 
 Companies are also playing with the business model, trying out new forms of ownership and service. [ByeBuy][14]{:target="_blank"}, for example, are offering phones, gaming consoles and other products on a pay as you go basis, while [Outfittery][31]{:target="_blank"} and [Modomoto][32]{:target="_blank"} offer personal stylists to assist in sartorial decisions.   
 
@@ -104,7 +104,12 @@ Berlin is home to a number of high profile gaming startups, such as Wooga, which
 Growth of startups in Berlin has traditionally been hampered by a lack of funding. However, over the course of 2015 and early 2016,  approximately [15 new $50M+ early stage VC funds][28]{:target="_blank"} based in Berlin have been raised or incepted.  Combined with increased engagement from international investors such as Baillie Gifford, Goldman Sachs, DST Global and others, a self-nurturing ecosystem is beginning to emerge. 
 
 
-Berlin is also home to a number of interesting accelerators and incubators creating a thriving and supportive environment for budding entrepreneurs. Some notable examples include [Factory][39]{:target="_blank"}, which partners with Google to provide events and training,  [Microsoft Ventures][40]{:target="_blank"}, [hub:raum][41]{:target="_blank"}, and [Axel Springer Plug and Play][42]{:target="_blank"}. 
+Berlin is also home to a number of interesting accelerators,  incubators and company builders, creating a thriving and supportive environment for budding entrepreneurs. 
+
+[Rocket Internet][43] is undoubtedly the most famous company builder from Berlin and one of the city's largest employers. Founded by the three Samwer brothers, the incubator, which runs a company cloning business model, was valued at €6.5 billion when it IPO'd in 2015. Rocket has invested in or launched some of Berlin's biggest companies, including Delivery Hero, Zalando and Wimdu.  
+
+
+partners with Google to provide events and training,  [Microsoft Ventures][40]{:target="_blank"}, [hub:raum][41]{:target="_blank"}, and [Axel Springer Plug and Play][42]{:target="_blank"}. 
 
 
 ![berlin's VCs](/assets/images/inc.png)
@@ -195,4 +200,5 @@ Well, the answer is anywhere along the U2 U-bahn line. A whopping 38% of Berlin'
 [40]: https://www.microsoftventures.com/ 
 [41]: https://www.hubraum.com/locations/berlin
 [42]: http://www.axelspringerplugandplay.com/
+[43]: https://www.rocket-internet.com/
 
