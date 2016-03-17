@@ -77,7 +77,7 @@ Our definition focuses on marketing operations, including areas such as cross ch
 
 According to Venture Beat, marketing technology startups have secured [$134 billion in venture funding][24]{:target="_blank"} in the last five years. Berlin has yet to produce a shining star in this industry. 
 
-![marketing](/assets/images/marketing.png)
+![marketing](/assets/images/marketing1.png)
 
 ## Other
 
