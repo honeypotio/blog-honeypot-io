@@ -108,8 +108,7 @@ Berlin is also home to a number of interesting accelerators,  incubators and com
 
 [Rocket Internet][43] is undoubtedly the most famous company builder from Berlin and one of the city's largest employers. Founded by the three Samwer brothers, the incubator, which runs a company cloning business model, was valued at €6.5 billion when it IPO'd in 2015. Rocket has invested in or launched some of Berlin's biggest companies, including Delivery Hero, Zalando and Wimdu.  
 
-
-partners with Google to provide events and training,  [Microsoft Ventures][40]{:target="_blank"}, [hub:raum][41]{:target="_blank"}, and [Axel Springer Plug and Play][42]{:target="_blank"}. 
+Some other notable examples of incubators and accelerators include Factory, which partners with Google to provide events and training,  [Microsoft Ventures][40]{:target="_blank"}, [hub:raum][41]{:target="_blank"}, and [Axel Springer Plug and Play][42]{:target="_blank"}. 
 
 
 ![berlin's VCs](/assets/images/inc.png)
