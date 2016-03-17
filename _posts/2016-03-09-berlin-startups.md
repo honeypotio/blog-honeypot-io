@@ -121,6 +121,7 @@ Well, the answer is anywhere along the U2 U-bahn line. A whopping 38% of Berlin'
 
 ![ubahn](/assets/images/busiest.png)
 
+## If you would like to add your startup to the list, please send the name and closest ubahn to hello@honeypot.io. 
 
 ## How did we define each industry?
 
