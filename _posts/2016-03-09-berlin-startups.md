@@ -12,7 +12,7 @@ importance: 2
 
 Did you know there are over 1800 active startup companies operating in Berlin? To discover more about them, we took a 10% sample sorted them by industry and mapped them by U-bahn station. The following post details our findings. 
 
-[![berlin's startups](/assets/images/startupmap.png)](/assets/images/startup@2.png)
+[![berlin's startups](/assets/images/startupsmall2.png)](/assets/images/startup2.png)
 
 ## East Side verus West Side
 
@@ -46,7 +46,7 @@ Many point to the legacy of [HitFox Group][8]{:target="_blank"}, the company bui
 
 Berlin has consolidated its position as Europe’s [AdTech hub][4]{:target="_blank"}. According to eMarketer, mobile ad spend will [top $100 billion in 2016][20]{:target="_blank"}. Despite this, competition in the city is fierce and Berlin’s AdTech industry will likely see [consolidation in 2016][21]{:target="_blank"}, similar to what has been seen internationally.
 
-![AdTech](/assets/images/adtech.png) 
+![AdTech](/assets/images/adtech2.png) 
 
 ## FinTech
 
@@ -75,9 +75,9 @@ Sometimes referred to as MarTech, this industry in its broadest sense can also e
 
 Our definition focuses on marketing operations, including areas such as cross channel marketing, content solutions, email marketing and lead generation tools.
 
-According to Venture Beat, marketing technology startups have secured [$134 billion in venture funding][24]{:target="_blank"} in the last five years. Berlin has yet to produce a shining star in this industry. 
+According to Venture Beat, marketing technology startups have secured [$134 billion in venture funding][24]{:target="_blank"} in the last five years. [Zanox][44] is one of Berlin's most successful MarTech startups. Formed in 2000, the affiliate marketing superstar today has over 800 employees in 11 offices across the globe. 
 
-![marketing](/assets/images/marketing1.png)
+![marketing](/assets/images/marketing2.png)
 
 ## Other
 
@@ -93,11 +93,13 @@ Berlin is home to a number of high profile gaming startups, such as Wooga, which
 
 ![berlin's gaming startups](/assets/images/games.png) 
 
-![berlin's healthcare startups](/assets/images/health.png)
+![berlin's healthcare startups](/assets/images/4.png)
 
-![berlin's HR startups](/assets/images/hr.png) 
+![berlin's HR startups](/assets/images/3.png) 
 
-![berlin's startups](/assets/images/other.png) 
+![berlin's healthcare startups](/assets/images/music.png)
+
+![berlin's startups](/assets/images/other2.png) 
 
 ## Berlin’s venture capital firms, incubators and accelerators
 
@@ -119,9 +121,9 @@ Berlin’s low cost of living and creative culture has attracted national and in
 
 Well, the answer is anywhere along the U2 U-bahn line. A whopping 38% of Berlin's startups are along this line which runs from west to east across the city. At Rosa Luxemburg Platz alone, which lies close to the famous Silicon Allee, we counted 13 startups.  
 
-![ubahn](/assets/images/busiest.png)
+![ubahn](/assets/images/busyu.png)
 
-## If you would like to add your startup to the list, please send the name and closest ubahn to hello@honeypot.io. 
+
 
 ## How did we define each industry?
 
@@ -201,4 +203,4 @@ Well, the answer is anywhere along the U2 U-bahn line. A whopping 38% of Berlin'
 [41]: https://www.hubraum.com/locations/berlin
 [42]: http://www.axelspringerplugandplay.com/
 [43]: https://www.rocket-internet.com/
-
+[44]: https://www.zanox.com
