@@ -20,10 +20,11 @@ Berlin is home to 19 of Germany’s largest startups. Combined those startups se
 
 Following Berlin, the most successful startup cities, in terms of funding, are the northerly port city of Hamburg ($852 million) and the southerly Bavarian capital of Munich ($427 million). 
 
+Things are looking pretty rosy here in Deutschland! 
 
 * * *
 
-#Germany's biggest startups apply directly to developers on Honeypot. Join today to get [offers from startups][2] direct to your inbox. 
+# Germany's biggest startups apply directly to developers on Honeypot. Join today to get [offers from startups][2] direct to your inbox. 
 
 [1]: http://www.ey.com/Publication/vwLUAssets/ey-venture-capital-and-start-ups-in-germany-2015/$FILE/ey-venture-capital-and-start-ups-in-germany-2015.pdf 
 [2]: https://www.honeypot.io/pages/how_does_it_work?utm_source=blog30
