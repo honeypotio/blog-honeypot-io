@@ -1,10 +1,10 @@
 ---
-title:   Germany's 30 biggest startups
+title:   Germany's 30 biggest startups in 2015
 subtitle: There's more to Deutschland than beer and cars!
 date:    2016-04-05 19:16:35
 layout:  post
 author:  johanna_dahlroos
-categories: Company
+categories: Developer
 cover_image: biggest-startups.png
 permalink:  germanys-biggest-startups/
 importance: 2
@@ -12,7 +12,7 @@ importance: 2
 
 ![germanys biggest startups](/assets/images/top30.png)
 
->*Growth in Germany has outpaced other European tech regions such as the UK, Sweden or France. This momentum is driven by the key regional tech hubs Berlin, Hamburg and Munich.
+>Growth in Germany has outpaced other European tech regions such as the UK, Sweden or France. This momentum is driven by the key regional tech hubs Berlin, Hamburg and Munich.
 
 That's what EY had to say about [the European startup scene][1] and we couldn't agree more. 
 
@@ -23,7 +23,7 @@ Following Berlin, the most successful startup cities, in terms of funding, are t
 
 * * *
 
-Germany's biggest startups apply directly to developers on [Honeypot][2]. 
+#Germany's biggest startups apply directly to developers on Honeypot. Join today to get [offers from startups][2] direct to your inbox. 
 
 [1]: http://www.ey.com/Publication/vwLUAssets/ey-venture-capital-and-start-ups-in-germany-2015/$FILE/ey-venture-capital-and-start-ups-in-germany-2015.pdf 
 [2]: https://www.honeypot.io/pages/how_does_it_work?utm_source=blog30
