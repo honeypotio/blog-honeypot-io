@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.3.0'
+ruby File.read(File.expand_path('../.ruby-version', __FILE__)).chop
 
 gem 'jekyll'
 gem 'rake'
