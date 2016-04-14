@@ -2,3 +2,5 @@ deploy:
   provider: heroku
   api_key:
     secure: ${HEROKU_SECURE_API_KEY}
+
+script: "echo 'nothing to do here!'"
