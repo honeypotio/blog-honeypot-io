@@ -5,7 +5,6 @@
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "syntax-highlighting",
-        "app/application"
-;
+@import "syntax-highlighting";
+@import "app/application";
+@import "cookie-law";

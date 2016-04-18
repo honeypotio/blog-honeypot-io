@@ -1,0 +1,30 @@
+#cookie-bar {
+  background: $very-light-gray-color;
+  color: $dark-gray-3-color;
+
+  a {
+    margin-left: 3px;
+
+    &:hover {
+      color: $dark-color;
+      text-decoration: underline;
+    }
+  }
+
+  a,
+  a:hover {
+    color: $dark-gray-3-color;
+    font-weight: $fw-bold;
+  }
+
+  span {
+    margin-left: $fs-jumbo-2;
+  }
+
+  .cb-enable {
+    float: right;
+    font-size: $fs-13;
+    font-weight: $fw-semibold;
+    margin-right: $fs-jumbo-2;
+  }
+}
