@@ -8,7 +8,7 @@
       message: '<span>Honeypot uses cookies to make your experience better.</span>',
       policyButton: true,
       policyText: 'More info',
-      policyURL: '/pages/legal_notice#privacy_policy'
+      policyURL: 'https://www.honeypot.io/pages/legal_notice#privacy_policy'
     });
   });
 })(jQuery);
