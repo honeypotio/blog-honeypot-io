@@ -1,17 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-66414724-2']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
   {% include head.html %}
 
   <body>
@@ -32,6 +20,8 @@
     <script src="{{ "/bower_components/masonry/dist/masonry.pkgd.js" | prepend: site.baseurl }}" charset="utf-8"></script>
     <script src="{{ "/bower_components/imagesloaded/imagesloaded.pkgd.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
     <script src="{{ "/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
+    <script src="{{ "/scripts/jquery.cookiebar.js" | prepend: site.baseurl }}" charset="utf-8"></script>
+    <script src="{{ "/scripts/cookie_policy.js" | prepend: site.baseurl }}" charset="utf-8"></script>
     <script src="{{ "/scripts/app.js" | prepend: site.baseurl }}" charset="utf-8"></script>
   </body>
 
