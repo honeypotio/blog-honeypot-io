@@ -43,10 +43,13 @@ $(function() {
     scrollTop = $(window).scrollTop();
     if (scrollTop > startSticky && scrollTop < stopSticky) {
       $startElement.addClass(stickyClass).attr('style', null);
-    } else {
+    }
+    else if(scrollTop > stopSticky) {
       stopOffset = $stopElement.offset().top - coverOffset;
       $startElement.removeClass(stickyClass);
       $startElement.css({top: stopOffset + 'px', position: 'absolute', left: '-100px'});
+    } else {
+      $startElement.removeClass(stickyClass);
     }
   });
 

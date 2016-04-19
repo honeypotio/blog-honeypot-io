@@ -17,17 +17,17 @@ layout: default
     <div class="post__cover-container">
       <img class="post__cover js-post-cover" src="/cover_images/{{page.cover_image}}" width="746" />
       <div class="post__sticky js-sticky-container">
-        <div class="post__sticky__icon post__sticky__icon--google-plus">
+        <div class="post__icon post__icon--google-plus">
           <a href="https://plus.google.com/share?url={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}" class="popup">
             <i class="fa fa-google-plus"></i>
           </a>
         </div>
-        <div class="post__sticky__icon post__sticky__icon--twitter">
+        <div class="post__icon post__icon--twitter">
           <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&via=honeypotio" class="popup">
             <i class="fa fa-twitter"></i>
           </a>
         </div>
-        <div class="post__sticky__icon post__sticky__icon--facebook">
+        <div class="post__icon post__icon--facebook">
           <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}" class="popup">
             <i class="fa fa-facebook"></i>
           </a>
@@ -38,6 +38,25 @@ layout: default
     <article class="post__content">
       {{ content }}
     </article>
+
+    <div class="visible-xs visible-sm post__mobile-share">
+      <span class="post__mobile-share__text">Share:</span>
+      <div class="post__icon post__icon--google-plus post__icon--inline">
+        <a href="https://plus.google.com/share?url={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}" class="popup">
+          <i class="fa fa-google-plus"></i>
+        </a>
+      </div>
+      <div class="post__icon post__icon--twitter post__icon--inline">
+        <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&via=honeypotio" class="popup">
+          <i class="fa fa-twitter"></i>
+        </a>
+      </div>
+      <div class="post__icon post__icon--facebook post__icon--inline">
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}" class="popup">
+          <i class="fa fa-facebook"></i>
+        </a>
+      </div>
+    </div>
 
     <hr class="js-scroll-stop" />
 
