@@ -5,7 +5,6 @@ layout: default
 
 <div class="container">
   <div class="post">
-
     <header class="post__header text-center">
       <p class="post__meta">
         {% if page.author %} By <b class="post__emphasis">{{ author.name }}</b> on {% endif %}
@@ -15,13 +14,32 @@ layout: default
       <h2 class="post-title post__subheading">{{ page.subtitle }}</h2>
     </header>
 
-    <img class="post__cover" src="/cover_images/{{page.cover_image}}" width="746" />
+    <div class="post__cover-container">
+      <img class="post__cover js-post-cover" src="/cover_images/{{page.cover_image}}" width="746" />
+      <div class="post__sticky js-sticky-container">
+        <div class="post__sticky__icon post__sticky__icon--google-plus">
+          <a href="https://plus.google.com/share?url={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}" class="popup">
+            <i class="fa fa-google-plus"></i>
+          </a>
+        </div>
+        <div class="post__sticky__icon post__sticky__icon--twitter">
+          <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&via=honeypotio" class="popup">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </div>
+        <div class="post__sticky__icon post__sticky__icon--facebook">
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}" class="popup">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </div>
+      </div>
+    </div>
 
     <article class="post__content">
       {{ content }}
     </article>
 
-    <hr />
+    <hr class="js-scroll-stop" />
 
     <div class="media post__author-details">
       <div class="media-left">

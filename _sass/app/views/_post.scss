@@ -1,3 +1,5 @@
+$sticky-icon-size: 40px;
+
 .post {
   margin: 0 auto;
   font-size: $fs-4;
@@ -7,10 +9,59 @@
     width: $post-page-width;
   }
 
+  &__sticky {
+    @include absolute(top 0 left -100px);
+    display: none;
+
+    @media #{$lg-up} {
+      display: block;
+    }
+
+    &--stick {
+      @include fixed(top 50px left 240px);
+    }
+
+    &__icon {
+      @include sizing($sticky-icon-size);
+      margin-bottom: 10px;
+      text-align: center;
+      line-height: $sticky-icon-size;
+      border-radius: $sticky-icon-size;
+      border: 1px solid black;
+
+      &--google-plus {
+        border-color: $google-plus-color;
+
+        a {
+          color: $google-plus-color;
+        }
+      }
+
+      &--facebook {
+        border-color: $facebook-color;
+
+        a {
+          color: $facebook-color;
+        }
+      }
+
+      &--twitter {
+        border-color: $twitter-color;
+
+        a {
+          color: $twitter-color;
+        }
+      }
+    }
+  }
+
   &__header {
     margin-top: 64px;
   }
 
+  &__cover-container {
+    position: relative;
+  }
   &__cover {
     width: 100%;
     margin-bottom: 45px;

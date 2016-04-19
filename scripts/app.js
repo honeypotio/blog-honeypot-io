@@ -1,3 +1,7 @@
+var ScrollHandler = {
+  init: function() {}
+};
+
 $(function() {
   var $grid;
 
@@ -10,5 +14,40 @@ $(function() {
       $grid.masonry('layout');
     });
   }
+  $('.popup').click(function(event) {
+    var width  = 575,
+        height = 400,
+        left   = ($(window).width() - width) / 2,
+        top    = ($(window).height() - height) / 2,
+        url    = this.href,
+        opts   = 'status=1' +
+                ',width='  + width  +
+                ',height=' + height +
+                ',top='    + top    +
+                ',left='   + left;
+
+    window.open(url, 'twitter', opts);
+    return false;
+  });
+
+  var $startElement = $('.js-sticky-container'),
+      $stopElement = $('.js-scroll-stop'),
+      coverOffset = $('.js-post-cover').offset().top,
+      stickyClass = 'post__sticky--stick',
+      offset = 50,
+      startSticky = $startElement.offset().top - offset,
+      stopSticky = $stopElement.offset().top - $startElement.height() - offset,
+      scrollTop, stopOffset;
+
+  $(window).scroll(function(){
+    scrollTop = $(window).scrollTop();
+    if (scrollTop > startSticky && scrollTop < stopSticky) {
+      $startElement.addClass(stickyClass).attr('style', null);
+    } else {
+      stopOffset = $stopElement.offset().top - coverOffset;
+      $startElement.removeClass(stickyClass);
+      $startElement.css({top: stopOffset + 'px', position: 'absolute', left: '-100px'});
+    }
+  });
 
 });
