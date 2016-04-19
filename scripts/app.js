@@ -37,19 +37,28 @@ $(function() {
       offset = 50,
       startSticky = $startElement.offset().top - offset,
       stopSticky = $stopElement.offset().top - $startElement.height() - offset,
+      postPosition = $('.post__content'),
       scrollTop, stopOffset;
 
   $(window).scroll(function(){
     scrollTop = $(window).scrollTop();
     if (scrollTop > startSticky && scrollTop < stopSticky) {
-      $startElement.addClass(stickyClass).attr('style', null);
+      $startElement.addClass(stickyClass)
+        .attr('style', null)
+        .css({
+          left: (postPosition.offset().left - 100) + 'px'
+        });
     }
     else if(scrollTop > stopSticky) {
       stopOffset = $stopElement.offset().top - coverOffset;
       $startElement.removeClass(stickyClass);
-      $startElement.css({top: stopOffset + 'px', position: 'absolute', left: '-100px'});
+      $startElement.css({
+        top: stopOffset + 'px',
+        position: 'absolute',
+        left: '-100px'
+      });
     } else {
-      $startElement.removeClass(stickyClass);
+      $startElement.removeClass(stickyClass).attr('style', null);
     }
   });
 
