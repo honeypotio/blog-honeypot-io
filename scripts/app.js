@@ -31,8 +31,9 @@ $(function() {
       coverOffset = $('.js-post-cover').offset().top,
       stickyClass = 'post__sticky--stick',
       offset = 50,
+      textPadding = 16,
       startSticky = $startElement.offset().top - offset,
-      stopSticky = $stopElement.offset().top - offset - $startElement.height(),
+      stopSticky = $stopElement.offset().top - offset - textPadding - $startElement.height(),
       postPosition = $('.post__content'),
       scrollTop, stopOffset;
 
@@ -46,7 +47,7 @@ $(function() {
         });
     }
     else if(scrollTop > stopSticky) {
-      stopOffset = $stopElement.offset().top - coverOffset - $startElement.height() - 16;
+      stopOffset = $stopElement.offset().top - coverOffset - $startElement.height() - textPadding;
       $startElement.removeClass(stickyClass);
       $startElement.css({
         top: stopOffset + 'px',
