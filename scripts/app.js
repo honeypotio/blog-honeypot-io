@@ -1,7 +1,3 @@
-var ScrollHandler = {
-  init: function() {}
-};
-
 $(function() {
   var $grid;
 
@@ -36,7 +32,7 @@ $(function() {
       stickyClass = 'post__sticky--stick',
       offset = 50,
       startSticky = $startElement.offset().top - offset,
-      stopSticky = $stopElement.offset().top - $startElement.height() - offset,
+      stopSticky = $stopElement.offset().top - offset - $startElement.height(),
       postPosition = $('.post__content'),
       scrollTop, stopOffset;
 
@@ -50,7 +46,7 @@ $(function() {
         });
     }
     else if(scrollTop > stopSticky) {
-      stopOffset = $stopElement.offset().top - coverOffset;
+      stopOffset = $stopElement.offset().top - coverOffset - $startElement.height() - 16;
       $startElement.removeClass(stickyClass);
       $startElement.css({
         top: stopOffset + 'px',
