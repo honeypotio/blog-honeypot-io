@@ -23,7 +23,7 @@ layout: default
           </a>
         </div>
         <div class="post__icon post__icon--twitter">
-          <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&via=honeypotio" class="popup">
+          <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&url={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}&via=honeypotio" class="popup">
             <i class="fa fa-twitter"></i>
           </a>
         </div>
@@ -47,7 +47,7 @@ layout: default
         </a>
       </div>
       <div class="post__icon post__icon--twitter post__icon--inline">
-        <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&via=honeypotio" class="popup">
+        <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&url={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}&via=honeypotio" class="popup">
           <i class="fa fa-twitter"></i>
         </a>
       </div>
