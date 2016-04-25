@@ -3,6 +3,7 @@ GEM
   specs:
     colorator (0.1)
     ffi (1.9.10)
+    ffi (1.9.10-x86-mingw32)
     jekyll (3.1.2)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -37,11 +38,9 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   jekyll
   rack-jekyll
   rake
-
-BUNDLED WITH
-   1.11.2
