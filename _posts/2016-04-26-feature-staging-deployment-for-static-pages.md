@@ -62,7 +62,7 @@ of Travis deployment step we can use the [s3_website tool][4].
 
 ### Quick example of Travis-CI & S3/Cloudfront
 
-Lets create two S3 buckets production and staging. All commits in `master` get
+Let's create two S3 buckets production and staging. All commits in `master` get
 deployed to the production bucket and every pull request gets deployed to a
 subfolder inside the staging bucket.
 
@@ -77,10 +77,10 @@ s3_secret: <%= ENV['S3_SECRET'] %>
 # chechk for PR required as branch in PR's always is master on travis
 <% if ENV['TRAVIS_BRANCH'] == 'master' && ENV['TRAVIS_PULL_REQUEST'] == 'false' %>
 s3_bucket: honeypot-staticpages
-cloudfront_distribution_id: E21RQMADUM8ALN
+cloudfront_distribution_id: <%= ENV['DISTRIBUTION_ID'] %>
 <% else %>
 s3_bucket: staging-honeypot-staticpages
-cloudfront_distribution_id: E2663ASEPJTJSO
+cloudfront_distribution_id: <%= ENV['STAGING_DISTRIBUTION_ID'] %>
 s3_key_prefix: <%= ENV['PREFIX_FOLDER'] %>
 <% end %>
 ```
@@ -94,7 +94,7 @@ if [ "$TRAVIS_BRANCH" == "master" -o "$TRAVIS_PULL_REQUEST" != "false" ]
 then
   bundle exec s3_website push
 else
-  echo "no deployent for branch $TRAVIS_BRANCH"
+  echo "no deployment for branch $TRAVIS_BRANCH"
 fi
 ```
 
