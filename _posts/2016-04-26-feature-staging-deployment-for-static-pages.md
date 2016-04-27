@@ -26,7 +26,7 @@ is getting close to effortless.
 
 ### The problem
 
-This is great for applications you deploy to heroku, but what to do if
+This is great for applications you deploy to Heroku, but what to do if
 you want to have the same setup for your static pages, blog or single page
 application that you deploy to github pages or a content delivery network...
 
@@ -35,7 +35,7 @@ application that you deploy to github pages or a content delivery network...
 
 #### Test on Heroku
 
-An option is to deploy a staging/test environment to heroku and let heroku
+An option is to deploy a staging/test environment to Heroku and let Heroku
 create Review apps for each pull request submitted. This might not be optimal
 as there will be quiet some differences between your staging and production
 environments.
