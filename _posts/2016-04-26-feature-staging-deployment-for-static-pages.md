@@ -37,7 +37,7 @@ application that you deploy to github pages or a content delivery network...
 
 An option is to deploy a staging/test environment to Heroku and let Heroku
 create Review apps for each pull request submitted. This might not be optimal
-as there will be quiet some differences between your staging and production
+as there will be quite some differences between your staging and production
 environments.
 
 
