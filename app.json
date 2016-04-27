@@ -1,0 +1,26 @@
+{
+  "name": "blog-honeypot-io",
+  "scripts": {
+  },
+  "env": {
+    "LANG": {
+      "required": true
+    },
+    "RACK_ENV": {
+      "required": true
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/andycroll/heroku-buildpack-jekyll.git"
+    }
+  ]
+}
