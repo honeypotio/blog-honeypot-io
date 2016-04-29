@@ -1,6 +1,6 @@
 hugo_duksis:
   name: Hugo Duksis
-  desc: Software Developer
+  desc: Highly religious developer believing in small code bases, fast tests and language-agnostic application architecture.
   avatar: hugo-duksis.jpg
 kaya_taner:
   name: Kaya Taner
@@ -24,15 +24,15 @@ frederik_bohn:
   avatar: frederik.jpg
 emma_tracey:
   name: Emma Tracey
-  desc: Emma is Co-Founder at Honeypot. Born in Dublin, Emma moved to Berlin after spending time in Colombia and South Africa. She is a former journalist and likes to write about team culture and diversity. 
+  desc: Emma is Co-Founder at Honeypot. Born in Dublin, Emma moved to Berlin after spending time in Colombia and South Africa. She is a former journalist and likes to write about team culture and diversity.
   avatar: emma.jpg
 johanna_dahlroos:
   name: Johanna Dahlroos
-  desc: Johanna is Honeypot’s graphic designer. A Finnish dog-lover with a passion for art, architecture and snowboarding, she’s up for any challenge – as long as enough coffee is provided.  
+  desc: Johanna is Honeypot’s graphic designer. A Finnish dog-lover with a passion for art, architecture and snowboarding, she’s up for any challenge – as long as enough coffee is provided.
   avatar: johanna.jpg
 sasha_pliusnina:
   name: Sasha Pliusnina
-  desc: Sasha is a Talent Rep at Honeypot. Born in Ukraine, she relocated to Germany because of her (inexplicable) love of the German language. Sasha spends most of her free time in book-shops, listening to Chet Baker. 
+  desc: Sasha is a Talent Rep at Honeypot. Born in Ukraine, she relocated to Germany because of her (inexplicable) love of the German language. Sasha spends most of her free time in book-shops, listening to Chet Baker.
   avatar: sasha.jpg
 janet_todorova:
   name: Janet Todorova
@@ -40,5 +40,5 @@ janet_todorova:
   avatar: janet.jpg
 ewe_grajko:
   name: Ewe Grajko
-  desc: Ewelina is an Account Manager at Honeypot. She is from Poland and before moving to Berlin, she lived in Copenhagen. She loves Scandinavian languages, tries to read a book a month and is addicted to Friends. 
+  desc: Ewelina is an Account Manager at Honeypot. She is from Poland and before moving to Berlin, she lived in Copenhagen. She loves Scandinavian languages, tries to read a book a month and is addicted to Friends.
   avatar: ewe.png
