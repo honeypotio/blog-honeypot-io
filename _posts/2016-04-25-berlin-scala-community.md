@@ -10,7 +10,7 @@ permalink:  berlin-scala-community/
 importance: 2
 ---
 
-*Community Devs is a series of interviews with developers working in Europe's startup hubs. Our first interview is with Oleg Ilyenko, a Scala developer based in Berlin. He is creator of [Sangria][9], a Scala GraphQL Implementation.* 
+*Community Devs is a series of interviews with developers working in Europe's startup hubs. Our first interview is with Oleg Ilyenko, a Scala developer based in Berlin. He is creator of [Sangria][9], a Scala GraphQL Implementation. Honeypot will be hosting a [GraphQL meetup][2] on May 11th.* 
 
 **You spent the first 7 years of your career as a Java developer before you discovered Scala. What inspired you to change direction?** 
 
@@ -129,6 +129,7 @@ And last, but not the least, further development of Sangria, of course!
 Scala is one of the most in-demand progamming languages in Berlin. [Sign-up to Honeypot][10] and get Scala developer job offers straight to your inbox. 
 
 [1]: http://macstrac.blogspot.de/2009/04/scala-as-long-term-replacement-for.html
+[2]: https://honeypot-tech-talks-graphql.eventbrite.de
 [3]: http://www.reactivemanifesto.org/
 [4]: http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683  
 [5]: http://sangria-graphql.org/
