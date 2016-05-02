@@ -61,14 +61,14 @@ I already saw Scala being used in many startups. Its also gaining popularity in 
 
 **[Sangria][5], a GraphQL implementation for Scala, is one of your most successful open source projects. Can you tell us about GraphQL?**
 
-GrpahQL allows you to build API with high emphasis on efficient data retrieval and introspection with a powerful type-system behind it. It becomes even more powerful when combined with client-side frameworks like React and Relay, allowing you to build an application based on highly decoupled components without sacrificing performance or over-/under-fetching a data needed for the views. Web application development is not the only area where GraphQL excels. Any area that requires very precise and performant data fetching/manipulation, like mobile application development, can profit from GraphQL.
+GraphQL allows you to build API with high emphasis on efficient data retrieval and introspection with a powerful type-system behind it. It becomes even more powerful when combined with client-side frameworks like React and Relay, allowing you to build an application based on highly decoupled components without sacrificing performance or over-/under-fetching a data needed for the views. Web application development is not the only area where GraphQL excels. Any area that requires very precise and performant data fetching/manipulation, like mobile application development, can profit from GraphQL.
 
 ![oleg](/assets/images/oleg.jpg)
 
 
 **When did you first hear about GraphQL?**
 
-I’m very excited about Sangria - a GraphQL implementation for Scala. I learnt about GraphQL about a year ago and since than I’ve become more and more excited about this concept. I wouldn’t say that it’s a replacement for a REST API - I believe that it can  nicely compliment REST API. Embracing GraphQL will unlock it’s full potential though. 
+I’m very excited about Sangria - a GraphQL implementation for Scala. I learnt about GraphQL about a year ago and since than I’ve become more and more excited about this concept. I wouldn’t say that it’s a replacement for a REST API - I believe that it can  nicely complement REST API. Embracing GraphQL will unlock it’s full potential though. 
 
 **Would you consider putting GraphQL as a public interface into your API?**
 
