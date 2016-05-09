@@ -10,11 +10,11 @@ permalink:  5-interview-questions-for-a-backend-developer/
 importance: 2
 ---
 
-As an extension of our previous blog post [“interview questions for a frontend developer”][6], I have put together a helpful list of 5 interview questions for a backend developer.. Being a member of the talent rep team at Honeypot, I know from my own experiences how difficult it can be to figure  out where to start a conversation with a backend developer. There are just too many topics, language and tools - not enough time! 
+As an extension of our previous blog post [“interview questions for a frontend developer”][6], I have put together a helpful list of 5 interview questions for a backend developer. Being a member of the talent rep team at Honeypot, I know from my own experiences how difficult it can be to figure  out where to start a conversation with a backend developer. There are just too many topics, language and tools - not enough time! 
 
 **What is your favourite programming language? - and why?**
 
-I find that when it comes to backend developers - particularly experienced ones - this is a “safe” opener, as it is a fairly simple question and a nice way to ease into the conversation. Furthermore, it gives the developer a chance to freely talk about their work experience and preferences, and more importantly; it gives you a chance to judge how enthusiastic they are  about what they do. In my experience the best developers are the ones who can go on-and-on about the languages and frameworks they use, and passionately explain to you why PHP or Ruby or Elixir might more suitable for certain tasks than others.
+I find that when it comes to backend developers - particularly experienced ones - this is a “safe” opener, as it is a fairly simple question and a nice way to ease into the conversation. Furthermore, it gives the developer a chance to freely talk about their work experience and preferences, and more importantly, it gives you a chance to judge how enthusiastic they are  about what they do. In my experience the best developers are the ones who can go on-and-on about the languages and frameworks they use, and passionately explain to you why PHP or Ruby or Elixir might be more suitable for certain tasks than others.
 
 **How would you describe the software lifecycle at your most recent position?  What did you enjoy the most? What would have you liked to change?**
 
