@@ -35,21 +35,9 @@
       vertical-align: middle;
     }
 
-    &__meta-container {
-      margin-bottom: 10px;
-    }
-
-    &__meta-body {
-      padding-left: 10px;
-    }
-
     &__block {
       @include text($fs-1, $fw-light, $gray-1-color);
       margin: 0 19px 0 0;
-    }
-
-    &__block-icon {
-      color: rgba($dark-gray-3-color, .5);
     }
 
     &__excerpt {
@@ -64,15 +52,6 @@
   &__cover {
     display: block;
     height: 193px;
-
-    &__title {
-      @include text($fs-13, $fw-normal, $black-color);
-      margin-top: 0px;
-
-      @media #{$md-up} {
-        margin-top: 10px;
-      }
-    }
 
     &__tags {
       font-size: $fs-7;

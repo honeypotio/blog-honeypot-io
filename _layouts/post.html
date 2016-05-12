@@ -5,16 +5,8 @@ layout: default
 
 <div class="container">
   <div class="post">
-    <header class="post__header text-center">
-      <p class="post__meta">
-        {% if page.author %} By <b class="post__emphasis">{{ author.name }}</b> on {% endif %}
-        <b class="post__emphasis">{{ page.date | date: "%b %-d, %Y" }}</b> in {% if page.categories %}<b class="post__emphasis">{{ page.categories | array_to_sentence_string}}</b>{% endif %}</p>
 
-      <h1 class="post-title post__heading">{{ page.title }}</h1>
-      <h2 class="post-title post__subheading">{{ page.subtitle }}</h2>
-    </header>
-
-    <div class="post__cover-container">
+    <header class="post__cover-container">
       <img class="post__cover js-post-cover" src="/cover_images/{{page.cover_image}}" width="746" />
       <div class="post__sticky js-sticky-container">
         <div class="post__icon post__icon--google-plus">
@@ -33,6 +25,15 @@ layout: default
           </a>
         </div>
       </div>
+    </header>
+
+    <div class="post__header text-center">
+      <p class="post__meta">
+        {% if page.author %} By <b class="post__emphasis">{{ author.name }}</b> on {% endif %}
+        <b class="post__emphasis">{{ page.date | date: "%b %-d, %Y" }}</b> in {% if page.categories %}<b class="post__emphasis">{{ page.categories | array_to_sentence_string}}</b>{% endif %}</p>
+
+      <h1 class="post-title post__heading">{{ page.title }}</h1>
+      <h2 class="post-title post__subheading">{{ page.subtitle }}</h2>
     </div>
 
     <article class="post__content">

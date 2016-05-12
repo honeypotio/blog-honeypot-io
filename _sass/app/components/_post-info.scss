@@ -1,0 +1,23 @@
+.c-post-info {
+  margin-bottom: 10px;
+
+  &__body {
+    padding-left: 10px;
+  }
+
+  &__title {
+    @include text($fs-13, $fw-normal, $black-color);
+    margin-top: 0px;
+
+    @media #{$md-up} {
+      margin-top: 10px;
+    }
+  }
+
+  &__block {
+    @include text($fs-1, $fw-light, $gray-1-color);
+    margin: 0 19px 0 0;
+
+    &__icon { color: rgba($dark-gray-3-color, .5); }
+  }
+}

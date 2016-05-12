@@ -8,9 +8,10 @@ $sticky-icon-size: 40px;
 }
 
 .post {
-  margin: 0 auto;
+  margin: 25px auto 0;
   font-size: $fs-4;
   color: $text-1-color;
+  background-color: $white-color;
 
   @media #{$md-up} {
     width: $post-page-width;
