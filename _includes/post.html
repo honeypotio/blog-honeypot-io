@@ -3,7 +3,8 @@
 {% assign details = include.details %}
 <li class="post-listing__item post-listing__item--importance-{{ include.importance }} js-post-listing-item">
   <a href="{{ post.url }}" class="post-listing__link">
-    <div class="post-listing__cover" data-bg="/cover_images/{{ post.cover_image }}"></div>
+    <div class="post-listing__cover" style="background-image: url('/cover_images/{{ post.cover_image }}')">
+    </div>
     <div class="post-listing__item__meta">
       <div class="media post-listing__item__meta-container">
         <div class="media-left">

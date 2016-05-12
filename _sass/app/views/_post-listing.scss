@@ -21,6 +21,10 @@
     width: 100%;
     margin: 0 auto 28px;
 
+    @media #{$md-up} {
+      width: 848px;
+    }
+
     &__meta {
       padding: 24px;
       background-color: $white-color;

@@ -5,8 +5,8 @@
   text-transform: uppercase;
 
   &-default {
-    color: $yellow-color;
-    border-color: $yellow-color;
+    color: $blue-color;
+    border-color: $blue-color;
     border-radius: 20px;
     background-color: transparent;
 
@@ -14,8 +14,8 @@
     &:active,
     &:focus,
     &:active:focus {
-      background-color: $yellow-color;
-      border-color: $yellow-color;
+      background-color: $blue-color;
+      border-color: $blue-color;
       color: $white-color;
       outline: 0;
     }
