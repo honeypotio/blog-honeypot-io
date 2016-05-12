@@ -16,3 +16,10 @@ sass:
   style: compressed
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      excerpt_separator: <!--more-->

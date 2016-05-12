@@ -1,15 +1,8 @@
 $(function() {
-  var $grid;
-
-  if($(window).width() > 768) {
-    $grid = $('.js-post-listing').masonry({
-      gutter: 0,
-      itemSelector: '.js-post-listing-item'
-    });
-    $grid.imagesLoaded().progress( function() {
-      $grid.masonry('layout');
-    });
-  }
+  $('*[data-bg]').css('background-image', function() {
+    var img = $(this).attr('data-bg');
+    return 'url(' + img + ')';
+  });
   $('.popup').click(function(event) {
     var width  = 575,
         height = 400,

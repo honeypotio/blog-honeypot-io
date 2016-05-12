@@ -17,6 +17,8 @@ from your application. This can give you benefits like smaller downtimes,
 shorter deploys, reduced load on you application servers and more.
 Of course there can also be downsides like more complicated setup.
 
+<!--more-->
+
 
 For projects that are actively developed I prefer having staging environments
 per feature where the effect of changes made can be verified in isolation.

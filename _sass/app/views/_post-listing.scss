@@ -18,38 +18,12 @@
 
   &__item {
     float: none;
+    width: 100%;
     margin: 0 auto 28px;
 
-    @media #{$md-up} {
-      float: left;
-      margin: 0 30px 28px 0;
-    }
-
-    $item-importance-levels: (
-      (0, 218px),
-      (1, 260px),
-      (2, 330px),
-      (3, 450px)
-    );
-
-    @each $importance-level in $item-importance-levels {
-      $number: nth($importance-level, 1);
-      $width: nth($importance-level, 2);
-
-      &--importance-#{$number} {
-        width: 90%;
-
-        @media #{$md-up} {
-          max-width: $width;
-        }
-      }
-    }
-
     &__meta {
-      padding: 10px 0;
-      border-top: 0;
-      border-top-left-radius: 0;
-      border-top-right-radius: 0;
+      padding: 24px;
+      background-color: $white-color;
     }
 
     &__meta-contents {
@@ -57,84 +31,43 @@
       vertical-align: middle;
     }
 
-    &__author {
-      margin: 0 0 0 19px;
-      font-size: $fs-7;
-      font-weight: $fw-normal;
-      color: $text-1-color;
-
-      &--big {
-        margin: 0 0 10px;
-        font-size: $fs-4;
-        font-weight: $fw-bold;
-        color: $black-color;
-      }
+    &__meta-container {
+      margin-bottom: 10px;
     }
 
-    &__author-date {
-      margin-top: 20px;
+    &__meta-body {
+      padding-left: 10px;
     }
 
-    &__author-desc {
-      padding-bottom: 20px;
-      font-size: $fs-1;
-      color: $text-2-color;
+    &__block {
+      @include text($fs-1, $fw-light, $gray-1-color);
+      margin: 0 19px 0 0;
     }
 
-    &__date {
-      font-size: $fs-7;
-      color: $text-1-color;
+    &__block-icon {
+      color: rgba($dark-gray-3-color, .5);
     }
 
-    &__clock {
-      @include sizing(15px);
-      margin-bottom: 3px;
+    &__excerpt {
+      @include text($fs-4, $fw-normal, $text-2-color);
+    }
+
+    &__read-more {
+      @include text($fs-4, $fw-normal, $yellow-color);
     }
   }
 
   &__cover {
-    position: relative;
-
-    &:hover {
-      &:after {
-        @include absolute(top 0 left 0);
-        @include sizing(100%);
-        content: '';
-        background-color: rgba($black-color, .8);
-      }
-
-      .backdrop {
-        @include absolute(top 50% left 50%);
-        display: block;
-        transform: translate(-50%, -50%);
-        z-index: $z-index-3;
-        font-weight: $fw-light;
-        font-size: $fs-6;
-        text-align: center;
-        text-transform: uppercase;
-        color: $white-color;
-        border-top: 1px solid $white-color;
-        border-bottom: 1px solid $white-color;
-      }
-    }
-
-    &__text-container {
-      @include absolute(bottom 0 left 10px);
-      padding: 0 10px;
-      width: 100%;
-      z-index: 100;
-    }
-
-    &__img {
-      display: block;
-      width: 100%;
-    }
+    display: block;
+    height: 193px;
 
     &__title {
-      margin-top: 10px;
-      font-size: $fs-6;
-      font-weight: $fw-bold;
-      color: $black-color;
+      @include text($fs-13, $fw-normal, $black-color);
+      margin-top: 0px;
+
+      @media #{$md-up} {
+        margin-top: 10px;
+      }
     }
 
     &__tags {

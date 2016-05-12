@@ -3,23 +3,36 @@
 {% assign details = include.details %}
 <li class="post-listing__item post-listing__item--importance-{{ include.importance }} js-post-listing-item">
   <a href="{{ post.url }}" class="post-listing__link">
-    <figure class="post-listing__cover">
-      <img src="/cover_images/{{ post.cover_image }}" class="post-listing__cover__img" width="200" />
-      <div class="backdrop">
-        Read more
-      </div>
-    </figure>
+    <div class="post-listing__cover" data-bg="/cover_images/{{ post.cover_image }}"></div>
     <div class="post-listing__item__meta">
-      {% if details %}
-        <p class="post-listing__cover__tags">{{ post.categories | array_to_sentence_string }}</p>
-      {% endif %}
-      <h3 class="post-listing__cover__title">{{ post.title }}</h3>
-      {% if details %}
-      <div class="post-listing__item__author-date">
-        <img src="{{ site.baseurl }}/assets/images/clock.svg" class="post-listing__item__clock" />
-        <time class="post-listing__item__date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time> <span class="post-listing__item__author">by {{ author.name }}</span>
+      <div class="media post-listing__item__meta-container">
+        <div class="media-left">
+          <img src="{{ site.baseurl }}/authors/{{ author.avatar }}" width="65" class="img-circle">
+        </div>
+        <div class="media-body post-listing__item__meta-body">
+          <h3 class="post-listing__cover__title">{{ post.title }}</h3>
+          <p>
+            <span class="visible-md-inline visible-lg-inline post-listing__item__block">{{ author.name }}</span>
+            <span class="post-listing__item__block">
+              <i class="fa fa-clock-o post-listing__item__block-icon"></i>
+              <time class="post-listing__item__date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+            </span>
+            <span class="post-listing__item__block">
+              <i class="fa fa-tag post-listing__item__block-icon"></i>
+              {{ post.categories | array_to_sentence_string }}
+            </span>
+          </p>
+          <p class="hidden-md hidden-lg">
+            <span class="post-listing__item__block">{{ author.name }}</span>
+          </p>
+        </div>
+      </div> <!-- ./media -->
+      <div class="post-listing__item__excerpt">
+        {{ post.excerpt }}
       </div>
-      {% endif %}
-    </div>
+      <div class="post-listing__item__read-more">
+        <a href="{{ post.url }}">Read more ></a>
+      </div>
+    </div><!-- ./post-listing__item__meta -->
   </a>
 </li>
