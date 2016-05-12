@@ -1,0 +1,15 @@
+<div class="media c-author-info">
+  <div class="media-left">
+    <img src="{{ site.baseurl }}/authors/{{ include.avatar }}" class="img-circle c-author-info__avatar" alt="{{ include.name }}">
+  </div>
+  <div class="media-body c-author-info__text">
+    <h4 class="c-author-info__text__name">{{ include.name }}</h4>
+    {% if include.position %}
+      <h5 class="c-author-info__text__position">{{ include.position }}</h5>
+    {% endif %}
+    <p class="c-author-info__text__description">
+      {{ include.description }}
+    </p>
+    <div class="c-author-info__social"></div>
+  </div>
+</div> <!-- ./media -->

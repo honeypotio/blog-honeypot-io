@@ -10,7 +10,16 @@
     margin-top: 0px;
 
     @media #{$md-up} {
-      margin-top: 10px;
+      font-size: $fs-13;
+      margin-top: 6px;
+    }
+  }
+
+  &__block-container {
+    margin-bottom: 5px;
+
+    @media #{$md-up} {
+      margin-bottom: 10px;
     }
   }
 

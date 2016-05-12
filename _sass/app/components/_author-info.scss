@@ -1,0 +1,31 @@
+.c-author-info {
+  margin: 0 0 52px;
+  padding: 5px 25px 25px;
+
+  &__avatar {
+    @include sizing(75px);
+
+    @media #{$md-up} { @include sizing(125px); }
+  }
+
+  &__text {
+    padding-left: 15px;
+    vertical-align: middle;
+
+    &__name {
+      @include text($fs-13, $fw-semibold, $black-color);
+      margin: 0 0 5px;
+    }
+
+    &__position {
+      @include text($fs-9, $fw-normal, $gray-2-color);
+      margin: 0 0 6px;
+    }
+
+    &__description {
+      @include text($fs-4, $fw-normal, $dark-color);
+    }
+  }
+
+  &__social {}
+}

@@ -27,13 +27,14 @@ layout: default
       </div>
     </header>
 
-    <div class="post__header text-center">
-      <p class="post__meta">
-        {% if page.author %} By <b class="post__emphasis">{{ author.name }}</b> on {% endif %}
-        <b class="post__emphasis">{{ page.date | date: "%b %-d, %Y" }}</b> in {% if page.categories %}<b class="post__emphasis">{{ page.categories | array_to_sentence_string}}</b>{% endif %}</p>
-
-      <h1 class="post-title post__heading">{{ page.title }}</h1>
-      <h2 class="post-title post__subheading">{{ page.subtitle }}</h2>
+    <div class="post__info">
+      {% include post-info.html
+        avatar=author.avatar
+        title=page.title
+        name=author.name
+        date=page.date
+        categories=page.categories
+      %}
     </div>
 
     <article class="post__content">
@@ -61,17 +62,13 @@ layout: default
 
     <hr class="js-scroll-stop" />
 
-    <div class="media post__author-details">
-      <div class="media-left">
-        {% include avatar.html author=author.avatar sizing=70 %}
-      </div>
-      <div class="media-body post-listing__item__meta-contents">
-        <h4 class="post-listing__item__author post-listing__item__author--big">{{ author.name }}</h4>
-        <p class="post-listing__item__author-desc">
-          {{ author.desc }}
-        </p>
-      </div>
-    </div> <!-- ./media -->
+    {% include author-info.html
+      avatar=author.avatar
+      name=author.name
+      position="Cofounder"
+      description=author.desc
+    %}
+
   </div>
 </div>
 <section class="latest-posts">

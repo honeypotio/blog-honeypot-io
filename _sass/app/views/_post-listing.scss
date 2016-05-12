@@ -1,5 +1,5 @@
 .post-listing {
-  margin: 35px 0;
+  margin: 28px 0;
 
   &__link {
     color: inherit;
@@ -19,7 +19,7 @@
   &__item {
     float: none;
     width: 100%;
-    margin: 0 auto 28px;
+    margin: 0 auto 32px;
 
     @media #{$md-up} {
       width: 848px;
@@ -30,11 +30,6 @@
       background-color: $white-color;
     }
 
-    &__meta-contents {
-      padding-top: 12px;
-      vertical-align: middle;
-    }
-
     &__block {
       @include text($fs-1, $fw-light, $gray-1-color);
       margin: 0 19px 0 0;
@@ -42,6 +37,7 @@
 
     &__excerpt {
       @include text($fs-4, $fw-normal, $text-2-color);
+      margin-bottom: 6px;
     }
 
     &__read-more {
