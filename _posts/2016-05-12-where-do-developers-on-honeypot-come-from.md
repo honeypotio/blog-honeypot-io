@@ -17,6 +17,8 @@ Well, all around the world according to our data! Germany, Russia and Brazil tak
 ![honeypot developers](/assets/images/top-countries.png)
 
 
-Every developer who joins Honeypot has a call with a Talent Rep and also passes a code review before becoming visible to companies. And even better, Honeypot provides free visa support to all developers relocating from outside of the EU who get hired over our platform.  
+Every developer who joins Honeypot has a call with a Talent Rep and also passes a code review before becoming visible to companies.15% of people who signup make it to this point because Honeypot is where the best developers meet the best companies! 
+
+And even better, Honeypot provides free visa support to all developers relocating from outside of the EU who get hired over our platform.  
 
 
