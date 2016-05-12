@@ -1,6 +1,6 @@
 .c-author-info {
   margin: 0 0 52px;
-  padding: 5px 25px 25px;
+  padding: 13px 25px 25px;
 
   &__avatar {
     @include sizing(75px);
@@ -9,7 +9,7 @@
   }
 
   &__text {
-    padding-left: 15px;
+    padding-left: 3px;
     vertical-align: middle;
 
     &__name {

@@ -71,18 +71,5 @@ layout: default
 
   </div>
 </div>
-<section class="latest-posts">
-  <div class="latest-posts__container">
-    <h4 class="latest-posts__heading">Previous Posts</h4>
-    <ul class="post-listing__list clearfix">
-      {% for post in site.posts limit:3 %}
-        {% include post.html post=post importance=0 details=false %}
-      {% endfor %}
-    </ul>
-    <p class="text-center post__see-more">
-      <a class="btn btn-default post__see-more__btn" href="{{site.baseurl}}/">See all</a>
-    </p>
-  </div>
-</section>
 
 {% include footer.html bluefooter=true %}
