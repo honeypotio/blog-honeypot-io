@@ -3,7 +3,10 @@
 {% assign details = include.details %}
 <li class="post-listing__item post-listing__item--importance-{{ include.importance }} js-post-listing-item">
   <a href="{{ post.url }}" class="post-listing__link">
-    <div class="post-listing__cover" style="background-image: url('/cover_images/{{ post.cover_image }}')">
+    <div
+      class="post-listing__cover"
+      style="background-image: url('/cover_images/{% if post.thumbnail_image %}{{ post.thumbnail_image }}{% else %}{{ post.cover_image }}{% endif %}')"
+    >
     </div>
 
     <div class="post-listing__item__meta">

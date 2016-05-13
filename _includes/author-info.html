@@ -10,6 +10,35 @@
     <p class="c-author-info__text__description">
       {{ include.description }}
     </p>
-    <div class="c-author-info__social"></div>
+    <div class="c-author-info__social">
+      {% if include.googleplus %}
+      <span class="c-author-info__social__item c-author-info__social__item--google-plus">
+        <a href="{{ include.googleplus }}">
+          <i class="fa fa-google-plus"></i>
+        </a>
+        </span>
+      {% endif %}
+      {% if include.twitter %}
+        <span class="c-author-info__social__item c-author-info__social__item--twitter">
+          <a href="{{ include.twitter }}">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </span>
+      {% endif %}
+      {% if include.facebook %}
+        <span class="c-author-info__social__item c-author-info__social__item--facebook">
+          <a href="{{ include.facebook }}">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </span>
+      {% endif %}
+      {% if include.linkedin %}
+        <span class="c-author-info__social__item c-author-info__social__item--linkedin">
+          <a href="{{ include.linkedin }}">
+            <i class="fa fa-linkedin"></i>
+          </a>
+        </span>
+      {% endif %}
+    </div>
   </div>
 </div> <!-- ./media -->

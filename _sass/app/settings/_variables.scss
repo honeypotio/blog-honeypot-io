@@ -14,9 +14,14 @@ $light-gray-color: #eeeeee;
 $light-gray-2-color: #f2f2f2;
 $very-light-gray-color: #f9f9f9;
 $dark-gray-3-color: #999999;
-$google-plus-color: #d53c15;
-$twitter-color: #55acee;
-$facebook-color: #43609c;
+$dark-gray-4-color: #1f2228;
+
+$social-colors: (
+  'google-plus': #d53c15,
+  'twitter': #55acee,
+  'facebook': #43609c,
+  'linkedin': #004879,
+);
 
 // FONTS
 $fs-1: 14px;
@@ -29,7 +34,9 @@ $fs-7: 15px;
 $fs-8: 34px;
 $fs-9: 16px;
 $fs-13: 25px;
+$fs-14: 20px;
 $fs-jumbo-2: 50px;
+$fs-jumbo-3: 41px;
 
 $fw-light: 100;
 $fw-normal: 400;

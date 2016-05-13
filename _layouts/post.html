@@ -2,6 +2,7 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
+{% assign cta = site.data.post_cta[page.cta] %}
 
 <div class="container">
   <div class="post">
@@ -65,11 +66,24 @@ layout: default
     {% include author-info.html
       avatar=author.avatar
       name=author.name
-      position="Cofounder"
+      position=author.position
       description=author.desc
+      googleplus=author.social.googleplus
+      twitter=author.social.twitter
+      facebook=author.social.facebook
+      linkedin=author.social.linkedin
     %}
 
   </div>
 </div>
+
+{% if cta %}
+  {% include post-cta.html
+    title=cta.title
+    subtitle=cta.subtitle
+    cta_link=cta.cta_link
+    cta_text=cta.cta_text
+  %}
+{% endif %}
 
 {% include footer.html bluefooter=true %}

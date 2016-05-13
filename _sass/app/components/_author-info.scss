@@ -27,5 +27,14 @@
     }
   }
 
-  &__social {}
+  &__social {
+    &__item {
+      @each $social in ('facebook', 'twitter', 'linkedin', 'google-plus') {
+        &--#{$social} a {
+          color: map-get($social-colors, $social);
+          text-decoration: none;
+        }
+      }
+    }
+  }
 }

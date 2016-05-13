@@ -47,29 +47,16 @@ $post-padding: 25px;
       margin: 0 3px;
     }
 
-    &--google-plus {
-      border-color: $google-plus-color;
+    @each $social in ('google-plus', 'facebook', 'twitter', 'linkedin') {
+      &--#{$social} {
+        border-color: map-get($social-colors, $social);
 
-      a {
-        color: $google-plus-color;
+        a {
+          color: map-get($social-colors, $social);
+        }
       }
     }
 
-    &--facebook {
-      border-color: $facebook-color;
-
-      a {
-        color: $facebook-color;
-      }
-    }
-
-    &--twitter {
-      border-color: $twitter-color;
-
-      a {
-        color: $twitter-color;
-      }
-    }
   }
 
   &__header {
