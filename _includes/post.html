@@ -5,7 +5,7 @@
   <a href="{{ post.url }}" class="post-listing__link">
     <div
       class="post-listing__cover"
-      style="background-image: url('/cover_images/{% if post.thumbnail_image %}{{ post.thumbnail_image }}{% else %}{{ post.cover_image }}{% endif %}')"
+      style="background-image: url('/cover_images/thumbnail_{{ post.cover_image }}')"
     >
     </div>
 
