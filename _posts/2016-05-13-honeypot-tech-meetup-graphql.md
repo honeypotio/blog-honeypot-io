@@ -18,7 +18,7 @@ There were three talks on the evening, giving an introduction to GraphQL and the
 
 ### Introduction to GraphQL: why, how and what?
 
-The first talk of the evening was by [Oleg Ilyenko][9], the author of Sangria, a Scala GraphQL implemtation.
+The first talk of the evening was by [Oleg Ilyenko][9], the author of Sangria, a Scala GraphQL implementation.
 
 <div class="responsive-slides">
   <iframe width="746" height="414" src="//olegilyenko.github.io/presentation-graphql-introduction/#/" frameborder="0" allowfullscreen=""></iframe>
