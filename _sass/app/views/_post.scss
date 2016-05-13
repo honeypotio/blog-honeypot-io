@@ -19,7 +19,7 @@ $post-padding: 25px;
   }
 
   &__sticky {
-    @include absolute(top 0 left -100px);
+    @include absolute(top 0 left -51px);
     display: none;
 
     @media #{$lg-up} {

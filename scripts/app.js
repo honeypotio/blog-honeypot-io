@@ -40,7 +40,7 @@ $(function() {
         $startElement.addClass(stickyClass)
           .attr('style', null)
           .css({
-            left: (postPosition.offset().left - 100) + 'px'
+            left: (postPosition.offset().left - 51) + 'px'
           });
       }
       else if(scrollTop > stopSticky) {
@@ -49,7 +49,7 @@ $(function() {
         $startElement.css({
           top: stopOffset + 'px',
           position: 'absolute',
-          left: '-100px'
+          left: '-51px'
         });
       } else {
         $startElement.removeClass(stickyClass).attr('style', null);
