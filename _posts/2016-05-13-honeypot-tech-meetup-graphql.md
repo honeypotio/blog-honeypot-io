@@ -46,6 +46,8 @@ In the final talk, Johannes Schickling, Co-founder of [graph.cool][13],  introdu
   <iframe width="746" height="414" src="//graphql-clients.surge.sh" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
+Please use the keyboard to scroll through this presentation! :)
+
 Twitter: [@_schickling][12]
 
 GitHub: [https://github.com/schickling][8]
