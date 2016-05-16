@@ -13,12 +13,12 @@ layout: default
       <div class="row">
           <div class="col-xs-6 text-left">
             {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--prev">&lt; Older articles</a>
+              <a href="{{ paginator.previous_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--prev">&lt; Newer articles</a>
             {% endif %}
           </div>
           <div class="col-xs-6 text-right">
             {% if paginator.next_page %}
-              <a href="{{ paginator.next_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--next">Newer articles &gt;</a>
+              <a href="{{ paginator.next_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--next">Older articles &gt;</a>
             {% endif %}
           </div>
       </div>
