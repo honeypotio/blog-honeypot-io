@@ -1,3 +1,5 @@
+$item-width: 848px;
+
 .post-listing {
   margin: 28px 0;
 
@@ -22,7 +24,11 @@
     margin: 0 auto 32px;
 
     @media #{$md-up} {
-      width: 848px;
+      width: $item-width;
+    }
+
+    &:last-of-type {
+      margin-bottom: 20px;
     }
 
     &__meta {
@@ -58,6 +64,23 @@
 
     .backdrop {
       display: none;
+    }
+  }
+
+  &__pagination {
+    width: 100%;
+
+    @media #{$md-up} {
+      margin: 0 auto;
+      width: $item-width;
+    }
+
+    &__link {
+      @include text($fs-9, $fw-normal, $blue-color);
+
+      @media #{$md-up} {
+        font-size: $fs-4;
+      }
     }
   }
 }

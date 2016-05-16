@@ -9,18 +9,19 @@ layout: default
       {% endfor %}
     </ul>
 
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-      {% else %}
-        <span class="previous">Previous</span>
-      {% endif %}
-      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-      {% else %}
-        <span class="next ">Next</span>
-      {% endif %}
+    <div class="post-listing__pagination">
+      <div class="row">
+          <div class="col-xs-6 text-left">
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--prev">&lt; Older articles</a>
+            {% endif %}
+          </div>
+          <div class="col-xs-6 text-right">
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--next">Newer articles &gt;</a>
+            {% endif %}
+          </div>
+      </div>
     </div>
 
   </div>

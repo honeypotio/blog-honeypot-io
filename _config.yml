@@ -7,7 +7,7 @@ url: "http://blog.honeypot.io"
 twitter_username: honeypotio
 github_username:  teamhoneypot
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 10
 
 # Build settings
 markdown: kramdown
