@@ -7,6 +7,8 @@ author: eyal_matzkel
 categories: Developer
 cover_image: Salary.png
 permalink:  2015-11-04-how-to-negotiate-your-salary-as-a-developer/
+featured: true
+featured_weight: 5
 importance: 2
 ---
 
