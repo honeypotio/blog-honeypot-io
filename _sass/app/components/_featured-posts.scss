@@ -1,0 +1,37 @@
+.c-featured-posts {
+  padding-top: 15px;
+
+  &__title {
+    @include text($fs-14, $fw-normal, $black-color);
+    margin-top: 0;
+    padding-bottom: 7px;
+    border-bottom: 1px solid $gray-3-color;
+
+    @media #{$md-up} {
+      margin-top: 20px;
+    }
+  }
+
+  &__item {
+    display: block;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid $gray-3-color;
+
+    &:last-of-type { border-bottom: none; }
+    a:hover { text-decoration: none; }
+
+    &__image {
+      vertical-align: middle;
+    }
+
+    &__title {
+      @include text($fs-4, $fw-normal, $black-color);
+      margin-bottom: 0;
+    }
+
+    &__author {
+      @include text($fs-9, $fw-light, $gray-2-color);
+    }
+  }
+}

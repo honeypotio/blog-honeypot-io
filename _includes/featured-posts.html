@@ -1,0 +1,20 @@
+<div class="c-featured-posts">
+  <h3 class="c-featured-posts__title">Featured articles</h3>
+  {% assign featured_posts = (site.posts | where: "featured", "true" | sort: 'featured_weight') %}
+  <ul class="media-list">
+    {% for post in featured_posts reversed limit:5 %}
+      <li class="media c-featured-posts__item">
+        {% assign author = site.data.authors[post.author] %}
+        <a href="{{ post.url }}">
+          <div class="media-left c-featured-posts__item__image">
+            <img src="/cover_images/{{post.cover_image}}" width="60" height="60" class="img-circle" alt="{{ post.title }}" />
+          </div>
+          <div class="media-body">
+            <h5 class="c-featured-posts__item__title">{{ post.title }}</h5>
+            <div class="c-featured-posts__item__author">{{ author.name }}</div>
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

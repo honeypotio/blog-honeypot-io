@@ -14,10 +14,6 @@ $post-padding: 25px;
   color: $text-1-color;
   background-color: $white-color;
 
-  @media #{$md-up} {
-    width: $post-page-width;
-  }
-
   &__sticky {
     @include absolute(top 0 left -51px);
     display: none;
@@ -69,10 +65,6 @@ $post-padding: 25px;
   &__cover {
     width: 100%;
     margin-bottom: 25px;
-
-    @media #{$md-up} {
-      width: $post-page-width;
-    }
   }
 
   &__meta {

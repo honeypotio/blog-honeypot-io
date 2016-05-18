@@ -1,5 +1,3 @@
-$item-width: 848px;
-
 .post-listing {
   margin: 28px 0;
 
@@ -22,10 +20,6 @@ $item-width: 848px;
     float: none;
     width: 100%;
     margin: 0 auto 32px;
-
-    @media #{$md-up} {
-      width: $item-width;
-    }
 
     &:last-of-type {
       margin-bottom: 20px;
@@ -69,11 +63,6 @@ $item-width: 848px;
 
   &__pagination {
     width: 100%;
-
-    @media #{$md-up} {
-      margin: 0 auto;
-      width: $item-width;
-    }
 
     &__link {
       @include text($fs-9, $fw-normal, $blue-color);

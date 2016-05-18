@@ -4,8 +4,10 @@
   background-color: $white-color;
 
   &__title {
-    @include text($fs-jumbo-3, $fw-light, $black-color);
+    @include text($fs-8, $fw-light, $black-color);
     margin-bottom: 7px;
+
+    @media #{$md-up} { font-size: $fs-jumbo-3; }
   }
   &__subtitle {
     @include text($fs-14, $fw-light, $dark-gray-4-color);
