@@ -26,8 +26,12 @@
     }
 
     &__meta {
-      padding: 24px;
+      padding: 10px;
       background-color: $white-color;
+
+      @media #{$md-up} {
+        padding: 24px;
+      }
     }
 
     &__block {
@@ -47,7 +51,11 @@
 
   &__cover {
     display: block;
-    height: 193px;
+    height: 143px;
+
+    @media #{$sm-up} {
+      height: 193px;
+    }
 
     &__tags {
       font-size: $fs-7;

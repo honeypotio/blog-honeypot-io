@@ -5,6 +5,14 @@
     padding-left: 10px;
   }
 
+  &__avatar {
+    @include sizing(47px);
+
+    @media #{$md-up} {
+      @include sizing(65px);
+    }
+  }
+
   &__title {
     @include text($fs-13, $fw-normal, $black-color);
     margin-top: 0px;
