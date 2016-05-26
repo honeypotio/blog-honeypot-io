@@ -58,7 +58,7 @@ We are not an agency and we are not a tech startup focused on one project - we a
 
 **What is it like to found a startup in Hamburg? What are the advantages?**
 
-We are not a startup anymore, but 10 years ago, when we a startup, there was very little going on in Berlin. Everyone said that it's not the right place to go. It changed hugely in the last five years of course. Nonetheless, there are some great developers in Hamburg and a  good demo scene. Recently I organized the [JS Unconf][5]{:target="_blank"} here in Hamburg and I also organize the [Hamburg Javascript meetup][6]{:target="_blank"}. Aside from work,  Hamburg is a nice city in which to live – it's small and focused. Its super green. People are very nice.
+We are not a startup anymore, but 10 years ago, when we a startup, there was very little going on in Berlin. Everyone said that it's not the right place to go. It changed hugely in the last five years of course. Nonetheless, there are some great developers in Hamburg and a  good demo scene. Recently I co-organized the [JSUnconf][5]{:target="_blank"} here in Hamburg and I also organize the [Hamburg JavaScript meetup][6]{:target="_blank"}.  Aside from work,  Hamburg is a nice city in which to live – it's small and focused. Its super green. People are very nice.
 
 **What excites you about the future of maps?** 
 
