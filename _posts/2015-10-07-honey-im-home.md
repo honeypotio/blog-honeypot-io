@@ -13,6 +13,9 @@ importance: 2
 
 Hello! Welcome to our first Honeypot blog post. We launched the platform last Thursday to some very nice press from the likes of [TechCrunch][3]{:target="_blank"}, [VentureBeat][4]{:target="_blank"} and [Gruenderszene][5]{:target="_blank"}. We have also had great feedback from the 400+ new users who signed up in the first week.
 
+<!--more--> 
+
+
 So now that we have launched it's time to ask what is Honeypot all about?
 
 ### We believe IT recruitment isn’t working for anyone

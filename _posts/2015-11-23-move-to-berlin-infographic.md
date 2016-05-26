@@ -10,6 +10,12 @@ permalink:  moving-to-berlin-infographic/
 importance: 2
 ---
 
+Thinking about moving to Berlin, but confused about all the paperwork. Follow our infographic for a smooth transition to the German capital.
+
+<!--more--> 
+
+
+
 ## Honeypot places developers from all over the world with Berlin's most exciting startups. [Signup][1] to get offers with tech stack and salary upfront
 
 * * *

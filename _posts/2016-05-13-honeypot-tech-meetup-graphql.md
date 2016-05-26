@@ -10,7 +10,9 @@ permalink:  honeypot-tech-meetup-graphql/
 importance: 2
 ---
 
-We hosted our first tech meetup last Wednesday, to a packed crowd of about 65 developers, in the new offices of [TechCode][1] near Alexanderplatz.
+We hosted our first tech meetup last Wednesday, to a packed crowd of about 65 developers, in the new offices of [TechCode][1] near Alexanderplatz. GraphQL was the topic and we had three talks from Oleg Iiyenko, author of Sangria, a Scala GraphQL implementation, Johannes Schickling, Co-founder of Graph.cool and Yann Simon, a Scala backend developer. 
+
+<!--more--> 
 
 Facebook released an initial [GraphQL specification in July 2015][4], alongside a [Javascript reference implementation][5]. Since that time, GraphQL implmentations in various languages have emerged.
 
@@ -28,7 +30,7 @@ Twitter: [@easyangel][10]
 
 GitHub: [OlegIlyenko][6]
 
-### Optimizing response times with GraphQL - an experiment with MongoDB and ElasticSearch
+### Optimizing response times with GraphQL - an experiment with MongoDB and ElasticSearch by Yann Simon
 
 <div class="responsive-slides">
   <iframe src="//www.slideshare.net/slideshow/embed_code/key/JTEP86A2Uxm4u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yann_s/performance-optimisation-with-graphql" title="Performance optimisation with GraphQL" target="_blank">Performance optimisation with GraphQL</a> </strong> from <strong><a href="//www.slideshare.net/yann_s" target="_blank">yann_s</a></strong> </div>

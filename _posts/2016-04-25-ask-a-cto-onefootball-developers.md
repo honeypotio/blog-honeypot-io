@@ -12,7 +12,8 @@ importance: 2
 
 Onefootball provides live scores, news, statistics, videos and live audio broadcasts to football fans in more than 200 countries.We sat down with [Grzegorz Krumpholz][1]{:target="_blank"}, the CTO of [Onefootball][2]{:target="_blank"} to discuss microservices, migrating to Golang, Wisła Kraków and preparing for the surge in users during the 2016 Euro Championships.
 
-Onefootball is currently hiring Android developers, iOS developers and Golang developers.
+<!--more--> 
+
 
 ![onefootball overview](/assets/images/box.png) 
 

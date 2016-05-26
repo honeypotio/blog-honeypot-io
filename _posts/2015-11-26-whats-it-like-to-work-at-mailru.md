@@ -12,6 +12,9 @@ importance: 2
 
 [Mail.Ru][1]{:target="_blank"} launched in 1998 and today is the largest email service in Russia. As of October 2015, it had 62.6 million monthly users. The email service delivers 600 million messages per day and has a data storage of over 30 petabytes. At [Highload 2015][2]{:target="_blank"}, we sat down and chatted to [Dennis Anikin][3]{:target="_blank"}, the Director of Engineering of Cloud and Email Service. He told us about Mail.Ru's plans to migrate their email service and the advantages of Tarnatool, their open-source NoSQL database management system.
 
+<!--more--> 
+
+
 **What experience do you have with mail systems and cloud storage?**
 
 I’ve been doing email services all my life pretty much.  Before Mail.Ru, I worked for Yandex and RBC, both in email services.  Now I’m the Director of Engineering of Cloud and Email Service at Mail.Ru. It's the sixth largest email service in the world.

@@ -10,17 +10,18 @@ permalink:  germanys-biggest-startups/
 importance: 2
 ---
 
-![germanys biggest startups](/assets/images/top30.png)
+Berlin is home to 19 of Germany’s largest startups. Combined those startups secured $3,272 million in funding from January to September 2015. Following Berlin, the most successful startup cities, in terms of funding, are the northerly port city of Hamburg ($852 million) and the southerly Bavarian capital of Munich ($427 million). 
+
+<!--more--> 
 
 >Growth in Germany has outpaced other European tech regions such as the UK, Sweden or France. This momentum is driven by the key regional tech hubs Berlin, Hamburg and Munich.
 
 That's what EY had to say about [the European startup scene][1] and we couldn't agree more. 
 
-Berlin is home to 19 of Germany’s largest startups. Combined those startups secured $3,272 million in funding from January to September 2015. 
 
-Following Berlin, the most successful startup cities, in terms of funding, are the northerly port city of Hamburg ($852 million) and the southerly Bavarian capital of Munich ($427 million). 
+![germanys biggest startups](/assets/images/top30.png)
 
-Things are looking pretty rosy here in Deutschland! 
+
 
 * * *
 

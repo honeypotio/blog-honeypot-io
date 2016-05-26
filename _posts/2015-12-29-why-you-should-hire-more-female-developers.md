@@ -12,6 +12,8 @@ importance: 2
 
 *Caring about the balance of women and men in your tech team makes sense not just from an equality perspective, but also from a business standpoint. With ever increasing numbers of women graduating from science, maths and technology subjects in Germany, the time is right to consider diversity as a business imperative rather than an simple box-ticking exercise.*
 
+<!--more--> 
+
 
 **Science, maths and technology  subjects are more popular among female graduates in Germany than in the US**: from 2003 to 2012, the number of female graduates as a percentage of total female graduates has been consistently higher in Germany than in the US.
 

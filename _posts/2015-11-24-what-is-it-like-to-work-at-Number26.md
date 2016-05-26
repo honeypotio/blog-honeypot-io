@@ -13,6 +13,9 @@ importance: 2
 
 [Christian Rebernik][1]{:target="_blank"} is CTO of [Number26][8]{:target="_blank"}. Prior to joining Germany’s first digital bank, he was CTO  at Zanox and Parship. We met Christian at the [Data Natives][2]{:target="_blank"} conference in Berlin and discussed Number26’s tech stack, why its easy to attract developers to FinTech and the company's plans for new features.
 
+<!--more--> 
+
+
 **Hello Christian! How big is your tech team at Number 26?**
 
 We are currently 20 people - and growing. Our team is made up of developers, data scientists, quality engineers and technical product managers.

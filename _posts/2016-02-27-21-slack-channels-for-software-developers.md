@@ -14,6 +14,8 @@ importance: 2
 
 **At Honeypot, we are big fans of Slack. To share the love, we have come up with a (slightly incomplete) list of the best slack channels for developers. Get slacking people!** 
 
+<!--more--> 
+
 
 ### 1. [Hashtag Developers][1]{:target="_blank"}
 

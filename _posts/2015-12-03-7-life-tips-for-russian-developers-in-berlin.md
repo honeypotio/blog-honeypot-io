@@ -13,6 +13,9 @@ importance: 2
 
 Relocating to another country is scary and complicated.  Amongst all those cultural clashes, one of the biggest comforts is help and advice from fellow countrymen. As a Russian-speaker myself and a (fairly) recent arrival in Berlin, this post is designed as a guide to the Russian-speaking IT-community in the German capital.
 
+<!--more--> 
+
+
 1. **Russians are a majority minority:** Berlin is a city of contrast, where the east and west collide to form a unique culture, but what makes the city truely different from the rest of Germany is its diversity.  Berlin is a city of immigrants. There are more than 600,000 non-Germans from more than 190 countries living here, accounting for 18% of the population. A further 30% of Berliners are first generation German, meaning their parents are immigrants. The biggest expat-communities are Polish, Turkish and Russian. According to different sources there are around 200-300,000 Russian-speaking people living in Berlin, the equivalent of a medium-sized German city.
 
 2. **There are two options for visas**: as for relocation process, you may check our recent blog posts about [moving to Berlin][12]{:target="_blank"} and overcoming the bureaucracy hurdles. Typically Russian-speaking developers are eligible for the single residence visa and the [EU Blue Card visa][13]{:target="_blank"}. Companies usually help, assisting with all the necessary documents for the visa and in some cases providing relocation bonuses and/or travel coverage.

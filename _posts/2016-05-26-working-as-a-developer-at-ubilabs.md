@@ -10,13 +10,14 @@ permalink:  working-as-a-developer-at-ubilabs/
 importance: 2
 ---
 
-![ubilabs overview](/assets/images/ubilabs.png)
 
 Ubilabs are specialists in interactive map applications. The Hamburg-based company are continuously pushing the boundaries, from mapping Yosemite’s iconic [El Capitan][1]{:target="_blank"} to creating a streetview of the world’s largest model railway. At the technical helm is Martin Kleppe, Head of Development and a passionate developer and active member of JS community. 
 
 <!--more-->  
 
-**You mapped El Capitan, the mystical summit which over 1,000 metres high, at the centre of Yosemite National Park in California. Can you tell us about the project?**
+![ubilabs overview](/assets/images/ubilabs.png)
+
+**Ubilabs mapped El Capitan, the mystical summit which over 1,000 metres high, at the centre of Yosemite National Park in California. Can you tell us about the project?**
 
 Google has been running its Trekker Program since 2013 with the aim of making some of the world’s most beautiful peaks accessible to everyone. El Capitan is the first vertical street view trek that Google have ever done. We were responsible for designing and launching the Google Street View Trek microsite. It was a very exciting project to work on!
 
