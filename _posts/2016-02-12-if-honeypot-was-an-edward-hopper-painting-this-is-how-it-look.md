@@ -5,7 +5,7 @@ date:    2016-02-09 09:01:00
 layout:  post
 author:  emma_tracey
 categories: Company
-cover_image: honeypot.JPG
+cover_image: honeypot.png
 permalink:  if-honeypot-was-an-edward-hopper-painting-this-is-how-he-would-look/
 importance: 2
 ---
