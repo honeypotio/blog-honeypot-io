@@ -5,7 +5,7 @@ date: 2015-11-23 12:30:15
 layout: post
 author: johanna_dahlroos
 categories: Developer
-cover_image: Move-to-Berlin.png
+cover_image: move-to-berlin.png
 permalink:  moving-to-berlin-infographic/
 importance: 2
 ---

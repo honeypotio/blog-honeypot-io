@@ -5,7 +5,7 @@ date: 2015-11-26 15:44:15
 layout: post
 author: emma_tracey
 categories: Developer
-cover_image: anikin.jpg
+cover_image: anikin.png
 permalink:  what's-it-like-to-work-at-mailru/
 importance: 2
 ---

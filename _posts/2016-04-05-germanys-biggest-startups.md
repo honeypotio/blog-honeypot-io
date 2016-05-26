@@ -5,7 +5,7 @@ date:    2016-04-05 19:16:35
 layout:  post
 author:  johanna_dahlroos
 categories: Developer
-cover_image: biggest-startups.png
+cover_image: biggest-german-startups.png
 permalink:  germanys-biggest-startups/
 importance: 2
 ---

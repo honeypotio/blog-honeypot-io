@@ -5,7 +5,7 @@ date: 2015-10-07 16:27:15
 layout: post
 author: kaya_taner
 categories: Company
-cover_image: Honey.png
+cover_image: honey.png
 permalink:  2015-10-07-honey-im-home/
 featured: true
 featured_weight: 4

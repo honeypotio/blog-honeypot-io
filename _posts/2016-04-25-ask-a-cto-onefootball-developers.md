@@ -5,7 +5,7 @@ date:    2016-04-25 10:15:31
 layout:  post
 author:  emma_tracey
 categories: Developer
-cover_image: onefootball-cto.jpg
+cover_image: onefootball-cto.png
 permalink:  ask-a-cto-onefootball-developers/
 importance: 2
 ---
