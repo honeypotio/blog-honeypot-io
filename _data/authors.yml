@@ -2,6 +2,10 @@ hugo_duksis:
   name: Hugo Duksis
   desc: Hugo Duksis is a software developer at Honeypot. He is a highly religious developer believing in small code bases, fast tests and language-agnostic application architecture.
   avatar: hugo-duksis.jpg
+giovanni_capuano:
+  name: Giovanni Capuano
+  desc: Giovanni Capuano is a software developer at Honeypot. Passionate of Japanese culture and お茶. He loves designing and working on small, fast, well-tested and language-independent code bases that talk each other and are built with the technologies that most suite them.
+  avatar: giovanni-capuano.jpg
 kaya_taner:
   name: Kaya Taner
   desc: Founder and CEO
@@ -44,5 +48,5 @@ ewe_grajko:
   avatar: ewe.png
 kate_nicolaisen:
   name: Kathrine Nicolaisen
-  desc: Kathrine is a Talent Rep. at Honeypot. Originally from Denmark, she spent 4 years in London focusing on art, fashion and business, before moving to Berlin to explore the tech and start-up scene in the city. 
+  desc: Kathrine is a Talent Rep. at Honeypot. Originally from Denmark, she spent 4 years in London focusing on art, fashion and business, before moving to Berlin to explore the tech and start-up scene in the city.
   avatar: kate.png
