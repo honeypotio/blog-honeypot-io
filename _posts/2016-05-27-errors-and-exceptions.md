@@ -1,6 +1,6 @@
 ---
 title:   "Errors and exceptions (in Rust)"
-subtitle: An introduction on errors and exceptions handling using Rust as example
+subtitle: An introduction to errors and exceptions handling using Rust as example
 date:    2016-05-27 12:03:00
 layout:  post
 author:  giovanni_capuano
@@ -11,18 +11,16 @@ importance: 2
 ---
 
 ### General definitions
-**Error**: An unusual and unexpected situation in the running program that can be resolved only by fixing
-the program (i.e. *out of memory*).
+**Error**: An unusual and unexpected situation in the running program that can be resolved only by fixing the program (i.e. *out of memory*).
 
-**Exception**: An expected but unpredictable situation that happens at runtime (i.e. *read protected file*).
+**Exception**: An expected and irregular situation that happens at runtime (i.e. *read protected file*).
 
-The main difference here is that errors are **unexpected** (and very often lead to exploitable bugs) and often
-hard to predict (did someone whisper *overflow*?), while exceptions are expected and usually lead to a crash
-of the application when not predicted and then handled (for example when you want to modify a file that actually
-does not exist but you didn't think about this possibility).
+The main difference here is that errors are **unexpected** (and very often lead to exploitable bugs) and are often hard to predict
+(did someone whisper *overflow*?), while exceptions are expected (you know that they *could* happen) and usually lead to a crash
+of the application when not handled (for example when you want to modify a file that actually does not exist but you didn't think about this possibility).
 
 ### How popular languages deal with exceptions
-Programming languages can be splitted in four categories based on the way they handle exceptions:
+Programming languages can be split into four categories based on the way they handle exceptions:
 
 - Strict exception handling: the language provides full and explicit coverage to exceptions. Exceptions are defined as classes (either built-in and defined
 by the developer) that represent the type of exception they handle. Methods are shipped with a list of exceptions they can rise (explicitely or not)
@@ -37,8 +35,8 @@ The most popular language that implements the features of the first category is 
 The second category is basically huge, and includes most of the languages over here: *C++, Python, Ruby, PHP, JavaScript* and so on.
 
 Usually handling exceptions in this very OOPish way is quite expensive in terms of resources. The *C* programming language does not have any knowledge
-about exceptions and most of projects (the Linux kernel included) handle them with `if`s and `goto`s to jump to the block where a task gets rescued.
-It's obvious that this trait asks developers to be completely aware about all the edge cases of their code and to write a expecially clean code.
+about exceptions and most projects (the Linux kernel included) handle them with `if`s and `goto`s to jump to the block where a task gets rescued.
+It's obvious that this trait asks developers to be completely aware about all the edge cases of their code and to write especially clean code.
 
 The last category is the most appreciated inside the functional programming world. The concept is that instead of returning `NULL`s or raising
 exceptions in case of failures (i.e. an hashtable that does not include a given key), an option type is used that can either encapsulates a value
@@ -48,7 +46,7 @@ an `Option` type that accepts `None` or `Some(x)`. Through decostruction via pat
 Let's see shortly what in practice this does mean.
 
 ### Exception handling in Rust
-So, this section wants just to be a little go deeper on what it's been said previously. Please look at [this article](http://blog.burntsushi.net/rust-error-handling/)
+So, this section wants to go a little deeper on what it's been said previously. Please look at [this article](http://blog.burntsushi.net/rust-error-handling/)
 and the [Rust book](https://doc.rust-lang.org/book/) for a great learning about this!
 
 As said, talking about exceptions, the only tools Rust gives to developers are `Option<T>` and `Result<T, E>`. They are everything but magic,
@@ -56,7 +54,7 @@ being so easy that you can implement them by yourself in a couple of lines. Not 
 their usage is almost cost-free.
 
 ### `Option<T>`
- I'm the kind of person who prefers to leave the code to talk for me. Please have a look at
+I'm the kind of person who prefers to leave the code to talk for itself. Please have a look at
 [this snippet](https://play.rust-lang.org/?gist=2636dd21ba2b1317ae0d4287bb5bc862&version=stable&backtrace=0).
 
 We define a dictionary containing the name of the books as key and the count of volumes in the stock as value.
@@ -76,7 +74,7 @@ We don't care that our returned value is an `Option<T>` instead of the plain val
 `unwrap_or()` and `unwrap_or_else()` ([documented here](https://doc.rust-lang.org/std/option/enum.Option.html#method.unwrap)) are usually everything
 we need to keep our code safe from unexpected returning values.
 
-We can live so in a world without `NULL`. It sounds kinda like a dream, isn't it? But it's real.
+We can live so in a world without `NULL`. It sounds kinda like a dream, doesn't it? But it's real.
 
 ### `Result<T, E>`
 This thing looks really like an exception class. If option types represent a possibility for a value to exists, result types represent a success
@@ -92,7 +90,7 @@ Initially we said that errors are unexpected and unusual situations in which the
 Most of the languages represents the most common errors with actual exception (i.e. `OutOfMemoryError`) but they're not really supposed to be handled,
 and so what they do are only giving a reasonable message about the reason of the crash of the application.
 
-Smart compilers like Rust's, help avoiding errors in compile-time, providing strict rules and checkings on every thing the programmer does, like
+Smart compilers like Rust's, help avoiding errors in compile-time, providing strict rules and checkings on everything the programmer does, like
 the ones related to the memory management.
 
 In case of errors like an index out of an array's bound (which index can be inputted by the user and cannot always be expected, for example),
