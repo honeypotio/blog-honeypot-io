@@ -3,14 +3,14 @@ title:   Honeypot launches in Hamburg!
 subtitle: Moin moin!
 date:    2016-05-30 10:06:08
 layout:  post
-author:  emmalou
+author:  emma_tracey
 categories: Company
 cover_image: hello_hamburg.png
 permalink:  honeypot-launches-in-hamburg/
 importance: 2
 ---
 
-### Moin Moin Hamburg! Honeypot's here!  
+Moin Moin Hamburg! Honeypot's here!  
 
 <!--more--> 
 
