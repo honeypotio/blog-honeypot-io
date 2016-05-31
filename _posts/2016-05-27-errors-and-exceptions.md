@@ -15,6 +15,8 @@ importance: 2
 
 **Exception**: An expected and irregular situation that happens at runtime (i.e. *read-protected file*).
 
+<!--more-->
+
 The main difference here is that errors are **unexpected** (and usually lead to exploitable bugs) and are often hard to predict
 (did someone whisper *overflow*?), while exceptions are expected (you know that they *could* happen) and usually lead to a crash
 of the application when not handled (for example when you want to modify a file that actually does not exist but you didn't think about this possibility).
