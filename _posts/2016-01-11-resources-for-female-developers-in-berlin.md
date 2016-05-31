@@ -12,6 +12,9 @@ importance: 2
 
 *As a rapidly growing European startup hub, the number of [jobs for developers in Berlin][11] is ever increasing.  And along with that development comes a vibrant IT-community with plenty of events and meetups to go to. In order to bring together the female contingent of this community and share experiences, knowledge and help each others on the career track, we have created a list of meetups and groups for female developers in Berlin.*
 
+<!--more--> 
+
+
 ## Geek Girls Carrots
 
 **[Geek Girls Carrots][1]{:target="_blank"}** is a community focused on bringing women in tech together for educational and motivational purposes. Geek Girls Carrots organizes meetups, workshops and other events in Poland, Germany, USA, Luxembourg, France, Ireland, UK, Japan, Portugal, Gibraltar and Israel. The Berlin group has more than 1000 members and organizes meetups with talks, dedicated to various IT-related subjects, like big data and product management.

@@ -13,6 +13,9 @@ importance: 2
 *According to [Kevin Goldsmith][2]{:target=_"blank"}, VP of Engineering at Spotify, the Swedish music-streaming mammoth's success all comes down to its team culture. We sat down with the Carnegie-Mellon educated, Chicago-native at [MobiConf Krakow][12]{:target="_blank"}. Over a weak coffee and prior to a strong vodka, he told us all about the fine balance between autonomy and chaos, preserving start-up culture in a large organizations, his escape from Microsoft and why failure is all part and parcel of the life of a continuous improvement organization.*
 
 
+<!--more--> 
+
+
 **Hi Kevin! Spotify uses phrases like “tribe” and “squad” and “alliance”.  Our first question has to be does Spotify just not like the word “team”?**
 
 

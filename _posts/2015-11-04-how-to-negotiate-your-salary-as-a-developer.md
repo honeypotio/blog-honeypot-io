@@ -14,6 +14,9 @@ importance: 2
 
 Salary is one of the biggest taboo topics in work environments. Developers, like other employees, want to know whether they're getting paid well enough, how they rank compared to their peers, and whether they could be getting more somewhere else. Yet, people have a hard time asking for a raise – in fact, “how to ask for a raise” is one of the highest ranking “how to” questions on Google.
 
+<!--more--> 
+
+
 The war for talented developers is no secret. According to the European Commission, the current shortage of coding ability in Europe could result in a deficit of up to 900,000 ICT professionals by 2020. But when looking at compensation, it’s important to appreciate it as a whole. Some companies reward in more than just the salary - with prestige, equity or benefits. The following are some tips which will give clarity to your renegotiations.
 
 **Understand how the market determines salaries**

@@ -14,6 +14,9 @@ importance: 2
 
 My girlfriend and I recently moved to Berlin. Given my German citizenship and extensive stay in the U.S., I have had my fair share of experiences with immigration services, the countless barriers and hurdles, the ever “friendly” and “welcoming” government employees and, of course the obscene application and processing fees that would be far more usefully put towards rent, food, or even a brief get-away.
 
+<!--more--> 
+
+
 Unfortunately the German process is just as frustrating and unpleasant. But the following is a practical step-by-step guide detailing how we successfully completed the visa process, the little  little things that we encountered to be unexpectedly useful, and a few words of wisdom.
 
 **1. Arrive in Germany**

@@ -12,6 +12,8 @@ importance: 2
 
 I talk to a lot of frontend developers (and backend and mobile too!) and have begun to get a feeling for the types of questions which open up conversation, allowing frontend engineers a chance to express their ideas. I want to share 7 of my favourites questions, which could form the basis of a good bank of non-technical interview questions for a frontend developer.
 
+<!--more--> 
+
 **1. Can you describe your workflow when you create a web page?**
 
 The workflow of a modern front-end developer has changed vastly in the past four or five years. A huge array of tools are available to build organized, scalable web applications by abstracting out many of the complexities and automating repetitive tasks. Each developer will share a different workflow which will give some insight into their organizational capacity and general technical preferences.

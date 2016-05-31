@@ -12,11 +12,7 @@ importance: 2
 
 *Berlin’s packs in numerous developer conferences throughout the year - so many that it can be hard to keep track. This post lists some of our favourite developer conferences in Berlin. The list focuses on events running from summer onwards, giving you time to book early!*
 
-* * *
-
-## Join [Honeypot][9] and work for companies which give you the time to go to these conferences!
-
-* * *
+<!--more--> 
 
 ## [Berlin Web Week][1]{:target=_"blank"}
 
@@ -96,6 +92,12 @@ The name of this conference comes from a mix of the English word “beyond” an
 
 GOTO is focused on enterprise software development for team leads, architects and project managers.  The conference has 8 tracks, including Agile, Cloud, Enterprise, Internet of Things, Programming Languages and Development. Security. Solution’s Track and Workshops, meaning it covers a broad spectre of interest.  The conference also has some excellent networking opportunities
 
+
+* * *
+
+## Join [Honeypot][9] and work for companies which give you the time to go to these conferences!
+
+* * *
 
 [1]: http://berlinwebweek.de/?lang=en
 [2]: http://de.droidcon.com/

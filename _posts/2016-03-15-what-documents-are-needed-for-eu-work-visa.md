@@ -10,7 +10,9 @@ permalink:  step-by-step-guide-to-the-german-visa-for-developers
 importance: 2
 ---
 
-Honeypot recently [launched free visa support][6] for all non-EU developers hired through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction.
+Honeypot recently [launched free visa support][6] for all non-EU developers hired through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the visa process here in Germany.
+
+<!--more--> 
 
 [70 percent of software developers working in Silicon Valley in 2013 were foreign-born][4], fuelling
 innovation in the Bay area. Aspiring startup hubs in European cities, often looking to mirror San Francisco’s success, traditionally

@@ -12,6 +12,9 @@ importance: 2
 
 *We researched 58 CTOs from Berlin’s biggest startups to reveal what it takes to be a CTO in this city. Combined our sample companies have raised more than  $3.06 billion in funding and span 26 industries. The research reveals the nationalities, educational and work background, years of experience and skills of Berlin's CTOs.*
 
+<!--more--> 
+
+
 ## Nationalities
 
 Berlin’s CTOs are fairly homogenous in terms of nationality, with close to ​ 60% hailing from Germany​ . French and American are the second most common nationalities and following this there is a diverse spread covering 13 nationalities in total.

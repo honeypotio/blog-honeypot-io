@@ -10,6 +10,11 @@ permalink:  how-much-does-a-developer-earn-in-berlin/
 importance: 2
 ---
 
+Interested in working as a developer in Berlin? Want to know how much you can earn? Check out our handy infographic for more details about salaries for developers in Berlin.
+
+<!--more--> 
+
+
 ![developer-salaries-berlin](/assets/images/how-much-does-a-developer-earn.png)
 
 * * *

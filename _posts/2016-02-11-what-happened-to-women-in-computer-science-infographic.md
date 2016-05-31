@@ -12,6 +12,9 @@ importance: 2
 
 *In the mid-1980s, while the number of women entering medicine, law and physical science studies began to accelerate, the number of women entering computer science began to fall dramatically. This infographic asks why and looks at the impact that shift has had on modern day software development.*
 
+<!--more--> 
+
+
 * * *
 
 ## If you are a female developer looking for a job in Berlin, [signup][1] to Honeypot and have cool tech companies apply directly to you! 

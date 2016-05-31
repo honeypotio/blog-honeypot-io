@@ -12,6 +12,9 @@ importance: 2
 
 Hiring developers is hard. Really hard.  And it's hard for many reasons. It's not just  the scarcity of good developers that's challenging, it's also the difficulty of understanding their skills, judging their code, measuring cultural fit, and on and on it goes.
 
+<!--more--> 
+
+
 Honeypot was founded with all this in mind. We have been through all that pain and want to make the process of hiring the perfect developer a little easier for all sides. So here’s the five ways we are making hiring developers more efficient:
 
 1.  **How can you understand when a developer’s code is good or bad?**

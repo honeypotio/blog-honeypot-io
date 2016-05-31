@@ -12,6 +12,9 @@ importance: 2
 
 *We had a little fun over the new year, by dressing our little Honeypot mascot up as some famous computer programmers, developers and scientists from history.  Check out the full results of #12devs below!*
 
+<!--more--> 
+
+
 ## Day 1: Yukihiro Matsumoto
 
 Matsumoto (a.k.a Matz) is the chief designer of the Ruby programming language.

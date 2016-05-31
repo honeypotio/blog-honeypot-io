@@ -12,6 +12,9 @@ importance: 2
 
 Did you know there are over 1800 active startup companies operating in Berlin? To discover more about them, we took a 10% sample sorted them by industry and mapped them by U-bahn station. The following post details our findings. 
 
+<!--more--> 
+
+
 [![berlin's startups](/assets/images/startupsmall2.png)](/assets/images/startup2.png)
 
 ## East Side verus West Side

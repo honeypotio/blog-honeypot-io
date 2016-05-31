@@ -12,6 +12,9 @@ importance: 2
 
 You have heard you are being entered into a batch. But you’re a bit confused about what it is, how it works and why Honeypot uses it to organize your job hunt. In this post, we chat to Fabio, one of Honeypot’s hardworking Talent Reps to figure it all out.
 
+<!--more--> 
+
+
 **Ok, first things first, what exactly is a batch?**
 
 A batch is a group of thirty plus developer profiles which become visible to hiring companies at the same time. We release a batch every two weeks and they are largely composed of new profiles.
