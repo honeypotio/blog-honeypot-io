@@ -17,7 +17,7 @@ When you think of startups in Germany, the first thing that comes to mind is Ber
 [![berlin's startups](/assets/images/hamburg_startup_map.png)](/assets/images/hamburg-startup-bigger.png)
 
 
-NextMedia Hamburg estimates there were [500 innovative digital startups][1]{:target="_blank"} in 2014 in Hamburg. To celebrate [Honeypot’s launch in the Hansestadt][2]{:target="_blank"} {:target="_blank"} we mapped 157 startups onto Hamburg’s train system and categorised them by industry. Our findings reveal a burgeoning FinTech industry, an emerging eCommerce play set to challenge Berlin’s dominance and vibrant Games and AdTech startups thriving with support from the city's more traditional industries. 
+NextMedia Hamburg estimates there were [500 innovative digital startups][1]{:target="_blank"} in 2014 in Hamburg. To celebrate [Honeypot’s launch in the Hansestadt][2]{:target="_blank"} we mapped 157 startups onto Hamburg’s train system and categorised them by industry. Our findings reveal a burgeoning FinTech industry, an emerging eCommerce play set to challenge Berlin’s dominance and vibrant Games and AdTech startups thriving with support from the city's more traditional industries. 
 
 
 
