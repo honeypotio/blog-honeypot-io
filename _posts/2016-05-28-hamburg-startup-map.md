@@ -169,7 +169,7 @@ While Hamburg's local VCs continue to grow, international investment is also pla
 
 ### [Honeypot][62] launched in Hamburg this week and will be hosting its first event, [HR in Tech][63], on June 16th at 7pm. Join us for an evening of learning and exchange and to share a beer with the team. 
 
-To signup as a developer to Honeypot, click [here][68]. To signup as a company to Honeypot, click [here][69]. Or just come and say hi on any of these channels: [Facebook][67]|[Twitter][66]|[GitHub][65]|[LinkedIn][64] 
+To signup as a developer to Honeypot, click [here][68]. To signup as a company to Honeypot, click [here][69]. Or just come and say hi on [Facebook][67], [Twitter][66], [GitHub][65] or [LinkedIn][64].  
 
 
 
