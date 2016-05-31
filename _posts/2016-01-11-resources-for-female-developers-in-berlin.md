@@ -10,7 +10,7 @@ permalink:  resources-for-female-developers-in-berlin/
 importance: 2
 ---
 
-*As a rapidly growing European startup hub, the number of [jobs for developers in Berlin][11] is ever increasing.  And along with that development comes a vibrant IT-community with plenty of events and meetups to go to. In order to bring together the female contingent of this community and share experiences, knowledge and help each others on the career track, we have created a list of meetups and groups for female developers in Berlin.*
+As a rapidly growing European startup hub, the number of [jobs for developers in Berlin][11] is ever increasing.  And along with that development comes a vibrant IT-community with plenty of events and meetups to go to. In order to bring together the female contingent of this community and share experiences, knowledge and help each others on the career track, we have created a list of meetups and groups for female developers in Berlin.
 
 <!--more--> 
 

@@ -10,7 +10,7 @@ permalink:  how-improving-your-workflow-on-honeypot-improves-your-hiring-efficie
 importance: 2
 ---
 
-### [80% of recruiters][1]{:target="_blank"} believe they have a good understanding of the jobs they are recruiting for, but *just* 39% of hiring managers agree. Why does this startling disconnect between recruiters and hiring managers exist?
+[80% of recruiters][1]{:target="_blank"} believe they have a good understanding of the jobs they are recruiting for, but *just* 39% of hiring managers agree. Why does this startling disconnect between recruiters and hiring managers exist?
 
 <!--more--> 
 

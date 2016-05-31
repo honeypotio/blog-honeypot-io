@@ -10,7 +10,7 @@ permalink:  why-you-should-hire-more-female-developers/
 importance: 2
 ---
 
-*Caring about the balance of women and men in your tech team makes sense not just from an equality perspective, but also from a business standpoint. With ever increasing numbers of women graduating from science, maths and technology subjects in Germany, the time is right to consider diversity as a business imperative rather than an simple box-ticking exercise.*
+Caring about the balance of women and men in your tech team makes sense not just from an equality perspective, but also from a business standpoint. With ever increasing numbers of women graduating from science, maths and technology subjects in Germany, the time is right to consider diversity as a business imperative rather than an simple box-ticking exercise.
 
 <!--more--> 
 

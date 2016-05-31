@@ -10,7 +10,7 @@ permalink:  12-famous-computer-programmers-as-bears/
 importance: 2
 ---
 
-*We had a little fun over the new year, by dressing our little Honeypot mascot up as some famous computer programmers, developers and scientists from history.  Check out the full results of #12devs below!*
+We had a little fun over the new year, by dressing our little Honeypot mascot up as some famous computer programmers, developers and scientists from history.  Check out the full results of #12devs below!
 
 <!--more--> 
 

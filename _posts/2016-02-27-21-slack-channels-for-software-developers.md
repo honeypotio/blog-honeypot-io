@@ -10,9 +10,7 @@ permalink:  21-slack-channels-for-software-developers/
 importance: 2
 ---
 
-**Slack channels are to our generation what forums were to the nineties generation. Outside of the office, the team messaging tool is being used to link groups of people passionate about certian niche topics.** 
-
-**At Honeypot, we are big fans of Slack. To share the love, we have come up with a (slightly incomplete) list of the best slack channels for developers. Get slacking people!** 
+Slack channels are to our generation what forums were to the nineties generation. Outside of the office, the team messaging tool is being used to link groups of people passionate about certian niche topics. At Honeypot, we are big fans of Slack. To share the love, we have come up with a (slightly incomplete) list of the best slack channels for developers. Get slacking people!
 
 <!--more--> 
 

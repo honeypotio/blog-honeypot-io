@@ -10,7 +10,7 @@ permalink:  what-happened-to-women-in-computer-science-infographic
 importance: 2
 ---
 
-*In the mid-1980s, while the number of women entering medicine, law and physical science studies began to accelerate, the number of women entering computer science began to fall dramatically. This infographic asks why and looks at the impact that shift has had on modern day software development.*
+In the mid-1980s, while the number of women entering medicine, law and physical science studies began to accelerate, the number of women entering computer science began to fall dramatically. This infographic asks why and looks at the impact that shift has had on modern day software development.
 
 <!--more--> 
 

@@ -10,7 +10,7 @@ permalink:  developer-conferences-in-berlin/
 importance: 2
 ---
 
-*Berlin’s packs in numerous developer conferences throughout the year - so many that it can be hard to keep track. This post lists some of our favourite developer conferences in Berlin. The list focuses on events running from summer onwards, giving you time to book early!*
+Berlin’s packs in numerous developer conferences throughout the year - so many that it can be hard to keep track. This post lists some of our favourite developer conferences in Berlin. The list focuses on events running from summer onwards, giving you time to book early!
 
 <!--more--> 
 

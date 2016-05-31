@@ -10,7 +10,7 @@ permalink:  if-honeypot-was-an-edward-hopper-painting-this-is-how-he-would-look/
 importance: 2
 ---
 
-*After a busy and enjoyable [HRinTech][2]{:target="_blank"} event at Zalando last week, [Honeypot][3] hit the bar.* *And the light reminded him of the American realist painter and printmaker, [Edward Hopper][1]{:target="_blank"}. We can't disagree with Honeypot on this point...*
+After a busy and enjoyable [HRinTech][2]{:target="_blank"} event at Zalando last week, [Honeypot][3] hit the bar.* *And the light reminded him of the American realist painter and printmaker, [Edward Hopper][1]{:target="_blank"}. We can't disagree with Honeypot on this point...
 
 <!--more--> 
 

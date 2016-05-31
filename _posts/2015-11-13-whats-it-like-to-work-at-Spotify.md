@@ -10,10 +10,12 @@ permalink:  2015-11-13-what's-it-like-to-work-at-Spotify/
 importance: 2
 ---
 
-*According to [Kevin Goldsmith][2]{:target=_"blank"}, VP of Engineering at Spotify, the Swedish music-streaming mammoth's success all comes down to its team culture. We sat down with the Carnegie-Mellon educated, Chicago-native at [MobiConf Krakow][12]{:target="_blank"}. Over a weak coffee and prior to a strong vodka, he told us all about the fine balance between autonomy and chaos, preserving start-up culture in a large organizations, his escape from Microsoft and why failure is all part and parcel of the life of a continuous improvement organization.*
+According to [Kevin Goldsmith][2]{:target=_"blank"}, VP of Engineering at Spotify, the Swedish music-streaming mammoth's success all comes down to its team culture. We sat down with the Carnegie-Mellon educated, Chicago-native at [MobiConf Krakow][12]{:target="_blank"}. Over a weak coffee and prior to a strong vodka, he told us all about the fine balance between autonomy and chaos, preserving start-up culture in a large organizations, his escape from Microsoft and why failure is all part and parcel of the life of a continuous improvement organization.
 
 
 <!--more--> 
+
+[UPDATE] Kevin is no longer VP of Engineering at Spotify. in June 2015, he became CTO of [Avvo]
 
 
 **Hi Kevin! Spotify uses phrases like “tribe” and “squad” and “alliance”.  Our first question has to be does Spotify just not like the word “team”?**
@@ -204,3 +206,4 @@ Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly 
 [10]: http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?s=books&ie=UTF8&qid=1444318646&sr=1-1&keywords=andy+grove+high+output+management "High output management"
 [11]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
 [12]: http://2015.mobiconf.org/ "MobiConf"
+[13]: https://www.avvo.com/
