@@ -1,6 +1,6 @@
 ---
 title:  Hamburg Startup Map
-subtitle: Moin moin! 
+subtitle: Whats happening in Hamburg!? 
 date:    2016-05-31 09:58
 layout:  post
 author:  emma_tracey
