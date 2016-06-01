@@ -46,9 +46,3 @@ DEPENDENCIES
   jekyll-paginate
   rack-jekyll
   rake
-
-RUBY VERSION
-   ruby 2.1.5p273
-
-BUNDLED WITH
-   1.12.0
