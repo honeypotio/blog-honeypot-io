@@ -5,7 +5,7 @@ date:    2016-06-01 10:37:08
 layout:  post
 author:  emma_tracey
 categories: Company
-cover_image: R 032-014-138.jpeg
+cover_image: hamburg_entrepreneur.png
 permalink:  the-hamburg-entrepreneur/
 importance: 2
 ---
