@@ -82,7 +82,7 @@ While not strictly marketing technology, [Jimdo][25] is one of Hamburg’s bigge
 
 Hamburg has a rich history of entrepreneurship in commerce, not just because of the city’s famous port which trades 132.2 million tonnes of cargo each year, but also because of the legacy of legendary entrepreneur Werner Otto. 
 
-Otto moved to Hamburg as a refugee in post-war Germany and established a mail-order shoe delivery business which eventually grew to be the largest mail order service in the world. Collins is the eCommerce startup arm of Otto Group, led by CEO Benjamin Otto, along with Tarek Müller, Sebastian Betz, Roland Berger and Hannes Wiese. Launched in May 2014, Collins now counts 230 employees, two labels, plus an online eCommerce platform [AboutYou][27]. 
+Otto moved to Hamburg as a refugee in post-war Germany and established a mail-order shoe delivery business which eventually grew to be the largest mail order service in the world. Collins is the eCommerce startup arm of Otto Group, led by CEO Benjamin Otto, along with Tarek Müller, Sebastian Betz, Roland Berger and Hannes Wiese. Launched in May 2014, Collins now counts 230 employees, two labels, plus an online eCommerce platform [AboutYou][27]. Another strong eCommerce contender is [StyleLounge][70], a metasearch engine that lets you find and compare prices for clothing and other lifestyle products, who raised $2.53M Series A funding in August 2015. 
 
 ![ecommerce startups in Hamburg](/assets/images/ecommerce-hamburg.png)
 
@@ -243,4 +243,5 @@ To signup as a developer to Honeypot, click [here][68]. To signup as a company t
 [67]: https://www.facebook.com/Honeypotio/
 [68]: https://www.honeypot.io/users/sign_up?utm_source=hamstart
 [69]: https://www.honeypot.io/invite_requests/new?utm_source=hamstart
+[70]: http://www.stylelounge.de/
 
