@@ -10,12 +10,14 @@ permalink:  errors-and-exceptions-in-rust/
 importance: 2
 ---
 
+An introduction to errors and exceptions handling using Rust as example.
+
+<!--more-->
+
 ### General definitions
 **Error**: An unusual and unexpected situation in the running program that can be resolved only by fixing the program (i.e. *out of memory*).
 
 **Exception**: An expected and irregular situation that happens at runtime (i.e. *read-protected file*).
-
-<!--more-->
 
 The main difference here is that errors are **unexpected** (and usually lead to exploitable bugs) and are often hard to predict
 (did someone whisper *overflow*?), while exceptions are expected (you know that they *could* happen) and usually lead to a crash
