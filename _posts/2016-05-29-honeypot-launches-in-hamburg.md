@@ -39,4 +39,4 @@ Honeypot will be having its first event, [HRinTech Hamburg][5], in the city on J
 [2]: http://www.wunder.org/en/
 [3]: http://xyrality.com/
 [4]: https://www.triprebel.com/
-[5]: https://hr-in-tech-hamburg.eventbrite.ie 
+[5]: https://hr-in-tech-hamburg.eventbrite.ie
