@@ -6,6 +6,8 @@ layout:  post
 author:  emma_tracey
 categories: Developer
 cover_image: startupmap.png
+featured: true
+featured_weight: 5
 permalink:  berlin-startup-map
 importance: 2
 ---
