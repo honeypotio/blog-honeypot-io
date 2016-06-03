@@ -1,5 +1,6 @@
-var gulp = require('gulp');
-var imageResize = require('gulp-image-resize');
+const gulp = require('gulp');
+const imageResize = require('gulp-image-resize');
+const del = require('del');
 const imagemin = require('gulp-imagemin');
 
 gulp.task('resize-author-images', function() {
@@ -14,9 +15,13 @@ gulp.task('resize-author-images', function() {
 });
 
 gulp.task('compress-author-images', ['resize-author-images'], function() {
-  gulp.src('authors/temp/*')
+  return (gulp.src('authors/temp/*')
   .pipe(imagemin())
-  .pipe(gulp.dest('authors/'))
+  .pipe(gulp.dest('authors/')));
 });
 
-gulp.task('optimize-author-images', ['compress-author-images']);
+gulp.task('clean-author-temp', ['compress-author-images'], function() {
+  del('authors/temp/');
+});
+
+gulp.task('optimize-author-images', ['resize-author-images', 'compress-author-images', 'clean-author-temp']);
