@@ -35,7 +35,7 @@ Similarly, finding money for something new was very very difficult. We didn’t 
 
 **Was it difficult to recruit international talent to join Qype at that time?** 
 
-At the time, we recruited people from France and the UK into leading positions in Germany and yes it was quite difficult to get these people to Hamburg, as Hamburg wasn’t not that well-known at the time. Few people would have considered moving to Germany at all then, but I think that has changed a bit. Germany has become much more attractive. 
+At the time, we recruited people from France and the UK into leading positions in Germany and yes it was quite difficult to get these people to Hamburg, as Hamburg was not that well-known at the time. Few people would have considered moving to Germany at all then, but I think that has changed a bit. Germany has become much more attractive. 
 
 **What are the most popular programming languages used by startups in Hamburg?**
 

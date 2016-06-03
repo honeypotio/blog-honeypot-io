@@ -17,7 +17,7 @@ When you think of startups in Germany, the first thing that comes to mind is Ber
 [![berlin's startups](/assets/images/hamburg_startup_map.png)](/assets/images/hamburg-startup-bigger.png)
 
 
-NextMedia Hamburg estimates there were [500 innovative digital startups][1]{:target="_blank"} in 2014 in Hamburg. To celebrate [Honeypot’s launch in the Hansestadt][2]{:target="_blank"} we mapped 157 startups onto Hamburg’s train system and categorised them by industry. Our findings reveal a burgeoning FinTech industry, an emerging eCommerce play set to challenge Berlin’s dominance and vibrant Games and AdTech startups thriving with support from the city's more traditional industries. 
+According to the Hamburg Startup Monitor, there were [500 innovative digital startups][1]{:target="_blank"} in 2014 in Hamburg. To celebrate [Honeypot’s launch in the Hansestadt][2]{:target="_blank"} we mapped 157 startups onto Hamburg’s train system and categorised them by industry. Our findings reveal a burgeoning FinTech industry, an emerging eCommerce play set to challenge Berlin’s dominance and vibrant Games and AdTech startups thriving with support from the city's more traditional industries. 
 
 
 
@@ -38,7 +38,7 @@ Hamburg’s IT industry generates just under $4.5 billion every year says Alex A
 
 The impact of the settlement of big technology companies in the city on talent has been positive, “few people would have considered moving to Germany in 2005, but I think that has changed. Germany - and Hamburg - has become more attractive,” says Stephan Uhrenbacher. 
 
-Hamburg has felt the spillover effects of skilled professionals moving from big tech to found their own startups and the scene is well and truly established, replete with its own media outlet [hamburg-startups.net][7]. 
+Hamburg has felt the spillover effects of skilled professionals moving from big tech to found their own startups and the scene is well and truly established. At the heart of the scene is [hamburg-startups.net][7], a private initiative  founded by Sanja Stankovic and Sina Gritzuhn with the aim of establishing links in the ecosystem through [reports][71], [events][72] and [editorial][73]. 
 
 So what are the startup industries that people are flocking to in Hamburg? No report of Hamburg would be complete without looking at the city’s games industry.
 
@@ -174,7 +174,7 @@ To signup as a developer to Honeypot, click [here][68]. To signup as a company t
 
 
 
-[1]: http://nextmedia-hamburg.pageflow.io/startup-hotspot-hamburg#17751]
+[1]: http://www.hamburg-startups.net/hamburg-startup-monitor-results-of-the-first-study-have-arrived/
 [2]: https://www.honeypot.io/pages/how_does_it_work?utm_source=hamstart
 [3]: https://en.wikipedia.org/wiki/Qype
 [4]: https://www.xing.com/
@@ -244,4 +244,7 @@ To signup as a developer to Honeypot, click [here][68]. To signup as a company t
 [68]: https://www.honeypot.io/users/sign_up?utm_source=hamstart
 [69]: https://www.honeypot.io/invite_requests/new?utm_source=hamstart
 [70]: http://www.stylelounge.de/
+[71]: http://www.hamburg-startups.net/hamburg-startup-monitor-results-of-the-first-study-have-arrived/
+[72]: http://www.hamburg-startups.net/startupsreeperbahn-2015-pitch/
+[73]: http://www.hamburg-startups.net/blog/
 
