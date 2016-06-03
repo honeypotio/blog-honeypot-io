@@ -1,0 +1,27 @@
+{
+  "name": "blog-honeypot-io",
+  "version": "1.0.0",
+  "description": "Honeyblog",
+  "main": "gulpfile.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.1",
+    "del": "^2.2.0",
+    "gulp-image-resize": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honeypotio/blog-honeypot-io.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/honeypotio/blog-honeypot-io/issues"
+  },
+  "homepage": "https://github.com/honeypotio/blog-honeypot-io#readme"
+}
