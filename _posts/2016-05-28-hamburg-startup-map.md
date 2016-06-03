@@ -38,7 +38,7 @@ Hamburg’s IT industry generates just under $4.5 billion every year says Alex A
 
 The impact of the settlement of big technology companies in the city on talent has been positive, “few people would have considered moving to Germany in 2005, but I think that has changed. Germany - and Hamburg - has become more attractive,” says Stephan Uhrenbacher. 
 
-Hamburg has felt the spillover effects of skilled professionals moving from big tech to found their own startups and the scene is well and truly established. At the heart of the scene is [hamburg-startups.net][7], a private iniaitve founded by Sanja Stankovic and Sina Gritzuhn with the aim of establishing links in the ecosystem through [reports][71], [events][72] and [editorial][73]. 
+Hamburg has felt the spillover effects of skilled professionals moving from big tech to found their own startups and the scene is well and truly established. At the heart of the scene is [hamburg-startups.net][7], a private iniaitve founded by Sanja Stankovic and Sina Gritzuhn, with the aim of establishing links in the ecosystem through [reports][71], [events][72] and [editorial][73]. 
 
 So what are the startup industries that people are flocking to in Hamburg? No report of Hamburg would be complete without looking at the city’s games industry.
 
