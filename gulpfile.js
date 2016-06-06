@@ -5,10 +5,10 @@ const imagemin = require('gulp-imagemin');
 
 gulp.task('resize-author-images', function() {
   return gulp.src('authors/src/*')
-    .pipe(imageResize({ 
+    .pipe(imageResize({
       width : 250,
       height : 250,
-      crop : true, 
+      crop : true,
       upscale : false
     }))
     .pipe(gulp.dest('authors/temp'));
