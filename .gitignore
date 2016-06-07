@@ -3,3 +3,4 @@ _site
 .bundle/
 vendor/
 .DS_Store
+node_modules
