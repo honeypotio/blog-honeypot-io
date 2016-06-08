@@ -11,6 +11,9 @@ importance: 2
 
 Peter Loveday became CTO of zanox, Europe’s largest affiliate marketing network, in 2014. With the new role he inherited two tightly coupled legacy platforms - one built on Java, one on PHP. With his distributed team of 60 engineers, he is simplifying the technology by focusing future development around one platform and then separating the system into distinct services. Loveday’s approach to engineering culture is about facilitation, pragmatism and a healthy skepticism of buzzwords.
 
+<!--more--> 
+
+
 ### You took over as CTO of zanox in 2014 with the task of creating a single network from zanox’s and Affiliate Window’s separate platforms. What is your vision on how to achieve this?
 
 When I became zanox’s CTO, I inherited one PHP-focused development team [Affiliate Window in London] and one Java-focused [zanox in Berlin] development team, so that's an interesting challenge! The natural tendency is to concentrate on one language. I don’t personally see that as a requirement - I think you can still have a clean code base irrespective of the number of languages. It comes down to having a solid engineering approach and a framework which is understood within the business. We have some elements being built in PHP and some in Java. The teams are making the decisions about the appropriate language to use.
