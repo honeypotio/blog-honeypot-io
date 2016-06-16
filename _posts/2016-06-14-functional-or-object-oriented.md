@@ -1,5 +1,5 @@
 ---
-title:  Is the future of programming functional or object oriented?
+title:  Some thoughts on the future of programming
 subtitle:
 date:    2016-06-13 16:18:41
 layout:  post
@@ -39,7 +39,7 @@ Aleks has been an iOS developer since 2008 and is currently working as Mobile En
 {% include quote-author.html
   author-name="Katherine Liu"
   description="Backend Devleoper at Number26"
-  author-image="aleksandra.png"
+  author-image="katherine.png"
   quote="Now having coded for 6 years and worked in industry for almost two, I can say I've already noticed quite a drastic change in how code is written. As compilers and runtime environments become more complex, humans can be somewhat less precise about the programs they write. For example in academia, we learnt the fundamentals of computer science through older, lower level languages like C, where we had to be much more aware and explicit of the details of running programs. This entailed building of a more primitive type, managing memory usage, switching thread contexts, etc.Then with the emergence of popular dynamically typed languages like Javascript, Python, Ruby, etc, the runtime environment could take care of choosing how an object is represented in memory and other aspects, so that the programmer could focus on higher level details.Looking forward, I see this trend becoming only more prominent. Soon everyday hassles for programmers like concurrency and garbage collection will be completely abstracted away by runtime environments and virtual machines. This will also extend to code for \"connecting\" modules of programs together as well; hopefully the efforts needed to map database entries to objects, serializing and deserializing objects, and formatting in general will vanish.These languages will integrate a variety of programming paradigms with them; soon every language may have OOP-like qualities and functional programming-like qualities, and the programmer will have the flexibility to use each as he or she sees fit." %}
 
 Kate was born in the USA. She worked for Microsoft on projects like Cortana and Windows 10. She is now a backend software developer at Number26.
@@ -54,6 +54,6 @@ Laura is a white / queer / femme US american programmer living in Berlin and wor
 
 * * *
 
-[Honeypot] is a developer-focused job platform.
+Join [Honeypot][1] and let companies apply directly to you. Then choose which future you want!  
 
 [1]: www.honeypot.io?utm_source=func-object
