@@ -46,7 +46,7 @@ Kate was born in the USA. She worked for Microsoft on projects like Cortana and 
 
 {% include quote-author.html
   author-name="Laura Pierson Wadden"
-  description="Devleoper at Thoughtworks"
+  description="Developer at Thoughtworks"
   author-image="laura.png"
   quote="My thoughts on the future of programming are more practical - how can this profession support older people? People who don't stay \"up to date\"? How will the community work to evolve and provide job security for its oldest members? As a woman and a feminist, and also a queer woman who will never be tied to a man's income, I think about how I can stay relevant to my field and continue to have job security as I grow older. Is our field growing at a pace that we won't be able to keep up with in 10 years?" %}
 
