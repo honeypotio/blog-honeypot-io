@@ -1,0 +1,21 @@
+.c-quote-author {
+
+  img.c-quote-author__image {
+    @include sizing(90px);
+    margin-top: 10px;
+    margin-right: 15px;
+    float: left;
+
+    @media #{$md-up} {
+      @include sizing(143px);
+    }
+  }
+
+  &__name {
+    @include text($fs-4, $fw-bold, $black-color);
+  }
+
+  &__description {
+    @include text($fs-4, $fw-normal, $black-color);
+  }
+}

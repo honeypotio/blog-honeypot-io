@@ -1,0 +1,16 @@
+<div class="clearfix c-quote-author media">
+  <img
+  src="{{ site.baseurl }}/assets/images/{{include.author-image}}"
+    alt="{{ include.author-name }}"
+    class="img-circle c-quote-author__image"
+  />
+  <h4 class="c-quote-author__name">{{ include.author-name }},
+    <small class="c-quote-author__description">
+      {{ include.description }}
+    </small>
+  </h4>
+
+  <p class="c-quote-author__content">
+    {{include.quote}}
+  </p>
+</div>
