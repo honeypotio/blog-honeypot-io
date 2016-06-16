@@ -36,8 +36,6 @@ Observing the evolution of languages, we can see that languages that were OO for
  
 Aleks has been an iOS developer since 2008 and is currently working as Mobile Engineer at SoundCloud. She co-organizes WomenWhoCode Berlin and is  passionate about women in tech.
  
-### , Backend Developer, Number26 
-
 {% include quote-author.html
   author-name="Katherine Liu"
   description="Backend Devleoper at Number26"
