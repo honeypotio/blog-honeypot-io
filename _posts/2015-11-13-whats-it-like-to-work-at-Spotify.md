@@ -6,6 +6,8 @@ layout: post
 author: emma_tracey
 categories: Developer
 cover_image: kevin.png
+featured: true
+featured_weight: 3
 permalink:  2015-11-13-what's-it-like-to-work-at-Spotify/
 importance: 2
 ---

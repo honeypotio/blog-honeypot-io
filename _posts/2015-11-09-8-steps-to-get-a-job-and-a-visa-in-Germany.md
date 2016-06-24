@@ -7,8 +7,6 @@ author: frederik_bohn
 categories: Developer
 cover_image: jobgermany.png
 permalink:  2015-11-09-8-steps-to-finding-a-job-and-getting-a-visa-in-Germany/
-featured: true
-featured_weight: 3
 importance: 2
 ---
 
