@@ -21,7 +21,7 @@ IBB’s Innovationsassistent program is dedicated to small and medium sized comp
 
 IBB is a business development and promotion bank of the Federal Land of Berlin. IBB is actively helping Berlin to become an established center for business and industry. 
 
-### What is this the IBB Innovationsassisten program about? 
+### What is this the IBB Innovationsassistent program about? 
 
 In a nutshell, IBB will subsidy half of your Innovationsassistent’s gross salary. Keep in mind that the maximum grant amounts to €20,000.
 
