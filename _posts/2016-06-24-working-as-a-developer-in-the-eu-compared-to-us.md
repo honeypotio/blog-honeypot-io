@@ -20,7 +20,7 @@ For developers searching for a job, it is quicker, on average, to find one in Eu
 
 ![average time to hire developers](/assets/images/avg-time-hire.png)
 
-The most interesting finding is developers who use Honeypot find a job within 29 days, far faster than the average in all cities. Honeypot is currently active in Berlin, Hamburg, Amsterdam and Munich. 
+The most interesting finding is developers who use Honeypot find a job within 29 days, far faster than the average in all cities. 
 
 
 ![average time to hire](/assets/images/avg-time-hire-honeypot.png)
