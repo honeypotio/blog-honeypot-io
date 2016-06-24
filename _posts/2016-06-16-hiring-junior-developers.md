@@ -28,7 +28,7 @@ In a nutshell, IBB will subsidy half of your Innovationsassistent’s gross sala
 ### What are the rules of the IBB? 
 
 
-Yes - as always! But in this case not so hard to follow. First of all, your company has to be registered in Berlin. On top of that, your company should be innovative and technologically-oriented. If it isn’t, then the role you are offering to your Innovationsassistent must be technology related (easy with developers!). 
+ First of all, your company has to be registered in Berlin. On top of that, your company should be innovative and technologically-oriented. If it isn’t, then the role you are offering to your Innovationsassistent must be technology related (easy with developers!). 
 
 You can apply for a maximum of two Innovationsassistent at the same time. They should never be replacing other employees in your company. Meaning - they must be hired for newly created roles. 
 
