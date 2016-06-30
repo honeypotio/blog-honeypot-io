@@ -43,7 +43,7 @@ Working remotely is absolutely awesome! I have worked remotely from Italy for a 
 The only thing that I've recognized is that remote working is not an easy process, you need to practice and have a good mentor. For instance, the best advice that I received was to have a dedicated computer only for work with a little space to manage the difference between personal life and job. If you have a dedicated room use it as your office, and remember close the door when you finish to work!
 
 
-### You cooperated on some books about best practises on PHP and Javascript and you also gave a [TEDx talk][3]. In your opinion what is the best way to communicate when it comes to technology?  
+### You cooperated on some books about best practices on PHP and Javascript and you also gave a [TEDx talk][3]. In your opinion what is the best way to communicate when it comes to technology?  
 
 I've had the privileges to give many talks at various international conferences, almost 80 so far. TEDx is a great channel to present ideas and inspiring talks; I gave a presentation about creative coding and it was an awesome experience. Also writing a blog post or a book is a great way to talk about technology. I really like self-publishing [e-books][9] because they give the author the possibility to easily update the book and give previews of some chapters. Moreover, self-publishing offers a more equal sharing of the profit.
 
