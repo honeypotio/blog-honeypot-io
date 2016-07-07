@@ -42,9 +42,9 @@ If you think this could work for you please refer to IBB’s website where you c
 
 * * * 
 
-Honeypot is a developer-focused job platform. [Sign-up][2] to access code-reviewed developers! 
+### Honeypot is a developer-focused job platform. [Sign-up][2] to access a weekly batches of pre-screened developers who are actively seeking new opportunities! 
 
 
 
 [1]: http://www.ibb.de/gruenden/Innovationsassistent-in.aspx  
-[2]: https://www.honeypot.io/pages/how_does_it_work?utm_source=ibb
+[2]: https://www.honeypot.io/pages/for_employers?utm_source=lsu2
