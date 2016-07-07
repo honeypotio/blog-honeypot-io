@@ -42,7 +42,7 @@ If you think this could work for you please refer to IBB’s website where you c
 
 * * * 
 
-### Honeypot is a developer-focused job platform. [Sign-up][2] to access a weekly batches of pre-screened developers who are actively seeking new opportunities! 
+### Honeypot is a developer-focused job platform. [Sign-up][2] to access weekly batches of pre-screened developers who are actively seeking new opportunities! 
 
 
 
