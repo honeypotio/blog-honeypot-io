@@ -166,16 +166,16 @@ While Hamburg's local VCs continue to grow, international investment is also pla
 ![vc  in Hamburg](/assets/images/vc-hamburg.png)
 
 
-UPDATE July 2016
+**UPDATE July 2016**
 
 Some lovely Hamburg startups reached out to us to remind us to include them! They will have full inclusion next edition, but for now, don't forget to check out:
 
-[AddApptr][78]: Mobile AdTech
-[eComCon][77]: AdTech consultancy 
-[esome][76]: Social media advertising
-[Moebel.de][74]: Furniture and interior design portal
-[Vinoa][75]: Wine portal and magazine
-[radio.de][79]: Radio streaming and search platform
+* [AddApptr][78]: Mobile AdTech
+* [eComCon][77]: AdTech consultancy 
+* [esome][76]: Social media advertising
+* [Moebel.de][74]: Furniture and interior design portal
+* [Vinoa][75]: Wine portal and magazine
+* [radio.de][79]: Radio streaming and search platform
 
 * * *
 
