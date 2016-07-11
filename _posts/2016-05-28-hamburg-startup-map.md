@@ -165,6 +165,18 @@ While Hamburg's local VCs continue to grow, international investment is also pla
 
 ![vc  in Hamburg](/assets/images/vc-hamburg.png)
 
+
+UPDATE July 2016
+
+Some lovely Hamburg startups reached out to us to remind us to include them! They will have full inclusion next edition, but for now, don't forget to check out:
+
+[AddApptr][78]: Mobile AdTech
+[eComCon][77]: AdTech consultancy 
+[esome][76]: Social media advertising
+[Moebel.de][74]: Furniture and interior design portal
+[Vinoa][75]: Wine portal and magazine
+[radio.de][79]: Radio streaming and search platform
+
 * * *
 
 ### [Honeypot][62] launched in Hamburg this week and will be hosting its first event, [HR in Tech][63], on June 16th at 7pm. Join us for an evening of learning and exchange and to share a beer with the team. 
@@ -247,4 +259,10 @@ To signup as a developer to Honeypot, click [here][68]. To signup as a company t
 [71]: http://www.hamburg-startups.net/hamburg-startup-monitor-results-of-the-first-study-have-arrived/
 [72]: http://www.hamburg-startups.net/startupsreeperbahn-2015-pitch/
 [73]: http://www.hamburg-startups.net/blog/
+[74]: https://www.moebel.de/
+[75]: http://www.vinoa.de/ 
+[76]: https://esome.com/
+[77]: http://ecomcon.de/ 
+[78]: https://www.addapptr.com/
+[79]: http://www.radio.de/ 
 
