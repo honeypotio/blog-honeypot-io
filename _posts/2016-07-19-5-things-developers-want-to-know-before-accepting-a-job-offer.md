@@ -10,7 +10,7 @@ permalink:  5-things-developers-want-to-know-before-accepting-a-job-offer/
 importance: 2
 ---
 
-To be successful in hiring developers, you should evaluate your hiring process as you would the UX of your product. Developers are hugely in demand and going the extra mile with employer branding is key to hiring a great team. At Honeypot, employer branding is at the heart of our product. We list the top five things developers want to know before accepting a job. 
+To be successful in hiring developers, you should evaluate your hiring process as you would the UX of your product. Developers are hugely in demand and going the extra mile with employer branding is key to hiring a great team. In this post, we list five of the top things developers want to know before accepting a job. 
 
 <!--more--> 
 
@@ -26,7 +26,7 @@ Developers want to work on something that matters and gets them excited. This is
 
 ### 3. Tech Stack
 
-This is probably the most crucial part of the communication between you and a potential candidate. Give a detailed list of the tools and technologies that make up your company’s tech stack. Developers want to see if your tech stack matches their skillset. Don’t forget to also mention your workflow style. For example, do you use CI and TDD? As an extra tip, you can also mention tools and technologies that you are thinking of implementing in the future, so the developer can see that you are keen on learning new things. 
+This is probably the most crucial part of the communication between you and a potential candidate. Give a detailed list of the tools and technologies that make up your company’s tech stack. Developers want to see if your tech stack matches their skillset. Don’t forget to also mention your workflow style. As an extra tip, you can also mention tools and technologies that you are thinking of implementing in the future, so the developer can see that you are keen on learning new things. 
 
 
 ### 4. Timeline
@@ -41,7 +41,7 @@ What makes your company culture so special? Developers value  friendly and fun w
 
 Taking a user-centric approach to your interview process will boost your company’s reputation as a friendly place to work. On [Honeypot][1], every company hiring developers has a company profile, listing these five key elements. Companies with more detailed profiles have their interview invitations and job offers accepted at a significantly higher rate. 
 
-Get into a culture of pitching your company - in the end it's not just the developer who has to convince you, you have to convince the developer!
+Get into a culture of pitching your company during the interview process with developers - in the end it's not just the developer who has to convince you, you have to convince the developer!
 
 
 * * * 
