@@ -20,10 +20,14 @@ What does it take to become a great developer? Its all about learning from the b
 
 ![traits of a successful developer](/assets/images/traits-of-a-successful-developer.png)
 
+
+Check out the original post by Firehose [here][3].
+
 * * *
 
 Honeypot is a developer focused job platform. Companies apply to developers, not the other way around. [Sign up][2] and join some of the best tech teams in Europe! 
 
 
 [1]: https://www.thefirehoseproject.com/
-[2]: www.honeypot.io
+[2]: https://www.honeypot.io
+[3]: https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know
