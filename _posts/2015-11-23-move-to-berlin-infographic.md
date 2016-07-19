@@ -6,8 +6,6 @@ layout: post
 author: johanna_dahlroos
 categories: Developer
 cover_image: move-to-berlin.png
-featured: true
-featured_weight: 4
 permalink:  moving-to-berlin-infographic/
 importance: 2
 ---
