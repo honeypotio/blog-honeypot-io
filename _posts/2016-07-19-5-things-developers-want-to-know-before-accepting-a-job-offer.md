@@ -26,12 +26,12 @@ Developers want to work on something that matters and gets them excited. This is
 
 ### 3. Tech Stack
 
-This is probably the most crucial part of the communication between you and a potential candidate. Give a detailed list of the tools and technologies that make up your company’s tech stack. Developers want to see if your tech stack matches their skillset. Don’t forget to also mention your workflow style. Do you use CI and TDD, for example. As an extra tip, you can also mention tools and technologies that you are thinking of implementing in the future, so the developer can see that you are keen on learning new things. 
+This is probably the most crucial part of the communication between you and a potential candidate. Give a detailed list of the tools and technologies that make up your company’s tech stack. Developers want to see if your tech stack matches their skillset. Don’t forget to also mention your workflow style. For example, do you use CI and TDD? As an extra tip, you can also mention tools and technologies that you are thinking of implementing in the future, so the developer can see that you are keen on learning new things. 
 
 
-### 4. Company Timeline 
+### 4. Timeline
 
-How did everything start? Developers want to know the story behind the company and how it came into existence. Think about creating a document which shares all the important dates and milestones of your company. You can even think about sharing future plans, so the developer can see how you plan to grow.
+How did everything start? Developers want to know the story behind the company. Think about creating a document which shares all the important dates and milestones of your company. You can even share future plans, so developers can get a feel of your direction.
 
 
 ### 5. Company Life
