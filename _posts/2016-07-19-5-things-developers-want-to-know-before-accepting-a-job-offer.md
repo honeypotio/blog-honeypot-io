@@ -46,8 +46,8 @@ Get into a culture of pitching your company during the interview process with de
 
 * * * 
 
+### Honeypot is a developer-focused job platform. Use Honeypot to filter by location, tech stack and salary and contact your favourite candidates directly. Sign-up to [start hiring][2] skilled and pre-screened developers today!
 
-### Register now on [Honeypot][2], create your company profile and start hiring skilled developers.
 
 [1]: https://www.honeypot.io/pages/for_employers?utm_source=blog5
 [2]: https://www.honeypot.io/invite_requests/new?utm_source=blog5
