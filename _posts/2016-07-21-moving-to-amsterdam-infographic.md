@@ -5,12 +5,12 @@ date:    2016-07-20 16:13:35
 layout:  post
 author:  johanna_dahlroos
 categories: Amsterdam
-cover_image: move-to-amsterdam.jpg
+cover_image: move-to-amsterdam.png
 permalink:  moving-to-amsterdam-infographic/
 importance: 2
 ---
 
-Ready to make the move to Amsterdam? Follow our handy move to Amsterdam infographic to make the process smmooooooooth! 
+Ready to make the move to Amsterdam? Follow our handy move to Amsterdam infographic to make the process as smooth as possible! 
 
 <!--more-->
 
