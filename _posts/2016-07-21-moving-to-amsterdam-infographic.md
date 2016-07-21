@@ -10,7 +10,7 @@ permalink:  moving-to-amsterdam-infographic/
 importance: 2
 ---
 
-Ready to make the move to Amsterdam? Follow our handy move to Amsterdam infographic to make the process as smooth as possible! 
+Ready to make the move to Amsterdam? Follow our handy move to Amsterdam infographic to make the process as smooth as good glass of jenever! 
 
 <!--more-->
 
