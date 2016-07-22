@@ -12,7 +12,7 @@ importance: 2
 
 Honeypotters take the open source world very seriously.
 We use developers' GitHub profiles to evaluate the code of talents that will hopefully join our batches. As our platform uses lots of open source components and the tech team members themselves contribute to many open source projects,
-we are very happy when we have the possibility to share our internal products to the world.
+we are very happy when we have the possibility to share our internal products with the world.
 
 <!--more-->
 
