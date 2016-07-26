@@ -16,7 +16,7 @@ Summer is a great time to catch up on some reading.  Why not spend your time rea
 
 ### The one about trusting your employees
 
-**[Work Rules! by Laszlo Bock][1], by Laszlo Bock:** Laszlo Bock, Google’s Head of People Operations, shares how Google’s philosophy of attracting great talent ensures its success. 
+**[Work Rules!][1], by Laszlo Bock:** Laszlo Bock, Google’s Head of People Operations, shares how Google’s philosophy of attracting great talent ensures its success. 
 
 **What can you learn from this book:** How to trust your employees, how to design your recruiting and feedback processes, and how to structure remuneration and benefits. 
 
