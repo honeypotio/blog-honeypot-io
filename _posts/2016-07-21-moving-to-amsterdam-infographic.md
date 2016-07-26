@@ -17,8 +17,6 @@ Ready to make the move to Amsterdam? Follow our handy move to Amsterdam infograp
 ![move to amsterdam](/assets/images/move-to-amsterdam-infographic.png)
 
 
-
-
 ## Move to Amsterdam Infographic
 
 Here are the key takeaways:
