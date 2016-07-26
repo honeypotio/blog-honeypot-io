@@ -39,13 +39,16 @@ Summer is a great time to catch up on some reading.  Why not spend your time rea
 **What can you learn from this book:** We all need autonomy, mastery and purpose. You can really change your company by following Pink’s rules.
 
 
-#### The one about company culture 
+### The one about company culture 
 
 **[Corporate Brand Personality][5] by Lesley Everett:** This book is for companies of all sizes that want to focus on trust, respect and authenticity. 
 
 **What can you learn from this book:** How companies deliver a genuine customer experience by having all employees living and breathing the company culture. 
 
-At Honeypot we read one book per month as a team. Let us know your feedback and if you have any suggestions for future books!
+
+
+
+At Honeypot we read one book per month as a team. Let us know your feedback and maybe your suggestion will end up on our book club list!
 
 
 * * *
