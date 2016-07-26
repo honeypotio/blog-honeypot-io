@@ -47,7 +47,6 @@ Summer is a great time to catch up on some reading.  Why not spend your time rea
 
 
 
-
 At Honeypot we read one book per month as a team. Let us know your feedback and maybe your suggestion will end up on our book club list!
 
 
