@@ -1,20 +1,20 @@
 ---
-title:   69 of the best frontend blogs! 
+title:   React fast! A (kind-of) definitive list of frontend blogs!
 subtitle:
 date:    2016-08-02 13:01:26
 layout:  post
 author:  sasha_pliusnina
 categories: Developers
 cover_image: frontend-blogs.png
-permalink:  69-frontend-blogs/
+permalink:  definitive-list-of-frontend-blogs-2016/
 importance: 2
 ---
 
-At Honeypot, we talk to hundreds of developers each week, who keep us up-to-date on the best blogs on the internet. We collected a list the best frontend blogs out there. Topics covered range from CSS and HTML to modern JavaScript MVC frameworks and User Experience. 
+At Honeypot, we talk to hundreds of developers each week, who keep us up-to-date on trends in technology and tools. We have been paying close attention to the blogs they recommend and to celebrate the diverse world of frontend, we created this (semi) definitive list of frontend blogs! Topics covered range from CSS and HTML to modern JavaScript MVC frameworks and User Experience. 
 
 <!--more-->
 
-Just as a side note, our list is in no particular order!  
+Just as a side note, our list is in no particular order! We love them all! 
 
 ### General Web Development Blogs 
 
@@ -174,6 +174,8 @@ David is a guest blogger on several other sites and an active conference and mee
 
 69. [Six Revisions][77]{:target="_blank"}: Six Revisions is a more of a web publication than a blog, but it's still worthy of this list for the great web development and design articles, guides, tutorials, news the small team pumps out.
 
+70. [Luke W][80]: Luke's 15 years of writing cover Web and device strategy, interaction design, visual design, usability, and much more.
+
 
 
 Have we missed something? Send us suggestions for frontend blogs to hello@honeypot.io. 
@@ -264,3 +266,4 @@ Have we missed something? Send us suggestions for frontend blogs to hello@honeyp
 [77]: http://sixrevisions.com/ 
 [78]: http://ejohn.org/category/blog/ 
 [79]: https://www.honeypot.io/pages/for_employers?utm_source=frontend
+[80]: http://www.lukew.com/ff/
