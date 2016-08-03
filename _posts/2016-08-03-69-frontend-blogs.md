@@ -30,7 +30,7 @@ Just as a side note, our list is in no particular order! We love them all!
 
 5. [David Bushell Blog][4]{:target="_blank"}: David Bushell is a freelance web developer based in the UK with a background in graphic design. He has a number of  open-source projects, including [Nestable][5] and [Pickaday][6]. Bushell occasionally contributes to Smashing Magazine. 
 
-6. [John Resig][69]{:target="_blank"}: Resig is a staff engineer at Khan Academy and the creator of the jQuery JavaScript library. He’s also the author of the books Pro JavaScript Techniques and Secrets of the JavaScript Ninja.
+6. [John Resig][81]{:target="_blank"}: Resig is a staff engineer at Khan Academy and the creator of the jQuery JavaScript library. He’s also the author of the books Pro JavaScript Techniques and Secrets of the JavaScript Ninja.
 
 7. [qFox][10]{:target="_blank"}: Peter van der Zee is frontend developer from Netherlands. He specializes in JavaScript / ECMASCript, parsers, and low level JS performance. 
 
@@ -268,3 +268,4 @@ Have we missed something? Send us suggestions for frontend blogs to hello@honeyp
 [78]: http://ejohn.org/category/blog/ 
 [79]: https://www.honeypot.io?utm_source=frontend
 [80]: http://www.lukew.com/ff/
+[81]: http://ejohn.org/
