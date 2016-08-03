@@ -10,11 +10,12 @@ permalink:  definitive-list-of-frontend-blogs-2016/
 importance: 2
 ---
 
-At Honeypot, we talk to hundreds of developers each week, who keep us up-to-date on trends in technology and tools. We have been paying close attention to the blogs they recommend and to celebrate the diverse world of frontend, we created this (semi) definitive list of frontend blogs! Topics covered range from CSS and HTML to modern JavaScript MVC frameworks and User Experience. 
+At Honeypot, we talk to hundreds of developers each week, who keep us up-to-date on trends in technology and tools. We have been paying close attention to the blogs they recommend and to celebrate the diverse world of frontend, we created this (semi-) definitive list of frontend blogs! Topics covered range from CSS and HTML to modern JavaScript MVC frameworks and User Experience. 
 
 <!--more-->
 
 Just as a side note, our list is in no particular order! We love them all! 
+
 
 ### General Web Development Blogs 
 
@@ -49,7 +50,7 @@ David is a guest blogger on several other sites and an active conference and mee
 
 15. [BitNative][18]{:target="_blank"}:  Cory House is a founder of Bitnative Consulting and a Telerik Developer Expert. Cory reviews various new JavaScript frameworks and tools, provides tips on creating responsive native UIs and shares his thoughts on general trends in development. 
 
-16. [Marin Wolf][19]{:target="_blank"}: Martin Wolf is a freelance web developer from Germany, working for small and big agencies and product companies. He contributes to open-source and has interesting tech-screencasts (in German).
+16. [Martin Wolf][19]{:target="_blank"}: Martin Wolf is a freelance web developer from Germany, working for small and big agencies and product companies. He contributes to open-source and has interesting tech-screencasts (in German).
 
 17. [AeroTwist][20]{:target="_blank"}: Paul Lewis works at Google on the Chrome Developer Relations team as an advocate. He helps developers improve the performance of their sites and apps. He writes mostly about frontend, JavaScript frameworks and performance optimization.
 
@@ -265,5 +266,5 @@ Have we missed something? Send us suggestions for frontend blogs to hello@honeyp
 [76]: http://csskarma.com/blog/ 
 [77]: http://sixrevisions.com/ 
 [78]: http://ejohn.org/category/blog/ 
-[79]: https://www.honeypot.io/pages/for_employers?utm_source=frontend
+[79]: https://www.honeypot.io?utm_source=frontend
 [80]: http://www.lukew.com/ff/
