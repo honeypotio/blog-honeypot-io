@@ -22,7 +22,7 @@ Just as a side note, our list is in no particular order! We love them all!
 1. [Codrops][50]{:target="_blank"}: Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 
 2. [David Walsh][8]{:target="_blank"}:  David is based in Wisconsin where he works as a senior web developer and an evangelist for Mozilla. He is interested in frontend technologies, including HTML/5, CSS, JavaScript, as well as frameworks like jQuery, Dojo Toolkit and MooTools (to which he is a core contributor). 
-David is a guest blogger on several other sites and an active conference and meetup speaker.
+
 
 3. [Smashing Magazine][59]{:target="_blank"}: More than a blog, Smashing Magazine is an online platform and eBook publisher that covers professional resources for web developers and designers. Apart from its main editorial activities, Smashing Magazine organizes web design conferences in Europe and North America (Smashing Conference)
 
@@ -94,88 +94,88 @@ David is a guest blogger on several other sites and an active conference and mee
 
 ### Ember.js Blogs
 
-37. [EmberJS blog][66]{:target="_blank"}: oficial Ember.js blog.
+37\. [EmberJS blog][66]{:target="_blank"}: oficial Ember.js blog.
 
-38. [All about Ember.js][67]{:target="_blank"}: Balint Erdi is a Hungarian web developer, Ember.js consultant, author of [Rock and Roll with Ember.js][72]
+38\. [All about Ember.js][67]{:target="_blank"}: Balint Erdi is a Hungarian web developer, Ember.js consultant, author of [Rock and Roll with Ember.js][72]
 
-39. [Evil Trout][68]{:target="_blank"}: Robin Ward is a web developer from Toronto, co-founder of [Discourse][71], the open source forum software written in Ember.js and Ruby on Rails. He has a several screencasts and writes mainly about his tech-challenges at Discourse.
+39\. [Evil Trout][68]{:target="_blank"}: Robin Ward is a web developer from Toronto, co-founder of [Discourse][71], the open source forum software written in Ember.js and Ruby on Rails. He has a several screencasts and writes mainly about his tech-challenges at Discourse.
 
-40. [Yoember][69]{:target="_blank"}: free Ember.js tutorials for beginners and advanced developer.
+40\. [Yoember][69]{:target="_blank"}: free Ember.js tutorials for beginners and advanced developer.
 
-41. [Ember weekly][70]{:target="_blank"}: the weekly Ember.js newsletter with latest tips and code.
+41\. [Ember weekly][70]{:target="_blank"}: the weekly Ember.js newsletter with latest tips and code.
 
-42. [Program with Erik][73]{:target="_blank"}: Erik Hanchett is a software engineer from Nevada. He writes about software development, with a focus on JavaScript, Ember.js and Node.js.
+42\. [Program with Erik][73]{:target="_blank"}: Erik Hanchett is a software engineer from Nevada. He writes about software development, with a focus on JavaScript, Ember.js and Node.js.
 
 ### Angular.js Blogs
 
 
-43. [Todd Motto][7]{:target="_blank"}: Todd is a Developer Advocate @Telerik. He created the Angular 2 migration guide and is the founder of Voux, an AngularJS and JavaScript training consultancy. He writes about JavaScript, Angular, React and is an active conference speaker. He is also a Google Developer Expert.
+43\. [Todd Motto][7]{:target="_blank"}: Todd is a Developer Advocate @Telerik. He created the Angular 2 migration guide and is the founder of Voux, an AngularJS and JavaScript training consultancy. He writes about JavaScript, Angular, React and is an active conference speaker. He is also a Google Developer Expert.
 
-44. [AngularJS Blog][40]{:target="_blank"}: official AngularJS blog. 
+44\. [AngularJS Blog][40]{:target="_blank"}: official AngularJS blog. 
 
-45. [Year of Moo][41]{:target="_blank"}: a web development blog with a big focus on Angular. Other topics covered are advanced web and software development techniques, tutorials, guides.
+45\. [Year of Moo][41]{:target="_blank"}: a web development blog with a big focus on Angular. Other topics covered are advanced web and software development techniques, tutorials, guides.
 
-46. [ng-newsletter][42]{:target="_blank"}: free, weekly newsletter of the best AngularJS content on the web.
+46\. [ng-newsletter][42]{:target="_blank"}: free, weekly newsletter of the best AngularJS content on the web.
 
-47. [Deborah's Developer MindScape][43]{:target="_blank"}: Deborah Kurata is an independent software consultant specializing in the development of successful Web (AngularJS) and Windows (.NET) applications. 
+47\. [Deborah's Developer MindScape][43]{:target="_blank"}: Deborah Kurata is an independent software consultant specializing in the development of successful Web (AngularJS) and Windows (.NET) applications. 
 
 ### React.js Blogs
 
-48. [Facebook React blog][44]{:target="_blank"}: oficial React blog.
+48\. [Facebook React blog][44]{:target="_blank"}: oficial React blog.
 
-49. [React Kung Fu][45]{:target="_blank"}: learning materials about React and  JavaScript. 
+49\. [React Kung Fu][45]{:target="_blank"}: learning materials about React and  JavaScript. 
 
-50. [React Ninja][46]{:target="_blank"}: blog on the best practices with ReactJS and React-Native, includes such subjects as React dispatcher and routing, parsing, Flux architecture and React testing tools.
+50\. [React Ninja][46]{:target="_blank"}: blog on the best practices with ReactJS and React-Native, includes such subjects as React dispatcher and routing, parsing, Flux architecture and React testing tools.
 
-51. [The ReactJS blog][47]{:target="_blank"}: news, updates and opinions on ReactJS, Falcorjs, JavaScript trends, React-native, includes highlights on the ReactJS books and conferences. 
+51\. [The ReactJS blog][47]{:target="_blank"}: news, updates and opinions on ReactJS, Falcorjs, JavaScript trends, React-native, includes highlights on the ReactJS books and conferences. 
 
 
 ### jQuery Blogs
 
 
-52. [Bassistance][26]{:target="_blank"}: JörnZaefferer is a freelance web developer, consultant and trainer, living in Köln, Germany. He has been involved in the jQuery project since the beginning in 2006, and helped found the jQuery Foundation, serving on the board of directors till early 2015. He is a development lead of jQuery UI.
+52\. [Bassistance][26]{:target="_blank"}: JörnZaefferer is a freelance web developer, consultant and trainer, living in Köln, Germany. He has been involved in the jQuery project since the beginning in 2006, and helped found the jQuery Foundation, serving on the board of directors till early 2015. He is a development lead of jQuery UI.
 
-53. [jQuery blog][48]{:target="_blank"}: oficial jQuery blog.
+53\. [jQuery blog][48]{:target="_blank"}: oficial jQuery blog.
 
-54. [Rmurphey adventures in JavaScript][2]{:target="_blank"}: Rebecca Murphey is a senior software engineer at Indeed. She is based in Austin, Texas and is the author of [JS Assessment][1], an open-source tool to evaluate a developer's JavaScript skills. She also wrote [jQuery Fundamentals][3], which helps people improve their jQuery skills. 
+54\. [Rmurphey adventures in JavaScript][2]{:target="_blank"}: Rebecca Murphey is a senior software engineer at Indeed. She is based in Austin, Texas and is the author of [JS Assessment][1], an open-source tool to evaluate a developer's JavaScript skills. She also wrote [jQuery Fundamentals][3], which helps people improve their jQuery skills. 
 
-55. [jQuery UI blog][49]{:target="_blank"}: jQuery UI blog, which provides the proper tools for low-level interaction and animation work, advanced effects and high-level, customizable widgets
+55\. [jQuery UI blog][49]{:target="_blank"}: jQuery UI blog, which provides the proper tools for low-level interaction and animation work, advanced effects and high-level, customizable widgets
 
 ### CSS Blogs
 
-56. [CSS Karma][76]{:target="_blank"}: Though not as frequently updated as it once was, CSS Karma is still packed with interesting perspectives on CSS, JavaScript and the world of frontend. 
+56\. [CSS Karma][76]{:target="_blank"}: Though not as frequently updated as it once was, CSS Karma is still packed with interesting perspectives on CSS, JavaScript and the world of frontend. 
 
-57. [CSS Wizardy][21]{:target="_blank"}: Harry Roberts is an award-winning Consultant frontend Architect, designer, developer, writer and speaker from the UK. He writes, tweets, speaks and shares code about authoring and scaling CSS for big websites.
+57\. [CSS Wizardy][21]{:target="_blank"}: Harry Roberts is an award-winning Consultant frontend Architect, designer, developer, writer and speaker from the UK. He writes, tweets, speaks and shares code about authoring and scaling CSS for big websites.
 
-58. [CSS Weekly][37]{:target="_blank"}: weekly email roundup of CSS articles,  tutorials, experiments and tools curated by Zoran Jambor, a  passionate frontend developer from Croatia.
+58\. [CSS Weekly][37]{:target="_blank"}: weekly email roundup of CSS articles,  tutorials, experiments and tools curated by Zoran Jambor, a  passionate frontend developer from Croatia.
 
-59. [Lea Verou][51]{:target="_blank"}: Lea is a frontend developer from Greece, who is currently a Research Assistant at MIT CSAIL, participates in David Karger’s Haystack group and is an Invited Expert in the W3C CSS Working Group. She has a book on advanced CSS for O’Reilly, worked for W3C/MIT, gave over 60 invited talks around the world, released several open source projects and many other things.
+59\. [Lea Verou][51]{:target="_blank"}: Lea is a frontend developer from Greece, who is currently a Research Assistant at MIT CSAIL, participates in David Karger’s Haystack group and is an Invited Expert in the W3C CSS Working Group. She has a book on advanced CSS for O’Reilly, worked for W3C/MIT, gave over 60 invited talks around the world, released several open source projects and many other things.
 
-60. [CSS tricks][38]{:target="_blank"}: blog primarily focused on CSS, but also includes all things about web design and development.
+60\. [CSS tricks][38]{:target="_blank"}: blog primarily focused on CSS, but also includes all things about web design and development.
 
 ### HTML Blogs
 
-61. [Christian Heilmann][27]{:target="_blank"}: Christian is a developer evangelist living and working in London for Mozilla. He talks and writes about HTML5, open-source and future of tech.
+61\. [Christian Heilmann][27]{:target="_blank"}: Christian is a developer evangelist living and working in London for Mozilla. He talks and writes about HTML5, open-source and future of tech.
 
-62. [Ian Devlin][31]{:target="_blank"}: Ian Devlin is an Irish web and app developer, who currently works as a frontend engineer for trivago in Germany. His areas of interest includes HTML, CSS, JavaScript, jQuery, Sass, Grunt, and PHP. Passionate about web standards, semantic HTML, web accessibility, he published a book titled HTML5 Multimedia: Develop and Design. In 2013 Ian became one of the founding contributors to Intel's HTML5 Hub.
+62\. [Ian Devlin][31]{:target="_blank"}: Ian Devlin is an Irish web and app developer, who currently works as a frontend engineer for trivago in Germany. His areas of interest includes HTML, CSS, JavaScript, jQuery, Sass, Grunt, and PHP. Passionate about web standards, semantic HTML, web accessibility, he published a book titled HTML5 Multimedia: Develop and Design. In 2013 Ian became one of the founding contributors to Intel's HTML5 Hub.
 
-63. [HTML5 Doctor][39]{:target="_blank"}: Articles relating to HTML5, its semantics, and how to use it right now. Collaboration among Rich Clark, Steve Faulkner, Bruce Lawson, Remy Sharp, Oli Studholme, and Ian Devlin.
+63\. [HTML5 Doctor][39]{:target="_blank"}: Articles relating to HTML5, its semantics, and how to use it right now. Collaboration among Rich Clark, Steve Faulkner, Bruce Lawson, Remy Sharp, Oli Studholme, and Ian Devlin.
 
 ### UX/UI Blogs
 
-64. [Ben Nadel][52]{:target="_blank"}: Ben Nadel is the co-founder and lead engineer at InVision App, Inc,  a company that is at the forefront of the design and user-experience (UX) revolution. Honeypot’s tech team is actively using InVision. On his blog he writes about User Experience (UX) Design, JavaScript, ColdFusion and Node.js.
+64\. [Ben Nadel][52]{:target="_blank"}: Ben Nadel is the co-founder and lead engineer at InVision App, Inc,  a company that is at the forefront of the design and user-experience (UX) revolution. Honeypot’s tech team is actively using InVision. On his blog he writes about User Experience (UX) Design, JavaScript, ColdFusion and Node.js.
 
-65. [Boag world][53]{:target="_blank"}: Paul Boag is a user experience consultant and expert in digital transformation. He helps (mainly) not-for-profits use the web, social media and mobile to engage users. He has written four books on various aspects of User Experience design and speaks on User Experience and digital transformation all around the world.
+65\. [Boag world][53]{:target="_blank"}: Paul Boag is a user experience consultant and expert in digital transformation. He helps (mainly) not-for-profits use the web, social media and mobile to engage users. He has written four books on various aspects of User Experience design and speaks on User Experience and digital transformation all around the world.
 
-66. [Andy Budd][54]{:target="_blank"}: Andy Budd is a User Experience Designer and CEO of Clearleft, Andy is the author of CSS Mastery, curates the dConstruct and UX London events and is responsible for Silverbackapp, a low cost usability testing application for the Mac. Andy is a regular speaker at international conferences and was named one of the 100 most influential people in the UK digital sector by Wired Magazine.
+66\. [Andy Budd][54]{:target="_blank"}: Andy Budd is a User Experience Designer and CEO of Clearleft, Andy is the author of CSS Mastery, curates the dConstruct and UX London events and is responsible for Silverbackapp, a low cost usability testing application for the Mac. Andy is a regular speaker at international conferences and was named one of the 100 most influential people in the UK digital sector by Wired Magazine.
 
-67. [Ashley Nolan][55]{:target="_blank"}: Ashley Nolan is a Senior UI Engineer working at JUST EAT.  She writes about  architecting large scale frontends and new frontend technologies. 
+67\. [Ashley Nolan][55]{:target="_blank"}: Ashley Nolan is a Senior UI Engineer working at JUST EAT.  She writes about  architecting large scale frontends and new frontend technologies. 
 
-68. [Code Visually][56]{:target="_blank"}: design blog, directory or library of tools and solutions. Variety of topics includes CSS, JavaScript, HTML, PHP, frameworks, browser extensions, web apps and tools, CMS templates (the barebone and framework variety), CMSes and wireframing tools.
+68\. [Code Visually][56]{:target="_blank"}: design blog, directory or library of tools and solutions. Variety of topics includes CSS, JavaScript, HTML, PHP, frameworks, browser extensions, web apps and tools, CMS templates (the barebone and framework variety), CMSes and wireframing tools.
 
-69. [Six Revisions][77]{:target="_blank"}: Six Revisions is a more of a web publication than a blog, but it's still worthy of this list for the great web development and design articles, guides, tutorials, news the small team pumps out.
+69\. [Six Revisions][77]{:target="_blank"}: Six Revisions is a more of a web publication than a blog, but it's still worthy of this list for the great web development and design articles, guides, tutorials, news the small team pumps out.
 
-70. [Luke W][80]: Luke's 15 years of writing cover Web and device strategy, interaction design, visual design, usability, and much more.
+70\. [Luke W][80]: Luke's 15 years of writing cover Web and device strategy, interaction design, visual design, usability, and much more.
 
 
 
