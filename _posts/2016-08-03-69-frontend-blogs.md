@@ -21,7 +21,7 @@ Just as a side note, our list is in no particular order! We love them all!
 
 1. [Codrops][50]{:target="_blank"}: Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 
-2. [David Welsh][8]{:target="_blank"}:  David is based in Wisconsin where he works as a senior web developer and an evangelist for Mozilla. He is interested in frontend technologies, including HTML/5, CSS, JavaScript, as well as frameworks like jQuery, Dojo Toolkit and MooTools (to which he is a core contributor). 
+2. [David Walsh][8]{:target="_blank"}:  David is based in Wisconsin where he works as a senior web developer and an evangelist for Mozilla. He is interested in frontend technologies, including HTML/5, CSS, JavaScript, as well as frameworks like jQuery, Dojo Toolkit and MooTools (to which he is a core contributor). 
 David is a guest blogger on several other sites and an active conference and meetup speaker.
 
 3. [Smashing Magazine][59]{:target="_blank"}: More than a blog, Smashing Magazine is an online platform and eBook publisher that covers professional resources for web developers and designers. Apart from its main editorial activities, Smashing Magazine organizes web design conferences in Europe and North America (Smashing Conference)
