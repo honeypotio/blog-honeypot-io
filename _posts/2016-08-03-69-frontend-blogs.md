@@ -169,7 +169,7 @@ Just as a side note, our list is in no particular order! We love them all!
 
 66\. [Andy Budd][54]{:target="_blank"}: Andy Budd is a User Experience Designer and CEO of Clearleft, Andy is the author of CSS Mastery, curates the dConstruct and UX London events and is responsible for Silverbackapp, a low cost usability testing application for the Mac. Andy is a regular speaker at international conferences and was named one of the 100 most influential people in the UK digital sector by Wired Magazine.
 
-67\. [Ashley Nolan][55]{:target="_blank"}: Ashley Nolan is a Senior UI Engineer working at JUST EAT.  She writes about  architecting large scale frontends and new frontend technologies. 
+67\. [Ashley Nolan][55]{:target="_blank"}: Ashley Nolan is a Senior UI Engineer working at JUST EAT.  He writes about  architecting large scale frontends and new frontend technologies. 
 
 68\. [Code Visually][56]{:target="_blank"}: design blog, directory or library of tools and solutions. Variety of topics includes CSS, JavaScript, HTML, PHP, frameworks, browser extensions, web apps and tools, CMS templates (the barebone and framework variety), CMSes and wireframing tools.
 
