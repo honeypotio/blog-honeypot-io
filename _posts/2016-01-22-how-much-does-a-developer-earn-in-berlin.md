@@ -15,7 +15,7 @@ Interested in working as a developer in Berlin? Want to know how much you can ea
 <!--more--> 
 
 
-![developer-salaries-berlin](/assets/images/how-much-does-a-developer-earn.png)
+![developer-salaries-berlin](/assets/images/salary-matrix-2.png "Berlin developer salary matrix")
 
 * * *
 
