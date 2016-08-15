@@ -52,9 +52,16 @@
   &__cover {
     display: block;
     height: 143px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
 
     @media #{$sm-up} {
       height: 193px;
+    }
+
+    @media #{$md-up} {
+      background-position-x: 0;
     }
 
     &__tags {
