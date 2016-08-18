@@ -14,9 +14,9 @@ Are you a student trying to choose your first programming language? Or perhaps y
 
 <!--more-->
 
-![average-backend.png](/assets/images/average-backend.png)
+![average-backend.svg](/assets/images/average-backend.svg)
 
-![demand-in-berlin.png](/assets/images/demand-in-berlin.png)
+![demand-in-berlin.svg](/assets/images/demand-in-berlin.svg)
 
 ## Why is Scala so popular?
 
