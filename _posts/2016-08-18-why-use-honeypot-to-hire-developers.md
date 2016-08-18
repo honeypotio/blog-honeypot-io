@@ -27,13 +27,13 @@ Honeypot is a developer-focused job platform. We are changing tech recruitment t
 * 35% Frontend Developers
 * 12.5% Fullstack Developers
 
-**The most popular programming languages recruiters are searching for are:**
+**Main technologies companies are hiring for on Honeypot:**
 
-* 18.5% PHP
-* 17.5% JavaScript
-* 14.5% Java
-* 11.5% Ruby
-* 8.5% DevOps
+* 33.2% JavaScript
+* 16% PHP
+* 8.5% Java
+* 8% Ruby
+* 5.5% DevOps
 
 **How does Honeypot work?**
 
