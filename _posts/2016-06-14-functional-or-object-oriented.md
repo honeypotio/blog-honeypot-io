@@ -1,10 +1,12 @@
 ---
-title:  Some thoughts on the future of programming
+title:  Some Thoughts on the Future of Programming
 subtitle:
 date:    2016-06-13 16:18:41
 layout:  post
 author:  sasha_pliusnina
 categories: Developers
+featured: true
+featured_weight: 2
 cover_image: future_programming.png
 permalink:  functional-or-object-oriented/
 importance: 2

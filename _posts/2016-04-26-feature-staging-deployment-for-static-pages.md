@@ -1,5 +1,5 @@
 ---
-title:   Feature staging deployment for static pages
+title:   Feature Staging Deployment for Static Pages
 subtitle: Deployment for your pull request workflow on a single page application project
 date:    2016-04-26 10:00:00
 layout:  post

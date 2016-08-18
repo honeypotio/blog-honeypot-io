@@ -1,12 +1,10 @@
 ---
-title:   How long does it take to find a job as a developer in the US compared to Europe? 
+title:   How Long Does it Take to Find a Job as a Developer in the US Compared to Europe? 
 subtitle:
 date:    2016-06-23 11:21:46
 layout:  post
 author:  emma_tracey
 categories: Developer
-featured: true
-featured_weight: 2
 cover_image: average-time.png
 permalink:  working-as-a-developer-in-the-eu-compared-to-us/
 importance: 2

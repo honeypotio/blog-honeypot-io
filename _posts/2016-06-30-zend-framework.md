@@ -1,5 +1,5 @@
 ---
-title:  "Community Devs: Zend contributor"
+title:  "Community Devs: Zend Contributor"
 subtitle:
 date:    2016-06-29 08:39:56
 layout:  post

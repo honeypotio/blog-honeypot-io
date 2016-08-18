@@ -1,5 +1,5 @@
 ---
-title:  "Open sourcing Searchspot, Honeypot’s search engine"
+title:  "Open Sourcing Searchspot, Honeypot’s Search Engine"
 subtitle:
 date:    2016-07-21 13:40:56
 layout:  post

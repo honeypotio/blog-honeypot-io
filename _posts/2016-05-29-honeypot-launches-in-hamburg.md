@@ -1,5 +1,5 @@
 ---
-title:   Honeypot launches in Hamburg! 
+title:   Honeypot Launches in Hamburg! 
 subtitle: Moin moin!
 date:    2016-05-30 10:06:08
 layout:  post

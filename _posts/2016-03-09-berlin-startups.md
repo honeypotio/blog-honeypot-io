@@ -1,5 +1,5 @@
 ---
-title:   Berlin's startups mapped by U-bahn station
+title:   Berlin's Startups Mapped by U-bahn Station
 subtitle: East side versus west side 
 date:    2016-03-09 16:01:14
 layout:  post

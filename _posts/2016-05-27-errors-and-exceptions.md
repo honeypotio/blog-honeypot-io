@@ -1,5 +1,5 @@
 ---
-title:   "Errors and exceptions (in Rust)"
+title:   "Errors and Exceptions (in Rust)"
 subtitle: An introduction to errors and exceptions handling using Rust as example
 date:    2016-05-27 12:03:00
 layout:  post

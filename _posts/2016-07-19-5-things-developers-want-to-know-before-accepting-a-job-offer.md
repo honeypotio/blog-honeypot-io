@@ -1,5 +1,5 @@
 ---
-title:   5 things developers want to know before accepting a job offer
+title:   5 Things Developers Want to Know Before Accepting a Job Offer
 subtitle:
 date:    2016-07-13 12:47:28
 layout:  post

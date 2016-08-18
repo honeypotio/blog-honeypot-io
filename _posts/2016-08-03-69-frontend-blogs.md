@@ -1,5 +1,5 @@
 ---
-title:   React fast! A (kind-of) definitive list of frontend blogs!
+title:   React fast! A (kind-of) Definitive List of Frontend Blogs!
 subtitle:
 date:    2016-08-02 13:01:26
 layout:  post

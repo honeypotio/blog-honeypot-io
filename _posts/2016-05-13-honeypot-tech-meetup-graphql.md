@@ -1,5 +1,5 @@
 ---
-title:   "Honeypot tech meetup: GraphQL"
+title:   "Honeypot Tech Meetup: GraphQL"
 subtitle: The Future of the API
 date:    2016-05-12 12:46:32
 layout:  post

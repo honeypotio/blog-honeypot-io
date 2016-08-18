@@ -1,5 +1,5 @@
 ---
-title: This grant subsidizes the cost of hiring junior developers in Germany
+title: This Grant Subsidizes the Cost of Hiring Junior Developers in Germany
 subtitle:
 date:    2016-06-16 17:24:38
 layout:  post

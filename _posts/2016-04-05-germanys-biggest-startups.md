@@ -1,5 +1,5 @@
 ---
-title:   Germany's 30 biggest startups in 2015
+title:   Germany's 30 Biggest Startups in 2015
 subtitle: There's more to Deutschland than beer and cars!
 date:    2016-04-05 19:16:35
 layout:  post

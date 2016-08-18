@@ -1,5 +1,5 @@
 ---
-title:   29 things every beginner programmer should know 
+title:   29 Things Every Beginner Programmer Should Know 
 subtitle:
 date:    2016-07-17 10:24:27
 layout:  post

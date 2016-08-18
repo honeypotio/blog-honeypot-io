@@ -1,5 +1,5 @@
 ---
-title:   5 inspirational books for HR in startups
+title:   5 Inspirational Books for HR in Startups
 subtitle:
 date:    2016-07-25 10:39:38
 layout:  post
