@@ -10,7 +10,7 @@ permalink:  which-backend-language-should-i-learn-next/
 importance: 2
 ---
 
-Are you a student trying to choose your first programming language? Or perhaps you are an experienced developer wondering: “which backend language should I learn next?” Regardless of motivation, accessing information about new technologies has never been easier, but how does one navigate this jungle of coding languages? In order to make your life a little easier, Honeypot has created this guide for backend developers to salary ranges and demand for backend developers in Berlin, followed by our picks for the top 25 Berlin-based companies split by technology:
+Are you a student trying to choose your first programming language? Or perhaps you are an experienced developer wondering which backend language should I learn next? Regardless of motivation, accessing information about new technologies has never been easier, but how does one navigate this jungle of coding languages? In order to make your life a little easier, Honeypot has created this guide for backend developers to salary ranges and demand for backend developers in Berlin, followed by our picks for the top 25 Berlin-based companies split by technology:
 
 <!--more-->
 
@@ -56,7 +56,7 @@ Industry: Internet
 
 ## Are you more likely to find a new job working with PHP?
 
-While Scala might be rare and sexy, the opposite can be said for PHP. PHP is great, PHP is useful, it’s been around for years - and it does the job. You might say there is an abundance of PHP developers available to companies; which is both good and bad. On one hand finding a job with PHP will be easier as more companies will be looking to fill positions, but on the other hand it also means that companies have a greater choice, which affects salaries. 
+While Scala might be rare and sexy, the opposite can be said for PHP. PHP is great, PHP is useful, it’s been around for years - and it does the job. You might say there is an abundance of PHP developers available to companies - which is both good and bad. On one hand finding a job with PHP will be easier as more companies will be looking to fill positions, but on the other hand it also means that companies have a greater choice, which affects salaries. 
 
 ### Top Companies looking for PHP developers
 
@@ -200,7 +200,7 @@ Industry: Internet
 
 * * *
 
-Honeypot is a marketplace connecting developers with Europe's most innovative start-ups. [Apply to join][26] as a company to find your next backend developer.
+Honeypot is a marketplace connecting developers with Europe's most innovative start-ups. [Apply to join][26] to find your next backend developer role. 
 
 [1]: https://wire.com/
 [2]: https://www.eyeem.com/ 
@@ -227,4 +227,4 @@ Honeypot is a marketplace connecting developers with Europe's most innovative st
 [23]: http://www.momox.de/
 [24]: https://www.orderbird.com/en/ipad-pos-system 
 [25]: https://en.lovoo.com/ 
-[26]: https://app.honeypot.io/invite_requests/new?utm_source=prolang
+[26]: https://www.honeypot.io/?utm_source=prolang
