@@ -24,7 +24,7 @@ I guess the whole boom started in eCommerce. Back then nobody knew how eCommerce
 
 Now, 10-15 years later, those skills are more abundant and the number of startups in general has exploded. Developers have the opportunity of going anywhere they like. The most dramatic change has been the fight for talent, which is somehow problematic. 
 
-## “What is it like working as a developer in incubators and accelerators?”
+### “What is it like working as a developer in incubators and accelerators?”
 
 Well I guess it depends. About four to five years ago Rocket Internet was different compared to now - it was more like an incubator; early stage investment, bootstrapping companies etc. This can be really interesting for developers as it’s very agile, but it can also be very unstable and changing day to day. 
 
@@ -42,7 +42,7 @@ In the past I have tried keeping a clear separation between frontend and backend
 
 We are currently using PHP as our main backend programming language, with Zend, Yii and Silex frameworks. On the frontend we mainly use pure Javascript. 
 
-## “Do you think that PHP remains the industry standard for eCommerce in Berlin?" 
+### “Do you think that PHP remains the industry standard for eCommerce in Berlin?" 
 
 To a certain extent, yes. What you have to understand is how things have developed: Project A Ventures was founded by the former managing directors of Rocket Internet, and some of the members of Rocket Internet team followed the directors to Project A.
 
@@ -50,7 +50,7 @@ At Project A we were not allowed to use stuff that we built for Rocket Internet 
 
 Back in the days Zend framework was state of the art. Over the last five years, there have been a lot of hyped frameworks but none of them really survived, you have to be confident in what you choose and how long it will survive. 
 
-This is why now, five and a half years later, Zend has still not been replaced even though it’s a bit outdated. But we are also working on extracting some components and going over to microservices, as the old applications doesn’t scale very well when it comes to larger stuff. 
+This is why now, five and a half years later, Zend has still not been replaced even though it’s a bit outdated. But we are also working on extracting some components and going over to microservices, as the old applications don’t scale very well when it comes to larger stuff. 
 
 ### “Microservices seems to be a buzzword these days - is it the solution to all programming problems?” 
 
@@ -60,13 +60,13 @@ We extract step by step and learn, we don’t just do it right away and cut our 
 
 If the API is constant - it’s well-defined, and if you really thought about it properly - you can exchange everything on the backend and the services just continues working as it was working before, so this makes it flexible and you can adapt to new technologies easier. 
 
-## “Are you hiring developers at the moment? And which qualities are you looking for in a top developer?”
+### “Are you hiring developers at the moment? And which qualities are you looking for in a top developer?”
 
 Yes, we want to increase our speed, so we will also increase the size of our team. And in terms of a top developers we’re not so interested in the syntactical stuff and how they write the code, but rather their approach to solving logic problems. Coding is the easy task - just to translate from the plan to the source code. 
 
 I don’t want to sit next to a guy to see how he’s coding. I like to see whether these guys know about the complexity of the code they are writing or whether he’s Googling for six hours to find out the right solution. You can teach somebody to write code, but you can’t teach somebody how to use their brain. 
 
-## “Considering both HR & product, what are the goals of Nu3 for the year?”
+### “Considering both HR & product, what are the goals of Nu3 for the year?”
 
 We are looking into this “half a day off per week” approach to increase idea generation. It means each team would get half a day of dedicated time per week to come up with fancy stuff. Usually they are working on a project that has particular business value or at least it’s assuming that there is a business value behind it. The idea is to introduce these hack sessions so they can get creative without any pressure of business value or goals. 
 
