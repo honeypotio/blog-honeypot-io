@@ -14,6 +14,7 @@ Michael Kugele has been involved in the Berlin startup scene for more than 15 ye
 
 <!--more-->
 
+![nu3-box.png](/assets/images/nu3-box.png)
 
 ## “How have you experienced the changes of the Berlin Startup scene over the past 15 years?”
 
