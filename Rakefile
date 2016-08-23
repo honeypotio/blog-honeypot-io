@@ -6,7 +6,7 @@ task :new, [:title] do |t, args|
 
   title            = args.title
   title_normalized = title.downcase.split.join('-')
-  time             = Time.now
+  time             = Time.now - (60 * 60)
   user_name        = `git config user.name`.chop.split.join('_').downcase
   permalink        = title_normalized + '/'
   file_name        = "#{time.strftime('%Y-%m-%d')}-#{title_normalized}.md"
