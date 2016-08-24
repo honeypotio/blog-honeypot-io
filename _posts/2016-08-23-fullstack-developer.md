@@ -23,6 +23,8 @@ The definition of a fullstack developer in itself is subjective. To generalize, 
 
 ### Enter JavaScript frameworks and handheld devices
 
+![Global OS Usage chart 2008-2016](/assets/images/device-browser-usage.png)
+
 From mid-2000s, a myriad of phone and tablet devices were introduced. This coincided with the rise of JavaScript frameworks, dealing solely with front-end presentation, which was a result of a new and exciting technique called AJAX (asynchronous JavaScript & XML). Instead of web servers taking requests and returning a full rendered web-page, a page could query for specific information and update the relevant presentational part. This meant faster websites (you only request what you need when you need it) and a new approach to web technologies. A new stack was introduced.
 
 Phones and tablets brought with them an interesting concern to web development. Previously, websites were limited to personal computers, paying no heed to different screen sizes. The advent of phones and tablets called for a re-think on how web information was presented and consumed. This also added a new concern to front-end side of things.
