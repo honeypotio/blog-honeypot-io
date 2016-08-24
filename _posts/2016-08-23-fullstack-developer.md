@@ -5,7 +5,7 @@ date:    2016-08-23 14:00:28
 layout:  post
 author:  kado_damball
 categories: Developers
-cover_image: fullstack_dev.jpg
+cover_image: fullstack_dev.png
 permalink:  fullstack-developer/
 importance: 2
 ---
