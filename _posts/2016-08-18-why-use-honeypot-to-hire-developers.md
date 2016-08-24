@@ -16,7 +16,7 @@ Honeypot is a developer-focused job platform. We are changing tech recruitment t
 <!--more--> 
 
 
-![why-use-honeypot](/assets/images/why-use-honeypot-infographic.png)
+![why-use-honeypot](/assets/images/why-use-honeypot-infographic.svg)
 
 
 ### Here are some of the key takeaways from our infographic:
