@@ -54,3 +54,7 @@ andreas_loupasakis:
   name: Andreas-Ioannis Loupasakis
   desc: Andreas is a Business Developer at Honeypot. Originally from Greece, he moved to Berlin to explore the tech start-up scene. Always up for a nice walk in the evening around Berlin and for some tasty Greek white wine.
   avatar: andreas.jpg
+kado_damball:
+  name: Kado Damball
+  desc: Kado Damball is a software developer at Honeypot. He enjoys everything related to data. He likes to functional programming concepts because he prefers <a href="http://www.johndcook.com/blog/2011/07/19/you-wanted-banana/">bananas that do not come with a gorilla</a>.
+  avatar: kado_damball.jpg
