@@ -16,9 +16,9 @@ At Honeypot, we want to make tech recruitment better for both companies and deve
 <!--more-->   
  
 
-## 1. Structure your recruiting process
+## 1. Structure your interview process
 
-Structuring your recruiting process will help you measure your performance and make you more efficient. This way, you will always be able to let the talents know what to expect in each step of the process, so they can prepare in advance. Your candidates will be less nervous, and a well-structured interview will lead to a better hiring decision. 
+Streamlining your interview process is the first, crucial step towards improving your overall hiring rate. First, you will need to consider whether the interview focuses on culture fit or hands-on skills matching for the new job role. Having a “question bank” of go-to questions is a good way of ensuring consistency. These questions should be worked into the conversation in a natural way, always bearing in mind the knowledge you have about the candidate. Scorecards as a tool for assessing and categorising candidates are also a great way of reminding yourself why this candidate appealed to you in the first place.
 
 ## 2. Use work sample tests  instead of a coding challenge
 
