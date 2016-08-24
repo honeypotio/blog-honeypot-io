@@ -1,0 +1,54 @@
+---
+title:   7 ways to improve your hiring practices when recruiting developers
+subtitle:
+date:    2016-08-24 07:04:20
+layout:  post
+author:  ewe_grajko
+categories: HR
+cover_image: hiring-hacks.png
+permalink:  7-ways-to-improve-your-hiring-practices-when-recruiting-developers/
+importance: 2
+---
+
+We, at Honeypot, are on our way to change tech recruitment; we want to make it better both for companies and developers. We receive constructive feedback from developers about various recruiting process on a daily basis, and as we believe in a constant feedback loop between all involved, we have picked our 7 most frequently occurring points, which can help you improve your tech recruitment, today!
+
+
+<!--more-->   
+ 
+
+## 1. Structure your recruiting process
+
+Structuring your recruiting process will help you measure your performance and make you more efficient. This way, you will always be able to let the talents know what to expect in each step of the process, so they can prepare in advance. Your candidates will be less nervous, and a well structured interview will lead to a better hiring decision. 
+
+## 2. Use work sample tests  instead of a coding challenge
+
+If you are struggling with developers who are not so keen to take your coding challenges, consider creating a work sample test. Take your application, remove a part of code responsible for a specific feature (eg. search filter) and let candidates work on it. This way they can learn about your product and picture what kind of work they would do for you. Furthermore: avoid sending tests before speaking to the developers - they also want to get to know you, before they invest time in your task!
+
+## 3. Share feedback in a timely manner
+
+Developers should receive clear, structured feedback on their performance during both the interview and coding challenge. Thanks to your feedback candidates can improve in the future and will consider your company a solid partner. Most importantly, your feedback should arrive on time! If you promised one week - do it in one week. If you are unable to keep this promise - let them know what is going on. 
+
+## 4. Discover potential, not experience
+
+Keep in mind: everyone has weaknesses. Your interview process should focus on the developer’s strengths and ability to learn new things, rather than weaknesses and mistakes made. To learn more about your candidate’s workflow process and to see how they are getting on, don’t be afraid to ask them questions about which elements they have been working on so far.  It will be easy to spot smart people. 
+
+## 5. Speed
+
+Speed is crucial if you are searching for senior developers. They will definitely be talking to  other companies and in the end, it’s up to you to convince them to choose yours. Keep in mind that the longer you hesitate the lower the chances are for a successful hire. Make all your team members aware of how important recruiting is and find a way for them to devote a few hours per week to it. This way it will become much easier to align schedules and fix the interviews. 
+
+## 6. Involve non-tech team members 
+
+Having troubles evaluating the culture fit? Involve non-tech team members in the interview process. Your Online Marketing Team works closely with the Tech Team? Have on OM Manager join the interview and talk about the challenges. What also works really well is trial days, although  these are pretty hard to organize if you hire someone from overseas. 
+
+
+## 7. Be considerate
+
+If you do hire someone from overseas - be considerate. These candidates are moving their lives (and often families) to join you in your adventure. Address their needs and concerns and support them in the best way possible. 
+
+I hope these points raised by developers on Honeypot will help you improve your recruiting process. Get in touch if you have any questions or feel we missed something! 
+
+* * *
+
+**Honeypot is a developer-focused job platform. Our Account Managers work closely with HR to create the best hiring experience for developers. Sign-up now to [start hiring][1]!**
+
+[1]: https://www.honeypot.io/pages/for_employers?utm_source=hiringhewe 
