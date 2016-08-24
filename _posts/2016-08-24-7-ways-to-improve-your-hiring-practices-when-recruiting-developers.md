@@ -10,7 +10,7 @@ permalink:  7-ways-to-improve-your-hiring-practices-when-recruiting-developers/
 importance: 2
 ---
 
-We, at Honeypot, are on our way to change tech recruitment; we want to make it better both for companies and developers. We receive constructive feedback from developers about various recruiting process on a daily basis, and as we believe in a constant feedback loop between all involved, we have picked our 7 most frequently occurring points, which can help you improve your tech recruitment, today!
+At Honeypot, we want to make tech recruitment better for both companies and developers. We receive constructive feedback from developers about various recruiting process on a daily basis. We have picked our seven most frequently occurring points, which can help you improve your tech recruitment, today!
 
 
 <!--more-->   
@@ -18,19 +18,19 @@ We, at Honeypot, are on our way to change tech recruitment; we want to make it b
 
 ## 1. Structure your recruiting process
 
-Structuring your recruiting process will help you measure your performance and make you more efficient. This way, you will always be able to let the talents know what to expect in each step of the process, so they can prepare in advance. Your candidates will be less nervous, and a well structured interview will lead to a better hiring decision. 
+Structuring your recruiting process will help you measure your performance and make you more efficient. This way, you will always be able to let the talents know what to expect in each step of the process, so they can prepare in advance. Your candidates will be less nervous, and a well-structured interview will lead to a better hiring decision. 
 
 ## 2. Use work sample tests  instead of a coding challenge
 
-If you are struggling with developers who are not so keen to take your coding challenges, consider creating a work sample test. Take your application, remove a part of code responsible for a specific feature (eg. search filter) and let candidates work on it. This way they can learn about your product and picture what kind of work they would do for you. Furthermore: avoid sending tests before speaking to the developers - they also want to get to know you, before they invest time in your task!
+If you are struggling with developers who are not so keen to take your coding challenges, consider creating a work sample test. Take your application, remove a part of code responsible for a specific feature (eg. search filter) and let candidates work on it. This way they can learn about your product and picture what kind of work they would do for you. Furthermore, avoid sending tests before speaking to the developers - they also want to get to know you, before they invest time in your task!
 
 ## 3. Share feedback in a timely manner
 
 Developers should receive clear, structured feedback on their performance during both the interview and coding challenge. Thanks to your feedback candidates can improve in the future and will consider your company a solid partner. Most importantly, your feedback should arrive on time! If you promised one week - do it in one week. If you are unable to keep this promise - let them know what is going on. 
 
-## 4. Discover potential, not experience
+## 4. Focus on potential, not experience
 
-Keep in mind: everyone has weaknesses. Your interview process should focus on the developer’s strengths and ability to learn new things, rather than weaknesses and mistakes made. To learn more about your candidate’s workflow process and to see how they are getting on, don’t be afraid to ask them questions about which elements they have been working on so far.  It will be easy to spot smart people. 
+Keep in mind that everyone has weaknesses. Your interview process should focus on the developer’s strengths and ability to learn new things, rather than weaknesses and mistakes made. To learn more about your candidate’s workflow process and to see how they are getting on, don’t be afraid to ask them questions about which elements they have been working on so far.  It will be easy to spot smart people. 
 
 ## 5. Speed
 
@@ -38,7 +38,7 @@ Speed is crucial if you are searching for senior developers. They will definitel
 
 ## 6. Involve non-tech team members 
 
-Having troubles evaluating the culture fit? Involve non-tech team members in the interview process. Your Online Marketing Team works closely with the Tech Team? Have on OM Manager join the interview and talk about the challenges. What also works really well is trial days, although  these are pretty hard to organize if you hire someone from overseas. 
+Having troubles evaluating the culture fit? Involve non-tech team members in the interview process. Your online marketing team works closely with the tech team? Have on OM Manager join the interview and talk about the challenges. What also works really well is a trial day, although  these are pretty hard to organize if you hire someone from overseas. 
 
 
 ## 7. Be considerate
