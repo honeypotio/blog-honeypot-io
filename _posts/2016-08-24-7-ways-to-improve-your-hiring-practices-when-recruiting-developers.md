@@ -18,7 +18,7 @@ At Honeypot, we want to make tech recruitment better for both companies and deve
 
 ## 1. Structure your interview process
 
-Streamlining your interview process is the first, crucial step towards improving your overall hiring rate. First, you will need to consider whether the interview focuses on culture fit or hands-on skills matching for the new job role. Having a “question bank” of go-to questions is a good way of ensuring consistency. These questions should be worked into the conversation in a natural way, always bearing in mind the knowledge you have about the candidate. Scorecards as a tool for assessing and categorising candidates are also a great way of reminding yourself why this candidate appealed to you in the first place.
+Streamlining your interview process is the first, crucial step towards improving your overall hiring rate. First, you will need to consider whether the interview focuses on culture fit or hands-on skills matching for the new job role. Having a “question bank” of go-to questions is a good way of ensuring consistency. These questions should be worked into the conversation in a natural way, always bearing in mind the knowledge you have about the candidate. Scorecards as a tool for assessing and categorising candidates are also a great way of reminding yourself why this candidate appealed to you in the first place. As an added benefit, having a more structure approach to recruitment will help candidates understand procedures and what to expect, which is super helpful for those who need a little help calming their interview nerves.
 
 ## 2. Use work sample tests  instead of a coding challenge
 
