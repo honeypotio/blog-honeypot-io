@@ -1,5 +1,5 @@
 ---
-title:   "What is Employee Experience"
+title:   "What is Employee Experience?"
 subtitle:
 date:    2016-08-25 14:34:44
 layout:  post
@@ -36,7 +36,7 @@ Today’s workers value rapid growth, a flexible workplace, and a sense of missi
 
 While titles shift to Human Resource Manager to SVP of People, Chief People Officer and  Global Head of Employee Experience, the real changes are much deeper.  
 
-The biggest change from the traditional HR set up to Employee Experience is the scope of responsibility of the HR team. In traditional setups,  HR functions include **recruitment, compliance training, career development, risk management, and performance management.** A large emphasis is also put on compliance and administration, particularly keeping to budgets.  
+The biggest change from the traditional HR set-up to Employee Experience is the scope of responsibility of the HR team. In traditional setups,  HR functions include **recruitment, compliance training, career development, risk management, and performance management.** A large emphasis is also put on compliance and administration, particularly keeping to budgets.  
 
 In this setup, success is measured through recruiting a particular number of people within a defined budget. It is argued that these metrics are often manipulated, with people motivated to fill roles rather than to find the best candidate for the right position. Further, the focus on cost efficiency is being judged as coming at the cost of flexibility and innovation. 
 
@@ -44,7 +44,7 @@ In contrast, Employee Experience focuses on three main areas: **culture, technol
 
 Topics covered can range from compensation and engagement to people analytics, workplace design, and well-being.  Many of the changes have been inspired by design thinking and behavioural psychology, all with the ultimate aim of creating a workplace people actually want to show up to. 
 
-The changes are being supported by more tech-orientated HR teams, who rely on multiple tools, like modern ATS systems (e.g [Lever](https://www.lever.co/)), recruiting platform (e.g [Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=EX)) and employee happiness tools (e.g [Peakon]( https://peakon.com/)), rather than clunky legacy systems. Data, in the form of people analytics, are being leveraged to guide decisions in talent planning and management. 
+The changes are being supported by more tech-orientated HR teams, who rely on multiple tools, like modern ATS systems (e.g [Lever](https://www.lever.co/)), recruiting platforms (e.g [Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=EX)) and employee happiness tools (e.g [Peakon]( https://peakon.com/)), rather than clunky legacy systems. Data, in the form of people analytics, are being leveraged to guide decisions in talent planning and management. 
 
 ### Who is leading the shift from Human Resources to Employee Experience? 
 
@@ -56,4 +56,4 @@ McChord’s 2009 [presentation]( http://www.slideshare.net/reed2001/culture-1798
 
 ### The Future of Employee Experience
 
-Thiel’s advice, which launched Airbnb’s obsession with employee culture, came to life in Levy’s vision and still remains the most [complete example of Employee Experience](http://www.forbes.com/sites/jeannemeister/2015/07/21/airbnbs-chief-human-resource-officer-becomes-chief-employee-experience-officer/3/#620e80862b68). With the change, more diverse profiles are entering HR, seeking to revolutionize how people and organizations interact. And that's good news for employees everywhere. 
+Thiel’s advice, which launched Airbnb’s obsession with employee culture, came to life in Levy’s vision of the workplace and remains the most [complete example of Employee Experience](http://www.forbes.com/sites/jeannemeister/2015/07/21/airbnbs-chief-human-resource-officer-becomes-chief-employee-experience-officer/3/#620e80862b68). With the change, more diverse profiles are entering HR, seeking to revolutionize how people and organizations interact. And that's good news for employees everywhere. 
