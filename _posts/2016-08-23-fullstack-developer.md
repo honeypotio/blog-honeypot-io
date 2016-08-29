@@ -10,7 +10,7 @@ permalink:  fullstack-developer/
 importance: 2
 ---
 
-"Fullstack developer" is a controversial tagline in any job posting. The term, which emerged in mid-2000s with the rise of AJAX and multi-device rendering concerns, remains contested by many. And while the role does have its place, the term itself needs a serious update. Its time to say hello to the generalist developer. 
+"Fullstack developer" is a controversial tagline in any job posting. The term, which dates back to the 90s, with the rise of AJAX and multi-device rendering concerns, remains contested by many. And while the role does have its place, the term itself needs a serious update. Its time to say hello to the generalist developer. 
 
 <!--more-->
 
