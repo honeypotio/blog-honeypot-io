@@ -1,7 +1,7 @@
 ---
 title: Fullstack Developer is an Outdated Term
 subtitle:
-date:    2016-08-23 14:00:28
+date:    2016-08-29 12:00:28
 layout:  post
 author:  kado_damball
 categories: Developers
