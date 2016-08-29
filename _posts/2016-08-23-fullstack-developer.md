@@ -1,5 +1,5 @@
 ---
-title:   The Journey of a Fullstack Developer
+title: Fullstack Developer is an Outdated Term
 subtitle:
 date:    2016-08-23 14:00:28
 layout:  post
@@ -10,7 +10,7 @@ permalink:  fullstack-developer/
 importance: 2
 ---
 
-"Looking for a fullstack developer" is slowly becoming a controversial tagline in job postings. Most developers will advise steering clear of any such position, namely as it might end up being a job meant to be done by two or more people. So, what is the big deal with fullstack developers?
+"Fullstack developer" is a controversial tagline in any job posting. The term, which emerged in mid-2000s with the rise of AJAX and multi-device rendering concerns, remains contested by many. And while the role does have its place, the term itself needs a serious update. Its time to say hello to the generalist developer. 
 
 <!--more-->
 
@@ -80,7 +80,7 @@ Aspiring fullstack developers should understand that the title is almost an oxym
 
 #### Perks of a fullstack developer
 
-As stated previously, fullstack developers enjoy a lot more opportunities compared to a developer specializing in one stack. Most companies would prefer dealing with someone comfortable dealing with CSS edge-cases as they are dealing with odd database queries.
+As stated previously, fullstack developers enjoy a lot more opportunities compared to a developer specializing in one stack. Most companies would prefer someone as comfortable dealing with CSS edge-cases as they are dealing with odd database queries.
 
 Software tend to become a lot more challenging and equally rewarding when dealing with both ends of the stack. It is much harder to be bored when you have twice as many features and bugs to work on. Keeping in mind most fullstack developers work in small teams, product ownership seems to come almost naturally. 
 
@@ -110,3 +110,7 @@ The old definition of a fullstack developer is almost extinct, and it is much be
 [^2]: A back-end developer for a video-content site will have different requirements to one working on a photo-sharing product. The same applies to front-end and dev-ops.
 
 [^3]: *Jack of all trades, master of none*, ~~but better than master of one~~.
+
+* * *
+
+On Honeypot, companies apply directly to developers with salary and tech stack upfront. Whether you are a frontend, backend or generalist, [signup today](https://www.honeypot.io/?utm_source=kado) and start getting offers directly to your inbox!
