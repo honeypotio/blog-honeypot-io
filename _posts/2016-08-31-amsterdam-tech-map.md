@@ -16,6 +16,8 @@ To answer this question we gathered a sample of over 170 tech companies, classif
 
 <!--more--> 
 
+[![Amsterdam tech map](/assets/images/amsterdam-tech-map-2016.png)](/assets/images/amsterdam-tech-map-2016-bigger.png)
+
 ### Kroes Kontrol 
 
 Over the last two years, the startup ecosystem has taken centre stage in Amsterdam, with mammoth efforts being made to coordinate public and private resources. 
@@ -39,7 +41,6 @@ While Berlin has recently become the star of Europe’s startup scene, it is Ams
 
 For developers, perhaps Amsterdam’s most noteworthy contribution is the Python programming language, which was created by Guido van Rossum in 1989 at the National Research Institute for Mathematics and Computer Science. 
 
-![amsterdam tech map](/assets/images/amsterdam-tech-map-2016.png)
 
 Home grown, well established software and security companies, such as [Gemalto][125], [Xebia][196], [AVG Technologies][124], [Schuberg Philis][246] and [TomTom][173] are a testament to that culture of innovation. In 2015, the Netherlands ranked 4th on the [Global Innovation Index][247]. More recent editions to Amsterdam’s portfolio include [Bright Computing][153], [Pyramid Analytics][154] and [Wercker][155].
 
