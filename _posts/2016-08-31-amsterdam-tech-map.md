@@ -1,7 +1,7 @@
 ---
 title:  Amsterdam Tech Map
 subtitle:
-date:    2016-08-31 14:09:38
+date:    2016-09-08 12:09:38
 layout:  post
 author:  emma_tracey
 categories: Startups
