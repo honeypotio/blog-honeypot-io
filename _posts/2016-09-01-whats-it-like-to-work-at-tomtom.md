@@ -12,7 +12,10 @@ importance: 2
 
 Cees van Dok is Head of UX Design at TomTom, a global leader in navigation and mapping products. Cees is passionate about the possibilities of design and UI. He talks to Honeypot about trends in UI design, his role in TomTom’s navigation UI redesign and the many options available for developers in Amsterdam. 
 
+
 <!--more--> 
+
+![tomtom](/assets/images/tomtom.png)
 
 ### TomTom is a rare example of a consumer brand that has emerged from Europe in the 2000s. What are the ingredients for its success? 
 
