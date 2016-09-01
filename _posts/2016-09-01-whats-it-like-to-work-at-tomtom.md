@@ -1,5 +1,5 @@
 ---
-title:   Whats it like to work at TomTom? 
+title:   What's it like to work at TomTom? 
 subtitle:
 date:    2016-09-01 09:58:37
 layout:  post
@@ -15,7 +15,7 @@ Cees van Dok is Head of UX Design at TomTom, a global leader in navigation and m
 
 <!--more--> 
 
-![tomtom](/assets/images/tomtom.png)
+![tomtom](/assets/images/tomtom-box.png)
 
 ### TomTom is a rare example of a consumer brand that has emerged from Europe in the 2000s. What are the ingredients for its success? 
 
