@@ -1,5 +1,5 @@
 ---
-title:   Whats it like to work at TomTom? 
+title:   What's it like to work at TomTom? 
 subtitle:
 date:    2016-09-01 09:58:37
 layout:  post
