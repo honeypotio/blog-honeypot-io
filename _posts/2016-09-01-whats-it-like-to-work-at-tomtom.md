@@ -15,7 +15,7 @@ Cees van Dok is Head of UX Design at TomTom, a global leader in navigation and m
 
 <!--more--> 
 
-![tomtom](/assets/images/tomtom.png)
+![tomtom](/assets/images/tomtom-box.png)
 
 ### TomTom is a rare example of a consumer brand that has emerged from Europe in the 2000s. What are the ingredients for its success? 
 
