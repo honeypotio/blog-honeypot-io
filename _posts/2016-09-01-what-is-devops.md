@@ -16,15 +16,15 @@ Type “what is DevOps” into Google and a staggering amount of results show. C
 
 ## A History of DevOps
 
-The earliest mentions of DevOps date back to the 2008 Agile Conference and a talk on [Agile Infrastructure by Andrew Clay Shafer and Patrick Debois](http://www.slideshare.net/littleidea/agile-infrastructure-agile-2009). At that time, businesses were experiencing problems with their tech infrastructure because the various departments weren’t effectively working together. Developers wrote code in isolation of the final product, which essentially meant that more often than not, code wasn’t compatible with the product environment. This caused a lot of problems in relation to deployment and bug fixes, which left System Administrators spread thin, and developers and product owners annoyed.
+The earliest mentions of DevOps date back to the 2008 Agile Conference and a talk on [Agile Infrastructure by Andrew Clay Shafer and Patrick Debois](http://www.slideshare.net/littleidea/agile-infrastructure-agile-2009). At that time, businesses were experiencing problems with their tech infrastructure because the various departments weren’t effectively working together. Developers wrote code in isolation of the final product, which essentially meant that code often wasn’t compatible with the product environment. This caused a lot of problems in relation to deployment and bug fixes, which left System Administrators spread thin, and developers and product owners annoyed.
 
 ![what-is-devlops.png](/assets/images/what-is-devlops.png)
 
-Naturally this process was neither smooth nor efficient. The Agile movement first revolutionised the IT industry by increasing deployment frequency from one deployment every two to three weeks to 10 deployments per day. Since then, DevOps and Agile has kept pushing the boundaries of what is possible, and today companies like Amazon do several thousand deployments per day. In fact, Amazon are said to be doing one deployment every [**11.6 seconds!**](https://news.ycombinator.com/item?id=2971521)  
+Naturally this process was neither smooth nor efficient. The Agile movement first revolutionised the IT industry by increasing deployment frequency from one deployment every two to three weeks to 10 deployments per day. Since then, DevOps and Agile have kept pushing the boundaries of what is possible, and today companies like Amazon do several thousand deployments per day. In fact, Amazon are said to be doing one deployment every [**11.6 seconds!**](https://news.ycombinator.com/item?id=2971521)  
 
 ## Does DevOps replace System Admin? 
 
-There seems to be a common misconception that DevOps is merely System Admin repackaged, but with fancier tools. The stereotype goes: DevOps code, System Admins don't. In relaity, it is fairer to say that there is a difference in focus between the two roles. System Admin is rather operative and maintenance - fixing things once they go wrong - the focus of DevOps is automation through coding. 
+There seems to be a common misconception that DevOps is merely System Admin repackaged, but with fancier tools. The stereotype goes: DevOps code, System Admins don't. In reality, it is fairer to say that there is a difference in focus between the two roles. System Admin is rather operative and maintenance, fixing things once they go wrong, while the focus of DevOps is automation through coding. 
 
 However, I must emphasise: System Admin shouldn't be replaced; the role is still very much needed. Errors will still occur, and System Admins are vital for daily operations and maintenance, and DevOps cannot and should not replace Ops people. Instead DevOps should be seen as the bridge to make the lives of developers and System Admins a lot easier. 
 
