@@ -147,367 +147,366 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 **eCommerce in Amsterdam (16%)**
 
-1. [CrowdyHouse][36]{:target="_blank"}: Furniture and fashion direct from designers 
+1: [CrowdyHouse][36]{:target="_blank"}: Furniture and fashion direct from designers 
 
-3. [Fashiolista][235]{:target="_blank"}: Fashion inspired by bloggers 
+3: [Fashiolista][235]{:target="_blank"}: Fashion inspired by bloggers 
 
-5. [BDressed][234]{:target="_blank"}: Ethical fashion
+5: [BDressed][234]{:target="_blank"}: Ethical fashion
 
-10. [Otrium][233]{:target="_blank"}: Online sample sales
+10: [Otrium][233]{:target="_blank"}: Online sample sales
 
-11. [LookLive][232]{:target="_blank"}: Celebrity-inspired fashion
+11: [LookLive][232]{:target="_blank"}: Celebrity-inspired fashion
 
-16. [Pneusmart][230]{:target="_blank"}: Tire sales
+16: [Pneusmart][230]{:target="_blank"}: Tire sales
 
-19. [Fixico][229]{:target="_blank"}: Quotes for car damage repair 
+19: [Fixico][229]{:target="_blank"}: Quotes for car damage repair 
 
-31. [AccessArt][228]{:target="_blank"}: Platform for affordable art
+31: [AccessArt][228]{:target="_blank"}: Platform for affordable art
 
-32. [Undeveloped][227]{:target="_blank"}: Buy and sell domain names
+32: [Undeveloped][227]{:target="_blank"}: Buy and sell domain names
 
-44. [Ticketswap][226]{:target="_blank"}: Buy and sell e-tickets
+44: [Ticketswap][226]{:target="_blank"}: Buy and sell e-tickets
 
-54. [The Cloakroom][224]{:target="_blank"}: Personal shopping for men
+54: [The Cloakroom][224]{:target="_blank"}: Personal shopping for men
 
-58. [CataWiki][223]{:target="_blank"}: Online auction for special objects
+58: [CataWiki][223]{:target="_blank"}: Online auction for special objects
 
-61. [Scrap Connection][222]{:target="_blank"}: Scrap metal platform
+61: [Scrap Connection][222]{:target="_blank"}: Scrap metal platform
 
-87. [Peecho][221]{:target="_blank"}: On-demand printing for books, magazines and creative work 
+87: [Peecho][221]{:target="_blank"}: On-demand printing for books, magazines and creative work 
 
-90. [Rituals][220]{:target="_blank"}: Home and body cosmetics
+90: [Rituals][220]{:target="_blank"}: Home and body cosmetics
 
-96. [Speunders][142]: Marketplace of used and new products and services
+96: [Speunders][142]: Marketplace of used and new products and services
 
-103. [House of Einstein][19]{:target="_blank"}: Personal shopping service for men
+103: [House of Einstein][19]{:target="_blank"}: Personal shopping service for men
 
-117. [Yippie][18]{:target="_blank"}: Online deals
+117: [Yippie][18]{:target="_blank"}: Online deals
 
-134. [Ace & Tate][217]{:target="_blank"}:  Online glasses retailer
+134: [Ace & Tate][217]{:target="_blank"}:  Online glasses retailer
 
-136. [Marktlplaats][216]{:target="_blank"}: Classified advertising site
+136: [Marktlplaats][216]{:target="_blank"}: Classified advertising site
 
-137. [De Advocatenwijzer][215]{:target="_blank"}: Legal Services
+137: [De Advocatenwijzer][215]{:target="_blank"}: Legal Services
 
-141. [Bloomon][214]{:target="_blank"}: Flowers
+141: [Bloomon][214]{:target="_blank"}: Flowers
 
-146. [DesignbyCraft][213]{:target="_blank"}: Curated handmade products
+146: [DesignbyCraft][213]{:target="_blank"}: Curated handmade products
 
-148. [Fairphone][212]{:target="_blank"}: Conflict-free tungsten phones
+148: [Fairphone][212]{:target="_blank"}: Conflict-free tungsten phones
 
-152. [LegalLloyd][211]{:target="_blank"}: Legal services
+152: [LegalLloyd][211]{:target="_blank"}: Legal services
 
-154. [AliveShoes][210]{:target="_blank"}: Custom-design shoes
+154: [AliveShoes][210]{:target="_blank"}: Custom-design shoes
 
 
 **MarTech in Amsterdam (14%)**
 
-7. [SO WIFI][98]: free WiFi, and in return get Social Media likes, powerful insights, analytics, and marketing tools
+7: [SO WIFI][98]: free WiFi, and in return get Social Media likes, powerful insights, analytics, and marketing tools
 
-17. [Framer][148]: Design interactive high-fidelity prototypes for iOS, Android, desktop or the web
-
-
-39. [Insided][99]: Social media marketing platform
-
-56. [Media Distillery][100]: TV and radio monitoring tool
+17: [Framer][148]: Design interactive high-fidelity prototypes for iOS, Android, desktop or the web
 
 
-62. [Layar][101]: Augmented reality and interactive print technology
+39: [Insided][99]: Social media marketing platform
 
-69. [Twitter Counter][102]: Twitter analytics
-
-73. [Publitas][103]: Online PDF publishing tool
-
-77. [Adgoji][104]: Performance marketing
-
-78. [Zoomin.TV][105]: Video publisher
-
-91. [Optimizely][106]: A/B testing and personalization tool (HQ in San Francisco) 
-
-101. [imgZine][107]: Internal communications platform
-
-110. [Azavista][108]: Event management software 
-
-115. [SocialAudience][109]: Social media management
-
-120. [Autheos][110]: Product videos
-
-124. [Cirqle][111]: Platform for connecting brands with global publishers
+56: [Media Distillery][100]: TV and radio monitoring tool
 
 
-126. [Spotzer][112]: Integrated digital marketing solutions
+62: [Layar][101]: Augmented reality and interactive print technology
 
-127. [DoubleDutch][113]: Live engagement marketing solutions (HQ in San Francisco) 
+69: [Twitter Counter][102]: Twitter analytics
 
-149. [Crobox][114]: Persuasion profiling technology
+73: [Publitas][103]: Online PDF publishing tool
 
-155. [Relay42][115]: Data management Platform
+77: [Adgoji][104]: Performance marketing
 
-161. [Notificare][116]: Mobile marketing
+78: [Zoomin.TV][105]: Video publisher
+
+91: [Optimizely][106]: A/B testing and personalization tool (HQ in San Francisco) 
+
+101: [imgZine][107]: Internal communications platform
+
+110: [Azavista][108]: Event management software 
+
+115: [SocialAudience][109]: Social media management
+
+120: [Autheos][110]: Product videos
+
+124: [Cirqle][111]: Platform for connecting brands with global publishers
+
+
+126: [Spotzer][112]: Integrated digital marketing solutions
+
+127: [DoubleDutch][113]: Live engagement marketing solutions (HQ in San Francisco) 
+
+149: [Crobox][114]: Persuasion profiling technology
+
+155: [Relay42][115]: Data management Platform
+
+161: [Notificare][116]: Mobile marketing
 
 
 **Apps in Amsterdam (9%)** 
 
 
-2. [favoroute][48]{:target="_blank"}: Travel guide app
+2: [favoroute][48]{:target="_blank"}: Travel guide app
 
-4. [Maggy][49]{:target="_blank"}: Magazine app
+4: [Maggy][49]{:target="_blank"}: Magazine app
 
-20. [Fitmo][50]{:target="_blank"}: Fitness app
+20: [Fitmo][50]{:target="_blank"}: Fitness app
 
 23: [VirtuaGym][51]{:target="_blank"}: Fitness and nutrition app
 
 30: [giveO2][52]{:target="_blank"}: Transport activity measurement app
 
-33. [MarkO][53]{:target="_blank"}: Productivity app
+33: [MarkO][53]{:target="_blank"}: Productivity app
 
-35. [Human][54]{:target="_blank"}: Activity tracker
+35: [Human][54]{:target="_blank"}: Activity tracker
 
-38. [Foodzy][55]{:target="_blank"}: Food tracker 
+38: [Foodzy][55]{:target="_blank"}: Food tracker 
 
-43. [Peerby][57]{:target="_blank"}: Local lending app
+43: [Peerby][57]{:target="_blank"}: Local lending app
 
-97. [Tabster][58]{:target="_blank"}: Split Payment app
+97: [Tabster][58]{:target="_blank"}: Split Payment app
 
-109. [2days][59]{:target="_blank"}: Concerts, parties and events app 
+109: [2days][59]{:target="_blank"}: Concerts, parties and events app 
 
-131. [Pimmr][60]{:target="_blank"}: Restaurant recommendations 
+131: [Pimmr][60]{:target="_blank"}: Restaurant recommendations 
 
-140. [Capture (Camera)][61]{:target="_blank"}: Social camera app
+140: [Capture (Camera)][61]{:target="_blank"}: Social camera app
 
-156. [YES.TAP][78]{:target="_blank"}: Rewards app 
+156: [YES.TAP][78]{:target="_blank"}: Rewards app 
 
-168. [Parkbee][62]{:target="_blank"}: Parking app
+168: [Parkbee][62]{:target="_blank"}: Parking app
 
 
 
 **FinTech companies in Amsterdam (8%)**
 
 
-53. [Nxchange][67]{:target="_blank"}: Investor marketplace
+53: [Nxchange][67]{:target="_blank"}: Investor marketplace
 
-55. [Leapfunder][68]{:target="_blank"}: Angel investor network
+55: [Leapfunder][68]{:target="_blank"}: Angel investor network
 
-57. [Bux][69]{:target="_blank"}: Stock trading platform
+57: [Bux][69]{:target="_blank"}: Stock trading platform
 
-83. [Adyen][70]{:target="_blank"}: Payment company
+83: [Adyen][70]{:target="_blank"}: Payment company
 
-104. [Bunq][71]{:target="_blank"}: Bill splitting
+104: [Bunq][71]{:target="_blank"}: Bill splitting
 
-111. [Musoni System][72]{:target="_blank"}: Microfinance software 
+111: [Musoni System][72]{:target="_blank"}: Microfinance software 
 
-123. [Belastingbutler][73]{:target="_blank"}: Financial advice
+123: [Belastingbutler][73]{:target="_blank"}: Financial advice
 
-125. [Avangate][75]: Billing software (HQ in Redwood City)
+125: [Avangate][75]: Billing software (HQ in Redwood City)
 
-130. [BitFury][76]{:target="_blank"}: Bitcoin
+130: [BitFury][76]{:target="_blank"}: Bitcoin
 
-144. [SRXP][77]{:target="_blank"}: Expense reporting software
+144: [SRXP][77]{:target="_blank"}: Expense reporting software
 
-174. [One Planet Crowd][79]{:target="_blank"}: Crowdfunding platform
+174: [One Planet Crowd][79]{:target="_blank"}: Crowdfunding platform
 
 
 **Booking Platforms in Amsterdam (7%)** 
 
 
-14. [TravelBird][301]{:target="_blank"}: Travel platform 	
+14: [TravelBird][301]{:target="_blank"}: Travel platform 	
 
 
-27. [Barqo][302]{:target="_blank"}: Boat booking marketplace
+27: [Barqo][302]{:target="_blank"}: Boat booking marketplace
 
 
-67. [FindHotel][303]{:target="_blank"}: Hotel booking platform
+67: [FindHotel][303]{:target="_blank"}: Hotel booking platform
 
 
-93. [Treatwell][304]{:target="_blank"}: Hair and beauty bookings marketplace	
+93: [Treatwell][304]{:target="_blank"}: Hair and beauty bookings marketplace	
 
 
-95. [Easytobook][305]{:target="_blank"}: Accommodation booking	
+95: [Easytobook][305]{:target="_blank"}: Accommodation booking	
 
 
-145. [Deskbookers][206]{:target="_blank"}: Workspace booking	
+145: [Deskbookers][206]{:target="_blank"}: Workspace booking	
 
-153. [flexas.nl][39]{:target="_blank"}: Office booking
+153: [flexas.nl][39]{:target="_blank"}: Office booking
 
-157. [hoteliers](https://www.hoteliers.com): Hotel booking 
+157: [hoteliers](https://www.hoteliers.com): Hotel booking 
 
 
-179. [Booking.com][207]{:target="_blank"}: Hotel and accomodation booking 
+179: [Booking.com][207]{:target="_blank"}: Hotel and accomodation booking 
 
 
 **Security Software Companies in Amsterdam (5%)**
 
 
-6. [EclecticIQ](https://www.eclecticiq.com/): Threat Management  
+6: [EclecticIQ](https://www.eclecticiq.com/): Threat Management  
 
-116. [ZIVVER][122]: E-mail, chat and file transfer privacy
+116: [ZIVVER][122]: E-mail, chat and file transfer privacy
 
-167. [Findect][123]: Payment fraud detection software
+167: [Findect][123]: Payment fraud detection software
 
-98. [AVG][124]: Antivirus and malware protection 
+98: [AVG][124]: Antivirus and malware protection 
 
-180. [Gemalto][125]: Banking security solutions
+180: [Gemalto][125]: Banking security solutions
 
 
 **Software Development Companies in Amsterdam (4%)**
 
 
-26. [Atlassian][150]:  software development, project management, collaboration, and code quality tools, such as JIRA and BitBucket. HQ in Sydney. 	
+26: [Atlassian][150]:  software development, project management, collaboration, and code quality tools, such as JIRA and BitBucket. HQ in Sydney. 	
 
-29. [Cupenya][151]: incident tracking tool
+29: [Cupenya][151]: incident tracking tool
 	
-84. [Magnetic.io][152]: software to design, build and deploy modular & service based application architectures
+84: [Magnetic.io][152]: software to design, build and deploy modular & service based application architectures
 
-105. [Bright Computing][153]: software to manage HPC clusters, Hadoop clusters, and OpenStack private clouds. 
+105: [Bright Computing][153]: software to manage HPC clusters, Hadoop clusters, and OpenStack private clouds. 
 
-106. [Pyramid Analytics][154]: business Intelligence tool
+106: [Pyramid Analytics][154]: business Intelligence tool
 
-107. [Wercker][155]: continuous delivery platform to build and deploy applications and microservices
+107: [Wercker][155]: continuous delivery platform to build and deploy applications and microservices
 
-113. [Elastic.co][156]: search, log analysis, and analytics tools 
+113: [Elastic.co][156]: search, log analysis, and analytics tools 
 
 
 
 **AdTech companies in Amsterdam (3%)**
 
 
-36. [Avazu][81]{:target="_blank"}: cross-device advertising and mobile game publishing  [HQ in Japan]
+36: [Avazu][81]{:target="_blank"}: cross-device advertising and mobile game publishing  [HQ in Japan]
 
-60. [Screen6][82]{:target="_blank"}: cross-device identity management for the advertising industry 
+60: [Screen6][82]{:target="_blank"}: cross-device identity management for the advertising industry 
 
-94. [wakoopa][83]{:target="_blank"}: cross-device behavioral consumer data
+94: [wakoopa][83]{:target="_blank"}: cross-device behavioral consumer data
 
-165. [Adcrowd][84]{:target="_blank"}: retargeting platform
+165: [Adcrowd][84]{:target="_blank"}: retargeting platform
 
-171. [PlotProjects][85]{:target="_blank"}: geofencing messaging
+171: [PlotProjects][85]{:target="_blank"}: geofencing messaging
 
 
 **Retail Tech Startups in Amsterdam (3%)**
 
  
-15. [lightspeedHQ][31]: Point of sale products for retail stores and restaurants
+15: [lightspeedHQ][31]: Point of sale products for retail stores and restaurants
 
-85. [ShopperConcepts][144]: Targeted offers & promotion
+85: [ShopperConcepts][144]: Targeted offers & promotion
 
-99. [IBOOD][145]: Online daily deals
+99: [IBOOD][145]: Online daily deals
 
-133. [Flipit][146]: Coupon Portal
+133: [Flipit][146]: Coupon Portal
 
-46. [Roamler][147]: In-store analytics 
+46: [Roamler][147]: In-store analytics 
 
 
 **Customer Management Systems (3%)**
 
 
-34. [Wonderflow][243]: Consumer feedback software
+34: [Wonderflow][243]: Consumer feedback software
 
-45. [CustomerGauge][244]: Customer retention platform
+45: [CustomerGauge][244]: Customer retention platform
 
-51. [Casengo][245]: Customer service software
+51: [Casengo][245]: Customer service software
 
-74. [Backbase][46]: Customer experience platform
+74: [Backbase][46]: Customer experience platform
 
-92. [Usabilla HQ][47]: User feedback software
+92: [Usabilla HQ][47]: User feedback software
 
 
 **Transport companies in Amsterdam (2%)**
 
 
-59. [Uber Europe][171]: Taxi app (HQ in San Francisco) 
+59: [Uber Europe][171]: Taxi app (HQ in San Francisco) 
 
-42. [SnappCar][56]: Car hire marketplace
+42: [SnappCar][56]: Car hire marketplace
 
-71. [Mobypark][172]: Parking space rental 
+71: [Mobypark][172]: Parking space rental 
 
-178. [Tom Tom][173]: Navigation and mapping products
+178: [Tom Tom][173]: Navigation and mapping products
 
 
 **3D printing startups in Amsterdam (2%)** 
 
 
-22. [3D Hubs][186]: Online 3D printing service platform.
+22: [3D Hubs][186]: Online 3D printing service platform.
 
-48. [Zazzy][25]: 3D printed accessories 
+48: [Zazzy][25]: 3D printed accessories 
 
-119. [Printr][187]: 3D printing education platform
+119: [Printr][187]: 3D printing education platform
 
 
 **MedTech startups in Amsterdam (2%)**
 
 
-8. [Earlydoc][139]: Health Complaint and Symptom Check
+8: [Earlydoc][139]: Health Complaint and Symptom Check
 
-50. [MDLinking][140]: Free secure messenger to connect with colleague
+50: [MDLinking][140]: Free secure messenger to connect with colleague
 
 
 
 **EduTech (2%)**
 
 
-13. [Studocu][65]{:target="_blank"}: Study platform
+13: [Studocu][65]{:target="_blank"}: Study platform
 
 
-102. [studytube][66]{:target="_blank"}: E-learning platform
+102: [studytube][66]{:target="_blank"}: E-learning platform
 
-129. [eFaqt][63]{:target="_blank"}: Study platform
+129: [eFaqt][63]{:target="_blank"}: Study platform
 
-164. [myngle][64]{:target="_blank"}: Language learning platform
+164: [myngle][64]{:target="_blank"}: Language learning platform
 
 
 
 **Music Startups in Amsterdam (2%)** 
 
 
-28. [Kollekt.fm][130]: Music sharing platform
+28: [Kollekt.fm][130]: Music sharing platform
 
-49. [22tracks][131]: Music discovery service
+49: [22tracks][131]: Music discovery service
 
-86. [Songflow][132]: Digital music distribution
+86: [Songflow][132]: Digital music distribution
 
 
 **Games companies based in Amsterdam and the Startup Delta (2%)** 
 
 
-21. [Amiquo][192]
+21: [Amiquo](http://www.rockstart.com/startups/amiquo)
 
-
-162. [Radical Graphics Studios][193]
+162: [Radical Graphics Studios][193]
 
 
 **Food Delivery Startups in Amsterdam (1%)**
 
 
-63. [Directlyfrom.nl][133]: Ingredient delivery directly from producers
+63: [Directlyfrom.nl][133]: Ingredient delivery directly from producers
 	
-82. [Takeaway.com][134]: Food delivery 	
+82: [Takeaway.com][134]: Food delivery 	
 
 
 **Other (8%)**
 
 
-9. [Pastbook][163]: Photos
+9: [Pastbook][163]: Photos
 
-12. [Netflix][162]: Streaming service (HQ in Los Gatos, California)
+12: [Netflix][162]: Streaming service (HQ in Los Gatos, California)
 
-18. [Collaborne][149]: Innovation process tool
+18: [Collaborne][149]: Innovation process tool
 	
-65. [Mycujoo][167]: Streaming
+65: [Mycujoo][167]: Streaming
 
-68. [GetStream][166]: Streaming API
+68: [GetStream][166]: Streaming API
 
-72. [Fuelup][165]: Search
+72: [Fuelup][165]: Search
 
-75. [AgriPlace][158]: Farm data collection and analysis tool
+75: [AgriPlace][158]: Farm data collection and analysis tool
 
-76. [LAB 4242][168]: Virtual reality
+76: [LAB 4242][168]: Virtual reality
 
-132. [Quiver][160]: File Transfer
+132: [Quiver][160]: File Transfer
 
-138. [Zeef ][159]: Curated Directory
+138: [Zeef ][159]: Curated Directory
 
-147. [WeTransfer][161]: File Transfer
+147: [WeTransfer][161]: File Transfer
 
-150. [Funda][164]: Real Estate
+150: [Funda][164]: Real Estate
 
 
 
@@ -518,61 +517,61 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 **VCs in Amsterdam**
 
-37. [HenQ][175]
+37: [HenQ][175]
 	
-64. [Peak Capital][176]	
+64: [Peak Capital][176]	
 
-121. [Soestdijk Capital][177]
+121: [Soestdijk Capital][177]
 	
-128. [HPE Capital][178]
+128: [HPE Capital][178]
 	
-139. [Cyrte Investments][179]
+139: [Cyrte Investments][179]
 	
-169. [StartGreen Capital][180]
+169: [StartGreen Capital][180]
 	
-172. [Avedon Capital Partners B.V.][181]
+172: [Avedon Capital Partners B.V.][181]
 	
-173. [Stiching Doen][182]	
+173: [Stiching Doen][182]	
 
-175. [Axivate Capital][183]	
+175: [Axivate Capital][183]	
 
-176. [Prime Ventures][184]
+176: [Prime Ventures](www.primeventures.com)
 
 
 **Co-working Spaces in Amsterdam** 
 
 
 
-1. [Rockstart][189]{:target="_blank"}
+1: [Rockstart][189]{:target="_blank"}
 
-118. [B.Amsterdam][238]{:target="_blank"}
+118: [B.Amsterdam][238]{:target="_blank"}
 
-40. [Spacesworks][240]{:target="_blank"}
+40: [Spacesworks][240]{:target="_blank"}
 
-66. [TQ][241]{:target="_blank"}
+66: [TQ][241]{:target="_blank"}
 
-70. [WeWork][242]{:target="_blank"} 
+70: [WeWork][242]{:target="_blank"} 
 
 
 **Accelerators in Amsterdam**
 
 
-25. [Rockstart][189]
+25: [Rockstart][189]
 
-79. [Aimforthemoon][190]
+79: [Aimforthemoon][190]
 
-142. [Hubstart][191]
+142: [Hubstart][191]
 
 
 [StartupBootcamp](https://www.startupbootcamp.org/)
 
 
-***Incubators in Amsterdam***
+**Incubators in Amsterdam**
 
 
-122. [Starthub Incubator][135]
+122: Starthub Incubator
 
-143. [Ace Venture Lab Incubator][136]
+143: [Ace Venture Lab Incubator][136]
 
 
 
@@ -602,7 +601,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 [ForCare ][141]: Software for health information exchanges, image sharing and care coordination (MedTech)
 
-[Blendle][169]: News aggregation
+[Blendle](https://blendle.com/) News aggregation
 
 
 [MiniBrew][170]: Brewing
@@ -611,20 +610,20 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 **The Hague**
 
-[OneGini][127]: Mobile app security platform integrates security to consumer applications (Secruity Software)
+[OneGini](https://www.onegini.com/) Mobile app security platform integrates security to consumer applications (Secruity Software)
 
 
-[Red Socks][128]: Threat detection (Security Software) 
+[Red Socks](http://www.redsocks.nl/) Threat detection (Security Software) 
 
 [Mobbr](https://mobbr.com): Crowd Payments (FinTech)
 
-** Amersfoort**
+**Amersfoort**
 
 [iwelcome)][126]: Identity and Access Management (Security Software)
 
 **Harleem**
 
-[Harleem Valley][137]: Incubator 
+[Harleem Valley](http://haarlemvalley.com/): Incubator 
 
 
 
@@ -636,7 +635,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 [AddMyWindow][86]{:target="_blank"}: Offline ad platform (AdTech)
 
-[Civolution][129]: Watermarking and Fingerprinting (Security Software)
+[Civolution](http://www.civolution.com/): Watermarking and Fingerprinting (Security Software)
 
 [Shapeways][188]: 3D Printing Platform (3D Printing)
 
