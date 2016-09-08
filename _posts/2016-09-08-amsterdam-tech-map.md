@@ -17,7 +17,8 @@ To answer this question we gathered a sample of over 170 tech companies, classif
 <!--more--> 
 
 [![Amsterdam tech map](/assets/images/amsterdam-tech-map-2016.png)](/assets/images/amsterdam-tech-map-2016-bigger.png)
-###### Click to enlarge
+
+##### Click on map to enlarge
 
 
 ### Kroes Kontrol 
