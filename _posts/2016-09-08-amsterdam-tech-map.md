@@ -111,7 +111,7 @@ The difficulties in raising early finance in the city are reflected in [funding 
 ![amsterdam tech map](/assets/images/amsterdam4.png)
 
 The lack of  growth capital impedes entrepreneurial success, especially
-with regards to later-stage startups. John Staunton, founder of [Shopperconcepts][144], a retail technology startup, agrees, noting it is rather difficult to raise the range between €1 to €3 million for startups in the local market.  
+with regards to later-stage startups. John Staunton, founder of [Countr][144], a retail technology startup, agrees, noting it is rather difficult to raise the range between €1 to €3 million for startups in the local market.  
 
 In the [FT’s analysis][199] of Amsterdam’s startup scene, it commented, “Government support has helped increase the pool of business angels and seed funds that will typically put up to €1m in new businesses. Early-stage venture capital groups, such as HenQ and Newion, seek to make investments of up to €7.5m, but they are rarer.” 
 
@@ -389,7 +389,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
  
 15: [lightspeedHQ][31]: Point of sale products for retail stores and restaurants
 
-85: [ShopperConcepts][144]: Targeted offers & promotion
+85: [Countr][144]: Targeted offers & promotion
 
 99: [IBOOD][145]: Online daily deals
 
@@ -788,7 +788,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 [141]: http://www.forcare.nl/ 
 [142]: http://www.speurders.nl/ 
 [143]: https://www.lightspeedhq.nl/ 
-[144]: http://pilot.shopperconcepts.com/ 
+[144]: https://www.countrhq.com 
 [145]: https://www.ibood.com/nl/nl/ 
 [146]: http://www.flipit.com/ 
 [147]: http://www.roamler.nl/ 
