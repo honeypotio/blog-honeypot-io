@@ -1,7 +1,7 @@
 ---
 title:  Amsterdam Tech Map
 subtitle:
-date:    2016-09-08 12:09:38
+date:    2016-09-08 05:09:38
 layout:  post
 author:  emma_tracey
 categories: Startups
@@ -34,6 +34,8 @@ Things seem to be going according to plan, as 2015 was the first year that Amste
 
 Alongside Kroes, Kajsa Ollongren, Amsterdam’s deputy mayor of Economic Affairs, is an active supporter of both the tech community and the local arts scene.  This dual emphasis mirrors Berlin’s enigmatic former mayor, Klaus Wowereit, who once declared "Berlin ist arm, aber sexy."  Ollongren rolled out [StartupAmsterdam][39] in 2015, to attract IT talent and venture capital to Amsterdam. 
 
+![amsterdam tech map](/assets/images/amsterdam6.png)
+
 
 ### The Soft Power 
 
@@ -41,12 +43,13 @@ While Berlin has recently become the star of Europe’s startup scene, it is Ams
 
 For developers, perhaps Amsterdam’s most noteworthy contribution is the Python programming language, which was created by Guido van Rossum in 1989 at the National Research Institute for Mathematics and Computer Science. 
 
-
 Home grown, well established software and security companies, such as [Gemalto][125], [Xebia][196], [AVG Technologies][124], [Schuberg Philis][246] and [TomTom][173] are a testament to that culture of innovation. In 2015, the Netherlands ranked 4th on the [Global Innovation Index][247]. More recent editions to Amsterdam’s portfolio include [Bright Computing][153], [Pyramid Analytics][154] and [Wercker][155].
 
 The legacy of digital innovation can be seen in the country’s superior technological infrastructure and the wealth of technical universities. Within an hour of Amsterdam, universities such as TU Delft, Utrecht University and TU Eindhoven, have research departments to rival the best in the world. 
 
 Being the country which invented WIFI, it should be no surprise that Amsterdam is home to the largest data transport hub in the world (Amsterdam Internet Exchange). According to the European Digital City Index 2015, Amsterdam has the second fastest mobile internet speed in Europe, with a 17.9Mb per second average speed. That compares to a 13.9Mb per second in Berlin. 
+
+![amsterdam tech map](/assets/images/amsterdam4.png)
 
 The Netherlands’ infrastructure, combined with it the country’s excellent English language skills, proximity to European markets, and generous tax regime, have attracted larger international tech firms. In recent years, companies such as [Uber][16], [Tesla][28], and [Avazu][17] have chosen Amsterdam as the centre of their European expansion. [Elastic][14] and [Atlassian][15], companies behind popular open-source, also have major offices in Amsterdam. 
 
@@ -62,6 +65,8 @@ The company was acquired by the Priceline Group for a mere $135 million in cash 
 ### Amsterdam’s Unicorns and Startup Darlings
 
 Following Booking, the second generation of startups began to emerge in the late 2000s. Startups such as [Adyen][42], [CataWiki][223] and [WeTransfer][23], began to demonstrate the innovative spirit of the Dutch startup scene.  
+
+![amsterdam tech map](/assets/images/amsterdam5.png)
 
 Adyen launched in 2006 and today is one of the world’s largest payment providers, handling more than 250 payment methods, including credit and debit cards, Apple Pay and Bitcoin. Adyen processes [$35 billion in payments annually][20] which equates to around two to three million payments daily. 
 
@@ -98,6 +103,8 @@ For all the success Amsterdam has seen over the last four years, it still has so
 
 The difficulties in raising early finance in the city are reflected in [funding statistics from the city][1]. However, while the average seed round is smaller for Amsterdam based companies compared to their European rivals ($450 - $500k versus $600 - 650k), in 2015, Series A tends to be more on par at approximately $5.5 million. 
 
+![amsterdam tech map](/assets/images/amsterdam3.png)
+
 The lack of  growth capital impedes entrepreneurial success, especially
 with regards to later-stage startups. John Staunton, founder of [Shopperconcepts][144], a retail technology startup, agrees, noting it is rather difficult to raise the range between €1 to €3 million for startups in the local market.  
 
@@ -119,11 +126,13 @@ Visas on average cost €850. Tim Gouw, creator of Founded Holland, notes that t
 
 Average salaries for developers in Amsterdam are pretty much on par with European averages, at around [$53,500 per year][1]. 
 
-## Amsterdam and Startup
+## Amsterdam giveing the green light
 
 With Holland’s excellent reputation for innovation, a passionate local startup scene and  some extra support from local authorities, Amsterdam seems well-placed to rival Berlin as Europe’s startup hub. Getting to that position will require a bigger injection of VC funding and a greater supply of talent. Nonetheless, Berlin should watch its back!  
 
 ### Full List of Startups and Technology Companies in Amsterdam and the Startup Delta
+
+![amsterdam tech map](/assets/images/amsterdam1.png)
 
 ***Percentages are taken for the Startup Delta region*** 
 
@@ -871,4 +880,3 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 [303]: http://www.findhotel.net/hotels 
 [304]: https://www.treatwell.nl/ 
 [305]: http://www.easytobook.com/
-
