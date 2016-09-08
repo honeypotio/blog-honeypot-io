@@ -134,7 +134,7 @@ Visas on average cost €850. Tim Gouw, creator of Founded Holland, notes that t
 
 Average salaries for developers in Amsterdam are pretty much on par with European averages, at around [$53,500 per year][1]. [Honeypot's](https://www.honeypot.io/?utm_source=blogam) launch in the city aims to help alleviate the talent shortage, by bringing developers from across Europe together with Amsterdam tech companies. 
 
-## Amsterdam giveing the green light
+## Watch out Berlin...
 
 With Holland’s excellent reputation for innovation, a passionate local startup scene and  some extra support from local authorities, Amsterdam seems well-placed to rival Berlin as Europe’s startup hub. Getting to that position will require a bigger injection of VC funding and a greater supply of talent. Nonetheless, Berlin should watch its back!  
 
