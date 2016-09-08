@@ -6,8 +6,6 @@ layout:  post
 author:  johanna_dahlroos
 categories: Developers
 cover_image: 29.png
-featured: true
-featured_weight: 4
 permalink:  29-traits-of-a-great-developer/
 importance: 2
 ---
