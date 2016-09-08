@@ -88,7 +88,7 @@ Another highly innovative industry which is taking root in the city is 3D printi
 
 ### Amsterdam’s Startup Community & its Neighbours 
 
-Amsterdam has seen a spurt of self-organized initiatives which are driving the city forward. Irene Park, a tech recruiter at [Usabilla][47], explains that the startup community is already very strong, “Amsterdam is a startup city, it's full of creative entrepreneurs and startups really want to help each other.” 
+Amsterdam has seen a spurt of self-organized initiatives which are driving the city forward. Irene Perk, a tech recruiter at [Usabilla][47], explains that the startup community is already very strong, “Amsterdam is a tech startup city, it's full of creative entrepreneurs that are eager to help each other.”
 
 It is not just Amsterdam which is driving Holland’s startup ecosystem. The whole region around Amsterdam, which includes Utrecht, Eindhoven, Rotterdam, The Hague, and other cities, is referred to as the [Startup Delta][200].
 
@@ -130,7 +130,7 @@ For experienced developers, Amsterdam is loaded with opportunities. In an [inter
 
 Compounding the scarcity of developers, bureaucracy around hiring can be difficult. Regulation makes it relatively hard to pay staff in equity, while hiring and firing can be costly and cumbersome compared to the US. 
 
-Visa issues are another tricky issue. [Usabilla][47], for example, now has a team of 55 people, with 15 or so developers, and says the biggest challenge facing startups in Amsterdam is finding good technical people. Irene Park, tech recruiter at the company, explains, “we don’t hire many non-EU as the visa costs are very high.” 
+Visa issues are another tricky issue. [Usabilla][47], for example, now has a team of 55 people, with 15 or so developers, and says the biggest challenge facing startups in Amsterdam is finding good technical people. Irene Perk, tech recruiter at the company, explains, “Since we are registered as a Highly Skilled Migrant employer, we have the possibility to hire outside the EU. This process can prove to be difficult as it is time consuming to acquire these developers."
 
 Visas on average cost €850. Tim Gouw, creator of Founded Holland, notes that things are improving "it was difficult to get a visa previously, but the startup visa has made it easier for developers to move to Amsterdam." Compounding this is the fact the number of foreign employees in the Amsterdam startup scene is [above the average][1] for comparative EU hubs. 
 
