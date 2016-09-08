@@ -5,6 +5,8 @@ date:    2016-09-01 09:58:37
 layout:  post
 author:  emma_tracey
 categories: Company
+featured: true
+featured_weight: 2
 cover_image: cees.jpg
 permalink:  whats-it-like-to-work-at-tomtom/
 importance: 2

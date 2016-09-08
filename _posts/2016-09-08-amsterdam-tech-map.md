@@ -123,10 +123,12 @@ While an increasing number of  talented junior developers  are graduating from t
 
 According to [Compass][1], the proportion of developers with prior experience is lower than in other European startup hubs. Compeititon is fierce among employers for those developers with previous expereince,  especially given the resources of large tech companies such as Booking.com and TomTom. 
 
+For experienced developers, Amsterdam is loaded with opportunities. In an [interview with Honeypot](http://blog.honeypot.io/whats-it-like-to-work-at-tomtom/), Cees van Dok, Head of UX Design at TomTom,  noted "There are many options for developers in Amsterdam. Companies like TomTom give a good alternative to startups." 
+
 ![amsterdam tech map](/assets/images/amsterdam8.png)
 
 
-Compounding this, bureaucracy around hiring can be difficult. Regulation makes it relatively hard to pay staff in equity, while hiring and firing can be costly and cumbersome compared to the US. 
+Compounding the scarcity of developers, bureaucracy around hiring can be difficult. Regulation makes it relatively hard to pay staff in equity, while hiring and firing can be costly and cumbersome compared to the US. 
 
 Visa issues are another tricky issue. [Usabilla][47], for example, now has a team of 55 people, with 15 or so developers, and says the biggest challenge facing startups in Amsterdam is finding good technical people. Irene Park, tech recruiter at the company, explains, “we don’t hire many non-EU as the visa costs are very high.” 
 
