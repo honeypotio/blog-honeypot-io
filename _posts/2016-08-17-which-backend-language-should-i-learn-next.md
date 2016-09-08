@@ -6,6 +6,8 @@ layout:  post
 author:  kate_nicolaisen
 categories: Developers
 cover_image: learn-backend.png
+featured: true
+featured_weight: 1
 permalink:  which-backend-language-should-i-learn-next/
 importance: 2
 ---

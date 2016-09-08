@@ -5,8 +5,6 @@ date:    2016-05-01 12:19:37
 layout:  post
 author:  emma_tracey
 categories: Community
-featured: true
-featured_weight: 1
 cover_image: community_devs_scala.png
 permalink:  berlin-scala-community/
 importance: 2

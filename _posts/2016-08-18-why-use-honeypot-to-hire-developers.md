@@ -8,6 +8,8 @@ categories: Company
 cover_image: why-use-honeypot.png
 permalink:  why-use-honeypot-to-hire-developers/
 importance: 2
+permalink:  zend-framework/
+importance: 2
 ---
 
 
