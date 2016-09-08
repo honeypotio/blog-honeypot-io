@@ -4,9 +4,9 @@ subtitle:
 date:    2016-07-18 15:53:38
 layout:  post
 author:  emma_tracey
-categories: Company
 featured: true
 featured_weight: 3
+categories: Company
 cover_image: why-use-honeypot.png
 permalink:  why-use-honeypot-to-hire-developers/
 importance: 2
