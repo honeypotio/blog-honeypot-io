@@ -95,7 +95,7 @@ It is not just Amsterdam which is driving Holland’s startup ecosystem. The who
 ![amsterdam tech map](/assets/images/amsterdam7.png)
 
 
-The region has produced a number of noteworthy startups. [Coolblue][201], one of Holland’s largest eCommerce shops is located in Rotterdam. Tommy Thomassen, Team Lead of Tech Recruitment at Coolblue noted the company is as international as any startup in Amsterdam, “we have people from 26 nationalities working for us, the team is 50% Dutch, 50% international. And we are growing all the time.”
+The region has produced a number of noteworthy startups. [Coolblue][201], one of Holland’s largest eCommerce shops is located in Rotterdam. 
 
 Co-working spaces and accelerator programs are popping up across the region. [Startupbootcamp][8] runs an [eCommerce accelerator][9] in Amsterdam and a Hardware Technology accelerator ([HighTechXL][10]) in Eindhoven. WeWork recently moved to Amsterdam, and The Next Web is also debuting its own highly curated tech space this October, coined TQ.
 
