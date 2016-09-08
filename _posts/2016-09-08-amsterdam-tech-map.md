@@ -17,6 +17,8 @@ To answer this question we gathered a sample of over 170 tech companies, classif
 <!--more--> 
 
 [![Amsterdam tech map](/assets/images/amsterdam-tech-map-2016.png)](/assets/images/amsterdam-tech-map-2016-bigger.png)
+###### Click to enlarge
+
 
 ### Kroes Kontrol 
 
@@ -409,7 +411,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 74: [Backbase][46]: Customer experience platform
 
-92: [Usabilla HQ][47]: User feedback software
+92: [Usabilla][47]: User feedback software
 
 
 **Transport companies in Amsterdam (2%)**
@@ -623,9 +625,9 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 [iwelcome)][126]: Identity and Access Management (Security Software)
 
-**Harleem**
+**Haarleem**
 
-[Harleem Valley](http://haarlemvalley.com/): Incubator 
+[Haarlem Valley](http://haarlemvalley.com/): Incubator 
 
 
 
