@@ -392,7 +392,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
  
 15: [lightspeedHQ][31]: Point of sale products for retail stores and restaurants
 
-85: [Countr][144]: Targeted offers & promotion
+85: [Countr][144]: Omnichannel point of sale for retail and hotel, restaurants and catering companies
 
 99: [IBOOD][145]: Online daily deals
 
