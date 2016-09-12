@@ -47,7 +47,7 @@ Before the interview you should have a clear idea in mind about what you are loo
 
 This concludes Honeypot’s brief list of suggested interview questions for DevOps engineers. For more detailed, technical questions check out these suggestions on [Quora](https://www.quora.com/What-are-some-good-interview-questions-for-a-DevOps-position) and [Edureka](http://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/). 
 
-Hopefully, this list of interview questions has given you a better understanding of DevOps, and however, if you’re still not feeling 100% confident with the concept of DevOps, head on over to our blog post [“What is DevOps?”](http://blog.honeypot.io/what-is-DevOps). 
+Hopefully, this list of interview questions has given you a better understanding of DevOps, and however, if you’re still not feeling 100% confident with the concept of DevOps, head on over to our blog post [“What is DevOps?”](http://blog.honeypot.io/what-is-devops/). 
 
 ***
 	
