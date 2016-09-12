@@ -1,7 +1,7 @@
 ---
 title:   5 interview questions for DevOps
 subtitle:
-date:    2016-09-05 11:24:17
+date:    2016-09-12 02:24:17
 layout:  post
 author:  kate_nicolaisen
 categories: Company
