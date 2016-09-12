@@ -1,7 +1,7 @@
 ---
 title:   What is DevOps
 subtitle:
-date:    2016-09-12 02:52:34
+date:    2016-09-09 02:52:34
 layout:  post
 author:  kate_nicolaisen
 categories: Company
