@@ -137,7 +137,7 @@ Visa issues are another tricky issue. [Usabilla][47], for example, now has a tea
 
 Visas on average cost €850. Tim Gouw, creator of Founded Holland, notes that things are improving "it was difficult to get a visa previously, but the startup visa has made it easier for developers to move to Amsterdam." Compounding this is the fact the number of foreign employees in the Amsterdam startup scene is [above the average][1] for comparative EU hubs. 
 
-Average salaries for developers in Amsterdam are pretty much on par with European averages, at around [$53,500 per year][1]. [Honeypot's](https://www.honeypot.io/?utm_source=blogam) launch in the city aims to help alleviate the talent shortage, by bringing developers from across Europe together with Amsterdam tech companies. 
+Average salaries for developers in Amsterdam are pretty much on par with European averages, at around [$53,500 per year][1]. [Honeypot's](https://www.honeypot.io/?utm_source=blog&utm_medium=organic&utm_term=CTA-inline&utm_campaign=amsterdam-tech-map) launch in the city aims to help alleviate the talent shortage, by bringing developers from across Europe together with Amsterdam tech companies. 
 
 ## Watch out Berlin...
 
