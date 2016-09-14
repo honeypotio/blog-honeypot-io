@@ -99,4 +99,4 @@ I don’t have much of a visionary mind for things like this, but I am definitel
 
 * * *
 
-On [Honeypot], companies apply directly to developers with salary and tech stack. [Sign-up now](https://www.honeypot.io/?utm_source=blog&utm_medium=org&utm_term=CTA1&utm_campaign=fe) and show off your frontend wizardry.  
+On Honeypot, companies apply directly to developers with salary and tech stack. [Sign-up now](https://www.honeypot.io/?utm_source=blog&utm_medium=org&utm_term=CTA1&utm_campaign=fe) and show off your frontend wizardry.  
