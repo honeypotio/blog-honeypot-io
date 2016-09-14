@@ -4,6 +4,8 @@ subtitle:
 date:    2016-09-08 05:09:38
 layout:  post
 author:  emma_tracey
+featured: true
+featured_weight: 3
 categories: Startups
 cover_image: amsterdam-tech-map.png
 permalink:  amsterdam-tech-map/
