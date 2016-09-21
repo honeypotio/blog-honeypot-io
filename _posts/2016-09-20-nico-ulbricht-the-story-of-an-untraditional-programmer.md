@@ -36,7 +36,7 @@ Having interviewed with his share of startups through Honeypot, Nico eventually 
 
 However, the deciding factor leading to Nico signing a contract with FreightHub is down to the passion, excitement and encouraging leadership style of the CTO and Co-Founder, Erik Muttersbach:
 
->*“When I had my interview with Eric we had these technical exercises, where even though I made a couple of mistakes here and there, we just had such a pleasant talk, and he was just so enthusiastic. You could really see his eyes light up, when talking about the product FreightHub is building, and that’s kind of the stuff that pulls you into a company”*
+>*“When I had my interview with Erik we had these technical exercises, where even though I made a couple of mistakes here and there, we just had such a pleasant talk, and he was just so enthusiastic. You could really see his eyes light up, when talking about the product FreightHub is building, and that’s kind of the stuff that pulls you into a company”*
 
 Despite already having had a taste of the life as CTO, Nico is happy with his new role:  
 
