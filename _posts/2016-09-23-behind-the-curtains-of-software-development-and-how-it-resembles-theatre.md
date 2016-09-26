@@ -10,7 +10,7 @@ permalink:  behind-the-curtains-of-software-development-and-how-it-resembles-the
 importance: 2
 ---
 
-Have you ever wondered how software is built? Here is an attempt to explain software development by using an analogy with theater. Let’s imagine we have a theater production to stage and a software product to launch. The theatre art has some surprising similarities with software development.
+Have you ever wondered how software is built? Here is an attempt to explain software development by using an analogy with theatre. Let’s imagine we have a theatre production to stage and a software product to launch. The theatre art has some surprising similarities with software development.
 
 <!--more--> 
 
@@ -24,7 +24,7 @@ Both a theatre production and a software product are created for the sole purpos
 
 ## Producer vs Founder
 
-In theater it all starts with a **producer**. The producer is the one who makes all the necessary arrangements for the production to be put on. This person is responsible to ensure funding, to recruit the director and production staff, to set the budget, etc. The best producers are the ones who have the genius to recognise a potentially great piece of theatre.
+In theatre it all starts with a **producer**. The producer is the one who makes all the necessary arrangements for the production to be put on. This person is responsible to ensure funding, to recruit the director and production staff, to set the budget, etc. The best producers are the ones who have the genius to recognise a potentially great piece of theatre.
 
 In tech startups that build software products, a **founder** has pretty much the same role - to recognise a potentially great idea, to ensure funding and recruit a team to build the product, and, finally, to deliver the product to the users and make them happy.
 
@@ -82,7 +82,7 @@ Database: MySQL, MariaDB, SQLite, PostgreSQL, MongoDB
 
 The stage manager has several key responsibilities and tasks to perform in each phase of a production, such as scheduling and running rehearsals, overseeing the entire show each time it is performed. **The stage manager** and the **technical director** together work out a smooth and efficient plan for the stage crew to follow during set changes. Furniture and prop plans for complicated sets are drawn up by the stage manager and technical designer to show exactly where the furniture and props are to be positioned on stage at the beginning of each scene and sometimes in the wings.
 
-Similarly to theater, in software development [**DevOps**](http://blog.honeypot.io/what-is-devops/) works closely with **System Admin** and the DevOps role is to remove the incompatibility between development and product environments by creating code that automates and speeds up the tasks of the SysAdmin. Thanks to the DevOps, fixes, restructurings and deployments are automated and changes can be applied to all servers automatically rather than one-by-one manually.
+Similarly to theatre, in software development [**DevOps**](http://blog.honeypot.io/what-is-devops/) works closely with **System Admin** and the DevOps role is to remove the incompatibility between development and product environments by creating code that automates and speeds up the tasks of the SysAdmin. Thanks to the DevOps, fixes, restructurings and deployments are automated and changes can be applied to all servers automatically rather than one-by-one manually.
 
 Let’s take this sentence: “The stage manager and the technical director together work out a smooth and efficient plan for the stage crew to follow during set changes.” In software development, DevOps facilitates the deployment of code, so that the tech team and the SysAdmin do not exchange “tickets” back and forth before they manage to make the code ready to deploy in production.
 
