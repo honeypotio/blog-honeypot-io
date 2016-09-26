@@ -73,7 +73,9 @@ What are the roles on the backend of software development?
 A similar role in software development has the **backend developer** who creates and maintains the entire backend of a software product, which consists of the core application logic, databases, data and application integration, APIs and other backend processes. Moreover, a backend developer also performs testing and debugging of any backend application or system.
 
 Backend Languages: Ruby, Python, Java, Rust, Scala, Golang, PHP, Perl, Erlang, Elixir
+
 Web Server Technologies: Apache, Nginx, lighttpd
+
 Database: MySQL, MariaDB, SQLite, PostgreSQL, MongoDB
 
 ![twin-roles.png](/assets/images/twin-roles.png)
