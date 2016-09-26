@@ -55,6 +55,7 @@ UX/UI Tools: Photoshop, Sketch, Illustrator, Fireworks, InVision
 In theatre, **professionals like** set decorators, choreographers, makeup artists, carpenters, electricians, among others, are the staff members that implement what the set, the costume, the makeup designers have created. In smaller productions, these could actually be the same people - for example, the makeup designer could also be the makeup artist or the costume designer could also be the one who creates the costumes and maintains them.
 
 Similarly, in the early days of a startup, basic design can be done by the frontend developer. Keep in mind, the opposite is rarely valid - usually designers cannot do frontend coding. In software development, **frontend developers** are responsible for creating the functional implementation of the product's interface. Usually, a UX/UI Designer provides either a static or an interactive mockup (InVision is a cool tool to help with that) to the frontend developer who then translates it into a working, interactive experience.
+
 Frontend Languages: CSS, HTML, JavaScript
 JavaScript Frontend Frameworks: React, Angular, Ember, jQuery, Backbone, Meteor, Knockout, Vanilla, D3.js
 
