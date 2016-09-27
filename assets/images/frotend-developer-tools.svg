@@ -327,7 +327,7 @@
             </text>
             <path d="M-0.5,2164.5 L797.5,2164.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <text id="Module-Bundlers-for" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
-                <tspan x="203" y="2640.95631">Module Bundlers for JavaScripts - or not?</tspan>
+                <tspan x="214" y="2640.14662">Module Bundlers for JavaScript - or not?</tspan>
             </text>
             <path d="M-0.5,2573.5 L797.5,2573.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <g id="Group-5" transform="translate(145.000000, 1943.400000)">
@@ -564,8 +564,8 @@
                     <tspan x="43.7498047" y="32">4%</tspan>
                 </text>
             </g>
-            <text id="Popular-JavaScript-T" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" fill="#000000">
-                <tspan x="247" y="3167.79031">Popular JavaScript Testing Tools</tspan>
+            <text id="Popular-JavaScript-T" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="252" y="3169.2">Popular JavaScript Testing Tools</tspan>
             </text>
             <path d="M0.5,3112.5 L798.5,3112.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <text id="Useful-JavaScript-To" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
