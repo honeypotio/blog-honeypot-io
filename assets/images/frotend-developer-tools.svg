@@ -327,7 +327,7 @@
             </text>
             <path d="M-0.5,2164.5 L797.5,2164.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <text id="Module-Bundlers-for" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
-                <tspan x="203" y="2640.95631">Module Bundlers for Javascripts - or not?</tspan>
+                <tspan x="203" y="2640.95631">Module Bundlers for JavaScripts - or not?</tspan>
             </text>
             <path d="M-0.5,2573.5 L797.5,2573.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <g id="Group-5" transform="translate(145.000000, 1943.400000)">
@@ -431,11 +431,12 @@
             </text>
             <circle id="Oval-4" fill="#FCD435" transform="translate(153.000000, 1786.800000) scale(-1, 1) translate(-153.000000, -1786.800000) " cx="153" cy="1786.8" r="10"></circle>
             <text id="Never-heard-of" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
-                <tspan x="557.6" y="1789.6">Never heard of</tspan>
+                <tspan x="573.6" y="1789.6">Never heard</tspan>
+                <tspan x="573.6" y="1808.6">of</tspan>
             </text>
-            <ellipse id="Oval-4" fill="#CD5B55" transform="translate(542.099922, 1785.600000) scale(-1, 1) translate(-542.099922, -1785.600000) " cx="542.099922" cy="1785.6" rx="10" ry="10"></ellipse>
-            <text id="Feel-cofortable-usin" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
-                <tspan x="418.2" y="1789">Feel cofortable </tspan>
+            <ellipse id="Oval-4" fill="#CD5B55" transform="translate(558.099922, 1785.600000) scale(-1, 1) translate(-558.099922, -1785.600000) " cx="558.099922" cy="1785.6" rx="10" ry="10"></ellipse>
+            <text id="Feel-comfortable-usi" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="418.2" y="1789">Feel comfortable </tspan>
                 <tspan x="418.2" y="1808">using</tspan>
             </text>
             <circle id="Oval-4" fill="#81A2CC" transform="translate(397.000000, 1787.000000) scale(-1, 1) translate(-397.000000, -1787.000000) " cx="397" cy="1787" r="10"></circle>
@@ -563,12 +564,12 @@
                     <tspan x="43.7498047" y="32">4%</tspan>
                 </text>
             </g>
-            <text id="Popular-Javascript-T" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" fill="#000000">
-                <tspan x="247" y="3167.79031">Popular Javascript Testing Tools</tspan>
+            <text id="Popular-JavaScript-T" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" fill="#000000">
+                <tspan x="247" y="3167.79031">Popular JavaScript Testing Tools</tspan>
             </text>
             <path d="M0.5,3112.5 L798.5,3112.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Useful-Javascript-To" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
-                <tspan x="99" y="3631.6">Useful Javascript Tools for Packaging and workflow management</tspan>
+            <text id="Useful-JavaScript-To" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="99" y="3631.6">Useful JavaScript Tools for Packaging and Workflow Management</tspan>
             </text>
             <path d="M0.5,3564.7 L798.5,3564.7" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <path d="M-0.5,4075.5 L797.5,4075.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
@@ -678,10 +679,11 @@
             <polyline id="Path-2" stroke="#1F2228" transform="translate(271.748455, 3342.208358) scale(-1, -1) translate(-271.748455, -3342.208358) " points="222 3351.61672 245.125507 3332.8 321.49691 3332.8"></polyline>
             <polygon id="Rectangle" fill="#000000" transform="translate(691.000000, 3322.400001) scale(-1, 1) translate(-691.000000, -3322.400001) " points="618 3280.00801 764 3280.00801 764 3355.79817 700.625619 3355.79816 700.625619 3364.79199 690.997475 3355.79816 618 3355.79817"></polygon>
             <text id="60%" font-family="OpenSans-Bold, Open Sans" font-size="30" font-weight="bold" fill="#FFFFFF">
-                <tspan x="661.662793" y="3319.17579">60%</tspan>
+                <tspan x="661.662793" y="3313.17579">60%</tspan>
             </text>
-            <text id="Doesn’t-test-their-J" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#FFFFFF">
-                <tspan x="631.145508" y="3337.8">Doesn’t test their Javascript</tspan>
+            <text id="of-respondents-don’t" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#FFFFFF">
+                <tspan x="633.577148" y="3332">of respondents don’t test </tspan>
+                <tspan x="657.095215" y="3346">their JavaScript</tspan>
             </text>
             <g id="Group-5" transform="translate(145.000000, 3855.043692)">
                 <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
@@ -732,23 +734,24 @@
                 <tspan x="562.970563" y="4000.17056">NPM</tspan>
             </text>
             <text id="Used-a-little" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
-                <tspan x="289.2" y="3701.44369">Used a little</tspan>
+                <tspan x="291.2" y="3701.44369">Used a little</tspan>
             </text>
-            <ellipse id="Oval-4" fill="#8FC8D4" transform="translate(271.200000, 3698.443692) scale(-1, 1) translate(-271.200000, -3698.443692) " cx="271.2" cy="3698.44369" rx="10" ry="10"></ellipse>
+            <ellipse id="Oval-4" fill="#8FC8D4" transform="translate(273.200000, 3698.443692) scale(-1, 1) translate(-273.200000, -3698.443692) " cx="273.2" cy="3698.44369" rx="10" ry="10"></ellipse>
             <text id="Heard-of/-Read-about" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
-                <tspan x="175" y="3700.44369">Heard of/</tspan>
-                <tspan x="175" y="3719.44369">Read about</tspan>
+                <tspan x="177" y="3700.44369">Heard of/</tspan>
+                <tspan x="177" y="3719.44369">Read about</tspan>
             </text>
-            <circle id="Oval-4" fill="#FCD435" transform="translate(153.000000, 3698.443692) scale(-1, 1) translate(-153.000000, -3698.443692) " cx="153" cy="3698.44369" r="10"></circle>
+            <circle id="Oval-4" fill="#FCD435" transform="translate(155.000000, 3698.443692) scale(-1, 1) translate(-155.000000, -3698.443692) " cx="155" cy="3698.44369" r="10"></circle>
             <text id="Never-heard-of" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
-                <tspan x="557.6" y="3701.24369">Never heard of</tspan>
+                <tspan x="574.6" y="3701.24369">Never heard </tspan>
+                <tspan x="574.6" y="3720.24369">of</tspan>
             </text>
-            <ellipse id="Oval-4" fill="#CD5B55" transform="translate(542.099922, 3697.243692) scale(-1, 1) translate(-542.099922, -3697.243692) " cx="542.099922" cy="3697.24369" rx="10" ry="10"></ellipse>
-            <text id="Feel-cofortable-usin" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
-                <tspan x="418.2" y="3700.64369">Feel cofortable </tspan>
-                <tspan x="418.2" y="3719.64369">using</tspan>
+            <ellipse id="Oval-4" fill="#CD5B55" transform="translate(559.099922, 3697.243692) scale(-1, 1) translate(-559.099922, -3697.243692) " cx="559.099922" cy="3697.24369" rx="10" ry="10"></ellipse>
+            <text id="Feel-comfortable-usi" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="420.2" y="3700.64369">Feel comfortable </tspan>
+                <tspan x="420.2" y="3719.64369">using</tspan>
             </text>
-            <circle id="Oval-4" fill="#81A2CC" transform="translate(397.000000, 3698.643692) scale(-1, 1) translate(-397.000000, -3698.643692) " cx="397" cy="3698.64369" r="10"></circle>
+            <circle id="Oval-4" fill="#81A2CC" transform="translate(399.000000, 3698.643692) scale(-1, 1) translate(-399.000000, -3698.643692) " cx="399" cy="3698.64369" r="10"></circle>
             <g id="Group-20" transform="translate(263.000000, 4116.000000)">
                 <text id="in-Berlin" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#000000">
                     <tspan x="163.092578" y="20.4"> in Berlin  </tspan>
