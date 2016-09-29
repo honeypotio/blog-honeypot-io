@@ -34,6 +34,29 @@
   }
 }
 
+.site-footer {
+  margin-top: -10px;
+  padding: 100px 0 50px;
+  text-align: center;
+  color: $text-1-color;
+
+  &__link {
+    margin: 0 16px 0 0;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: inherit;
+
+    @media #{$md-up} {
+      margin: 0 45px 0 0;
+    }
+  }
+
+  &__copyright {
+    margin: 50px 0 10px;
+  }
+}
+
 .center-image {
     margin: 0 auto;
     display: block;
