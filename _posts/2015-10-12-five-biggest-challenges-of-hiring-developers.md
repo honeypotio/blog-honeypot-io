@@ -53,11 +53,6 @@ Honeypot was founded with all this in mind. We have been through all that pain a
 
 **[Join Honeypot][1] today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
 
-And don’t forget to check us out on Twitter [@honeypotio][2]!
-
-
-
-*photo credit: [Happy crowd][3] via [photopin][4] [(license)][5]*
 
 [1]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=151002&utm_campaign=hr-no
 [2]: https://twitter.com/honeypotio
