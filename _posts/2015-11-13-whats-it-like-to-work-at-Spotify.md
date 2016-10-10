@@ -191,9 +191,7 @@ Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly 
 
 * * *
 
-
-
-## You could end up at Europe's next tech giant - sign up to [Honeypot][11] and have exciting startups apply to you!
+** [Join Honeypot][11] today and receive 4 interview invites or more in three weeks!**
 
 
 [1]: http://www.ifpi.org/downloads/Digital-Music-Report-2015.pdf "Digital Music Report 2015"
@@ -206,6 +204,6 @@ Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly 
 [8]: http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205 "The hard thing about hard things"
 [9]: http://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529/ref=sr_1_1?s=books&ie=UTF8&qid=1444318583&sr=1-1&keywords=the+advantage "The Advantage"
 [10]: http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?s=books&ie=UTF8&qid=1444318646&sr=1-1&keywords=andy+grove+high+output+management "High output management"
-[11]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
+[11]: http://blog.honeypot.io/2015-11-13-what's-it-like-to-work-at-Spotify/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151103&utm_campaign=dev-de
 [12]: http://2015.mobiconf.org/ "MobiConf"
 [13]: https://www.avvo.com/
