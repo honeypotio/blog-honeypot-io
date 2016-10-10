@@ -51,8 +51,10 @@ Yes, we will be tweaking the way the batches are organized, the frequency of rel
 
 Oh yes! We add a headline to developer profiles before they go live in the batch. This is a 70-character summary highlighting key skills and experience which should give you better chances of finding your ideal position. Keep an eye on your emails because we will send it out for your feedback a couple of days prior!
 
-To be part of the batch, first you need to request an [invite] [3] to Honeypot!
+* * * 
+
+**[Join Honeypot][3] today and receive 4 interview invites or more in three weeks.**
 
 [1]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
 [2]: mailto:fabio@honeypot.io "Hello Fabio"
-[3]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
+[3]: http://blog.honeypot.io/2015-10-27-introducing-the-batch/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151003&utm_campaign=dev-no
