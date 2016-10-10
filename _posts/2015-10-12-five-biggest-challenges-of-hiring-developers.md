@@ -48,12 +48,13 @@ Honeypot was founded with all this in mind. We have been through all that pain a
     **Solution: Present your company in Company Profiles feature**
 
     We will automatically create a company profile for you from the assets you provide.  The more complete the profile the higher the chance of hiring the developer.
+    
+* * *     
 
-[Join Honeypot][1] today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.
+**[Join Honeypot][1] today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
 
 And don’t forget to check us out on Twitter [@honeypotio][2]!
 
-Bye for now!
 
 
 *photo credit: [Happy crowd][3] via [photopin][4] [(license)][5]*
