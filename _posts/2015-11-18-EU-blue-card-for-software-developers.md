@@ -21,5 +21,9 @@ If the Blue Card infographic leaves you with questions, drop us an [email][1]!
 
 ![blue-card-infographic](/assets/images/Blue-card-infographic.png)
 
+* * * 
+
+**[Join Honeypot](http://blog.honeypot.io/EU-Bluecard-for-software-developers/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151104&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
+
 [1]: mailto:hello@honeypot.io "Hello Honeypot"
 [2]: https://www.honeypot.io/users/sign_up?utm_source=blog "Developer jobs in Europe"
