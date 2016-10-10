@@ -191,7 +191,7 @@ Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly 
 
 * * *
 
-** [Join Honeypot][11] today and receive 4 interview invites or more in three weeks!**
+**[Join Honeypot][11] today and receive 4 interview invites or more in three weeks!**
 
 
 [1]: http://www.ifpi.org/downloads/Digital-Music-Report-2015.pdf "Digital Music Report 2015"
