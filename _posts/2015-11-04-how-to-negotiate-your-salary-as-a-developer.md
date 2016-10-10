@@ -72,6 +72,9 @@ Ironically, the bottom line is that there are other things that are equally or m
 
 ***If you are interested in what you could earn as a developer in Berlin, try out Honeypot's [developer calculator] [4].***
 
+* * *
+
+**[Join Honeypot](http://blog.honeypot.io/2015-11-04-how-to-negotiate-your-salary-as-a-developer/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151101&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
 
 [1]: http://www.glassdoor.com
 [2]: http://www.payscale.com
