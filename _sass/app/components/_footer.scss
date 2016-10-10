@@ -1,5 +1,10 @@
 .c-footer {
   padding: 50px 0;
+  text-align: center;
+
+  @media #{$md-up} {
+    text-align: left;
+  }
 
   a {
     @include text($fs-1, $fw-normal, $dark-color);
