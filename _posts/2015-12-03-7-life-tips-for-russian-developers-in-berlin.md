@@ -39,7 +39,7 @@ So, overall, there are many perks of living in Berlin: it’s an international a
 
 * * *
 
-### Honeypot helps developers from all over the world find jobs in Berlin and other European startup hubs. [Signup][11] today and get job offers from European startups straight to your inbox!
+**[Join Honeypot](11) today and receive 4 interview invites or more in three weeks.**
 
 [1]: http://www.russia-laden.de/ "Russia-Laden"
 [2]: http://www.stolitschniy-berlin.de/
@@ -51,6 +51,6 @@ So, overall, there are many perks of living in Berlin: it’s an international a
 [8]: http://vk.com/berlinwunderbar "Berlin Wunderbar"
 [9]: https://www.facebook.com/groups/ukrainiansinberlin/ "Ukrainians in Berlin"
 [10]: https://www.facebook.com/groups/590905587627980/ "Russians in Berlin"
-[11]: https://www.honeypot.io/users/sign_up?utm_source=blog
+[11]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151107&utm_campaign=dev-no
 [12]: http://blog.honeypot.io/moving-to-berlin-infographic/ "Moving to Berlin Infographic"
 [13]: http://blog.honeypot.io/EU-Bluecard-for-software-developers/ "Blue Card Infographic"
