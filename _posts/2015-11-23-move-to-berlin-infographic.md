@@ -20,4 +20,4 @@ Thinking about moving to Berlin, but confused about all the paperwork. Follow ou
 
 **[Join Honeypot](1) today and receive 4 interview invites or more in three weeks.**
 
-[1]: http://blog.honeypot.io/moving-to-berlin-infographic/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151106&utm_campaign=dev-no
+[1]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151105&utm_campaign=dev-no
