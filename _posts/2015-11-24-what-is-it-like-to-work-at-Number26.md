@@ -60,7 +60,7 @@ We launch the overdraft feature on December 1st. The next thing is Maestro card.
 
 * * *
 
-## Number 26 is one of Berlin's many innovative startups. To get job offers from startups like them [signup][7] to Honeypot today!
+**[Join Honeypot](7) today and receive 4 interview invites or more in three weeks.**
 
 [1]: https://www.linkedin.com/in/crebernik
 [2]: http://datanatives.io "Data Natives Conference"
@@ -68,5 +68,5 @@ We launch the overdraft feature on December 1st. The next thing is Maestro card.
 [4]: http://www.networkworld.com/article/2932313/cloud-computing/how-amazon-s-dynamodb-helped-reinvent-databases.html "How DynamoDB helped reinvent databases"
 [5]: http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/Welcome.html "SQS Developer Guide"
 [6]: http://www.mckinsey.com/insights/business_technology/the_rise_of_the_digital_bank "McKinsey Digital Banking Report"
-[7]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
+[7]: http://blog.honeypot.io/what-is-it-like-to-work-at-Number26/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151105&utm_campaign=dev-de
 [8]: https://number26.de/en/ "Number26"
