@@ -204,6 +204,6 @@ Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly 
 [8]: http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205 "The hard thing about hard things"
 [9]: http://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529/ref=sr_1_1?s=books&ie=UTF8&qid=1444318583&sr=1-1&keywords=the+advantage "The Advantage"
 [10]: http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?s=books&ie=UTF8&qid=1444318646&sr=1-1&keywords=andy+grove+high+output+management "High output management"
-[11]: http://blog.honeypot.io/2015-11-13-what's-it-like-to-work-at-Spotify/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151103&utm_campaign=dev-de
+[11]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151103&utm_campaign=dev-no
 [12]: http://2015.mobiconf.org/ "MobiConf"
 [13]: https://www.avvo.com/
