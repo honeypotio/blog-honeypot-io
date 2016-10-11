@@ -74,7 +74,7 @@ Ironically, the bottom line is that there are other things that are equally or m
 
 * * *
 
-**[Join Honeypot](http://blog.honeypot.io/2015-11-04-how-to-negotiate-your-salary-as-a-developer/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151101&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151101&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
 
 [1]: http://www.glassdoor.com
 [2]: http://www.payscale.com
