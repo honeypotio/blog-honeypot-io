@@ -14,12 +14,10 @@ Thinking about moving to Berlin, but confused about all the paperwork. Follow ou
 
 <!--more--> 
 
-
-
-## Honeypot places developers from all over the world with Berlin's most exciting startups. [Signup][1] to get offers with tech stack and salary upfront
+![moving to Berlin infographic](/assets/images/move-to-berlin-infographic.png)
 
 * * *
 
-![moving to Berlin infographic](/assets/images/move-to-berlin-infographic.png)
+**[Join Honeypot](1) today and receive 4 interview invites or more in three weeks.**
 
-[1]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
+[1]: http://blog.honeypot.io/moving-to-berlin-infographic/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151106&utm_campaign=dev-no
