@@ -74,7 +74,7 @@ It’s my belief that Russians have higher tolerance for risk than Westerners. A
 
 ***
 
-If you are a developer who likes working with cool open-source projects on par with those of Mail.Ru be sure to [sign-up][8] to Honeypot. Let Europe's most innovative startups apply directly to you with tech stack and salary upfront.
+**[Join Honeypot][8] today and receive 4 interview invites or more in three weeks.**
 
 [1]: https://mail.Ru "mail.Ru homepage"
 [2]: http://highload.co/ "Highload Conference"
@@ -83,4 +83,4 @@ If you are a developer who likes working with cool open-source projects on par w
 [5]: http://articles.rvncerr.org/how-to-chose-an-in-memory-nosql-solution-performance-measuring/ "Tarantool Comparison"
 [6]: http://opensource.mail.ru/
 [7]: http://maps.me/en/home
-[8]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
+[8]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151107&utm_campaign=dev-no
