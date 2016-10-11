@@ -90,7 +90,10 @@ that significantly improves the possibility to spot errors earlier in the develo
  5. Framework/library usage: using frameworks springs/rails/laravel or non-trivial libraries.
 Reusing existing solutions and not reinventing the wheel saves time and hassle.
 
+***We are constantly working on improving our challenges and evaluation process by collecting feedback,
+suggestion and integrating with existing tools and libraries.***
 
-We are constantly working on improving our challenges and evaluation process by collecting feedback,
-suggestion and integrating with existing tools and libraries.
+* * * 
+
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151202&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
 
