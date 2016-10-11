@@ -55,6 +55,6 @@ Oh yes! We add a headline to developer profiles before they go live in the batch
 
 **[Join Honeypot][3] today and receive 4 interview invites or more in three weeks.**
 
-[1]: https://www.honeypot.io/users/sign_up?utm_source=blog "Sign-up"
+[1]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151003&utm_campaign=dev-no
 [2]: mailto:fabio@honeypot.io "Hello Fabio"
-[3]: http://blog.honeypot.io/2015-10-27-introducing-the-batch/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151003&utm_campaign=dev-no
+[3]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151003&utm_campaign=dev-no
