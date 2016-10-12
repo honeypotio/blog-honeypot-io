@@ -14,13 +14,6 @@ In the mid-1980s, while the number of women entering medicine, law and physical 
 
 <!--more--> 
 
-
-* * *
-
-## If you are a female developer looking for a job in Berlin, [signup][1] to Honeypot and have cool tech companies apply directly to you! 
-
-* * *
-
 ![women-in-computer-science](/assets/images/women-in-computer-science-infographic.png)
 
 
@@ -39,8 +32,14 @@ In the mid-1980s, while the number of women entering medicine, law and physical 
 * Encourage female developers to speak up and pursue "creator" roles
 * Foster mentors and role models
 
+* * *
 
-[1]: https://www.honeypot.io/users/sign_up/?utm_source=blogwominfo
+**[Join Honeypot][1] and make your next hire within 28 days.**
+
+* * *
+
+
+[1]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160203&utm_campaign=com-no
 
 
 
