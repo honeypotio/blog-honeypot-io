@@ -19,11 +19,11 @@ Interested in working as a developer in Berlin? Want to know how much you can ea
 
 * * *
 
-Honeypot helps developers find the best jobs in Berlin. [Sign-up][1] now and have companies apply directly to you.
+**[Join Honeypot][1] today and receive 4 interview invites or more in three weeks.**
 
 If you need a personalized salary estimate for Berlin, try this handy [salary estimator tool][2].
 
 * * *
 
-[1]: https://www.honeypot.io/users/sign_up/?utm_source=blogsal
+[1]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160105&utm_campaign=dev-no
 [2]: http://www.whatamiworth.io/
