@@ -64,12 +64,20 @@ Company has to apply for the developer’s work permit in Germany
 
 6. **Time to go to Germany!** The process continues here, requiring registration in Berlin (Bürgerämt) and a visit to the Ausländerbehörde with all the necessary documents. From now on your company’s HR will lead you through the upcoming steps, but our infographic might be of help too.
 
+* * *
+
 ## Useful Links:
 
 [Zentralstelle für ausländisches Bildungswesen (ZAB)][1]: The ZAB is the Central Office for Foreign Education. The ZAB issues the Statement of Comparability for Foreign Higher Education Qualifications, which facilitates access to the German labour market for holders of foreign higher education qualifications.
 
 
 [Anabin][2]: The Anabin database lists and classifies accepted foreign education certificates.
+
+* * * 
+
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160302&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.** 
+
+* * *
 
 [1]: https://www.kmk.org/themen/anerkennung-auslaendischer-abschluesse.html
 [2]: http://anabin.kmk.org/
