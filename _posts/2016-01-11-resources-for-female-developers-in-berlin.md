@@ -46,7 +46,7 @@ As a rapidly growing European startup hub, the number of [jobs for developers in
 
 ***
 
-## If you are a female developer looking for a job in Berlin, [signup][11] to Honeypot and have cool tech companies apply directly to you!
+**[Join Honeypot](11) today and receive 4 interview invites or more in three weeks.**
 
 
 
@@ -60,4 +60,4 @@ As a rapidly growing European startup hub, the number of [jobs for developers in
 [8]: https://www.facebook.com/RailsGirlsBerlin/
 [9]: http://www.meetup.com/PyLadies-Berlin/
 [10]: https://djangogirls.org/berlin/
-[11]: https://www.honeypot.io/users/sign_up?utm_source=blogresources
+[11]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160102&utm_campaign=dev-no
