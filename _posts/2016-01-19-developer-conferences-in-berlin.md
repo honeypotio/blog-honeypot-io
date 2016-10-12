@@ -95,9 +95,8 @@ GOTO is focused on enterprise software development for team leads, architects an
 
 * * *
 
-## Join [Honeypot][9] and work for companies which give you the time to go to these conferences!
+**[Join Honeypot][9] today and receive 4 interview invites or more in three weeks.**
 
-* * *
 
 [1]: http://berlinwebweek.de/?lang=en
 [2]: http://de.droidcon.com/
@@ -107,4 +106,4 @@ GOTO is focused on enterprise software development for team leads, architects an
 [6]: http://rejectjs.org/
 [7]: http://berlin2015.codemotionworld.com/
 [8]: http://gotocon.com/berlin-2015
-[9]: https://www.honeypot.io/?utm_source=blogconf
+[9]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160104&utm_campaign=dev-no
