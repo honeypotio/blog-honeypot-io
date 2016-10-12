@@ -100,9 +100,11 @@ It will be the combination of building a scalable and flexible backend. We also 
 
 * * *
 
-**On Honeypot companies apply directly to developers with tech stack and salary upfront. [Sign-up][3] to get into the game!**
+**[Join Honeypot][3] today and receive 4 interview invites or more in three weeks.**
+
+* * * 
 
 [1]:https://www.linkedin.com/in/krumpholz
 [2]: https://www.onefootball.com
-[3]: https://www.honeypot.io/pages/how_does_it_work?utm_source=onef
+[3]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160402&utm_campaign=dev-no
 
