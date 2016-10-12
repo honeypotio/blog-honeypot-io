@@ -21,11 +21,11 @@ That's what EY had to say about [the European startup scene][1] and we couldn't 
 
 ![germanys biggest startups](/assets/images/top30.png)
 
-
-
 * * *
 
-# Germany's biggest startups apply directly to developers on Honeypot. Join today to get [offers from startups][2] direct to your inbox. 
+**[Join Honeypot][2] and make your next hire within 28 days.**
+
+* * * 
 
 [1]: http://www.ey.com/Publication/vwLUAssets/ey-venture-capital-and-start-ups-in-germany-2015/$FILE/ey-venture-capital-and-start-ups-in-germany-2015.pdf 
-[2]: https://www.honeypot.io/pages/how_does_it_work?utm_source=blog30
+[2]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160401&utm_campaign=com-no
