@@ -142,7 +142,7 @@ Ken Thompson designed and implemented the Unix operating system with Dennis Ritc
 
 ***
 
-### Startups hire the best Java, Python, C++, C, and Ruby programmers (and most other languages too!) through Honeypot. If you are interested in working in Europe [sign-up][12] to Honeypot and have companies apply directly to you.
+**[Join Honeypot][12] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: https://blog.engineyard.com/2014/software-is-not-soft
@@ -156,4 +156,4 @@ Ken Thompson designed and implemented the Unix operating system with Dennis Ritc
 [9]: https://medium.com/@verne/margaret-hamilton-the-engineer-who-took-the-apollo-to-the-moon-7d550c73d3fa#.pz7qqzh5c
 [10]: http://www.gotw.ca/publications/c_family_interview.htm
 [11]: https://medium.com/dropbox-makers/guido-van-rossum-on-finding-his-way-e018e8b5f6b1#.q1llensgp
-[12]: https://www.honeypot.io/users/sign_up?source=bl12dev
+[12]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160101&utm_campaign=dev-no
