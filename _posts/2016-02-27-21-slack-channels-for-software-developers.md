@@ -86,7 +86,7 @@ Slack channels are to our generation what forums were to the nineties generation
 
 * * *
 
-### [Signup][22] to Honeypot today and work for companies who love slack as much as you do! 
+**[Join Honeypot][22] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: http://www.hashtagdevelopers.com
@@ -110,6 +110,6 @@ Slack channels are to our generation what forums were to the nineties generation
 [19]: https://elixir-slackin.herokuapp.com/
 [20]: https://anythings.typeform.com/to/gwIRkn 
 [21]: https://startupberlin.slack.com/messages/general/ 
-[22]: https://www.honeypot.io/users/sign_up/?utm_source=blogsla
+[22]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160205&utm_campaign=dev-no
 
 
