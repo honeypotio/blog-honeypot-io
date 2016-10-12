@@ -67,7 +67,7 @@ Over 60% of Berlin’s CTOs were either (co-)founders of a previous venture or (
 
 * * *
 
-## Honeypot helps Berlin's most innovative startups find their CTOs. [Sign-up][2] find your next technical leader!
+**[Join Honeypot][2] and make your next hire within 28 days.**
 
-[2]: https://www.honeypot.io/pages/for_employers?utm_source=google
+[2]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160103&utm_campaign=com-no
 [1]: https://www.honeypot.io/invite_requests/new?utm_source=blogc
