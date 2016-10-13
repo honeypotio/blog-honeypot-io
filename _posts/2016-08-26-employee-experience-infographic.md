@@ -57,3 +57,7 @@ McChord’s 2009 [presentation]( http://www.slideshare.net/reed2001/culture-1798
 ### The Future of Employee Experience
 
 Thiel’s advice, which launched Airbnb’s obsession with employee culture, came to life in Levy’s vision of the workplace and remains the most [complete example of Employee Experience](http://www.forbes.com/sites/jeannemeister/2015/07/21/airbnbs-chief-human-resource-officer-becomes-chief-employee-experience-officer/3/#620e80862b68). With the change, more diverse profiles are entering HR, seeking to revolutionize how people and organizations interact. And that's good news for employees everywhere. 
+
+* * * 
+
+**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=160805&utm_campaign=hr-no) today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
