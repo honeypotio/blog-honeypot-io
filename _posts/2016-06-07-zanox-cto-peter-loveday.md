@@ -77,16 +77,7 @@ Curiosity, passion and pragmatism!
 
 As you move towards a management position you have to become a generalist - not just in a technical sense, but also in a management sense. You are the one who will translate between the two sides of the business, so you have to have a very good understanding of both. To be a technical leader, you have to be able to describe and talk about what you do to non-technical audiences.
 
+* * *
 
-
- * * *
-
- Honeypot is a marketplace connecting skilled developers with European startups. Signup today to get transparent jobs offers!
-
-
-.
-
-
-
-
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160603&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
 
