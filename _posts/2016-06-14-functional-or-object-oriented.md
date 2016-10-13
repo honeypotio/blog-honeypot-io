@@ -54,6 +54,4 @@ Laura is a white / queer / femme US american programmer living in Berlin and wor
 
 * * *
 
-Join [Honeypot][1] and let companies apply directly to you. Then choose which future you want!  
-
-[1]: www.honeypot.io?utm_source=func-object
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160604&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.** 
