@@ -1,0 +1,73 @@
+.c-footer {
+  padding: 50px 0;
+  text-align: center;
+
+  @media #{$md-up} {
+    text-align: left;
+  }
+
+  a {
+    @include text($fs-1, $fw-normal, $dark-color);
+  }
+
+  &__item {
+    @include text($fs-1, $fw-normal, $dark-color);
+    margin: 20px 10px 0 0;
+    text-align: center;
+
+    @media #{$sm-up} {
+      margin: 0 21px 0 0;
+      text-align: left;
+    }
+  }
+
+  &__company-name {
+    @include text($fs-1 - 1, $fw-light, $dark-color);
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+
+    @media #{$md-up} {
+      float: right;
+      margin-right: 15px;
+      text-align: left;
+    }
+  }
+
+  &__social-container {
+    display: block;
+    margin-top: 25px;
+    text-align: center;
+
+    @media #{$md-up} {
+      float: right;
+      margin-top: 0;
+      text-align: left;
+    }
+
+    a:hover,
+    a:visited,
+    a:link,
+    a:visited:hover,
+    a:active {
+      text-decoration: none;
+    }
+
+    .fa {
+      $sizing: 40px;
+      @include sizing($sizing);
+      margin-right: 5px;
+      display: inline-block;
+      vertical-align: top;
+      font-size: 19px;
+      text-align: center;
+      line-height: $sizing;
+      border-radius: $sizing;
+      border: 1px solid $dark-color;
+
+      @media #{$md-up} {
+        margin-top: -7px;
+      }
+    }
+  }
+}
