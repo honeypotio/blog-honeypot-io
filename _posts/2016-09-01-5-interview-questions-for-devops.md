@@ -51,4 +51,4 @@ Hopefully, this list of interview questions has given you a better understanding
 
 ***
 	
-**Honeypot is developer-focused job platform. Sign-up today to [start hiring](https://www.honeypot.io/pages/for_employers?utm_source=5devops) skilled and pre-screened DevOps!**
+**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=160904&utm_campaign=hr-no) today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
