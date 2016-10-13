@@ -126,9 +126,9 @@ Co-hosted by Hamburg React.js and Smaato Inc. this his is a meetup to discuss an
 
 The Chaos Communication Congress is an annual conference organized by the Chaos Computer Club, which has been taking place regularly on the last few days of the year since 1984, and is considered one of the largest events of it’s kind, with more than 13,000 attendees. The congress features a variety of lectures and workshops on technical and political issues related to Security, Cryptography, Privacy and online Freedom of Speech, making it the top priority amongst many developers - and you shouldn’t miss it for the world!
 
----
+* * *
 
-# [Join today][12] and let your Honeypot adventure commence in the search for new exciting job opportunities in the Hamburg tech scene.
+**[Join Honeypot][12] today and receive 4 interview invites or more in three weeks.**
 
 [1]: http://blog.honeypot.io/hamburg-startup-map/
 [2]: http://www.meetup.com/womentechmakershamburg/events/228068329/ 
@@ -141,4 +141,4 @@ The Chaos Communication Congress is an annual conference organized by the Chaos 
 [9]: http://www.virtualweekend.com/ 
 [10]: http://www.meetup.com/Hamburg-React-js-Meetup/events/226074760/
 [11]: https://events.ccc.de/congress/2015/wiki/Main_Page
-[12]: https://www.honeypot.io/
+[12]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160602&utm_campaign=dev-no
