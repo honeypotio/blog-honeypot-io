@@ -23,9 +23,9 @@ Check out the original post by Firehose [here][3].
 
 * * *
 
-Honeypot is a developer focused job platform. Companies apply to developers, not the other way around. [Sign up][2] and join some of the best tech teams in Europe! 
+**[Join Honeypot][2] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: https://www.thefirehoseproject.com/
-[2]: https://www.honeypot.io?utm_source=blog2
+[2]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160702&utm_campaign=dev-no
 [3]: https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know
