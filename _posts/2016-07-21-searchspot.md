@@ -43,4 +43,4 @@ As always, every contribution or feedback is more than appreciated.
 
 * * *
 
-**[Honeypot](https://www.honeypot.io/pages/how_does_it_work?utm_source=searchspot) is a developer-focused job platform. We believe that companies should apply to developers, not the other way around. Sign-up to see for yourself!**
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160705&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
