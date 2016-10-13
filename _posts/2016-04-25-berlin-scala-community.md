@@ -127,7 +127,7 @@ And last, but not the least, further development of Sangria, of course!
 
 * * *
 
-Scala is one of the most in-demand progamming languages in Berlin. [Sign-up to Honeypot][10] and get Scala developer job offers straight to your inbox.
+**[Join Honeypot][10] today and receive 4 interview invites or more in three weeks.**
 
 [1]: http://macstrac.blogspot.de/2009/04/scala-as-long-term-replacement-for.html
 [2]: https://honeypot-tech-talks-graphql.eventbrite.de
@@ -138,4 +138,4 @@ Scala is one of the most in-demand progamming languages in Berlin. [Sign-up to H
 [7]: http://www.meetup.com/Play-Berlin-Brandenburg/
 [8]: https://www.honeypot.io/pages/how_does_it_work?utm_source=commdevscala
 [9]: http://sangria-graphql.org/
-[10]: https://www.honeypot.io/users/sign_up?utm_source=commdevscala
+[10]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160501&utm_campaign=dev-no
