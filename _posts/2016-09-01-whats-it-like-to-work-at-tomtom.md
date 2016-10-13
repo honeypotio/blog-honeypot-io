@@ -83,4 +83,4 @@ In our discipline, it's not just about the screen, we have to deal with a very c
 
 * * *
 
-Honeypot is a developer-focused job platform, focused on European tech companies. Frontend developer is the most in-demand position. [Sign-up](https://www.honeypot.io/?utm_source=cees) and let companies pitch to you!
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160901&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
