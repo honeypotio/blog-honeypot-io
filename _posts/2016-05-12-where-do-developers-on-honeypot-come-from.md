@@ -24,4 +24,8 @@ Every developer who signs up on Honeypot has a call with a Talent Rep and needs 
 
 And even better, Honeypot provides free visa support to all developers relocating from outside of the EU who get hired over our platform.  
 
+* * *
+
+**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160503&utm_campaign=com-no) and make your next hire within 28 days.**
+
 
