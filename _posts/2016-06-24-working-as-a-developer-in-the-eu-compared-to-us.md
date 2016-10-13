@@ -28,7 +28,7 @@ The source for the average times to hire is [The Global Startup Ecosystem Rankin
 
 * * *
 
-Honeypot is a developer-focused job platform. [Sign-up][2] today to have multiple companies apply directly to you! 
+**[Join Honeypot][2] and make your next hire within 28 days.**
 
 [1]: http://startup-ecosystem.compass.co/ser2015/
-[2]: http://www.honeypot.io?utm_source=time
+[2]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160606&utm_campaign=com-no
