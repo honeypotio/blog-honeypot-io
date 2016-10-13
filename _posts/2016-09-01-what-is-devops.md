@@ -44,6 +44,6 @@ So what tools do DevOps Engineers use? The absolute top buzzwords to look out fo
 
 ***
 
-***Honeypot is a developer-focused job platform. Use Honeypot to filter by location, tech stack and salary and contact your favourite candidates directly. [Sign-up](https://www.honeypot.io/pages/for_employers?utm_source=whatisdevops) to start hiring skilled and pre-screened developers today!***
+**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=160903&utm_campaign=hr-no) today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
 
 
