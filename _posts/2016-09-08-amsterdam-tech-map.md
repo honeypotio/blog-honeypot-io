@@ -658,6 +658,9 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 [SpilGames][194]: Games
 
+* * *
+
+**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160902&utm_campaign=com-no) Join Honeypot and make your next hire within 28 days.**
 
 [1]: http://startup-ecosystem.compass.co/ser2015/ 
 [3]: http://blog.honeypot.io/berlin-startup-map 
