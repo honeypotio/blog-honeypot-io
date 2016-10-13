@@ -74,7 +74,7 @@ As I mentioned earlier, we want to increase the headcount, just to be able to fo
 
 * * *
 
-Honeypot is a marketplace connecting developers with Europe's most innovative start-ups. [Apply to join][1] to find your next developer role. 
+**[Join Honeypot][1] today and receive 4 interview invites or more in three weeks.** 
 
-[1]: https://www.honeypot.io/?utm_source=ctointernu3
+[1]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160803&utm_campaign=dev-no
 [2]: https://www.nu3.com/
