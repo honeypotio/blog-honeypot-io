@@ -183,10 +183,7 @@ Have we missed something? Send us suggestions for frontend blogs to hello@honeyp
 
 * * *
 
-***JavaScript is the most in-demand programming language on Honeypot. [Signup today][79] and have companies apply directly to you!***
-
-
-
+**[Join Honeypot][79] today and receive 4 interview invites or more in three weeks.**
 
 [1]: https://github.com/rmurphey/js-assessment 
 [2]: http://rmurphey.com/ 
@@ -266,6 +263,6 @@ Have we missed something? Send us suggestions for frontend blogs to hello@honeyp
 [76]: http://csskarma.com/blog/ 
 [77]: http://sixrevisions.com/ 
 [78]: http://ejohn.org/category/blog/ 
-[79]: https://www.honeypot.io?utm_source=frontend
+[79]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160801&utm_campaign=dev-no
 [80]: http://www.lukew.com/ff/
 [81]: http://ejohn.org/
