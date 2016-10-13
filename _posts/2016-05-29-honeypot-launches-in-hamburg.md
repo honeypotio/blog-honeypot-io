@@ -35,6 +35,10 @@ For developers interested in working in Hamburg, the boosts a strong network of 
 
 Honeypot will be having its first event, [HRinTech Hamburg][5], in the city on June 16th at Shhared co-working space.  
 
+* * * 
+
+**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160507&utm_campaign=com-no) and make your next hire within 28 days.**
+
 [1]: https://bytro.com/
 [2]: http://www.wunder.org/en/
 [3]: http://xyrality.com/
