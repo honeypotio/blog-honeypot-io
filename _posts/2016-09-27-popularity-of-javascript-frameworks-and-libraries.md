@@ -32,4 +32,4 @@ Considering how sought after code testing skills are amongst the Berlin-based st
 
 * * * 
 
-*Honeypot is a developer focused job platform. Companies apply to developers, not the other way around. [Sign up](https://www.honeypot.io/users/sign_up?utm_source=blog) and join some of the best tech teams in Europe!*
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160908&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
