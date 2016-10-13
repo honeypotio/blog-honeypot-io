@@ -179,10 +179,7 @@ Some lovely Hamburg startups reached out to us to remind us to include them! The
 
 * * *
 
-To signup as a developer to Honeypot, click [here][68]. To signup as a company to Honeypot, click [here][69]. Or just come and say hi on [Facebook][67], [Twitter][66], [GitHub][65] or [LinkedIn][64].  
-
-
-
+**[Join Honeypot][69] and make your next hire within 28 days.**
 
 [1]: http://www.hamburg-startups.net/hamburg-startup-monitor-results-of-the-first-study-have-arrived/
 [2]: https://www.honeypot.io/pages/how_does_it_work?utm_source=hamstart
@@ -252,7 +249,7 @@ To signup as a developer to Honeypot, click [here][68]. To signup as a company t
 [66]: https://twitter.com/honeypotio
 [67]: https://www.facebook.com/Honeypotio/
 [68]: https://www.honeypot.io/users/sign_up?utm_source=hamstart
-[69]: https://www.honeypot.io/invite_requests/new?utm_source=hamstart
+[69]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160508&utm_campaign=com-no
 [70]: http://www.stylelounge.de/
 [71]: http://www.hamburg-startups.net/hamburg-startup-monitor-results-of-the-first-study-have-arrived/
 [72]: http://www.hamburg-startups.net/startupsreeperbahn-2015-pitch/
