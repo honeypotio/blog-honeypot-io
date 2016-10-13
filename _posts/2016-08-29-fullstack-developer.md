@@ -113,4 +113,4 @@ The old definition of a fullstack developer is almost extinct, and it is much be
 
 * * *
 
-On Honeypot, companies apply directly to developers with salary and tech stack upfront. Whether you are a frontend, backend or generalist, [signup today](https://www.honeypot.io/?utm_source=kado) and start getting offers directly to your inbox!
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160806&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
