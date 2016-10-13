@@ -44,10 +44,10 @@ To get your BSN, bring the following documents:
 
 ### 4. Understand the [30% Ruling][4]
 
-### 5. Find a [job][5]!
+### 5. [Join Honeypot][5] today and receive 4 interview invites or more in three weeks. 
 
 [1]: https://ind.nl/EN/organisation/contact
 [2]: http://www.iamsterdam.com/en/expatcenter 
 [3]: https://www.amsterdam.nl/adressengids/stadsloketten/stadsloket-centrum/
 [4]: http://www.expatax.nl/30ruling
-[5]: https://www.honeypot.io?utm_source=blog2
+[5]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160704&utm_campaign=dev-no
