@@ -99,4 +99,4 @@ I don’t have much of a visionary mind for things like this, but I am definitel
 
 * * *
 
-On Honeypot, companies apply directly to developers with salary and tech stack. [Sign-up now](https://www.honeypot.io/?utm_source=blog&utm_medium=org&utm_term=CTA1&utm_campaign=fe) and show off your frontend wizardry.  
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160905&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
