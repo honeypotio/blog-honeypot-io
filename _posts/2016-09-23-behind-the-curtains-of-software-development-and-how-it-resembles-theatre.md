@@ -128,4 +128,4 @@ If you have feedback or ideas how to improve this post, let me know: jt@honeypot
 
 * * * 
 
-**Honeypot is a marketplace connecting developers with Europe's most innovative start-ups. [Apply to join](https://www.honeypot.io/pages/for_employers?utm_source=behind-the-curtains) to find your next software developer.** 
+**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=160907&utm_campaign=hr-no) today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.** 
