@@ -126,10 +126,10 @@ http://<bucket-name>.s3-website-eu-west-1.amazonaws.com/pr-<your-PR-number>
 
 ---
 
-**On Honeypot companies apply directly to developers with tech stack and salary upfront. [Sign-up][5] to get into the game!**
+**[Join Honeypot][5] today and receive 4 interview invites or more in three weeks. **
 
 [1]: https://devcenter.heroku.com/articles/github-integration-review-apps "Heroku Rewiev apps"
 [2]: https://docs.travis-ci.com/user/deployment/s3 "Travis CI deployment to S3"
 [3]: https://docs.travis-ci.com/user/deployment/#Pull-Requests "Travis CI deployment on PR"
 [4]: https://github.com/laurilehmijoki/s3_website "Manage an S3 website"
-[5]: https://www.honeypot.io/pages/how_does_it_work?utm_source=techblog1
+[5]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160403&utm_campaign=dev-no
