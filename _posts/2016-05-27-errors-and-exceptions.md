@@ -103,6 +103,6 @@ actually there's a brand new `panic::catch_unwind()` method that does exactly wh
 conscientiously, as it is *not* a shorthand for option and result types.
 Please read [Rust 1.9 announcement](http://blog.rust-lang.org/2016/05/26/Rust-1.9.html) to learn more about catching `panic!`s and more.
 
----
+* * *
 
-**On Honeypot companies apply directly to developers with tech stack and salary upfront. [Sign-up](https://www.honeypot.io/pages/how_does_it_work?utm_source=techblog2) to get into the game!**
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160506&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
