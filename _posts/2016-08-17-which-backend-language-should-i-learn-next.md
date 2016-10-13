@@ -202,7 +202,7 @@ Industry: Internet
 
 * * *
 
-Honeypot is a marketplace connecting developers with Europe's most innovative start-ups. [Apply to join][26] to find your next backend developer role. 
+**[Join Honeypot][26] today and receive 4 interview invites or more in three weeks.** 
 
 [1]: https://wire.com/
 [2]: https://www.eyeem.com/ 
@@ -229,4 +229,4 @@ Honeypot is a marketplace connecting developers with Europe's most innovative st
 [23]: http://www.momox.de/
 [24]: https://www.orderbird.com/en/ipad-pos-system 
 [25]: https://en.lovoo.com/ 
-[26]: https://www.honeypot.io/?utm_source=prolang
+[26]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160802&utm_campaign=dev-no
