@@ -42,9 +42,8 @@ If you think this could work for you please refer to IBB’s website where you c
 
 * * * 
 
-### Honeypot is a developer-focused job platform. Start hiring skilled and pre-screened developers today! Use Honeypot to filter by location, tech stack and salary and contact your favourite candidates directly. [Sign-up][2] to start hiring! 
-
+**[Join Honeypot][2] and make your next hire within 28 days.** 
 
 
 [1]: http://www.ibb.de/gruenden/Innovationsassistent-in.aspx  
-[2]: https://www.honeypot.io/pages/for_employers?utm_source=lsu2
+[2]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160605&utm_campaign=com-no
