@@ -41,11 +41,11 @@ Backend development is an immense topic and the list of relevant interview quest
 
 * * *
 
-Honeypot is a marketplace connecting developers with Europe's most innovative start-ups. [Apply to join][5] as a company to find your next backend developer.
+**[Join Honeypot][5] today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
 
 [1]: http://katemats.com/interview-questions/
 [2]: https://github.com/starandtina/backend-interview-questions
 [3]: https://www.youtube.com/watch?v=njZ48YVkei0
 [4]: https://www.youtube.com/watch?v=u6pkAWCewLs
-[5]: https://www.honeypot.io/invite_requests/new?utm_source=blogbackend
+[5]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=160502&utm_campaign=hr-no
 [6]: http://blog.honeypot.io/interview-questions-for-a-frontend-developer/
