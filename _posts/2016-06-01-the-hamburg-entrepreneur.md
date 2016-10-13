@@ -54,3 +54,7 @@ Airports are fantastic commercial opportunities, mostly in Europe, the Middle Ea
 FLIO is offering exactly that - allowing users to gain instant WIFI access in airports, to access discounts and book lounges or trains and just generally have a more pleasant trip. You can see the full potential in the big airports: in Heathrow, Frankfurt, but we cover more than 900 airports. We are just at the beginning, with lot’s of work ahead for indoor mapping, integrating partners but mostly to streamline the user experience for past and future trips. 
 
  This will require a reasonable amount of work on the frontend side, but we have a lot of ambition. 
+ 
+ * * *
+ 
+ **[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160601&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
