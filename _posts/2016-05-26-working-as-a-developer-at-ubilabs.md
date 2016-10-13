@@ -69,8 +69,7 @@ We are not a startup anymore, but 10 years ago, when we were a startup, there wa
 
 * * *
 
-**On Honeypot, developers can find jobs at Hamburg's most innovative startups. [Join today][7] and have companies apply directly to you.**
-
+**[Join Honeypot][7] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/
@@ -79,4 +78,4 @@ We are not a startup anymore, but 10 years ago, when we were a startup, there wa
 [4]: http://webbyawards.com/winners/2016/advertising-media/websites-micro-sites-and-rich-media/tourism-leisure/miniatur-wunderland-trek/
 [5]: http://2016.jsunconf.eu/
 [6]: http://www.meetup.com/hamburg-js/
-[7]: https://www.honeypot.io/pages/how_does_it_work?utm_source=ubi
+[7]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160505&utm_campaign=dev-no
