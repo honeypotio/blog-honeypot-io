@@ -10,7 +10,7 @@ permalink:  if-hemingway-wrote-javascript/
 importance: 2
 ---
 
-JavaScript is both bizarre and beautiful. It is a language in which 0.1 + 0.2 is not equal to 0.3. But It is also the most used language for open source contributions on GitHub. Inspired by the infinite quirks of JavaScript, [Angus Croll](https://twitter.com/angustweets), the creator of popular blog [JavaScript JavaScript](https://javascriptweblog.wordpress.com/), authored If Hemingway Wrote JavaScript, a book in which he imagines  25 famous novelists, poets and playwrights solving simple problems in JavaScript. 
+JavaScript is both bizarre and beautiful. It is a language in which 0.1 + 0.2 is not equal to 0.3. But It is also the most used language for open source contributions on GitHub. Inspired by the infinite quirks of JavaScript, [Angus Croll](https://twitter.com/angustweets), the creator of popular blog [JavaScript JavaScript](https://javascriptweblog.wordpress.com/), authored *If Hemingway Wrote JavaScript*, a book in which he imagines  25 famous novelists, poets and playwrights solving simple problems in JavaScript. 
 
 <!--more-->
 
