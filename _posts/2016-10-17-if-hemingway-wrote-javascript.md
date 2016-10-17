@@ -29,15 +29,15 @@ Angus has been kind enough to share some excerpts from the book below:
 
 
 
-![jane-austen-javascript](/assets/images/jane-austen-1)
+![jane-austen-javascript](/assets/images/jane-austen-1.png)
 
-![jane-austen-javascript](/assets/images/jane-austen-2)
+![jane-austen-javascript](/assets/images/jane-austen-2.png)
 
-![jane-austen-javascript](/assets/images/jane-austen-3)
+![jane-austen-javascript](/assets/images/jane-austen-3.png)
 
-![jane-austen-javascript](/assets/images/jane-austen-4)
+![jane-austen-javascript](/assets/images/jane-austen-4.png)
 
-![jane-austen-javascript](/assets/images/jane-austen-5)
+![jane-austen-javascript](/assets/images/jane-austen-5.png)
 
-![jane-austen-javascript](/assets/images/jane-austen-6)
+![jane-austen-javascript](/assets/images/jane-austen-6.png)
 
