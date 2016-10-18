@@ -19,7 +19,7 @@ Croll spoke to us about his lovingly-crafted book and commented, "This book is f
 
 While some find JavaScript’s syntax and semantics endlessly frustrating, Angus considers its malleability its core strength, “Part of what the book tries to say is that JavaScript is quirky and magical and ridiculously expressive–it has more in common with spoken languages than boring conventional software languages, and that's something to be proud of.”  
 
-Each chapter is dedicated to a specific author, poet or playwright, everyone from Hemingway, Salinger and Shakespeare to Kafka, Kerouac and Tupac. The chapters are spliced with poetic interludes, which use famous literary excerpts to explain features of the language, such as variables, lost callbacks, and refractors. 
+Each chapter is dedicated to a specific author, poet or playwright, everyone from Hemingway, Salinger and Shakespeare to Kafka, Kerouac and Tupac. The chapters are spliced with poetic interludes, which use famous literary excerpts to explain features of the language, such as variables, lost callbacks, and refactors. 
 
 The book should appeal to lovers of all languages - computer and non-computer alike. Croll explains, “I'm hoping the book also appeals to devotees of literature (speaking as a devotee of literature) and might pique the curiosity of those who have not read some of the featured authors."
 
