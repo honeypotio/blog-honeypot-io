@@ -23,7 +23,7 @@ Each chapter is dedicated to a specific author, poet or playwright, everyone fro
 
 The book should appeal to lovers of all languages - computer and non-computer alike. Croll explains, “I'm hoping the book also appeals to devotees of literature (speaking as a devotee of literature) and might pique the curiosity of those who have not read some of the featured authors."
 
-JavaScript is the most popular programming language on [Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161003&utm_campaign=dev-no), with developers in Berling earning [between €30,000 - €60,000](https://blog.honeypot.io/how-much-does-a-developer-earn-in-berlin/) depending on experience. 
+JavaScript is the most popular programming language on [Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161003&utm_campaign=dev-no), with developers in Berlin earning [between €30,000 - €60,000](https://blog.honeypot.io/how-much-does-a-developer-earn-in-berlin/) depending on experience. 
 
 Angus has been kind enough to share some excerpts from the book below: 
 
