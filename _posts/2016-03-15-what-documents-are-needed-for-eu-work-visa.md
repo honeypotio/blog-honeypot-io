@@ -12,7 +12,7 @@ importance: 2
 
 Honeypot recently [launched free visa support][6] for all non-EU developers hired through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the visa process here in Germany.
 
-<!--more--> 
+<!--more-->
 
 [70 percent of software developers working in Silicon Valley in 2013 were foreign-born][4], fuelling
 innovation in the Bay area. Aspiring startup hubs in European cities, often looking to mirror San Francisco’s success, traditionally
@@ -73,9 +73,9 @@ Company has to apply for the developer’s work permit in Germany
 
 [Anabin][2]: The Anabin database lists and classifies accepted foreign education certificates.
 
-* * * 
+* * *
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160302&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.** 
+**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160302&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
 
 * * *
 
@@ -84,5 +84,5 @@ Company has to apply for the developer’s work permit in Germany
 [3]: http://blog.honeypot.io/EU-Bluecard-for-software-developers/
 [4]: http://svcip.com/
 [5]: http://startup-ecosystem.compass.co/ser2015/
-[6]: https://www.honeypot.io/pages/how_does_it_work??utm_source=blogvisa
+[6]: https://www.honeypot.io/pages/how_it_works?utm_source=blogvisa
 [7]: http://blog.honeypot.io/EU-Bluecard-for-software-developers/

@@ -10,9 +10,9 @@ permalink:  honeypot-tech-meetup-graphql/
 importance: 2
 ---
 
-We hosted our first tech meetup last Wednesday, to a packed crowd of about 65 developers, in the new offices of [TechCode][1] near Alexanderplatz. GraphQL was the topic and we had three talks from Oleg Iiyenko, author of Sangria, a Scala GraphQL implementation, Johannes Schickling, Co-founder of Graph.cool and Yann Simon, a Scala backend developer. 
+We hosted our first tech meetup last Wednesday, to a packed crowd of about 65 developers, in the new offices of [TechCode][1] near Alexanderplatz. GraphQL was the topic and we had three talks from Oleg Iiyenko, author of Sangria, a Scala GraphQL implementation, Johannes Schickling, Co-founder of Graph.cool and Yann Simon, a Scala backend developer.
 
-<!--more--> 
+<!--more-->
 
 Facebook released an initial [GraphQL specification in July 2015][4], alongside a [Javascript reference implementation][5]. Since that time, GraphQL implmentations in various languages have emerged.
 
@@ -67,7 +67,7 @@ GitHub: [https://github.com/schickling][8]
 **Developers can find great companies working with innovative technologies on Honeypot. [Sign-up][5] to get transparent offers from Europe's best startups.**
 
 [1]: http://www.techcode.com/index.php?m=content&c=index&a=show&catid=28&id=10
-[2]: https://www.honeypot.io/pages/how_does_it_work?utm_source=techmeetup
+[2]: https://www.honeypot.io/pages/how_it_works?utm_source=techmeetup
 [3]: https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/
 [4]: https://facebook.github.io/graphql/
 [5]: https://github.com/graphql/graphql-js

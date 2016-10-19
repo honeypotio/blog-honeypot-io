@@ -136,6 +136,6 @@ And last, but not the least, further development of Sangria, of course!
 [5]: http://sangria-graphql.org/
 [6]: http://www.meetup.com/Scala-Berlin-Brandenburg/
 [7]: http://www.meetup.com/Play-Berlin-Brandenburg/
-[8]: https://www.honeypot.io/pages/how_does_it_work?utm_source=commdevscala
+[8]: https://www.honeypot.io/pages/how_it_works?utm_source=commdevscala
 [9]: http://sangria-graphql.org/
 [10]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160501&utm_campaign=dev-no
