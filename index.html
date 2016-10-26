@@ -15,12 +15,12 @@ layout: default
           <div class="row">
               <div class="col-xs-6 text-left">
                 {% if paginator.previous_page %}
-                  <a href="{{ paginator.previous_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--prev">&lt; Previous</a>
+                  <a href="{{ paginator.previous_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--prev"><i class="fa fa-angle-left" aria-hidden="true"></i> Previous</a>
                 {% endif %}
               </div>
               <div class="col-xs-6 text-right">
                 {% if paginator.next_page %}
-                  <a href="{{ paginator.next_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--next">Next &gt;</a>
+                  <a href="{{ paginator.next_page_path }}" class="post-listing__pagination__link post-listing__pagination__link--next">Next <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                 {% endif %}
               </div>
           </div>
