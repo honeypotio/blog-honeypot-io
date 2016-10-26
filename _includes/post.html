@@ -3,10 +3,22 @@
 {% assign details = include.details %}
 <li class="post-listing__item post-listing__item--importance-{{ include.importance }} js-post-listing-item">
   <a href="{{ post.url }}" class="post-listing__link">
-    <div
-      class="post-listing__cover"
-      style="background-image: url('/assets/cover-images/thumbnail_{{ post.cover_image }}')"
-    >
+    <div class="post-listing__cover">
+      <picture>
+        <source
+          srcset="/assets/cover-images/thumbnail_{{ post.cover_image }}"
+          media="(min-width: 1200px)">
+        <source
+          srcset="/assets/cover-images/md/thumbnail_{{ post.cover_image }}"
+          media="(min-width: 768px)">
+        <source
+          srcset="/assets/cover-images/sm/thumbnail_{{ post.cover_image }}"
+          media="(min-width: 480px)">
+        <img
+          class="post-listing__cover-image"
+          srcset="/assets/cover-images/xs/thumbnail_{{ post.cover_image }}"
+          alt="">
+      </picture>
     </div>
 
     <div class="post-listing__item__meta">

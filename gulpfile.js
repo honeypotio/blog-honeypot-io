@@ -18,14 +18,53 @@ gulp.task('optimize-authors', function() {
     .pipe(gulp.dest(dest));
 });
 
-gulp.task('optimize-covers', function() {
-  const src = '_assets/cover-images/*';
-  const dest = 'assets/cover-images';
-  return gulp.src(src)
-    .pipe(changed(dest))
-    .pipe(imagemin())
-    .pipe(gulp.dest(dest));
-});
+gulp.task('optimize-covers', _optimizeCovers());
+
+function _optimizeCovers() {
+  const defaultOptions = {
+    upscale: false
+  };
+  const files = [
+    {
+      glob: 'thumbnail_*',
+      dest: 'xs',
+      options: {
+        width: 480,
+        crop: true
+      }
+    },
+    {
+      glob: 'thumbnail_*',
+      dest: 'sm',
+      options: {
+        width: 737,
+        height: 143,
+        crop: true
+      }
+    },
+    {
+      glob: 'thumbnail_*',
+      dest: 'md',
+      options: {
+        width: 720,
+        crop: true
+      }
+    }
+  ];
+  return files.map(function(file) {
+    const src = `_assets/cover-images/${file.glob}`;
+    const dest = `assets/cover-images/${file.dest}`;
+    const taskName = `cover-resize-${file.dest}`;
+    gulp.task(taskName, function() {
+      return gulp.src(src)
+        .pipe(changed(dest))
+        .pipe(imageResize(Object.assign({}, defaultOptions, file.options)))
+        .pipe(imagemin())
+        .pipe(gulp.dest(dest));
+    });
+    return taskName;
+  });
+}
 
 gulp.task('optimize-images', function() {
   const src = '_assets/images/*';
