@@ -16,13 +16,13 @@
     {% include header.html %}
 
     {{ content }}
-    <script src="{{ "/bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script src="{{ "/bower_components/masonry/dist/masonry.pkgd.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script src="{{ "/bower_components/imagesloaded/imagesloaded.pkgd.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script src="{{ "/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script src="{{ "/scripts/jquery.cookiebar.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script src="{{ "/scripts/cookie_policy.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script src="{{ "/scripts/app.js" | prepend: site.baseurl }}" charset="utf-8"></script>
+    <script src="{{ "/bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/bower_components/jquery.cookiebar/dist/jquery.cookiebar.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/bower_components/imagesloaded/imagesloaded.pkgd.min.js" | prepend: site.baseurl }}"></script>
+
+    <!-- async scripts -->
+    <script src="{{ "/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js" | prepend: site.baseurl }}" async="true"></script>
+    <script src="{{ "/scripts/app.js" | prepend: site.baseurl }}" async="true"></script>
   </body>
 
 </html>

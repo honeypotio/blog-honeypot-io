@@ -1,17 +1,9 @@
 {
   "name": "Honeypot Blog",
   "homepage": "https://github.com/teamhoneypot/blog-honeypot-io",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
-    "masonry": "~3.3.2",
-    "imagesloaded": "~3.1.8",
-    "packery": "~1.4.3"
+    "jquery.cookiebar": "^1.2.1",
+    "imagesloaded": "^4.1.1"
   }
 }
