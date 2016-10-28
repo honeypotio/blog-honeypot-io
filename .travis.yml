@@ -5,4 +5,4 @@ deploy:
   app: staging-blog-honeypot
   on: master
 
-script: echo 'nothing to do here!'
+script: bundle exec jekyll build
