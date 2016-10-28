@@ -15,6 +15,7 @@ sass:
   style: compressed
 
 exclude:
+  - vendor
   - bower.json
   - config.ru
   - Gemfile
