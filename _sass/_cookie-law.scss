@@ -1,6 +1,9 @@
 #cookie-bar {
   background: $very-light-gray-color;
   color: $dark-gray-3-color;
+  line-height: 24px;
+  text-align: center;
+  padding: 3px 0;
 
   a {
     margin-left: 3px;
@@ -19,6 +22,11 @@
 
   span {
     margin-left: $fs-jumbo-2;
+  }
+
+  p {
+    margin: 0;
+    padding: 0;
   }
 
   .cb-enable {
