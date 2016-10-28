@@ -874,7 +874,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 [225]: https://zazzy.co/ 
 [226]: https://www.ticketswap.uk/ 
 [227]: https://undeveloped.com/ 
-[228]: https://accessart.nl/ 
+[228]: https://www.accessart.co
 [229]: https://www.fixico.nl 
 [230]: http://www.pneusmart.com/ 
 [231]: https://www.lightspeedhq.com 
