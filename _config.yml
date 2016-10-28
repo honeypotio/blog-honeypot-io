@@ -15,6 +15,7 @@ sass:
   style: compressed
 
 exclude:
+  - _site/bin
   - vendor
   - bower.json
   - config.ru
