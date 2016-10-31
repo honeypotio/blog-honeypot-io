@@ -20,7 +20,7 @@ While it's fair to say that women are underrepresented in tech today, their cont
 For your convenience, Honeypot has created this handy infographic displaying a neat timeline highlighting remarkable women in tech throughout history: 
 
 
-![remarkable-woman-in-tech.svg](/assets/images/remarkable-woman-in-tech.svg)
+![remarkable-woman-in-tech.png](/assets/images/remarkable-woman-in-tech.png)
 
 
 If you’d like to dig a bit deeper and learn more about women in computer science, what resources are available for female developers in Berlin or simply why hiring female developers is a smart move you can check out these blog posts by Honeypot:
