@@ -51,6 +51,14 @@ function _optimizeCovers() {
       }
     }
   ];
+
+  // copy desktop cover images
+  gulp.src('_assets/cover-images/*')
+    .pipe(changed('assets/cover-images'))
+    .pipe(imagemin())
+    .pipe(gulp.dest('assets/cover-images'));
+
+  // resize cover images
   return files.map(function(file) {
     const src = `_assets/cover-images/${file.glob}`;
     const dest = `assets/cover-images/${file.dest}`;
