@@ -1,27 +1,39 @@
 const gulp = require('gulp');
 const imageResize = require('gulp-image-resize');
-const del = require('del');
 const imagemin = require('gulp-imagemin');
+const changed = require('gulp-changed');
 
-gulp.task('resize-author-images', function() {
-  return gulp.src('authors/src/*')
+gulp.task('optimize-authors', function() {
+  const src = '_assets/authors/*';
+  const dest = 'assets/authors';
+  gulp.src(src)
+    .pipe(changed(dest))
     .pipe(imageResize({
-      width : 250,
-      height : 250,
-      crop : true,
-      upscale : false
+      width: 250,
+      height: 250,
+      crop: true,
+      upscale: false
     }))
-    .pipe(gulp.dest('authors/temp'));
+    .pipe(imagemin())
+    .pipe(gulp.dest(dest));
 });
 
-gulp.task('compress-author-images', ['resize-author-images'], function() {
-  return (gulp.src('authors/temp/*')
-  .pipe(imagemin())
-  .pipe(gulp.dest('authors/')));
+gulp.task('optimize-covers', function() {
+  const src = '_assets/cover-images/*';
+  const dest = 'assets/cover-images';
+  return gulp.src(src)
+    .pipe(changed(dest))
+    .pipe(imagemin())
+    .pipe(gulp.dest(dest));
 });
 
-gulp.task('clean-author-temp', ['compress-author-images'], function() {
-  del('authors/temp/');
+gulp.task('optimize-images', function() {
+  const src = '_assets/images/*';
+  const dest = 'assets/images';
+  return gulp.src(src)
+    .pipe(changed(dest))
+    .pipe(imagemin())
+    .pipe(gulp.dest(dest));
 });
 
-gulp.task('optimize-author-images', ['resize-author-images', 'compress-author-images', 'clean-author-temp']);
+gulp.task('default', ['optimize-authors', 'optimize-covers', 'optimize-images']);

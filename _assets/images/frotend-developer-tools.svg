@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="798px" height="4306px" viewBox="0 0 798 4306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F7F7F7;">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>frotend-developer-tools</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0355490621 0.329012448 0.0355490621 74.1772732 69.1672177 74.1772732 69.1672177 0.329012448 0.0355490621 0.329012448"></polygon>
+        <path d="M111.6,222.4 C172.903607,222.4 222.6,172.703607 222.6,111.4 C222.6,50.0963927 172.903607,0.399999976 111.6,0.399999976 C50.2963929,0.399999976 0.600000143,50.0963927 0.600000143,111.4 C0.600000143,172.703607 50.2963929,222.4 111.6,222.4 Z" id="path-3"></path>
+        <ellipse id="path-5" cx="218.8" cy="905.794224" rx="4.8" ry="4.79422383"></ellipse>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.4" y="-2.4" width="14.4" height="14.3884477">
+            <rect x="211.6" y="898.6" width="14.4" height="14.3884477" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <path d="M651.4,943.388448 C654.050967,943.388448 656.2,941.242001 656.2,938.594224 C656.2,935.946447 654.050967,933.8 651.4,933.8 C648.749033,933.8 646.6,935.946447 646.6,938.594224 C646.6,941.242001 648.749033,943.388448 651.4,943.388448 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.4" y="-2.4" width="14.4" height="14.3884477">
+            <rect x="644.2" y="931.4" width="14.4" height="14.3884477" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <ellipse id="path-9" cx="648.2" cy="811.594224" rx="4.8" ry="4.79422383"></ellipse>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.4" y="-2.4" width="14.4" height="14.3884477">
+            <rect x="641" y="804.4" width="14.4" height="14.3884477" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+        <ellipse id="path-11" cx="481.8" cy="1037.79422" rx="4.8" ry="4.79422383"></ellipse>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.4" y="-2.4" width="14.4" height="14.3884477">
+            <rect x="474.6" y="1030.6" width="14.4" height="14.3884477" fill="white"></rect>
+            <use xlink:href="#path-11" fill="black"></use>
+        </mask>
+        <ellipse id="path-13" cx="218.8" cy="984.794224" rx="4.8" ry="4.79422383"></ellipse>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.4" y="-2.4" width="14.4" height="14.3884477">
+            <rect x="211.6" y="977.6" width="14.4" height="14.3884477" fill="white"></rect>
+            <use xlink:href="#path-13" fill="black"></use>
+        </mask>
+        <path d="M111.6,222.4 C172.903607,222.4 222.6,172.703607 222.6,111.4 C222.6,50.0963927 172.903607,0.399999976 111.6,0.399999976 C50.2963929,0.399999976 0.600000143,50.0963927 0.600000143,111.4 C0.600000143,172.703607 50.2963929,222.4 111.6,222.4 Z" id="path-15"></path>
+        <polygon id="path-17" points="0.0299558946 0.269179894 0.0299558946 60.6877662 58.2846849 60.6877662 58.2846849 0.269179894 0.0299558946 0.269179894"></polygon>
+    </defs>
+    <g id="Frontend-Dev-Tool" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frotend-developer-tools">
+            <text id="Frontend-Developer-T" font-family="OpenSans, Open Sans" font-size="45" font-weight="normal" fill="#000000">
+                <tspan x="124.099365" y="221.999998">Frontend Developer Tools</tspan>
+            </text>
+            <g id="Logo2_EPS" transform="translate(364.000000, 37.800000)">
+                <g id="Group-25" transform="translate(0.000000, -0.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 13.758702)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M69.1020445,36.409714 C68.6950077,30.4976594 67.3435508,24.8541986 65.214162,19.612133 C64.6501169,18.2237004 64.0505227,16.8538122 63.3792379,15.5252001 C65.7580627,14.1026699 67.3577705,11.4927039 67.3577705,8.49869065 C67.3577705,3.98703267 63.735321,0.329012448 59.2662114,0.329012448 L9.90752362,0.329012448 C5.43900651,0.329012448 1.81596459,3.98703267 1.81596459,8.49869065 C1.81596459,11.4903111 3.41330245,14.0984825 5.78916477,15.5222091 C5.11787998,16.850223 4.51887828,18.219513 3.95483316,19.6073473 C1.82425937,24.8506093 0.472210042,30.4958647 0.0645807962,36.4091158 C0.033771609,37.1126042 0,37.8160926 0,38.5273577 C0,43.6378183 0.823553273,48.5514697 2.32253873,53.1558494 C2.76927194,54.4515602 3.62896676,56.683461 4.68181148,58.1735883 C4.79675345,58.3267287 4.90517809,58.4756816 5.03670962,58.6365986 C5.05211422,58.6551429 5.06751881,58.6760801 5.0829234,58.6946244 C5.54980109,59.261124 6.11621614,59.8683015 6.79757317,60.4700952 C7.48544752,61.0730853 8.28174651,61.6754772 9.1882476,62.1785671 C10.0846764,62.6798625 11.1298189,63.0842487 12.1613342,63.2188447 C13.2414332,63.374976 14.3801881,63.187738 15.2499552,62.5715874 C16.1363118,61.9709902 16.7702701,60.9187485 17.1370179,59.7301163 C17.8687361,57.3205488 17.7875657,54.5909419 17.5636066,52.1221521 C17.3183181,49.6330234 16.8715849,47.3203649 16.4284066,45.3546651 C15.5278303,41.4214709 14.6444362,38.8671378 14.6444362,38.8671378 C14.6444362,38.8671378 15.6996508,41.3502845 16.8739548,45.2350242 C17.4545895,47.1785905 18.0648484,49.473901 18.4890672,51.9977256 C18.8812919,54.5173627 19.1976785,57.2930314 18.5583879,60.1297169 C18.2301516,61.5235332 17.5458321,62.9939198 16.299245,63.9869392 C15.0514729,64.9973065 13.4914616,65.3101674 12.0908285,65.3442651 C10.6161349,65.3544346 9.30674447,65.0146544 8.11940579,64.5582244 C7.97483961,64.5019932 7.85160286,64.4290123 7.71059158,64.3691918 C9.88204679,67.6754678 12.4676486,70.6730703 15.3749694,73.3195268 C16.9260935,74.180343 19.4530393,74.8168326 22.7999835,73.0617007 C28.636547,70.0018849 34.4731105,69.6621048 34.4731105,69.6621048 C34.4731105,69.6621048 40.3090816,70.0018849 46.1456451,73.0617007 C50.0667066,75.1177294 52.8632329,73.8938031 54.279863,72.8690789 C56.9792218,70.3398705 59.3930031,67.506176 61.4382591,64.3967092 C61.3073201,64.4523422 61.1923781,64.5205376 61.0578842,64.5731795 C59.8705455,65.0296095 58.561155,65.3693897 57.0864614,65.3592202 C55.6858284,65.3245243 54.1258171,65.0122616 52.878045,64.0018943 C51.6314579,63.0082767 50.9471384,61.5384884 50.6189021,60.144672 C49.9796114,57.3073883 50.2954056,54.5323178 50.6882227,52.0126807 C51.1124416,49.4882579 51.7227005,47.1935456 52.3033351,45.2499793 C53.4776392,41.3646414 54.5328538,38.8814947 54.5328538,38.8814947 C54.5328538,38.8814947 53.6494596,41.4358278 52.7488834,45.3696202 C52.3057051,47.3347219 51.8589719,49.6479785 51.6136833,52.1371072 C51.3897242,54.605897 51.3085539,57.3355039 52.0402721,59.7444732 C52.4070199,60.9337037 53.0409782,61.9853471 53.9273348,62.5865426 C54.7971018,63.2026931 55.9364493,63.3899311 57.0159558,63.2332016 C58.0474711,63.0992038 59.0926135,62.6942194 59.9890424,62.1935222 C60.8955435,61.6898341 61.6918424,61.0874422 62.3797168,60.4850503 C63.3051774,59.6673048 64.0060864,58.8483629 64.5440622,58.1251338 C65.3836126,56.9191536 66.0969637,55.2537524 66.5733212,53.9789787 C68.248867,49.1407011 69.1672177,43.9429026 69.1672177,38.5273577 C69.1672177,37.8160926 69.1334461,37.1132024 69.1020445,36.409714" id="Fill-1" fill="#F6C823" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M27.327749,28.0934757 C27.327749,32.2109169 24.0222787,35.5488977 19.9442088,35.5488977 C15.8661389,35.5488977 12.5600761,32.2109169 12.5600761,28.0934757 C12.5600761,23.9760344 15.8661389,20.6380536 19.9442088,20.6380536 C24.0222787,20.6380536 27.327749,23.9760344 27.327749,28.0934757" id="Fill-4" fill="#FFFFFF"></path>
+                    <path d="M9.90752362,18.1590943 C7.66556277,18.1590943 5.84841321,19.9937874 5.84841321,22.257393 C5.84841321,23.7253868 6.61923537,25.0037497 7.76806256,25.7275771 C9.172843,23.3981689 10.7405566,21.180625 12.4646862,19.0982753 C11.7649621,18.5204098 10.8821604,18.1590943 9.90752362,18.1590943" id="Fill-5" fill="#25282C"></path>
+                    <path d="M59.2662114,18.1590943 C58.2897972,18.1590943 57.4058105,18.5216062 56.705494,19.1018646 C58.429031,21.1842142 59.9961522,23.4011599 61.4009326,25.7305681 C62.5527222,25.0073389 63.3259143,23.7277796 63.3259143,22.257393 C63.3259143,19.9937874 61.5081723,18.1590943 59.2662114,18.1590943" id="Fill-6" fill="#25282C"></path>
+                    <path d="M19.9442088,24.7758338 C19.7161024,24.7758338 19.4939207,24.7991638 19.2794414,24.8440291 C19.4109729,25.0970696 19.4868109,25.3848059 19.4868109,25.6904884 C19.4868109,26.6960701 18.6792547,27.5114227 17.682696,27.5114227 C17.3485348,27.5114227 17.0362955,27.4181028 16.7673076,27.257784 C16.6985795,27.5251814 16.6582905,27.8039447 16.6582905,28.0934757 C16.6582905,29.9257759 18.1294292,31.4111176 19.9442088,31.4111176 C21.7589885,31.4111176 23.2301271,29.9257759 23.2301271,28.0934757 C23.2301271,26.2611754 21.7589885,24.7758338 19.9442088,24.7758338" id="Fill-7" fill="#25282C"></path>
+                    <path d="M56.6065491,28.0934757 C56.6065491,32.2109169 53.3010788,35.5488977 49.2230089,35.5488977 C45.144939,35.5488977 41.8388762,32.2109169 41.8388762,28.0934757 C41.8388762,23.9760344 45.144939,20.6380536 49.2230089,20.6380536 C53.3010788,20.6380536 56.6065491,23.9760344 56.6065491,28.0934757" id="Fill-8" fill="#FFFFFF"></path>
+                    <path d="M49.2230089,24.7758338 C48.9949024,24.7758338 48.7727208,24.7991638 48.5582414,24.8440291 C48.6903655,25.0970696 48.765611,25.3848059 48.765611,25.6904884 C48.765611,26.6960701 47.9580548,27.5114227 46.9614961,27.5114227 C46.6273349,27.5114227 46.3150956,27.4181028 46.0461077,27.257784 C45.9773795,27.5251814 45.9370906,27.8039447 45.9370906,28.0934757 C45.9370906,29.9257759 47.4082293,31.4111176 49.2230089,31.4111176 C51.0377885,31.4111176 52.5089272,29.9257759 52.5089272,28.0934757 C52.5089272,26.2611754 51.0377885,24.7758338 49.2230089,24.7758338" id="Fill-9" fill="#25282C"></path>
+                    <path d="M44.5121657,42.4892658 C44.5121657,48.0872631 40.0175793,52.6258402 34.4731105,52.6258402 C28.9280493,52.6258402 24.4334629,48.0872631 24.4334629,42.4892658 C24.4334629,36.8906703 28.9280493,32.3526914 34.4731105,32.3526914 C40.0175793,32.3526914 44.5121657,36.8906703 44.5121657,42.4892658" id="Fill-10" fill="#FFFFFF"></path>
+                    <path d="M39.6816406,36.95408 C39.6816406,36.8141002 39.6555713,36.681897 39.6176523,36.5538812 C39.6016552,36.4910698 39.5886206,36.4539811 39.5886206,36.4539811 L39.5874356,36.4539811 C39.5400369,36.3295546 39.476641,36.2141011 39.3984331,36.1094153 L39.3990256,36.1082189 C39.3990256,36.1082189 38.8095036,34.8801052 34.532359,34.8687393 L34.532359,34.8675429 C34.5216943,34.8675429 34.512807,34.8681411 34.5027348,34.8681411 C34.49207,34.8681411 34.4831828,34.8675429 34.4731105,34.8675429 L34.4731105,34.8687393 C31.9846762,34.8753195 30.7469763,35.292268 30.1456047,35.6416194 C29.7824118,35.7887777 29.4974268,36.0842907 29.358193,36.4539811 L29.3564155,36.4539811 C29.3564155,36.4539811 29.3410109,36.49765 29.3226439,36.570631 C29.2882798,36.6932629 29.263988,36.8200822 29.263988,36.95408 C29.263988,36.9660441 29.2669504,36.97741 29.2675429,36.9893741 C29.242066,37.6264618 29.4488431,38.7480952 30.8791003,39.8984423 C32.1861209,40.9494875 33.2057865,41.340115 33.8213777,41.4884697 L33.8213777,52.5923408 C34.0376345,52.6060995 34.2527063,52.6258402 34.472518,52.6258402 C34.6923297,52.6258402 34.9079941,52.6060995 35.1242509,52.5923408 L35.1242509,41.4884697 C35.7398421,41.3395168 36.7595077,40.9488893 38.0653433,39.8984423 C39.4896757,38.7528808 39.7006001,37.6354349 39.6774932,36.9971507 C39.6780857,36.9827938 39.6816406,36.9690351 39.6816406,36.95408" id="Fill-11" fill="#25282C"></path>
+                    <path d="M18.3190242,11.9132417 L50.698295,11.9132417 C46.8210773,9.22132162 42.2672424,7.45302926 37.3336251,6.96369802 L39.3160778,1.51405547 C39.3160778,1.51405547 38.0540861,0.452242566 34.5086596,0.452242566 C30.9632331,0.452242566 29.7012414,1.51405547 29.7012414,1.51405547 L31.6836941,6.96369802 C26.7500768,7.45243106 22.1962419,9.22132162 18.3190242,11.9132417" id="Fill-12" fill="#F6C823"></path>
+                    <path d="M5.44967123,68.5548284 C5.44967123,68.5548284 4.91288039,67.8507417 4.32217347,66.6597167 C3.72791165,65.4740754 3.12476256,63.7985048 2.73964772,62.0750778 C2.34860804,60.3522489 2.16197546,58.594126 2.12405646,57.2738888 C2.09028485,55.951857 2.1720477,55.0695054 2.1720477,55.0695054 C2.1720477,55.0695054 2.23662849,55.2830644 2.32490866,55.6569422 C2.4108189,56.0302218 2.53405565,56.5632219 2.68099177,57.2033007 C2.9641993,58.4804672 3.30428533,60.1763768 3.6917701,61.8555367 C4.06088787,63.538884 4.48925406,65.2048834 4.84296723,66.455729 C5.02249,67.0838436 5.17238854,67.6066743 5.27725828,67.9727754 C5.39457018,68.340073 5.44967123,68.5548284 5.44967123,68.5548284" id="Fill-13" fill="#FFFFFF"></path>
+                    <path d="M55.5193403,57.9103784 C55.5193403,57.9103784 55.5045282,58.503199 55.4132856,59.363417 C55.3167106,60.2230368 55.1283006,61.3464647 54.9025641,62.459125 C54.6679403,63.5699907 54.4001373,64.6730797 54.1584037,65.5009946 C54.0464242,65.9161485 53.9119302,66.2583215 53.8437945,66.5023889 C53.7644016,66.7446617 53.7057456,66.8828469 53.7057456,66.8828469 C53.7057456,66.8828469 53.6103557,66.2972048 53.6032458,65.4214335 C53.5996909,64.5474568 53.7134479,63.3899311 53.9468868,62.2575301 C54.183288,61.1257273 54.5358162,60.0226383 54.8729398,59.2198479 C55.2153958,58.4176557 55.5193403,57.9103784 55.5193403,57.9103784" id="Fill-14" fill="#FFFFFF"></path>
+                    <path d="M9.77836203,15.080136 C9.77836203,15.080136 9.17402797,15.3134358 8.38661624,15.7908029 C7.98965172,16.022308 7.54765838,16.3136336 7.10566504,16.6576012 C6.66011679,16.9967831 6.22227084,17.3999729 5.81938147,17.8342693 C5.40404993,18.2601909 5.05626161,18.7429419 4.72269291,19.1993719 C4.42289582,19.6773372 4.13198599,20.1259906 3.92046907,20.5405463 C3.68229035,20.9419414 3.51580225,21.2996677 3.39375047,21.5509136 C3.26814378,21.8003648 3.18223355,21.9433357 3.18223355,21.9433357 C3.18223355,21.9433357 3.18341852,21.7818205 3.2106728,21.499468 C3.25333167,21.2224993 3.25155422,20.8013634 3.39789786,20.3335675 C3.50039765,19.8496201 3.71487699,19.3136289 3.98445738,18.7525132 C4.27655218,18.2027633 4.65751963,17.651817 5.10840023,17.1582983 C6.02615852,16.180234 7.22179198,15.5120396 8.1721369,15.270365 C9.1236668,15.0083515 9.77836203,15.080136 9.77836203,15.080136" id="Fill-15" fill="#FFFFFF"></path>
+                </g>
+            </g>
+            <text id="A-Honeypot-Infograph" font-family="OpenSans, Open Sans" font-size="30" font-weight="normal" fill="#000000">
+                <tspan x="245" y="164.199998">A Honeypot Infographic</tspan>
+            </text>
+            <text id="Most-popular-CSS-Pre" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="257" y="318">Most popular CSS Preprocessor</tspan>
+            </text>
+            <text id="Popularity-of-PostCS" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="257" y="739">Popularity of PostCSS &amp; Rework</tspan>
+            </text>
+            <g id="Group-19" transform="translate(296.000000, 389.000000)">
+                <g id="Group-73" transform="translate(0.000000, 0.800000)">
+                    <g id="Group-2">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Oval" fill="#D8D8D8" xlink:href="#path-3"></use>
+                        <path d="M111.792969,111.893229 L10.8420276,53.4416993 C-10.4860974,53.4416993 -7.6429988,79.767299 -7.6429988,79.767299 L111.792969,111.893229 Z" id="Fill-51" fill="#8FC8D4" mask="url(#mask-4)"></path>
+                        <path d="M111.792969,111.893229 L0.14726676,48.310994 C-21.1808582,48.310994 111.524611,-42.8636315 93.4942151,-31.4609022 L111.792969,111.893229 Z" id="Fill-51" fill="#81A2CC" mask="url(#mask-4)"></path>
+                        <path d="M111.792969,111.893229 L111.792969,-38.5418878 C90.4648439,-38.5418878 111.524611,-42.8636315 93.4942151,-31.4609022 L111.792969,111.893229 Z" id="Fill-51" fill="#BCCED8" mask="url(#mask-4)"></path>
+                        <path d="M111.792969,111.893229 L-0.575875868,80.7407511 C-0.575875868,80.7407511 -5.37154814,108.482327 -4.08217754,125.958536 C-2.44595731,148.135967 11.7021638,192.516726 11.7021638,192.516726 L111.792969,111.893229 Z" id="Fill-55" fill="#CD5B55" mask="url(#mask-4)"></path>
+                        <path d="M111.792969,110.605217 L-2.63076355,204.673386 C-2.63076355,204.673386 94.3443255,251.226889 162.452626,231.667297 C200.622238,220.705608 225.72576,150.157302 229.327972,133.312073 C238.821478,88.9170549 202.45638,37.261199 193.765541,29.3580627 C170.426352,8.13424273 134.828561,-1 111.792969,-1 L111.792969,110.605217 Z" id="Fill-71" fill="#FCD435" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(39.000000, 40.000000)" fill="#F3F3F3">
+                    <ellipse id="Oval-2" cx="71.8900763" cy="71.670229" rx="71.4503817" ry="71.4503817"></ellipse>
+                </g>
+            </g>
+            <text id="Sass" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="540.8" y="475.2">Sass</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" cx="511.8" cy="482.6" r="2"></circle>
+            <circle id="Oval-4" fill="#FCD435" cx="613" cy="481.8" r="20"></circle>
+            <text id="64%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="599" y="485.8">64%</tspan>
+            </text>
+            <text id="Other" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="448" y="365.8">Other</tspan>
+            </text>
+            <polyline id="Path-2" stroke="#1F2228" points="401.4 391.416716 424.525507 372.6 500.89691 372.6"></polyline>
+            <circle id="Oval-4" fill="#BCCED8" cx="519.4" cy="371.8" r="20"></circle>
+            <text id="2%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="509.4" y="375.8">2%</tspan>
+            </text>
+            <text id="No-Preprocessor" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="254.2" y="387.8">No Preprocessor</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" transform="translate(343.000000, 415.200000) scale(-1, 1) translate(-343.000000, -415.200000) " cx="343" cy="415.2" r="2"></circle>
+            <circle id="Oval-3" fill="#1F2228" transform="translate(401.200000, 391.800000) scale(-1, 1) translate(-401.200000, -391.800000) " cx="401.2" cy="391.8" r="2"></circle>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(293.651545, 405.608358) scale(-1, 1) translate(-293.651545, -405.608358) " points="243.90309 415.016716 267.028597 396.2 343.4 396.2"></polyline>
+            <circle id="Oval-4" fill="#81A2CC" transform="translate(225.400000, 396.200000) scale(-1, 1) translate(-225.400000, -396.200000) " cx="225.4" cy="396.2" r="20"></circle>
+            <text id="15%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="211.4" y="400.2">15%</tspan>
+            </text>
+            <text id="Less" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="228.8" y="545">Less</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" transform="translate(304.200000, 534.400000) scale(-1, -1) translate(-304.200000, -534.400000) " cx="304.2" cy="534.4" r="2"></circle>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(253.651545, 544.391642) scale(-1, -1) translate(-253.651545, -544.391642) " points="203.90309 553.8 227.028597 534.983284 303.4 534.983284"></polyline>
+            <circle id="Oval-4" fill="#CD5B55" transform="translate(185.400000, 553.800000) scale(-1, -1) translate(-185.400000, -553.800000) " cx="185.4" cy="553.8" r="20"></circle>
+            <text id="15%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="170.6" y="558.2">15%</tspan>
+            </text>
+            <path d="M513.5,482.5 L592.5,482.5" id="Line" stroke="#1F2228" stroke-linecap="square"></path>
+            <text id="Stylus" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="240.6" y="451.8">Stylus</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" transform="translate(305.400000, 462.000000) scale(-1, 1) translate(-305.400000, -462.000000) " cx="305.4" cy="462" r="2"></circle>
+            <circle id="Oval-4" fill="#8FC8D4" transform="translate(204.000000, 460.800000) scale(-1, 1) translate(-204.000000, -460.800000) " cx="204" cy="460.8" r="20"></circle>
+            <text id="4%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="192.4" y="464">4%</tspan>
+            </text>
+            <path d="M224.5,461.5 L303.5,461.5" id="Line" stroke="#1F2228" stroke-linecap="square" transform="translate(264.000000, 461.500000) scale(-1, 1) translate(-264.000000, -461.500000) "></path>
+            <path d="M-0.5,666.5 L797.5,666.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <text id="Preferred-Task-Runne" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="231" y="1225">Preferred Task Runner: Gulp vs. Grunt</tspan>
+            </text>
+            <path d="M-0.5,1153.5 L797.5,1153.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <g id="Group-5" transform="translate(144.000000, 922.000000)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <g id="Group-5" transform="translate(144.000000, 805.000000)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <g id="Group-6" transform="translate(219.000000, 813.000000)" stroke-width="3">
+                <polyline id="Path-4" stroke="#FAD231" points="0 171.094856 144.624232 221.192949 268.233978 225.837418 429 0"></polyline>
+                <polyline id="Path-5" stroke="#8FC9D6" points="0 93 143.910461 192.946663 263.538727 200.326004 427 129.081841"></polyline>
+            </g>
+            <g id="Oval">
+                <use fill="#DDDDDD" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <use stroke="#8FC9D6" mask="url(#mask-6)" stroke-width="4.8" xlink:href="#path-5"></use>
+            </g>
+            <use id="Oval" stroke="#8FC9D6" mask="url(#mask-8)" stroke-width="4.8" xlink:href="#path-7"></use>
+            <g id="Oval">
+                <use fill="#EEF0EF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <use stroke="#B394C0" mask="url(#mask-10)" stroke-width="4.8" xlink:href="#path-9"></use>
+            </g>
+            <text id="Heard-of/Read-about" transform="translate(221.705087, 1078.105087) rotate(45.000000) translate(-221.705087, -1078.105087) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="192.937508" y="1074.10509">Heard of/</tspan>
+                <tspan x="186.945321" y="1092.10509">Read about</tspan>
+            </text>
+            <text id="Used-a-little" transform="translate(366.248232, 1076.048232) rotate(45.000000) translate(-366.248232, -1076.048232) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="330.625185" y="1081.04823">Used a little</tspan>
+            </text>
+            <g id="Oval">
+                <use fill="#DDDDDD" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <use stroke="#B394C0" mask="url(#mask-12)" stroke-width="4.8" xlink:href="#path-11"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#DDDDDD" fill-rule="evenodd" xlink:href="#path-13"></use>
+                <use stroke="#B394C0" mask="url(#mask-14)" stroke-width="4.8" xlink:href="#path-13"></use>
+            </g>
+            <text id="1600" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="149" y="820">1600</tspan>
+            </text>
+            <text id="1200" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="147" y="879.4">1200</tspan>
+            </text>
+            <text id="800" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="147" y="934.6">800</tspan>
+            </text>
+            <text id="400" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="147" y="993.6">400</tspan>
+            </text>
+            <text id="Feel-Comfortable-usi" transform="translate(485.190368, 1078.790368) rotate(45.000000) translate(-485.190368, -1078.790368) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="472.898132" y="1065.79037">Feel </tspan>
+                <tspan x="447.152038" y="1083.79037">Comfortable </tspan>
+                <tspan x="468.905456" y="1101.79037">using</tspan>
+            </text>
+            <text id="Never-Heard-of" transform="translate(656.305087, 1072.305087) rotate(45.000000) translate(-656.305087, -1072.305087) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="638.331698" y="1068.30509">Never </tspan>
+                <tspan x="629.924227" y="1086.30509">Heard of</tspan>
+            </text>
+            <text id="Rework" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="472" y="782.6">Rework</tspan>
+            </text>
+            <circle id="Oval-4" fill="#FCD435" transform="translate(454.000000, 776.800000) scale(-1, 1) translate(-454.000000, -776.800000) " cx="454" cy="776.8" r="10"></circle>
+            <text id="PostCSS" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="321" y="782.8">PostCSS</tspan>
+            </text>
+            <circle id="Oval-4" fill="#8FC8D4" transform="translate(299.000000, 776.800000) scale(-1, 1) translate(-299.000000, -776.800000) " cx="299" cy="776.8" r="10"></circle>
+            <g id="Group-7" transform="translate(631.000000, 794.000000)">
+                <ellipse id="Oval-5" fill="#FCD435" cx="17" cy="16.5" rx="17" ry="16.5"></ellipse>
+                <text id="79%" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="3.73242188" y="20.7884476">79%</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(636.000000, 924.000000)">
+                <ellipse id="Oval-5" fill="#8FC9D6" cx="15.5" cy="15" rx="15.5" ry="15"></ellipse>
+                <text id="36%" font-family="OpenSans, Open Sans" font-size="12.6" font-weight="normal" fill="#000000">
+                    <tspan x="4.29447382" y="19.0804069">36%</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(470.000000, 997.988448)">
+                <ellipse id="Oval-5" fill="#8FC9D6" cx="12" cy="11.5" rx="12" ry="11.5"></ellipse>
+                <text id="7%" font-family="OpenSans, Open Sans" font-size="9.8" font-weight="normal" fill="#000000">
+                    <tspan x="5.51734547" y="14.428312">7%</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(470.000000, 1025.000000)">
+                <ellipse id="Oval-5" fill="#FCD435" cx="12" cy="11.5" rx="12" ry="11.5"></ellipse>
+                <text id="0.7%" font-family="OpenSans, Open Sans" font-size="9.8" font-weight="normal" fill="#000000">
+                    <tspan x="1.41168141" y="14.428312">0.7%</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(352.000000, 1018.800000)">
+                <ellipse id="Oval-5" fill="#FCD435" cx="12" cy="11.5" rx="12" ry="11.5"></ellipse>
+                <text id="1.5%" font-family="OpenSans, Open Sans" font-size="9.8" font-weight="normal" fill="#000000">
+                    <tspan x="1.41168141" y="14.428312">1.5%</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(352.000000, 990.800000)">
+                <ellipse id="Oval-5" fill="#8FC9D6" cx="12" cy="11.5" rx="12" ry="11.5"></ellipse>
+                <text id="9%" font-family="OpenSans, Open Sans" font-size="9.8" font-weight="normal" fill="#000000">
+                    <tspan x="5.51734547" y="14.428312">9%</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(205.000000, 969.000000)">
+                <ellipse id="Oval-5" fill="#FCD435" cx="14.5" cy="14" rx="14.5" ry="14"></ellipse>
+                <text id="19%" font-family="OpenSans, Open Sans" font-size="11.76" font-weight="normal" fill="#000000">
+                    <tspan x="3.36170496" y="15.6083798">19%</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(207.000000, 888.000000)">
+                <ellipse id="Oval-5" fill="#8FC9D6" cx="17.5" cy="17" rx="17.5" ry="17"></ellipse>
+                <text id="48%" font-family="OpenSans, Open Sans" font-size="14.2296" font-weight="normal" fill="#000000">
+                    <tspan x="4.02133948" y="21.0244611">48%</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(212.800000, 1265.600000)">
+                <polygon id="Rectangle" fill="#000000" points="0 0 77 0 77 53 49.8780521 53 49.8780518 61.9938278 39.4900937 53 0 53"></polygon>
+                <text id="Gulp-43.8%" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#FFFFFF">
+                    <tspan x="23.6611327" y="18">Gulp</tspan>
+                    <tspan x="11.0087889" y="37" font-size="20">43.8%</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(143.800000, 1451.600000)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <g id="Group-5" transform="translate(143.800000, 1334.600000)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <g id="Group-9" transform="translate(295.400000, 1353.600000)">
+                <polygon id="Rectangle" fill="#000000" transform="translate(38.500000, 30.996914) scale(-1, 1) translate(-38.500000, -30.996914) " points="0 0 77 0 77 53 49.8780521 53 49.8780518 61.9938278 39.4900937 53 0 53"></polygon>
+                <text id="Grunt-27.6%" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#FFFFFF">
+                    <tspan x="20.7612305" y="18">Grunt</tspan>
+                    <tspan x="12.0087891" y="37" font-size="20">27.6%</tspan>
+                </text>
+            </g>
+            <text id="900" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="148.8" y="1349.6">900</tspan>
+            </text>
+            <text id="675" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="146.8" y="1408.6">675</tspan>
+            </text>
+            <text id="450" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="146.8" y="1463.6">450</tspan>
+            </text>
+            <text id="225" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="146.8" y="1522.6">225</tspan>
+            </text>
+            <rect id="Rectangle-3" fill="#B094BF" x="240.8" y="1334.6" width="40" height="235"></rect>
+            <rect id="Rectangle-3" fill="#8FC8D4" x="299.4" y="1423.6" width="40" height="146.2"></rect>
+            <rect id="Rectangle-3" fill="#81A2CC" x="359.8" y="1553.4" width="40" height="16"></rect>
+            <rect id="Rectangle-3" fill="#ABBEC9" x="420.8" y="1562.8" width="40" height="7"></rect>
+            <rect id="Rectangle-3" fill="#CD5B55" x="478.8" y="1542.4" width="40" height="27"></rect>
+            <rect id="Rectangle-3" fill="#FCD435" x="538.8" y="1464.4" width="40" height="105"></rect>
+            <text id="NPM" transform="translate(388.156349, 1588.156349) rotate(45.000000) translate(-388.156349, -1588.156349) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="373.156349" y="1593.15635">NPM</tspan>
+            </text>
+            <text id="Grunt" transform="translate(332.156349, 1589.924116) rotate(45.000000) translate(-332.156349, -1589.924116) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="314.156349" y="1594.92412">Grunt</tspan>
+            </text>
+            <text id="Gulp" transform="translate(266.324116, 1588.156349) rotate(45.000000) translate(-266.324116, -1588.156349) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="251.824116" y="1593.15635">Gulp</tspan>
+            </text>
+            <text id="Broccoli" transform="translate(453.673864, 1594.873864) rotate(45.000000) translate(-453.673864, -1594.873864) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="429.173864" y="1599.87386">Broccoli</tspan>
+            </text>
+            <text id="Other" transform="translate(507.224116, 1589.924116) rotate(45.000000) translate(-507.224116, -1589.924116) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="489.224116" y="1594.92412">Other</tspan>
+            </text>
+            <text id="Use-no-Task-Runner" transform="translate(580.616000, 1607.815999) rotate(45.000000) translate(-580.616000, -1607.815999) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="543.116" y="1603.816">Use no </tspan>
+                <tspan x="543.116" y="1621.816">Task Runner</tspan>
+            </text>
+            <path d="M533.801107,1469.04494 C533.939527,1454.86279 544.26446,1443 559.438344,1443 C574.612228,1443 583.721659,1455.724 583.583867,1469.04494 C583.446075,1482.36588 571.616589,1492.9678 559.071386,1492.99992 C546.526184,1493.03204 533.662688,1483.22709 533.801107,1469.04494 Z" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+            <path d="M533.002891,2345.71685 C533.364333,2308.84325 560.324869,2278 599.94702,2278 C639.569172,2278 663.355779,2311.0824 662.995976,2345.71685 C662.636172,2380.35129 631.746937,2407.91629 598.988818,2407.9998 C566.230699,2408.08331 532.641449,2382.59045 533.002891,2345.71685 Z" id="Stroke-52" stroke="#999999" stroke-width="2" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+            <path d="M559.271386,1440.79992 L559.271386,1402.1" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+            <path d="M518.8,1402.4 L557.499922,1402.4" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+            <text id="19.5%" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="455.453125" y="1407.4">19.5%</tspan>
+            </text>
+            <text id="Popular-JS-Libraries" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="220" y="1734">Popular JS Libraries &amp; Frameworks</tspan>
+            </text>
+            <path d="M-11.5,1662.5 L786.5,1662.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <text id="Most-used-JS-Librari" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="231" y="2236">Most used JS Libraries &amp; Frameworks</tspan>
+            </text>
+            <path d="M-0.5,2164.5 L797.5,2164.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <text id="Module-Bundlers-for" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="214" y="2640.14662">Module Bundlers for JavaScript - or not?</tspan>
+            </text>
+            <path d="M-0.5,2573.5 L797.5,2573.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <g id="Group-5" transform="translate(145.000000, 1943.400000)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <g id="Group-5" transform="translate(145.000000, 1826.400000)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <text id="3000" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="150" y="1841.4">3000</tspan>
+            </text>
+            <text id="2250" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="148" y="1900.4">2250</tspan>
+            </text>
+            <text id="1500" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="148" y="1955.4">1500</tspan>
+            </text>
+            <text id="750" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="148" y="2014.4">750</tspan>
+            </text>
+            <g id="Group-15" transform="translate(321.600000, 1900.600000)">
+                <rect id="Rectangle-3" fill="#FCD435" x="0" y="63" width="30" height="97"></rect>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 46.000000) scale(1, -1) translate(-15.000000, -46.000000) " x="0" y="29" width="30" height="34"></rect>
+                <rect id="Rectangle-3" fill="#81A2CC" x="0" y="3" width="30" height="26"></rect>
+                <rect id="Rectangle-3" fill="#CD5B55" transform="translate(15.000000, 1.500000) scale(1, -1) translate(-15.000000, -1.500000) " x="0" y="0" width="30" height="3"></rect>
+            </g>
+            <text id="Backbone" transform="translate(354.377165, 2091.177164) rotate(45.000000) translate(-354.377165, -2091.177164) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="324.377165" y="2096.17716">Backbone</tspan>
+            </text>
+            <g id="Group-16" transform="translate(272.800000, 1900.600000)">
+                <rect id="Rectangle-3" fill="#FCD435" x="0" y="104" width="30" height="56"></rect>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 88.500000) scale(1, -1) translate(-15.000000, -88.500000) " x="0" y="73" width="30" height="31"></rect>
+                <polygon id="Rectangle-3" fill="#81A2CC" points="0 16 30 16 30 73 0 73"></polygon>
+                <rect id="Rectangle-3" fill="#CD5B55" transform="translate(15.000000, 8.000000) scale(1, -1) translate(-15.000000, -8.000000) " x="0" y="0" width="30" height="16"></rect>
+            </g>
+            <text id="Underscore" transform="translate(309.866252, 2095.066252) rotate(45.000000) translate(-309.866252, -2095.066252) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="274.366252" y="2100.06625">Underscore</tspan>
+            </text>
+            <g id="Group-18" transform="translate(222.600000, 1900.600000)">
+                <rect id="Rectangle-3" fill="#FCD435" x="0" y="156" width="30" height="4"></rect>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 150.500000) scale(1, -1) translate(-15.000000, -150.500000) " x="0" y="145" width="30" height="11"></rect>
+                <rect id="Rectangle-3" fill="#81A2CC" x="0" y="0" width="30" height="145"></rect>
+            </g>
+            <text id="jQuery" transform="translate(249.617009, 2084.459650) rotate(45.000000) translate(-249.617009, -2084.459650) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="229.117009" y="2089.45965">jQuery</tspan>
+            </text>
+            <g id="Group-14" transform="translate(369.600000, 1901.600000)">
+                <polygon id="Rectangle-3" fill="#FCD435" points="0 100 30 100 30 159 0 159"></polygon>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 73.500000) scale(1, -1) translate(-15.000000, -73.500000) " x="0" y="47" width="30" height="53"></rect>
+                <rect id="Rectangle-3" fill="#81A2CC" x="0" y="1" width="30" height="46"></rect>
+                <rect id="Rectangle-3" fill="#CD5B55" transform="translate(15.000000, 0.500000) scale(1, -1) translate(-15.000000, -0.500000) " x="0" y="0" width="30" height="1"></rect>
+            </g>
+            <text id="AngularJS" transform="translate(402.670058, 2090.470058) rotate(45.000000) translate(-402.670058, -2090.470058) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="373.670058" y="2095.47006">AngularJS</tspan>
+            </text>
+            <text id="Ember" transform="translate(445.306097, 2084.106097) rotate(45.000000) translate(-445.306097, -2084.106097) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="425.306097" y="2089.1061">Ember</tspan>
+            </text>
+            <g id="Group-13" transform="translate(419.200000, 1900.600000)">
+                <rect id="Rectangle-3" fill="#FCD435" x="0" y="34" width="30" height="126"></rect>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 23.500000) scale(1, -1) translate(-15.000000, -23.500000) " x="0" y="13" width="30" height="21"></rect>
+                <rect id="Rectangle-3" fill="#81A2CC" x="0" y="7" width="30" height="6"></rect>
+                <rect id="Rectangle-3" fill="#CD5B55" transform="translate(15.000000, 3.500000) scale(1, -1) translate(-15.000000, -3.500000) " x="0" y="0" width="30" height="7"></rect>
+            </g>
+            <text id="React" transform="translate(492.384777, 2081.984776) rotate(45.000000) translate(-492.384777, -2081.984776) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="475.384777" y="2086.98478">React</tspan>
+            </text>
+            <g id="Group-12" transform="translate(468.000001, 1901.600000)">
+                <polygon id="Rectangle-3" fill="#FCD435" points="0 60 30 60 30 159 0 159"></polygon>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 44.000000) scale(1, -1) translate(-15.000000, -44.000000) " x="0" y="28" width="30" height="32"></rect>
+                <rect id="Rectangle-3" fill="#81A2CC" x="0" y="6" width="30" height="23"></rect>
+                <rect id="Rectangle-3" fill="#CD5B55" transform="translate(15.000000, 3.000000) scale(1, -1) translate(-15.000000, -3.000000) " x="0" y="0" width="30" height="6"></rect>
+            </g>
+            <text id="Polymer" transform="translate(545.837321, 2087.995184) rotate(45.000000) translate(-545.837321, -2087.995184) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="520.337321" y="2092.99518">Polymer</tspan>
+            </text>
+            <g id="Group-11" transform="translate(516.000001, 1901.600000)">
+                <rect id="Rectangle-3" fill="#FCD435" x="0" y="46" width="30" height="113"></rect>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 37.000000) scale(1, -1) translate(-15.000000, -37.000000) " x="0" y="28" width="30" height="18"></rect>
+                <rect id="Rectangle-3" fill="#81A2CC" x="0" y="24" width="30" height="4"></rect>
+                <rect id="Rectangle-3" fill="#CD5B55" transform="translate(15.000000, 12.500000) scale(1, -1) translate(-15.000000, -12.500000) " x="0" y="0" width="30" height="25"></rect>
+            </g>
+            <text id="Knockout" transform="translate(597.316000, 2090.116504) rotate(45.000000) translate(-597.316000, -2090.116504) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="568.816" y="2095.1165">Knockout</tspan>
+            </text>
+            <g id="Group-10" transform="translate(564.600001, 1900.600000)">
+                <rect id="Rectangle-3" fill="#FCD435" x="0" y="56" width="30" height="104"></rect>
+                <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(15.000000, 48.000000) scale(1, -1) translate(-15.000000, -48.000000) " x="0" y="40" width="30" height="16"></rect>
+                <rect id="Rectangle-3" fill="#81A2CC" x="0" y="31" width="30" height="9"></rect>
+                <polygon id="Rectangle-3" fill="#CD5B55" transform="translate(15.000000, 15.500000) scale(1, -1) translate(-15.000000, -15.500000) " points="0 0 30 0 30 31 0 31"></polygon>
+            </g>
+            <text id="Used-a-little" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="289.2" y="1789.8">Used a little</tspan>
+            </text>
+            <ellipse id="Oval-4" fill="#8FC8D4" transform="translate(271.200000, 1786.800000) scale(-1, 1) translate(-271.200000, -1786.800000) " cx="271.2" cy="1786.8" rx="10" ry="10"></ellipse>
+            <text id="Heard-of/-Read-about" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="175" y="1788.8">Heard of/</tspan>
+                <tspan x="175" y="1807.8">Read about</tspan>
+            </text>
+            <circle id="Oval-4" fill="#FCD435" transform="translate(153.000000, 1786.800000) scale(-1, 1) translate(-153.000000, -1786.800000) " cx="153" cy="1786.8" r="10"></circle>
+            <text id="Never-heard-of" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="573.6" y="1789.6">Never heard</tspan>
+                <tspan x="573.6" y="1808.6">of</tspan>
+            </text>
+            <ellipse id="Oval-4" fill="#CD5B55" transform="translate(558.099922, 1785.600000) scale(-1, 1) translate(-558.099922, -1785.600000) " cx="558.099922" cy="1785.6" rx="10" ry="10"></ellipse>
+            <text id="Feel-comfortable-usi" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="418.2" y="1789">Feel comfortable </tspan>
+                <tspan x="418.2" y="1808">using</tspan>
+            </text>
+            <circle id="Oval-4" fill="#81A2CC" transform="translate(397.000000, 1787.000000) scale(-1, 1) translate(-397.000000, -1787.000000) " cx="397" cy="1787" r="10"></circle>
+            <path d="M146.57931,2379.72321 C146.57931,2379.72321 152.501799,2395.01686 176.452874,2395.01686 C200.403948,2395.01686 206.326437,2379.72321 206.326437,2379.72321 L206.326437,2325.37368 C206.326437,2314.61867 192.951587,2305.9 176.452874,2305.9 C159.95416,2305.9 146.57931,2314.61867 146.57931,2325.37368 L146.57931,2379.72321 Z" id="Oval-6" fill="#E5C235"></path>
+            <ellipse id="Oval-6" fill="#FCD435" cx="176.452874" cy="2325.37368" rx="29.8735632" ry="19.4736842"></ellipse>
+            <text id="#1" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="164.6" y="2373.5">#1</tspan>
+            </text>
+            <g id="Group-9" transform="translate(145.200000, 2264.500000)">
+                <polygon id="Rectangle" fill="#000000" transform="translate(38.500000, 30.996914) scale(-1, 1) translate(-38.500000, -30.996914) " points="0 0 77 0 77 53 49.8780521 53 49.8780518 61.9938278 39.4900937 53 0 53"></polygon>
+                <text id="jQuery-56.5%" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="17.8694336" y="17">jQuery</tspan>
+                    <tspan x="11.653125" y="36" font-size="20">56.5%</tspan>
+                </text>
+            </g>
+            <path d="M269.733333,2382.50995 C269.733333,2382.50995 275.655822,2394.65896 299.606896,2394.65896 C323.557971,2394.65896 329.48046,2382.50995 329.48046,2382.50995 L329.48046,2339.33563 C329.48046,2330.79203 316.10561,2323.86608 299.606896,2323.86608 C283.108183,2323.86608 269.733333,2330.79203 269.733333,2339.33563 L269.733333,2382.50995 Z" id="Oval-6" fill="#7EB7C2"></path>
+            <ellipse id="Oval-6" fill="#8FC8D4" cx="299.606896" cy="2339.33563" rx="29.8735632" ry="15.4695573"></ellipse>
+            <text id="#2" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="287.6" y="2378.5">#2</tspan>
+            </text>
+            <g id="Group-9" transform="translate(270.000000, 2277.100000)">
+                <polygon id="Rectangle" fill="#000000" transform="translate(38.500000, 30.996914) scale(-1, 1) translate(-38.500000, -30.996914) " points="0 0 77 0 77 53 49.8780521 53 49.8780518 61.9938278 39.4900937 53 0 53"></polygon>
+                <text id="Angular-17.8%" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="14.3215821" y="17">Angular</tspan>
+                    <tspan x="11.653125" y="36" font-size="20">17.8%</tspan>
+                </text>
+            </g>
+            <path d="M396.2,2385.18996 C396.2,2385.18996 402.122489,2395.06969 426.073563,2395.06969 C450.024637,2395.06969 455.947126,2385.18996 455.947126,2385.18996 L455.947126,2350.08004 C455.947126,2343.13228 442.572277,2337.5 426.073563,2337.5 C409.57485,2337.5 396.2,2343.13228 396.2,2350.08004 L396.2,2385.18996 Z" id="Oval-6" fill="#997DA7"></path>
+            <ellipse id="Oval-6" fill="#B094BF" cx="426.073563" cy="2350.08004" rx="29.8735632" ry="12.5800443"></ellipse>
+            <text id="#3" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="414.4" y="2382.5">#3</tspan>
+            </text>
+            <g id="Group-9" transform="translate(395.200000, 2288.500000)">
+                <polygon id="Rectangle" fill="#000000" transform="translate(38.500000, 30.996914) scale(-1, 1) translate(-38.500000, -30.996914) " points="0 0 77 0 77 53 49.8780521 53 49.8780518 61.9938278 39.4900937 53 0 53"></polygon>
+                <text id="React-8.7%" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="20.9488282" y="17">React</tspan>
+                    <tspan x="16.5708985" y="36" font-size="20">8.7%</tspan>
+                </text>
+            </g>
+            <path d="M415.594002,2180.57994 C415.594002,2180.57994 404.08678,2187.88581 403.258894,2202.02101 C399.975077,2258.08848 404.563051,2415.73231 403.294418,2422.4493 C401.136734,2433.87351 382.020059,2446.07994 382.020059,2446.07994 C382.020059,2446.07994 401.273641,2454.76387 403.076682,2464.13954 C404.7118,2472.64203 403.076683,2658.09857 403.076683,2658.09857 C403.076683,2658.09857 402.393045,2685.78231 404.979941,2695.73326 C407.027464,2703.60943 416.979941,2711.57994 416.979941,2711.57994" id="Path-3" stroke="#D6D6D6" stroke-width="1.5" transform="translate(399.500000, 2446.079941) rotate(270.000000) translate(-399.500000, -2446.079941) "></path>
+            <text id="Only-8.5%-use-native" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="546.082001" y="2339.4">Only 8.5% use </tspan>
+                <tspan x="567.203094" y="2361.4">native JS</tspan>
+            </text>
+            <text id="The-rest-is-evenly-s" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#999999">
+                <tspan x="208.750977" y="2498.35988">The rest is evenly scattered across 0.28-2.97%</tspan>
+                <tspan x="232.296387" y="2522.35988" font-size="14">; Backbone, Ember, Knockout, Underscore, Polymer</tspan>
+            </text>
+            <g id="Group-38" transform="translate(248.000000, 2698.956311)">
+                <g id="Group-37">
+                    <polygon id="Path-6" fill="#ABBEC9" points="143 13.3859602 150 15 150 0"></polygon>
+                    <polygon id="Path-8" fill="#B094BF" points="123.140311 60 150 69.7843485 150 115 105 93.9093705"></polygon>
+                    <polygon id="Path-10" fill="#8FC8D4" points="103.039522 98 150 119.655088 150 174 80 143.45174"></polygon>
+                    <polygon id="Path-12" fill="#FCD435" points="150 182.024453 149.999993 374 0 299.803096 76.6219545 150"></polygon>
+                    <polygon id="Path-17" fill="#CD5B55" points="150 18.9328265 142.227618 17 139 24.4419048 150 28"></polygon>
+                    <polygon id="Path-18" fill="#81A2CC" points="137.5 28 150 32.3992632 150 65 125 56.7636334"></polygon>
+                </g>
+                <g id="Group-37" transform="translate(225.000000, 187.000000) scale(-1, 1) translate(-225.000000, -187.000000) translate(150.000000, 0.000000)">
+                    <polygon id="Path-6" fill="#94ABB8" points="143 13.3859602 150 15 150 0"></polygon>
+                    <polygon id="Path-8" fill="#9A7EA9" points="123.140311 60 150 69.7843485 150 115 105 93.9093705"></polygon>
+                    <polygon id="Path-10" fill="#7CB4C0" points="103.039522 98 150 119.655088 150 174 80 143.45174"></polygon>
+                    <polygon id="Path-12" fill="#E5BE25" points="150 182.024453 149.999993 374 0 299.803096 76.6219545 150"></polygon>
+                    <polygon id="Path-17" fill="#BF4E48" points="150 18.9328265 142.227618 17 139 24.4419048 150 28"></polygon>
+                    <polygon id="Path-18" fill="#7194C0" points="137.5 28 150 32.3992632 150 65 125 56.7636334"></polygon>
+                </g>
+            </g>
+            <text id="I-don’t-use-a-module" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="134.671777" y="2911.75631">I don’t use a </tspan>
+                <tspan x="109.973047" y="2929.75631">module bundler</tspan>
+            </text>
+            <text id="RequireJS" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="217.290234" y="2777.95631">RequireJS</tspan>
+            </text>
+            <text id="JSPM" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="272.82959" y="2722.15631">JSPM</tspan>
+            </text>
+            <text id="Other" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="488.6" y="2699.35631">Other</tspan>
+            </text>
+            <text id="Webpack" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="531.2" y="2751.15631">Webpack</tspan>
+            </text>
+            <text id="Browserify" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="541.6" y="2820.35631">Browserify</tspan>
+            </text>
+            <g id="Group-39" transform="translate(416.000000, 2723.956311)">
+                <path d="M56.2011072,26.0449417 C56.3395267,11.8627885 66.6644596,3.96652206e-10 81.8383439,0 C97.0122281,-3.96653373e-10 106.121659,12.7239998 105.983866,26.0449408 C105.846074,39.3658819 94.0165884,49.967802 81.4713862,49.9999213 C68.9261839,50.0320407 56.0626878,40.2270949 56.2011072,26.0449417 Z" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <path d="M0.5,26 L54.5,26" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <text id="11%" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="61.0320312" y="32">11%</tspan>
+                </text>
+            </g>
+            <g id="Group-39" transform="translate(448.000000, 2793.956311)">
+                <path d="M33.2011072,26.0449417 C33.3395267,11.8627885 43.6644596,3.96652206e-10 58.8383439,0 C74.0122281,-3.96653373e-10 83.1216585,12.7239998 82.9838665,26.0449408 C82.8460744,39.3658819 71.0165884,49.967802 58.4713862,49.9999213 C45.9261839,50.0320407 33.0626878,40.2270949 33.2011072,26.0449417 Z" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <path d="M0.100000024,26 L31.5,26" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <text id="16%" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="38.8320312" y="32">16%</tspan>
+                </text>
+            </g>
+            <g id="Group-39" transform="translate(215.000000, 2893.956311)">
+                <path d="M0.201107224,26.0449417 C0.339526668,11.8627885 10.6644596,3.96652206e-10 25.8383439,0 C41.0122281,-3.96653373e-10 50.1216585,12.7239998 49.9838665,26.0449408 C49.8460744,39.3658819 38.0165884,49.967802 25.4713862,49.9999213 C12.9261839,50.0320407 0.0626877797,40.2270949 0.201107224,26.0449417 Z" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <path d="M52.3,25.6 L83.7,25.6" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <text id="54%" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="5.03203124" y="32">54%</tspan>
+                </text>
+            </g>
+            <g id="Group-39" transform="translate(282.600000, 2750.156311)">
+                <path d="M0.201107224,26.0449417 C0.339526668,11.8627885 10.6644596,3.96652206e-10 25.8383439,0 C41.0122281,-3.96653373e-10 50.1216585,12.7239998 49.9838665,26.0449408 C49.8460744,39.3658819 38.0165884,49.967802 25.4713862,49.9999213 C12.9261839,50.0320407 0.0626877797,40.2270949 0.201107224,26.0449417 Z" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <path d="M52.3,25.6 L83.7,25.6" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <text id="13%" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="5.03203124" y="31">13%</tspan>
+                </text>
+            </g>
+            <g id="Group-39" transform="translate(308.400000, 2694.956311)">
+                <path d="M0.201107224,26.0449417 C0.339526668,11.8627885 10.6644596,3.96652206e-10 25.8383439,0 C41.0122281,-3.96653373e-10 50.1216585,12.7239998 49.9838665,26.0449408 C49.8460744,39.3658819 38.0165884,49.967802 25.4713862,49.9999213 C12.9261839,50.0320407 0.0626877797,40.2270949 0.201107224,26.0449417 Z" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <path d="M52.3,25.6 L83.7,25.6" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <text id="2%" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="10.7498047" y="32">2%</tspan>
+                </text>
+            </g>
+            <g id="Group-39" transform="translate(398.200000, 2673.956311)">
+                <path d="M33.2011072,26.0449417 C33.3395267,11.8627885 43.6644596,3.96652206e-10 58.8383439,0 C74.0122281,-3.96653373e-10 83.1216585,12.7239998 82.9838665,26.0449408 C82.8460744,39.3658819 71.0165884,49.967802 58.4713862,49.9999213 C45.9261839,50.0320407 33.0626878,40.2270949 33.2011072,26.0449417 Z" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <path d="M0.100000024,26 L31.5,26" id="Stroke-52" stroke="#999999" stroke-dasharray="1.534825156739913,1.534825156739913"></path>
+                <text id="4%" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="43.7498047" y="32">4%</tspan>
+                </text>
+            </g>
+            <text id="Popular-JavaScript-T" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="252" y="3169.2">Popular JavaScript Testing Tools</tspan>
+            </text>
+            <path d="M0.5,3112.5 L798.5,3112.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <text id="Useful-JavaScript-To" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="99" y="3631.6">Useful JavaScript Tools for Packaging and Workflow Management</tspan>
+            </text>
+            <path d="M0.5,3564.7 L798.5,3564.7" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <path d="M-0.5,4075.5 L797.5,4075.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
+            <g id="Group-19" transform="translate(296.000000, 3288.800000)">
+                <g id="Group-73" transform="translate(0.000000, 0.800000)">
+                    <g id="Group-2">
+                        <mask id="mask-16" fill="white">
+                            <use xlink:href="#path-15"></use>
+                        </mask>
+                        <use id="Oval" fill="#D8D8D8" xlink:href="#path-15"></use>
+                        <path d="M111.792969,111.893229 L13.3983556,56.2318089 C-7.9297694,56.2318089 -6.31192182,102.613185 -6.31192182,102.613185 L111.792969,111.893229 Z" id="Fill-51" fill="#B094BF" mask="url(#mask-16)"></path>
+                        <path d="M111.792969,111.893229 L0.178492378,49.1876091 C-21.1496326,49.1876091 61.4601355,-7.40337176 43.42974,3.99935754 L111.792969,111.893229 Z" id="Fill-51" fill="#81A2CC" mask="url(#mask-16)"></path>
+                        <path d="M111.792969,111.893229 L63.2635441,-15.3869043 C41.9354191,-15.3869043 54.3868599,-17.9190468 36.3564644,-6.51631753 L111.792969,111.893229 Z" id="Fill-51" fill="#CD5B55" mask="url(#mask-16)"></path>
+                        <polygon id="Fill-51" fill="#ABBEC9" mask="url(#mask-16)" points="111.792969 111.893229 63.3979177 -11.8679784 78.9951295 -11.8679784"></polygon>
+                        <polygon id="Fill-51" fill="#DDB40E" mask="url(#mask-16)" points="111.792969 111.893229 85.3105878 -17.2766353 78.2124475 -12.371408"></polygon>
+                        <polygon id="Fill-51" fill="#56929E" mask="url(#mask-16)" points="111.792969 111.893229 84.9376577 -16.603491 91.1580094 -14.0075225"></polygon>
+                        <path d="M111.792969,111.893229 C111.792969,111.893229 90.45924,-13.2329572 90.5555039,-13.2211486 C95.0820144,-12.6658893 111,-14.6875492 111,-14.6875492 L111.792969,111.893229 Z" id="Fill-51" fill="#668AB9" mask="url(#mask-16)"></path>
+                        <path d="M111.792969,111.893229 L-1.17851333,103.094 C-1.17851333,103.094 -5.37154814,108.482327 -4.08217754,125.958536 C-2.44595731,148.135967 37.5663868,216.998472 37.5663868,216.998472 L111.792969,111.893229 Z" id="Fill-55" fill="#8FC8D4" mask="url(#mask-16)"></path>
+                        <path d="M111.792969,110.605217 L30.5772831,226.685486 C30.5772831,226.685486 94.3443255,251.226889 162.452626,231.667297 C200.622238,220.705608 225.72576,150.157302 229.327972,133.312073 C238.821478,88.9170549 202.45638,37.261199 193.765541,29.3580627 C170.426352,8.13424273 134.03559,-1.25558176 110.999997,-1.25558176 L111.792969,110.605217 Z" id="Fill-71" fill="#FCD435" mask="url(#mask-16)"></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(39.000000, 40.000000)" fill="#F3F3F3">
+                    <ellipse id="Oval-2" cx="71.8900763" cy="71.670229" rx="71.4503817" ry="71.4503817"></ellipse>
+                </g>
+            </g>
+            <text id="I-don’t-use-a-tool-t" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="535" y="3377.8">I don’t use a tool </tspan>
+                <tspan x="535" y="3396.8">to test my JS</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" cx="509" cy="3403.8" r="2"></circle>
+            <circle id="Oval-4" fill="#FCD435" cx="673" cy="3401.8" r="20"></circle>
+            <text id="60%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="657.8" y="3405.6">60%</tspan>
+            </text>
+            <path d="M511.5,3403.3 L656.5,3403.3" id="Line" stroke="#1F2228" stroke-linecap="square"></path>
+            <text id="Jasmine" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="240.4" y="3463.8">Jasmine</tspan>
+            </text>
+            <text id="Mocha" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="220" y="3393.8">Mocha</tspan>
+            </text>
+            <text id="QUnit" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="239" y="3343.8">QUnit</tspan>
+            </text>
+            <text id="Tape" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="265" y="3302.4">Tape</tspan>
+            </text>
+            <text id="Jest" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="308" y="3265.8">Jest</tspan>
+            </text>
+            <text id="Karma" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="332" y="3226.8">Karma</tspan>
+            </text>
+            <text id="Intern" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="425.4" y="3253">Intern</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" transform="translate(325.000000, 3452.800000) scale(-1, -1) translate(-325.000000, -3452.800000) " cx="325" cy="3452.8" r="2"></circle>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(274.748455, 3463.208358) scale(-1, -1) translate(-274.748455, -3463.208358) " points="225 3472.61672 248.125507 3453.8 324.49691 3453.8"></polyline>
+            <circle id="Oval-4" fill="#8FC8D4" transform="translate(207.000000, 3471.800000) scale(-1, -1) translate(-207.000000, -3471.800000) " cx="207" cy="3471.8" r="20"></circle>
+            <text id="16%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="192" y="3476.8">16%</tspan>
+            </text>
+            <text id="Other" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="463" y="3297.8">Other</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" cx="403.4" cy="3291.6" r="2"></circle>
+            <polyline id="Path-2" stroke="#1F2228" points="402.30309 3290.6 424.612408 3302.55157 517.541135 3302.55157"></polyline>
+            <circle id="Oval-4" fill="#668AB9" cx="536.8" cy="3302.4" r="20"></circle>
+            <text id="1.7%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="520.8" y="3307.4">1.7%</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" cx="389" cy="3291.44369" r="2"></circle>
+            <circle id="Oval-3" fill="#1F2228" cx="384.2" cy="3292.24369" r="2"></circle>
+            <circle id="Oval-3" fill="#1F2228" cx="377" cy="3294.64369" r="2"></circle>
+            <circle id="Oval-3" fill="#1F2228" cx="360" cy="3301" r="2"></circle>
+            <polyline id="Path-2" stroke="#1F2228" points="389.8 3290.28581 419.922557 3260.02322 479.130688 3260.02322"></polyline>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(347.714387, 3263.803388) scale(-1, 1) translate(-347.714387, -3263.803388) " points="311.628773 3291.08581 322.028773 3236.52097 383.8 3236.52097"></polyline>
+            <circle id="Oval-4" fill="#56929E" cx="498" cy="3260" r="20"></circle>
+            <text id="0.4%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="482" y="3265">0.4%</tspan>
+            </text>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(322.063103, 3284.106731) scale(-1, 1) translate(-322.063103, -3284.106731) " points="267.629295 3294.61672 287.125118 3273.59675 376.49691 3273.59675"></polyline>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(304.591161, 3304.795157) scale(-1, 1) translate(-304.591161, -3304.795157) " points="249.085413 3300.6 277.473611 3308.99031 360.09691 3308.99031"></polyline>
+            <path d="M184,3421.4 C195.045695,3421.4 204,3412.4457 204,3401.4 C204,3390.35431 195.045695,3381.4 184,3381.4 C172.954305,3381.4 164,3390.35431 164,3401.4 C164,3412.4457 172.954305,3421.4 184,3421.4 Z" id="Oval-4" fill="#B094BF" transform="translate(184.000000, 3401.400000) scale(-1, 1) translate(-184.000000, -3401.400000) "></path>
+            <text id="15%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="169" y="3404.4">15%</tspan>
+            </text>
+            <path d="M203,3369.8 C214.045695,3369.8 223,3360.8457 223,3349.8 C223,3338.75431 214.045695,3329.8 203,3329.8 C191.954305,3329.8 183,3338.75431 183,3349.8 C183,3360.8457 191.954305,3369.8 203,3369.8 Z" id="Oval-4" fill="#81A2CC" transform="translate(203.000000, 3349.800000) scale(-1, 1) translate(-203.000000, -3349.800000) "></path>
+            <text id="4%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="192" y="3352.8">4%</tspan>
+            </text>
+            <path d="M229.8,3324.6 C240.845695,3324.6 249.8,3315.6457 249.8,3304.6 C249.8,3293.55431 240.845695,3284.6 229.8,3284.6 C218.754305,3284.6 209.8,3293.55431 209.8,3304.6 C209.8,3315.6457 218.754305,3324.6 229.8,3324.6 Z" id="Oval-4" fill="#CD5B55" transform="translate(229.800000, 3304.600001) scale(-1, 1) translate(-229.800000, -3304.600001) "></path>
+            <text id="1.5%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="214" y="3308.4">1.5%</tspan>
+            </text>
+            <path d="M297.2,3252.6 C308.245695,3252.6 317.2,3243.6457 317.2,3232.6 C317.2,3221.55431 308.245695,3212.6 297.2,3212.6 C286.154305,3212.6 277.2,3221.55431 277.2,3232.6 C277.2,3243.6457 286.154305,3252.6 297.2,3252.6 Z" id="Oval-4" fill="#DDB30E" transform="translate(297.200000, 3232.600000) scale(-1, 1) translate(-297.200000, -3232.600000) "></path>
+            <text id="0.7%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="281.2" y="3235.6">0.7%</tspan>
+            </text>
+            <path d="M249.8,3284.6 C260.845695,3284.6 269.8,3275.6457 269.8,3264.6 C269.8,3253.55431 260.845695,3244.6 249.8,3244.6 C238.754305,3244.6 229.8,3253.55431 229.8,3264.6 C229.8,3275.6457 238.754305,3284.6 249.8,3284.6 Z" id="Oval-4" fill="#ABBEC9" transform="translate(249.800000, 3264.600001) scale(-1, 1) translate(-249.800000, -3264.600001) "></path>
+            <text id="0.8%" font-family="OpenSans, Open Sans" font-size="15" font-weight="normal" fill="#1F2228">
+                <tspan x="233.8" y="3267.6">0.8%</tspan>
+            </text>
+            <circle id="Oval-3" fill="#1F2228" transform="translate(303.000000, 3381.800000) scale(-1, -1) translate(-303.000000, -3381.800000) " cx="303" cy="3381.8" r="2"></circle>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(252.748455, 3392.208358) scale(-1, -1) translate(-252.748455, -3392.208358) " points="203 3401.61672 226.125507 3382.8 302.49691 3382.8"></polyline>
+            <circle id="Oval-3" fill="#1F2228" transform="translate(322.000000, 3331.800000) scale(-1, -1) translate(-322.000000, -3331.800000) " cx="322" cy="3331.8" r="2"></circle>
+            <polyline id="Path-2" stroke="#1F2228" transform="translate(271.748455, 3342.208358) scale(-1, -1) translate(-271.748455, -3342.208358) " points="222 3351.61672 245.125507 3332.8 321.49691 3332.8"></polyline>
+            <polygon id="Rectangle" fill="#000000" transform="translate(691.000000, 3322.400001) scale(-1, 1) translate(-691.000000, -3322.400001) " points="618 3280.00801 764 3280.00801 764 3355.79817 700.625619 3355.79816 700.625619 3364.79199 690.997475 3355.79816 618 3355.79817"></polygon>
+            <text id="60%" font-family="OpenSans-Bold, Open Sans" font-size="30" font-weight="bold" fill="#FFFFFF">
+                <tspan x="661.662793" y="3313.17579">60%</tspan>
+            </text>
+            <text id="of-respondents-don’t" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#FFFFFF">
+                <tspan x="633.577148" y="3332">of respondents don’t test </tspan>
+                <tspan x="657.095215" y="3346">their JavaScript</tspan>
+            </text>
+            <g id="Group-5" transform="translate(145.000000, 3855.043692)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <g id="Group-5" transform="translate(145.000000, 3738.043692)">
+                <rect id="Rectangle-2" fill="#DDDDDD" x="0" y="59" width="511" height="59"></rect>
+                <rect id="Rectangle-2" fill="#EEF0EF" x="0" y="0.399999857" width="511" height="59"></rect>
+            </g>
+            <text id="3000" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="150" y="3753.04369">3000</tspan>
+            </text>
+            <text id="2250" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="148" y="3812.04369">2250</tspan>
+            </text>
+            <text id="1500" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="148" y="3867.04369">1500</tspan>
+            </text>
+            <text id="750" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="148" y="3926.04369">750</tspan>
+            </text>
+            <text id="Ender" transform="translate(459.777164, 3997.291883) rotate(45.000000) translate(-459.777164, -3997.291883) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="441.777164" y="4002.29188">Ender</tspan>
+            </text>
+            <text id="Yeoman" transform="translate(359.366252, 4002.241631) rotate(45.000000) translate(-359.366252, -4002.241631) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="334.366252" y="4007.24163">Yeoman</tspan>
+            </text>
+            <text id="Bower" transform="translate(253.417009, 3998.352543) rotate(45.000000) translate(-253.417009, -3998.352543) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="233.917009" y="4003.35254">Bower</tspan>
+            </text>
+            <rect id="Rectangle-3" fill="#FCD435" x="428" y="3902.2" width="50" height="70"></rect>
+            <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(453.000000, 3885.700000) scale(1, -1) translate(-453.000000, -3885.700000) " x="428" y="3869.2" width="50" height="33"></rect>
+            <rect id="Rectangle-3" fill="#81A2CC" x="428" y="3867.8" width="50" height="2"></rect>
+            <rect id="Rectangle-3" fill="#CD5B55" transform="translate(453.000000, 3814.500000) scale(1, -1) translate(-453.000000, -3814.500000) " x="428" y="3761" width="50" height="107"></rect>
+            <polygon id="Rectangle-3" fill="#FCD435" points="328 3928.4 378 3928.4 378 3972.4 328 3972.4"></polygon>
+            <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(353.000000, 3903.900000) scale(1, -1) translate(-353.000000, -3903.900000) " x="328" y="3879.4" width="50" height="49"></rect>
+            <polygon id="Rectangle-3" fill="#81A2CC" points="328 3877.4 378 3877.4 378 3880.4 328 3880.4"></polygon>
+            <rect id="Rectangle-3" fill="#CD5B55" transform="translate(353.000000, 3861.400000) scale(1, -1) translate(-353.000000, -3861.400000) " x="328" y="3845.4" width="50" height="32"></rect>
+            <rect id="Rectangle-3" fill="#CD5B55" transform="translate(249.000000, 3826.400000) scale(1, -1) translate(-249.000000, -3826.400000) " x="224" y="3821.4" width="50" height="10"></rect>
+            <rect id="Rectangle-3" fill="#FCD435" x="224" y="3933.4" width="50" height="39"></rect>
+            <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(249.000000, 3905.900000) scale(1, -1) translate(-249.000000, -3905.900000) " x="224" y="3876.4" width="50" height="59"></rect>
+            <rect id="Rectangle-3" fill="#81A2CC" x="224" y="3831.4" width="50" height="46"></rect>
+            <rect id="Rectangle-3" fill="#FCD435" x="547" y="3966.6" width="50" height="6"></rect>
+            <rect id="Rectangle-3" fill="#8FC8D4" transform="translate(572.000000, 3957.100000) scale(1, -1) translate(-572.000000, -3957.100000) " x="547" y="3947.6" width="50" height="19"></rect>
+            <rect id="Rectangle-3" fill="#81A2CC" x="547" y="3836.6" width="50" height="111"></rect>
+            <rect id="Rectangle-3" fill="#CD5B55" transform="translate(572.000000, 3832.600000) scale(1, -1) translate(-572.000000, -3832.600000) " x="547" y="3828.6" width="50" height="8"></rect>
+            <text id="NPM" transform="translate(577.970563, 3995.170563) rotate(45.000000) translate(-577.970563, -3995.170563) " font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" fill="#000000">
+                <tspan x="562.970563" y="4000.17056">NPM</tspan>
+            </text>
+            <text id="Used-a-little" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="291.2" y="3701.44369">Used a little</tspan>
+            </text>
+            <ellipse id="Oval-4" fill="#8FC8D4" transform="translate(273.200000, 3698.443692) scale(-1, 1) translate(-273.200000, -3698.443692) " cx="273.2" cy="3698.44369" rx="10" ry="10"></ellipse>
+            <text id="Heard-of/-Read-about" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="177" y="3700.44369">Heard of/</tspan>
+                <tspan x="177" y="3719.44369">Read about</tspan>
+            </text>
+            <circle id="Oval-4" fill="#FCD435" transform="translate(155.000000, 3698.443692) scale(-1, 1) translate(-155.000000, -3698.443692) " cx="155" cy="3698.44369" r="10"></circle>
+            <text id="Never-heard-of" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="574.6" y="3701.24369">Never heard </tspan>
+                <tspan x="574.6" y="3720.24369">of</tspan>
+            </text>
+            <ellipse id="Oval-4" fill="#CD5B55" transform="translate(559.099922, 3697.243692) scale(-1, 1) translate(-559.099922, -3697.243692) " cx="559.099922" cy="3697.24369" rx="10" ry="10"></ellipse>
+            <text id="Feel-comfortable-usi" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#1F2228">
+                <tspan x="420.2" y="3700.64369">Feel comfortable </tspan>
+                <tspan x="420.2" y="3719.64369">using</tspan>
+            </text>
+            <circle id="Oval-4" fill="#81A2CC" transform="translate(399.000000, 3698.643692) scale(-1, 1) translate(-399.000000, -3698.643692) " cx="399" cy="3698.64369" r="10"></circle>
+            <g id="Group-20" transform="translate(263.000000, 4116.000000)">
+                <text id="in-Berlin" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="163.092578" y="20.4"> in Berlin  </tspan>
+                </text>
+                <g id="Group-22" transform="translate(0.000000, 48.000000)">
+                    <g id="Group-19" transform="translate(28.000000, 0.000000)">
+                        <g id="Group-3" transform="translate(0.000000, 11.256614)">
+                            <mask id="mask-18" fill="white">
+                                <use xlink:href="#path-17"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M58.2297658,29.7884259 C57.8867708,24.9515079 56.7479475,20.3343386 54.9535894,16.0455688 C54.4782892,14.9096296 53.9730331,13.7888624 53.407366,12.7018651 C55.4119146,11.5380291 56.7599299,9.40269841 56.7599299,6.95316138 C56.7599299,3.2619709 53.7074242,0.269179894 49.941469,0.269179894 L8.34870783,0.269179894 C4.58325188,0.269179894 1.53024695,3.2619709 1.53024695,6.95316138 C1.53024695,9.40074074 2.87626515,11.5346032 4.87831744,12.699418 C4.3126503,13.7859259 3.80789347,14.9062037 3.33259328,16.0416534 C1.53723666,20.3314021 0.397914134,24.9500397 0.0544198752,29.7879365 C0.0284580999,30.3634921 0,30.9390476 0,31.5209656 C0,35.7020635 0.693978225,39.7221429 1.95711845,43.4891931 C2.33356419,44.5492725 3.05799758,46.375291 3.94519132,47.5944312 C4.04204871,47.7197222 4.13341419,47.8415873 4.244251,47.9732407 C4.25723189,47.9884127 4.27021278,48.0055423 4.28319367,48.0207143 C4.67661441,48.4841931 5.15391167,48.9809524 5.72806632,49.4733069 C6.30771288,49.9666402 6.97872492,50.4594841 7.74260023,50.8710847 C8.49798804,51.2812169 9.37869134,51.6120635 10.2479115,51.7221825 C11.1580715,51.8499206 12.1176586,51.6967328 12.8505795,51.1926323 C13.5974798,50.7012566 14.1316933,49.8403704 14.4407383,48.8678968 C15.0573304,46.8965212 14.9889311,44.6633069 14.800209,42.6434788 C14.5935133,40.6070106 14.2170676,38.7149206 13.8436174,37.1066931 C13.0847348,33.8887698 12.3403308,31.798955 12.3403308,31.798955 C12.3403308,31.798955 13.2295216,33.8305291 14.2190646,37.0088095 C14.7083443,38.5989286 15.2225871,40.4768254 15.5800608,42.5416799 C15.9105742,44.6031085 16.1771816,46.8740079 15.6384748,49.194828 C15.361882,50.335172 14.7852311,51.5381614 13.7347777,52.3505952 C12.6833258,53.1772222 11.3687613,53.4331878 10.188499,53.4610847 C8.94582866,53.4694048 7.84245321,53.1914153 6.84192633,52.8179894 C6.72010569,52.7719841 6.61625859,52.7122751 6.49743354,52.6633333 C8.32723944,55.3683466 10.5060315,57.8208201 12.9559244,59.9860053 C14.263,60.6902778 16.3923648,61.2110185 19.2127123,59.7750661 C24.1309709,57.2716931 29.0492295,56.9937037 29.0492295,56.9937037 C29.0492295,56.9937037 33.9669889,57.2716931 38.8852475,59.7750661 C42.1893827,61.4571958 44.5459131,60.4558466 45.7396555,59.6174735 C48.0143064,57.5482143 50.0483117,55.2298413 51.7717741,52.6858466 C51.6614366,52.7313624 51.5645792,52.7871561 51.4512461,52.8302249 C50.4507192,53.2036508 49.3473437,53.4816402 48.1046734,53.4733201 C46.9244111,53.4449339 45.6098466,53.1894577 44.5583947,52.3628307 C43.5079413,51.5499074 42.9312904,50.3474074 42.6546976,49.2070635 C42.1159908,46.885754 42.382099,44.6153439 42.7131116,42.5539153 C43.0705853,40.4885714 43.5848281,38.611164 44.0741078,37.021045 C45.0636508,33.8422751 45.9528416,31.8107011 45.9528416,31.8107011 C45.9528416,31.8107011 45.2084376,33.9005159 44.449555,37.1189286 C44.0761048,38.7266667 43.6996591,40.619246 43.4929634,42.6557143 C43.3042413,44.6755423 43.235842,46.9087566 43.8524341,48.8796429 C44.1614791,49.8526058 44.6956926,50.7130026 45.4425929,51.2048677 C46.1755138,51.7089683 47.1356002,51.8621561 48.0452608,51.7339286 C48.9144811,51.6242989 49.7951844,51.292963 50.5505722,50.8833201 C51.3144475,50.4712302 51.9854595,49.9783862 52.5651061,49.4855423 C53.3449579,48.8165079 53.9355883,48.1464947 54.3889208,47.5547884 C55.0963792,46.5681217 55.6974941,45.205582 56.0989031,44.1626323 C57.5108243,40.2042196 58.2846849,35.9516667 58.2846849,31.5209656 C58.2846849,30.9390476 58.2562268,30.3639815 58.2297658,29.7884259" id="Fill-1" fill="#F6C823" mask="url(#mask-18)"></path>
+                        </g>
+                        <path d="M23.0280947,22.984537 C23.0280947,26.3532011 20.2426958,29.0841534 16.8062554,29.0841534 C13.369815,29.0841534 10.5839168,26.3532011 10.5839168,22.984537 C10.5839168,19.615873 13.369815,16.8849206 16.8062554,16.8849206 C20.2426958,16.8849206 23.0280947,19.615873 23.0280947,22.984537" id="Fill-4" fill="#FFFFFF"></path>
+                        <path d="M8.34870783,14.8567725 C6.45948941,14.8567725 4.92824393,16.3578175 4.92824393,18.2097751 C4.92824393,19.4108069 5.57778758,20.4566931 6.54586224,21.0488889 C7.72961934,19.1430952 9.05067429,17.3288228 10.5035352,15.6251587 C9.91390332,15.152381 9.16999861,14.8567725 8.34870783,14.8567725" id="Fill-5" fill="#25282C"></path>
+                        <path d="M49.941469,14.8567725 C49.1186804,14.8567725 48.3737772,15.1533598 47.783646,15.6280952 C49.2360077,17.3317593 50.5565633,19.1455423 51.7403204,21.051336 C52.7108914,20.4596296 53.3624321,19.4127646 53.3624321,18.2097751 C53.3624321,16.3578175 51.8306874,14.8567725 49.941469,14.8567725" id="Fill-6" fill="#25282C"></path>
+                        <path d="M16.8062554,20.2702249 C16.6140384,20.2702249 16.4268141,20.2893122 16.2460802,20.3260185 C16.356917,20.5330423 16.4208229,20.7684524 16.4208229,21.018545 C16.4208229,21.8412566 15.7403248,22.5083333 14.9005612,22.5083333 C14.6189758,22.5083333 14.3558632,22.4319841 14.129197,22.3008201 C14.0712822,22.5195899 14.0373322,22.7476587 14.0373322,22.984537 C14.0373322,24.4836243 15.277007,25.6988492 16.8062554,25.6988492 C18.3355038,25.6988492 19.5751786,24.4836243 19.5751786,22.984537 C19.5751786,21.4854497 18.3355038,20.2702249 16.8062554,20.2702249" id="Fill-7" fill="#25282C"></path>
+                        <path d="M47.7002688,22.984537 C47.7002688,26.3532011 44.9148699,29.0841534 41.4784295,29.0841534 C38.0419891,29.0841534 35.2560909,26.3532011 35.2560909,22.984537 C35.2560909,19.615873 38.0419891,16.8849206 41.4784295,16.8849206 C44.9148699,16.8849206 47.7002688,19.615873 47.7002688,22.984537" id="Fill-8" fill="#FFFFFF"></path>
+                        <path d="M41.4784295,20.2702249 C41.2862125,20.2702249 41.0989882,20.2893122 40.9182543,20.3260185 C41.0295903,20.5330423 41.092997,20.7684524 41.092997,21.018545 C41.092997,21.8412566 40.4124989,22.5083333 39.5727353,22.5083333 C39.2911499,22.5083333 39.0280373,22.4319841 38.801371,22.3008201 C38.7434563,22.5195899 38.7095063,22.7476587 38.7095063,22.984537 C38.7095063,24.4836243 39.9491811,25.6988492 41.4784295,25.6988492 C43.0076779,25.6988492 44.2473527,24.4836243 44.2473527,22.984537 C44.2473527,21.4854497 43.0076779,20.2702249 41.4784295,20.2702249" id="Fill-9" fill="#25282C"></path>
+                        <path d="M37.5087742,34.762381 C37.5087742,39.3423545 33.7213506,43.0555688 29.0492295,43.0555688 C24.3766092,43.0555688 20.5891856,39.3423545 20.5891856,34.762381 C20.5891856,30.181918 24.3766092,26.4691931 29.0492295,26.4691931 C33.7213506,26.4691931 37.5087742,30.181918 37.5087742,34.762381" id="Fill-10" fill="#FFFFFF"></path>
+                        <path d="M33.4382674,30.2337963 C33.4382674,30.1192725 33.4162997,30.0111111 33.3843468,29.9063757 C33.3708666,29.8549868 33.3598828,29.8246429 33.3598828,29.8246429 L33.3588842,29.8246429 C33.3189431,29.7228439 33.2655217,29.6283862 33.1996187,29.5427381 L33.200118,29.5417593 C33.200118,29.5417593 32.7033494,28.5369841 29.099156,28.5276852 L29.099156,28.5267063 C29.0901693,28.5267063 29.0826803,28.5271958 29.0741928,28.5271958 C29.065206,28.5271958 29.057717,28.5267063 29.0492295,28.5267063 L29.0492295,28.5276852 C26.9523169,28.5330688 25.9093525,28.8741931 25.4025986,29.1600132 C25.0965492,29.2804101 24.8564028,29.5221825 24.7390756,29.8246429 L24.7375778,29.8246429 C24.7375778,29.8246429 24.7245969,29.8603704 24.7091197,29.9200794 C24.6801623,30.0204101 24.6596924,30.1241667 24.6596924,30.2337963 C24.6596924,30.2435847 24.6621888,30.2528836 24.662688,30.262672 C24.6412196,30.7839021 24.8154631,31.7015608 26.0206886,32.6427116 C27.122067,33.502619 27.9813019,33.822209 28.5000381,33.9435847 L28.5000381,43.0281614 C28.6822698,43.039418 28.863503,43.0555688 29.0487303,43.0555688 C29.2339576,43.0555688 29.41569,43.039418 29.5979217,43.0281614 L29.5979217,33.9435847 C30.1166579,33.8217196 30.9758928,33.5021296 32.0762727,32.6427116 C33.2765055,31.7054762 33.4542438,30.7912434 33.4347725,30.2690344 C33.4352718,30.2572884 33.4382674,30.2460317 33.4382674,30.2337963" id="Fill-11" fill="#25282C"></path>
+                        <path d="M15.4367718,9.74675926 L42.7215991,9.74675926 C39.4544095,7.54437831 35.6170594,6.09765873 31.4596805,5.69731481 L33.1302209,1.23871693 C33.1302209,1.23871693 32.0667867,0.37 29.0791854,0.37 C26.0915842,0.37 25.02815,1.23871693 25.02815,1.23871693 L26.6986903,5.69731481 C22.5413114,6.09716931 18.7039613,7.54437831 15.4367718,9.74675926" id="Fill-12" fill="#F6C823"></path>
+                        <path d="M4.59223864,56.087791 C4.59223864,56.087791 4.13990464,55.511746 3.64213752,54.5373148 C3.14137482,53.5672884 2.63312314,52.1964286 2.30860095,50.7864153 C1.9790861,49.3768915 1.82181766,47.9384921 1.7898647,46.8583466 C1.7614066,45.7767328 1.83030516,45.0548413 1.83030516,45.0548413 C1.83030516,45.0548413 1.88472504,45.2295635 1.95911551,45.5354497 C2.03150892,45.8408466 2.13535602,46.276918 2.25917372,46.8005952 C2.49782235,47.8455026 2.7844004,49.2330026 3.11091966,50.6067989 C3.4219617,51.9840212 3.78293023,53.3470503 4.08099138,54.3704233 C4.23226864,54.8843122 4.35858267,55.3120635 4.44695256,55.6115873 C4.54580701,55.9120899 4.59223864,56.087791 4.59223864,56.087791" id="Fill-13" fill="#FFFFFF"></path>
+                        <path d="M46.7841177,47.3790873 C46.7841177,47.3790873 46.7716361,47.8641005 46.6947493,48.5678836 C46.6133691,49.2711772 46.4546028,50.1903042 46.2643829,51.1006217 C46.066674,52.0094709 45.8410063,52.9119577 45.6373062,53.5893122 C45.5429451,53.9289683 45.429612,54.2089153 45.3721965,54.4085979 C45.305295,54.6068122 45.2558678,54.7198677 45.2558678,54.7198677 C45.2558678,54.7198677 45.1754861,54.2407275 45.169495,53.5242196 C45.1664994,52.8091799 45.2623582,51.8621561 45.4590686,50.9356878 C45.6582753,50.009709 45.9553379,49.1072222 46.2394197,48.4504233 C46.5279948,47.7941138 46.7841177,47.3790873 46.7841177,47.3790873" id="Fill-14" fill="#FFFFFF"></path>
+                        <path d="M8.23986808,12.3377381 C8.23986808,12.3377381 7.73061787,12.5286111 7.06709481,12.9191667 C6.73258732,13.1085714 6.36013569,13.346918 5.98768407,13.6283333 C5.61223686,13.9058333 5.24328009,14.2357011 4.90377995,14.5910185 C4.55379525,14.9394841 4.26072674,15.3344444 3.9796406,15.7078704 C3.72701256,16.0989153 3.48187348,16.4659788 3.30363591,16.8051455 C3.10293142,17.133545 2.96263798,17.4262169 2.85978941,17.6317725 C2.75394525,17.8358598 2.68155183,17.9528307 2.68155183,17.9528307 C2.68155183,17.9528307 2.68255036,17.8206878 2.70551655,17.5896825 C2.74146362,17.363082 2.73996583,17.0185317 2.86328426,16.6358069 C2.94965709,16.2398677 3.13039099,15.8013492 3.35755652,15.3422751 C3.60369412,14.8925 3.92472146,14.441746 4.30466206,14.0379762 C5.0780234,13.2377778 6.08553999,12.6910979 6.88636091,12.493373 C7.68818035,12.2790079 8.23986808,12.3377381 8.23986808,12.3377381" id="Fill-15" fill="#FFFFFF"></path>
+                    </g>
+                    <g id="Group-21" transform="translate(0.000000, 77.000000)" fill="#000000">
+                        <path d="M26.5542378,14.0476265 C25.8260758,14.7743254 24.9321942,15.1366144 23.8736691,15.1366144 C22.8312855,15.1366144 21.945654,14.7743254 21.2174921,14.0476265 C20.4893301,13.3230483 20.1256078,12.3888727 20.1256078,11.2475737 C20.1256078,10.1218267 20.4893301,9.19365974 21.2174921,8.4591849 C21.945654,7.72541697 22.8312855,7.35817955 23.8736691,7.35817955 C24.9164114,7.35817955 25.8052712,7.72541697 26.542042,8.4591849 C27.2780954,9.19365974 27.6464807,10.1218267 27.6464807,11.2475737 C27.6464807,12.3888727 27.2823998,13.3230483 26.5542378,14.0476265 L26.5542378,14.0476265 Z M23.8736691,4.71718053 C21.920545,4.71718053 20.2784142,5.33289524 18.9465593,6.5632643 C17.613987,7.79469371 16.948239,9.35589455 16.948239,11.2475737 C16.948239,13.1392529 17.613987,14.7001003 18.9465593,15.9315297 C20.2784142,17.1629591 21.920545,17.7786738 23.8736691,17.7786738 C25.8429347,17.7786738 27.4933156,17.1629591 28.8255292,15.9315297 C30.1573841,14.7001003 30.8234909,13.1392529 30.8234909,11.2475737 C30.8234909,9.35589455 30.1534384,7.79469371 28.8133334,6.5632643 C27.4728697,5.33289524 25.8260758,4.71718053 23.8736691,4.71718053 L23.8736691,4.71718053 Z" id="Fill-16"></path>
+                        <path d="M51.6987827,9.63300152 C51.8806438,8.85116401 52.2400617,8.2354493 52.7781124,7.78691775 C53.3154458,7.3383862 53.9901614,7.1139437 54.8011831,7.1139437 C55.4629855,7.1139437 56.0214822,7.35040359 56.4770318,7.82367684 C56.9315053,8.29659663 57.1675302,8.89958704 57.1840304,9.63300152 L51.6987827,9.63300152 L51.6987827,9.63300152 Z M54.8011831,4.71718053 C52.8982771,4.71718053 51.3512019,5.32511928 50.1595989,6.53958296 C48.9679959,7.7544001 48.3721944,9.32408381 48.3721944,11.2475737 C48.3721944,13.0738641 48.9970507,14.6188061 50.2467632,15.8831067 C51.4957582,17.1459934 53.1382477,17.7786738 55.1735142,17.7786738 C55.7693157,17.7786738 56.3529214,17.7083367 56.9236139,17.5697832 C57.494665,17.4319367 57.9616931,17.2806589 58.3261327,17.1173637 C58.689855,16.9551289 59.0413815,16.7667386 59.3810709,16.5550204 C59.7207602,16.3433022 59.9395675,16.1927313 60.0382101,16.1026008 C60.1386463,16.0135307 60.2128973,15.9435471 60.2609631,15.8947706 L58.9470433,13.7418899 L58.4990264,14.0843856 C58.2178052,14.3130695 57.7798319,14.5456414 57.1840304,14.7821013 C56.5885876,15.0189147 55.9927861,15.1366144 55.3969846,15.1366144 C54.4041017,15.1366144 53.5514707,14.8425417 52.8405263,14.2554567 C52.1288646,13.6687251 51.7149242,12.8462406 51.5994227,11.7858823 L60.3373663,11.7858823 L60.4116173,10.635747 C60.4116173,8.92432873 59.9155346,7.50981079 58.9208581,6.39219316 C57.9290513,5.27563589 56.5552285,4.71718053 54.8011831,4.71718053 L54.8011831,4.71718053 Z" id="Fill-17"></path>
+                        <path d="M85.6540875,14.1211447 C85.0414271,14.8149724 84.2799059,15.1613561 83.3709589,15.1613561 C82.3773586,15.1613561 81.6079461,14.7821013 81.0623626,14.0239452 C80.5160618,13.265789 80.242732,12.3648379 80.242732,11.3207384 C80.242732,10.0172047 80.5490622,9.03425254 81.1610053,8.37400279 C81.7736657,7.71375303 82.5262193,7.38292125 83.4201009,7.38292125 C84.3634831,7.38292125 85.1239282,7.7423827 85.7035881,8.4591849 C86.2832481,9.176694 86.5723607,10.1218267 86.5723607,11.2970571 C86.5723607,12.4867791 86.2660305,13.4280238 85.6540875,14.1211447 L85.6540875,14.1211447 Z M84.1152624,4.71718053 C83.5689616,4.71718053 83.0513568,4.79069871 82.5631654,4.93702815 C82.0749741,5.08371105 81.6951103,5.24311824 81.4221392,5.41418938 C81.1488095,5.58561396 80.896643,5.78531477 80.6645638,6.01293835 C80.4324846,6.24162229 80.2879283,6.40102948 80.2305362,6.49009958 C80.1724267,6.58023003 80.1272305,6.64950677 80.0938713,6.6979298 L80.0436533,6.6979298 L80.0436533,6.20910463 C80.0436533,5.4103014 79.5145701,5.01019287 78.4556863,5.01019287 L72.6974675,5.01019287 C71.8365863,5.01019287 71.274144,5.40252543 71.0097817,6.18436294 L70.9384003,6.39007245 L68.4285731,13.5814223 L65.4495656,6.18436294 C65.2838459,5.76057308 65.0768758,5.45872442 64.828655,5.27952387 C64.580793,5.10032332 64.2332122,5.01019287 63.7859127,5.01019287 L61.35213,5.01019287 L66.9636403,17.4598594 L66.5414498,18.4141819 C66.094509,19.4741867 65.3993475,20.0036589 64.4559652,20.0036589 C63.7608037,20.0036589 63.1571108,19.718776 62.6438104,19.1475964 L61.4285332,21.3489001 L61.8001469,21.6666542 C62.0322261,21.8787258 62.4128073,22.090444 62.9422492,22.3032226 C63.4716911,22.5149408 64.0341335,22.6209766 64.629935,22.6209766 C65.6235353,22.6209766 66.5245909,22.3477576 67.3363301,21.8013197 C68.1459171,21.2548817 68.7668276,20.4440611 69.1976269,19.3681509 L73.7402097,8.09265439 C73.8557113,7.79893515 74.0956819,7.65225225 74.4594042,7.65225225 L76.6435314,7.65225225 C77.006895,7.65225225 77.1898323,7.8314528 77.1898323,8.1898539 L77.1898323,22.3763873 L80.316983,22.3763873 L80.316983,17.2152701 C80.316983,16.7918337 80.3008415,16.4323723 80.2678411,16.1393599 L80.316983,16.1393599 L80.6645638,16.5550204 C80.896643,16.816222 81.313453,17.085553 81.918222,17.361953 C82.5219149,17.63906 83.1969892,17.7786738 83.9416514,17.7786738 C85.6289784,17.7786738 87.0193015,17.178511 88.1115445,15.9799527 C89.2034287,14.7821013 89.7497295,13.2042882 89.7497295,11.2475737 C89.7497295,9.30747153 89.2364292,7.73354639 88.2109045,6.52685866 C87.1843037,5.32017094 85.8190897,4.71718053 84.1152624,4.71718053 L84.1152624,4.71718053 Z" id="Fill-18"></path>
+                        <path d="M100.944413,14.0476265 C100.216251,14.7743254 99.3230866,15.1366144 98.2645615,15.1366144 C97.2218192,15.1366144 96.335829,14.7743254 95.6083845,14.0476265 C94.8802225,13.3230483 94.5154241,12.3888727 94.5154241,11.2475737 C94.5154241,10.1218267 94.8802225,9.19365974 95.6083845,8.4591849 C96.335829,7.72541697 97.2218192,7.35817955 98.2645615,7.35817955 C99.3062277,7.35817955 100.196164,7.72541697 100.932576,8.4591849 C101.668988,9.19365974 102.036656,10.1218267 102.036656,11.2475737 C102.036656,12.3888727 101.672933,13.3230483 100.944413,14.0476265 L100.944413,14.0476265 Z M98.2645615,4.71718053 C96.3114374,4.71718053 94.6693066,5.33289524 93.337093,6.5632643 C92.0048795,7.79469371 91.3391314,9.35589455 91.3391314,11.2475737 C91.3391314,13.1392529 92.0048795,14.7001003 93.337093,15.9315297 C94.6693066,17.1629591 96.3114374,17.7786738 98.2645615,17.7786738 C100.233468,17.7786738 101.883849,17.1629591 103.216063,15.9315297 C104.547918,14.7001003 105.214025,13.1392529 105.214025,11.2475737 C105.214025,9.35589455 104.543972,7.79469371 103.203867,6.5632643 C101.862686,5.33289524 100.216251,4.71718053 98.2645615,4.71718053 L98.2645615,4.71718053 Z" id="Fill-19"></path>
+                        <path d="M113.776922,14.8672834 C113.147762,14.8672834 112.573482,14.7001003 112.051932,14.3664409 C111.53074,14.0320746 111.269247,13.4163599 111.269247,12.5192968 L111.269247,7.48118112 L114.149612,7.48118112 L114.149612,5.01019287 L111.269247,5.01019287 L111.269247,1.61103768 L108.191597,1.61103768 L108.191597,5.01019287 L106.478803,5.01019287 L106.478803,7.48118112 L108.116988,7.48118112 L108.116988,12.910569 C108.116988,13.7100791 108.245761,14.4070879 108.501873,15.0019489 C108.757985,15.5978703 109.073283,16.0541778 109.445255,16.3719318 C109.817945,16.6896859 110.259864,16.9459391 110.773165,17.1421054 C111.286465,17.3379182 111.741656,17.4648078 112.138379,17.5210068 C112.536177,17.5786196 112.949042,17.6072492 113.379841,17.6072492 C113.759705,17.6072492 114.083253,17.5825075 114.347256,17.5330242 L114.347256,14.8188604 L113.776922,14.8672834" id="Fill-20"></path>
+                        <path d="M11.2545862,1.78246227 L11.2545862,7.48118112 L3.48513386,7.48118112 L3.48513386,1.78246227 C3.48513386,1.21128261 3.35277338,0.791734182 3.08841113,0.522403179 C2.82333147,0.253072176 2.3932496,0.118406675 1.7974481,0.118406675 L0.233514012,0.118406675 L0.233514012,17.4846011 L3.48513386,17.4846011 L3.48513386,10.1960518 L11.2545862,10.1960518 L11.2545862,17.4846011 L14.5062061,17.4846011 L14.5062061,0.118406675 L12.9426307,0.118406675 C11.8170286,0.118406675 11.2545862,0.67368096 11.2545862,1.78246227" id="Fill-21"></path>
+                        <path d="M41.1741519,4.71718053 C40.0324083,4.71718053 39.089026,4.97767522 38.3440051,5.49937149 C37.5997017,6.02212812 37.0537595,6.62476508 36.7061788,7.30975653 L36.6566781,7.30975653 L36.7061788,6.77144797 L36.7061788,6.40491746 C36.7061788,5.47569016 36.1516278,5.01019287 35.0432433,5.01019287 L33.6780293,5.01019287 L33.6780293,17.4846011 L36.8055388,17.4846011 L36.8055388,11.7611406 C36.8055388,11.1415379 36.8880399,10.587324 37.0537595,10.0981453 C37.28548,9.33221322 37.7026487,8.71649851 38.307059,8.25100123 C38.9111106,7.78691775 39.6263594,7.55434584 40.4542401,7.55434584 C41.199261,7.55434584 41.7161484,7.77101238 42.0056196,8.2025782 C42.2950909,8.63414402 42.4403646,9.26682446 42.4403646,10.0981453 L42.4403646,15.8216059 C42.4403646,16.4086909 42.5723664,16.8321273 42.8370873,17.0936824 C43.1018083,17.3538236 43.5322489,17.4846011 44.1280504,17.4846011 L45.5926244,17.4846011 L45.5926244,9.46157693 C45.5926244,6.29923509 44.1194416,4.71718053 41.1741519,4.71718053" id="Fill-22"></path>
+                    </g>
+                </g>
+                <text id="Made-with" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="29.9887695" y="19.6">Made with</tspan>
+                </text>
+                <path d="M138.789641,22.46023 C139.550025,23.2368879 140.549945,23.6124147 141.547079,23.5996124 C142.544214,23.613837 143.544133,23.2368879 144.305911,22.46023 L152.493275,14.1403198 C155.302242,11.2712382 155.302242,6.61982635 152.493275,3.75074472 C149.685701,0.883085443 145.13175,0.883085443 142.324176,3.75074472 L141.595822,4.48330658 L140.875824,3.75074472 C138.06825,0.883085443 133.514299,0.883085443 130.706725,3.75074472 C127.897758,6.61982635 127.897758,11.2698158 130.706725,14.1388974 L138.789641,22.46023 Z" id="Shape" fill="#D64E41"></path>
+                <g id="Group-17" transform="translate(170.000000, 45.000000)" fill="#000000">
+                    <g id="Group" transform="translate(11.551724, 0.541071)">
+                        <path d="M41.8021858,21.6735326 C35.3760006,23.4088333 30.4425244,27.0022543 29.4551959,35.5065574 C21.9612519,29.9451749 31.3804549,14.8776239 41.7983859,21.6735326 L41.8021858,21.6735326 Z" id="Shape"></path>
+                        <path d="M51.4484299,18.8752731 C55.4864073,17.5844018 51.4484299,24.3515049 54.2033236,24.3515049 C51.2986524,26.2988909 47.9047501,20.9195219 43.219531,21.6070581 C44.8750004,19.6258017 50.3480558,21.4301093 51.4563463,18.8752731 L51.4484299,18.8752731 Z" id="Shape"></path>
+                        <path d="M24.5492687,29.3722281 C25.0663654,30.7017179 25.7208901,32.1261713 26.5125262,33.329043 C27.338361,34.5635692 28.4441183,35.6714774 30.0590559,35.59519 C26.199355,36.6964507 22.5556123,38.2104864 19.8757658,41.3205429 C17.2085855,44.4173044 15.6132804,48.2924507 14.5087897,52.1780429 C11.6395839,49.9676078 9.82420396,54.8981157 8.98285312,56.8891849 C8.23903184,58.6498093 7.40654732,63.6949065 11.0727724,61.2863141 C12.4812514,60.3550382 13.163325,58.4630476 15.0927005,58.3896091 C14.1525535,61.008704 13.0046811,63.4502171 9.9587821,63.817726 C7.88786207,64.0687464 5.82517506,63.3457571 4.09529186,62.2470288 C3.16084461,61.6541397 0.245090536,59.5820348 0.31602113,58.3516237 C0.478148202,55.5350046 3.65735877,57.9752515 3.97559648,55.7417086 C4.17318885,54.3536579 4.06140983,52.9542117 4.33531592,51.5728085 C4.62283815,50.1179668 5.10636948,48.7239017 5.25709699,47.2396214 C6.39863624,47.3345849 5.63708232,49.3288196 6.4920493,49.7086738 C9.66872663,48.5985499 11.8368596,45.9933829 13.2564214,43.0333689 C14.0049925,41.4705853 14.5933365,39.8391114 15.1462151,38.1981411 C15.607264,36.8271839 15.5907979,35.1520267 16.4552646,33.9374429 C17.3548798,32.6769599 18.9498682,32.3702276 20.3266817,31.9099709 C21.8751219,31.4012828 23.3690976,30.5149563 24.540719,29.3722281 L24.5492687,29.3722281 Z" id="Shape"></path>
+                        <path d="M31.7461908,37.9528186 C34.8525708,38.5542544 35.1343933,39.7887807 36.4643419,41.2448886 C34.302542,43.2957848 33.3288296,48.4219176 34.5716983,50.3933611 C30.4542406,49.4760131 30.9688041,42.8602187 31.7604402,37.9528186 L31.7461908,37.9528186 Z" id="Shape"></path>
+                        <path d="M38.6970723,43.521165 C40.2467792,44.4708006 40.0903519,46.4017262 40.6919953,47.9211431 C39.128989,49.8827737 37.2097464,51.2166951 36.7876461,55.1744596 C35.8069673,51.850102 36.8269112,47.1335787 38.6951724,43.521165 L38.6970723,43.521165 Z" id="Shape"></path>
+                        <path d="M38.8234175,0 C36.2069018,4.8431414 42.9715906,14.562978 38.206258,19.7524198 C36.7509142,19.7657147 36.3873949,18.688828 34.5004511,19.1351567 C40.7499431,15.5423688 32.9003962,4.36832362 38.8218342,0 L38.8234175,0 Z" id="Shape"></path>
+                        <path d="M19.6797567,1.85178936 C19.7114222,2.32660714 20.2497347,2.83307945 20.2497347,3.49782434 C20.2567011,4.39048178 19.9143977,5.34644825 19.6408082,6.18212755 C18.9394186,8.32925357 18.0299871,10.4026246 17.3504467,12.5573477 C16.5246119,15.1758095 15.7228428,17.7474226 16.3593183,20.5342864 C16.8418996,22.6551392 18.2275795,24.2062106 20.0958406,22.3360617 C23.4302119,18.9927114 24.4039243,12.9242235 25.8820672,8.60496443 C26.7573001,6.05012821 27.8507079,3.38418462 29.5657083,1.26143258 C28.7253074,2.30223316 28.8082709,4.3822516 28.4422183,5.6557129 C27.9289215,7.43976159 27.1290524,9.27097551 27.4067583,11.1689805 C27.7449453,13.4797603 29.6233394,13.4164513 31.3332734,12.4984703 C30.3959762,12.9963958 29.9384106,14.8526168 29.3418336,15.6623394 C28.4384185,16.8892686 27.475789,18.0759965 26.6882694,19.3849109 C24.8029089,22.5183917 24.0366051,26.0165326 24.6246324,29.640975 C22.2817062,31.2085068 20.9387748,33.7760048 16.5964924,33.3451868 C12.3840384,36.747731 9.19501159,41.1730328 7.95150961,47.5438213 C5.25393045,41.0881987 10.6430723,32.7269741 14.1269045,28.4064488 C13.4435642,22.5589095 11.9970867,19.9550087 12.8916355,15.4429736 C13.9448282,10.0977915 20.1075569,8.10355685 19.6642406,1.85178936 L19.6797567,1.85178936 Z" id="Shape"></path>
+                        <path d="M55.6605673,28.4621607 C57.1703756,27.0057363 59.6187478,31.2794129 63.5135974,30.0448867 C62.5332352,32.996354 61.4540769,35.84716 61.1538885,39.4785664 C59.2761277,35.86457 58.929391,30.6732289 55.6678503,28.4621607 L55.6605673,28.4621607 Z" id="Shape"></path>
+                        <path d="M30.7949608,54.3239027 C30.0527228,58.5263566 28.3719211,67.1243571 24.6198826,70.3727438 C20.7399158,70.7522815 20.5062248,67.4890171 17.2089021,67.2854786 C17.6120032,65.425459 19.6347918,65.1826689 20.2969162,63.5828495 C21.0337711,58.7279959 19.6990726,48.1015739 16.1633092,45.710075 C18.0800185,42.4825802 20.3250985,38.7248723 24.5258362,37.7790353 C24.0806201,40.5329784 27.5657189,44.1732481 27.6923806,46.2975829 C28.1274638,52.5521993 22.5191971,58.4370909 23.9859404,66.6830931 C27.4374738,66.1895991 28.6255613,58.1493513 30.8104769,54.3239027 L30.7949608,54.3239027 Z" id="Shape"></path>
+                        <path d="M61.2909999,41.1344143 C63.0278494,44.0149755 63.3492537,48.3199901 65.9141547,50.4091883 C64.1465896,52.0308493 58.6605514,61.6351469 60.355286,57.8195112 C60.4616819,52.0400292 61.9059428,47.6083965 61.3042993,41.1344143 L61.2909999,41.1344143 Z" id="Shape"></path>
+                        <path d="M31.6929928,36.8024934 C31.6929928,36.8024934 35.0872117,19.5501474 46.6878471,24.0751609 C46.6878471,24.0751609 63.8505177,27.7154306 56.88412,54.9034969 C51.7806004,74.7046647 74.4137931,74.7046647 74.4137931,74.7005496 C74.4137931,74.6964345 39.8965594,88.278439 42.1612719,52.9238233 C42.1615886,52.9263557 42.7166838,38.7767857 31.6971093,36.8024934 L31.6929928,36.8024934 Z" id="Shape"></path>
+                    </g>
+                    <text id="Ashley-Nolan" font-family="AndaleMono, Andale Mono" font-size="14" font-weight="normal">
+                        <tspan x="0.591796875" y="97.4071429">Ashley Nolan</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
