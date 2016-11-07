@@ -21,16 +21,14 @@ portfolio of open source projects.
 In the early days Wercker was using LXC, but as Docker came to the forefront - which was around the time I joined the company - we switched everything over. This was my original task when joining Wercker -- figuring out how we could switch to Docker. We were early adopters, and Docker has grown quite a lot since then. 
 
 
-Switching to Docker was harder than expected. Back then Docker had lots of bugs, so you’d see the documentation and think “Oh, cool! We can use Docker for all these projects!” 
-
-
-However, in reality, it was broken in certain ways, so when we started implementing Docker, we didn’t realise how much trouble we were going to be in. The underlying implementation didn’t take very long, but working around all the issues took a lot longer. Nowadays, infrastructure is still a massive priority to keep it all going. 
+Switching to Docker was harder than expected. Back then, you’d see the documentation and think “Oh, cool! We can use Docker for all these projects!” However, in reality, it was broken in certain ways, so when we started implementing Docker, we didn’t realise how much trouble we were going to be in. The underlying implementation didn’t take very long, but working around all the issues took a lot longer. Nowadays, infrastructure is still a massive priority to keep it all going. 
 
 
 ## What tech stack are you currently using?
 
 On a base level, we’re running AWS. Well, we’re running [CoreOS](https://coreos.com/) on AWS, and we’re running [Kubernetes](http://kubernetes.io) on top of that, as well as raw Docker. On the frontend, we’re using Node, and on the very frontend, we’re using React. We tend to use a lot of features from all those different products. We also have our own scheduling software written, but that is pretty much it! From the bottom to top: AWS, CoreOS, Kubernetes, Docker, Node and React. Oh! And all of our backend code is written in Go. 
 
+![wercker-office-3.jpg](/assets/images/wercker-office-3.jpg)
 
 ## Is the tech stack going to change in the near future?
 
@@ -49,9 +47,11 @@ We have something called “the Step Marketplace”, which is where the communit
 We’ve definitely experienced that several things stopped being maintained. However, we have some new stuff in the works, which aims to reinvigorate the community. This should make it easier for publishers to maintain stuff as well as provide better control and visibility of the steps, encouraging people to maintain steps. The fun part of open source is that it’s easy to use, and we want to show people that their work is being used and appreciated. 
 
 
-##How big is your team?
+## How big is your team?
 
 Wercker has around 15 employees right now. We’ve hired a lot of people recently, so we will probably be 20 by the end of the month. Not everyone is a developer though. We have four people working on the commercial side of the organisation, we have two HR people, and the remaining bunch are mostly developers. 
+
+![wercker-office-1.jpg](/assets/images/wercker-office-1.jpg)
 
 
 ## What is the interview process like at Wercker? 
@@ -76,11 +76,9 @@ The SF team mainly works on the backend, so we don't have to have meetings with 
 
 However, we do use a bunch of tools to make work and communication easier, making it easier when somebody is working remote. Obviously we use a chat, Slack, which is probably the most popular one nowadays. We also use GitHub, and we have different channels for hosting information. We have meetings - even on a subteam level. 
 
-![wercker-office-1.jpg](/assets/images/wercker-office-1.jpg)
 
 ![wercker-office-2.jpg](/assets/images/wercker-office-2.jpg)
 
-![wercker-office-3.jpg](/assets/images/wercker-office-3.jpg)
 
 ## Who typically uses Wercker?
 Our users are sort of a mix of startup and corporate. Startups is a given, but there is a vision amongst some larger companies to ditch old build tools and tech and instead go for something more modern. These would typically be our ideal customers. We want to grow with a startup or within a larger company. 
