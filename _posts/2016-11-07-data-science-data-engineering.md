@@ -1,5 +1,5 @@
 ---
-title: Data Science and Data Engineering
+title: Machine Learning and the Jobs of the Future. 
 subtitle:
 date:    2016-11-09 04:00:09
 layout:  post
@@ -33,7 +33,7 @@ It quickly becomes clear that there are two main types of machine learning jobs:
 ### Data Engineer:
 In our x-ray images example, data engineers are concerned with the first task. They would prepare the entire infrastructure for our experiment. It involves designing, building and managing our data pipeline. It can also involve setting up reporting tools for a smoother analysis process. Most of the analysis will be done on top of this architecture. Some common tools for data engineers include: Hadoop, Pig, Hive, MapReduce, Redshift
 
-A good point to consider is the amount of data involved in most machine learning tasks. While most engineering tasks involve several gigabytes of data, it is not uncommon for a machine learning project to involve several terabytes of data. The famous [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize), had over 100 Million netflix ratings involving 480,000+ users. In the x-ray example, the infrastructure must be able handle processing thousands of images and the data engineer is tasked with benchmarking the system.
+A good point to consider is the amount of data involved in most machine learning tasks. While most engineering tasks involve several gigabytes of data, it is not uncommon for a machine learning project to involve several terabytes of data. The famous [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize), had over 100 Million Netflix ratings involving 480,000+ users. In the x-ray example, the infrastructure must be able to handle processing thousands of images and the data engineer is tasked with benchmarking the system.
 
 Data engineers are usually regular software engineers with a background in machine learning. While they do not necessarily need to possess any knowledge on machine learning, it does help especially when some data insight is necessary. 
 
