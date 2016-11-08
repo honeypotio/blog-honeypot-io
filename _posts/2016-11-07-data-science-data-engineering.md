@@ -1,11 +1,11 @@
 ---
 title: Data Science and Data Engineering
 subtitle:
-date:    2016-11-07 09:00:09
+date:    2016-11-09 04:00:09
 layout:  post
 author:  kado_damball
 categories: Company
-cover_image: honey01.jpg
+cover_image: data-science-data-engineering.png
 permalink:  data-science-data-engineering/
 importance: 2
 ---
