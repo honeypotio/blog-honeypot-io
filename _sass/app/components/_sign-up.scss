@@ -9,6 +9,8 @@
   }
 
   &__headline {
+    font-weight: $fw-semibold;
+    
     @media #{$sm-down} {
       font-size: $fs-13;
     }
