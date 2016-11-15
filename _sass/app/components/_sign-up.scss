@@ -4,6 +4,20 @@
   color: $white-color;
   text-align: center;
 
+  @media #{$sm-down} {
+    text-align: left;
+  }
+
+  &__headline {
+    @media #{$sm-down} {
+      font-size: $fs-13;
+    }
+  }
+
+  &__tagline {
+    font-weight: $fw-light;
+  }
+
   &__form {
     max-width: 650px;
     margin: 0 auto;
@@ -25,5 +39,9 @@
     border-color: $dark-blue-1-color;
     height: 50px;
     text-transform: none;
+
+    @media #{$sm-down} {
+      width: 100%;
+    }
   }
 }
