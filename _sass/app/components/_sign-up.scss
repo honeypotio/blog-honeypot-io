@@ -14,6 +14,7 @@
 
   &__headline {
     font-weight: $fw-semibold;
+    margin-bottom: 0;
 
     @media #{$sm-down} {
       font-size: $fs-13;
