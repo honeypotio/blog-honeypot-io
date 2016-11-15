@@ -8,9 +8,13 @@
     text-align: left;
   }
 
+  @media #{$md-up} {
+    margin-bottom: 52px;
+  }
+
   &__headline {
     font-weight: $fw-semibold;
-    
+
     @media #{$sm-down} {
       font-size: $fs-13;
     }
