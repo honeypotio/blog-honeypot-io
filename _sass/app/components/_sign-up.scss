@@ -1,0 +1,29 @@
+.c-sign-up {
+  padding: 13px 25px 25px;
+  background-color: $brand-primary;
+  color: $white-color;
+  text-align: center;
+
+  &__form {
+    max-width: 650px;
+    margin: 0 auto;
+  }
+
+  &__input-section {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  &__input {
+    font-size: $fs-9;
+    height: 50px;
+  }
+
+  &__button {
+    font-size: $fs-9;
+    background-color: $dark-blue-1-color;
+    border-color: $dark-blue-1-color;
+    height: 50px;
+    text-transform: none;
+  }
+}
