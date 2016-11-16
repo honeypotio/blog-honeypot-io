@@ -71,14 +71,15 @@ $(function() {
     var fixedSidebarCSS = {
       'position': 'fixed',
       'width': signupSidebar.css('width'),
-      'top': 0,
+      'top': 30,
       'left': signupSidebarOffset.left
     };
     var normalSidebarCSS = {
       'position': 'relative',
+      'top': 0,
       'left': 0
     };
-    var boxOffsetTop = 20;
+    var boxOffsetTop = 50;
     var windowOffsetTop = $(window).scrollTop() + boxOffsetTop;
 
     if ((windowOffsetTop >= signupSidebarOffset.top) && (signupSidebar.css('position') !== 'fixed')) {
