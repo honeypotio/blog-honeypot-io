@@ -1,0 +1,34 @@
+.c-sidebar-signup {
+  padding: 0px 15px 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid $gray-3-color;
+
+  &__headline {
+    font-weight: $fw-bold;
+  }
+
+  &__tagline {
+    font-weight: $fw-light;
+  }
+
+  &__talent-link {
+    text-transform: none;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: $fs-9;
+    font-weight: $fw-semibold;
+  }
+
+  &__employer-link {
+    line-height: 20px;
+    margin: 10px;
+    display: block;
+    font-size: $fs-9;
+    text-align: center;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
