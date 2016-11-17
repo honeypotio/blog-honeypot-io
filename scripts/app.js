@@ -61,8 +61,8 @@ $(function() {
     });
   }
 
-  // if ignore small screens
-  if (window.innerWidth > 991) {
+  // ignore small screens
+  if ((window.innerWidth > 991) && $('.js-sidebar-signup').length) {
     $(window).scroll(stickSignupSidebar.bind(null, $('.js-sidebar-signup').offset()));
   }
 
