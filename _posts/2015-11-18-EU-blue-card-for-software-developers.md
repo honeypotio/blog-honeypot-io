@@ -19,6 +19,8 @@ In theory, the Blue Card has been adopted by all EU-member states (excluding the
 
 If the Blue Card infographic leaves you with questions, drop us an [email][1]!
 
+***2016 Update: Please note, salary thresholds increased in 2016 to €38,688 and €49,600.
+
 ![blue-card-infographic](/assets/images/Blue-card-infographic.png)
 
 * * * 
