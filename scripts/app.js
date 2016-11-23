@@ -60,4 +60,33 @@ $(function() {
       }
     });
   }
+
+  // ignore small screens
+  if ((window.innerWidth > 991) && $('.js-sidebar-signup').length) {
+    $(window).scroll(stickSignupSidebar.bind(null, $('.js-sidebar-signup').offset()));
+  }
+
+  function stickSignupSidebar(signupSidebarOffset) {
+    var signupSidebar = $('.js-sidebar-signup');
+    var fixedSidebarCSS = {
+      'position': 'fixed',
+      'width': signupSidebar.css('width'),
+      'top': 30,
+      'left': signupSidebarOffset.left
+    };
+    var normalSidebarCSS = {
+      'position': 'relative',
+      'top': 0,
+      'left': 0
+    };
+    var boxOffsetTop = 50;
+    var windowOffsetTop = $(window).scrollTop() + boxOffsetTop;
+
+    if ((windowOffsetTop >= signupSidebarOffset.top) && (signupSidebar.css('position') !== 'fixed')) {
+      signupSidebar.css(fixedSidebarCSS);
+    } else
+    if ((windowOffsetTop <= signupSidebarOffset.top) && (signupSidebar.css('position') === 'fixed')) {
+      signupSidebar.css(normalSidebarCSS);
+    }
+  }
 });
