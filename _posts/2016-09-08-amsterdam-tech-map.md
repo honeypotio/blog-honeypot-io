@@ -206,6 +206,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 154: [AliveShoes][210]{:target="_blank"}: Custom-design shoes
 
+[Amsterdam Locals](http://www.amsterdamlocals.amsterdam/nl/service/about/): Amsterdam apparel
 
 **MarTech in Amsterdam (14%)**
 
