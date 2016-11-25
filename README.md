@@ -34,15 +34,33 @@ $ git checkout my-branch-name
 └── ...
 ```
 
-4. Add the new images to the repository
+4. Optimaze blog images
+
+```bash
+gulp
+```
+
+5. Add the new images to the repository
 ```bash
 $ git add _assets/cover-images/my-new-image.jpg _assets/images/my-new-image.jpg
+$ git add assets/cover-images/my-new-image.jpg assets/images/my-new-image.jpg
 $ git commit -am 'add new images for the new blog post'
 $ git push origin my-branch-name
 ```
 
-5. Create a pull request on [GitHub](https://github.com/honeypotio/blog-honeypot-io)
+6. Create a pull request on [GitHub](https://github.com/honeypotio/blog-honeypot-io)
 ![screen shot 2016-11-03 at 11 05 49](https://cloud.githubusercontent.com/assets/464300/19962001/d26c3c7c-a1b5-11e6-987e-ebd550a16d4d.png)
+
+## Install dependencies
+
+```bash
+# required for image optimization
+$ brew install imagemagick
+$ brew install graphicsmagick
+
+$ bundle install
+$ npm install
+```
 
 ## Starting in development
 
