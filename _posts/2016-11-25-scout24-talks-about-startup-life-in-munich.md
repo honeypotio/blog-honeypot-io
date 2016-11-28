@@ -15,7 +15,7 @@ importance: 2
 
 ## Tell us about how Scout24 started. When? Why? How has it developed?
 
-**Luiz:** AutoScout24 and ImmobilienScout24 were active as the first digital marketplaces in Scout24’s portfolio 1999 and 1998. T
+**Luiz:** AutoScout24 and ImmobilienScout24 were active as the first digital marketplaces in Scout24’s portfolio 1999 and 1998.
 ImmobilienScout24 is the leading digital real estate classifieds platform in Germany, based on consumer traffic and time spent, as well as customer numbers and listings. 
 
 AutoScout24 is a leading automotive digital classifieds platform in Europe, in terms of unique monthly visitors and listings.  We aim to make markets more transparent and efficient. 
@@ -72,7 +72,7 @@ We see the benefit in startup drive and speed and are open to bringing our stren
 
 **Boris:** Regarding mature startups, I recommend Freeletics and eGym Fitness which focus on fitness trainings. Bragi, a producer of wireless smart earphones, is interesting as well. 
 
-Tado, a startup focusing on thermometer control system is also worth checking out. In terms of young startups. I am thinking of the media startup DER KONTEXT which is an interactive web magazine for background stories concerning events of the day or the robotics guys from Robotise.
+Tado, a startup focusing on thermometer control system is also worth checking out. In terms of young startups, I am thinking of the media startup DER KONTEXT which is an interactive web magazine for background stories concerning events of the day or the robotics guys from Robotise.
 
 ## What makes Scout24 a great place for developers to work?
 
