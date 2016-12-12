@@ -81,7 +81,7 @@ CataWiki, which launched in 2008 as a site for comic-book enthusiasts, today foc
 
 WeTransfer, founded in 2009, is a large file-sharing tool and one of Amsterdam’s most-loved startups.  The company is particularly popular with designers due to its large homepage illustrations. WeTransfer secured [$25 million Series A][25] round in 2015 from [Highland Capital Partners Europe][24]. 
 
-More recent successes from the city include [TravelBird][301] , a travel platform which raised $33.15M Series B in November, 2014,  [DoubleDutch][113], an event marketing software which claimed 2 million users by 2015,  [Treatwell][27], a hair and beauty bookings marketplace, which was acquired in 2015 by Japan’s Recruit Holdings for [$117 million][46] and [Silk][197], a data visualization tool, which was purchased by big data provider Palantir in August 2016. 
+More recent successes from the city include [TravelBird][301] , a travel platform which raised $33.15M Series B in November, 2014,  [DoubleDutch][113], an event marketing software which claimed 2 million users by 2015,  [Treatwell][27], a hair and beauty bookings marketplace, which was acquired in 2015 by Japan’s Recruit Holdings for [$117 million][46] and [Silk][197], a data visualization tool, which was purchased by big data provider Palantir in August 2016. One of the most exciting projects in the city is online supermarket,[Picnic](https://www.picnic.nl/), which is taking a revolutionary approach to grocery delivery. The company has planned ambitious growth for it operations over the coming years. 
 
 ### 3D Printing and the Sharing Economy
 
