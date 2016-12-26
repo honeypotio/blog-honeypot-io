@@ -1,3 +1,4 @@
+
 ---
 title: 10 datapoints you need to know supercharge your developer hiring skills in 2017 
 subtitle:
@@ -33,13 +34,13 @@ Our data is taken from January to November 2016 and looks at the average values 
 
 ![hiring-developers](/assets/images/ten-data-points-avr-salary-position.png)
 
-## JavaScript is the most in demand programming language
+## JavaScript is the most in-demand programming language
 
 Javascript is the most in demand programming language and Angular is roughly three times more popular than React. This is measured by invites sent. 
 
 ![hiring-developers](/assets/images/ten-data-points-demand-language.png)
 
-## Salary isn’t the only thing which motivates developers
+## Team is more motivating than salary for most developers
 
 In our developer survey, we found that salary is only the fourth most important factor for developers in the workplace.
 
@@ -70,13 +71,13 @@ Another common reason for developers annoyance is the dissatisfaction with the p
 
 > “It could have been a bit more structured. It could have started with saying that first we are going to do this, then talk about this etc.”
 
-## Most common buzzwords used in 2016
+## "Microservices" was one of the most common buzzwords used in job postings in 2016
 
 There were thousands of connections made on the Honeypot platform in 2016. To make a connection, a Honeypot user (a CTO, HR person or founder) sends an interview invite to a developer.  
 
 We aggregated all the text from the interview invites on Honeypot and looked for the most commonly-occurring terms. The three most popular words used were microservices, agile and leading! 
 
-## Job platforms, like Honeypot, are the most common place for developers to look for a job
+## Job platforms, like Honeypot, are the most common place for developers to look for a job!
 
 ![hiring-developers](/assets/images/look-for-job.png)
 
