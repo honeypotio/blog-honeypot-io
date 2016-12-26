@@ -1,4 +1,3 @@
-
 ---
 title: 10 datapoints you need to know supercharge your developer hiring skills in 2017
 subtitle:
