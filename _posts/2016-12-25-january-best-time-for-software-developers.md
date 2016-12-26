@@ -1,5 +1,5 @@
 ---
-title: Why January is the best time for software developers to find a new job
+title: Is January the best time for software developers to find a new job?
 subtitle:
 date:    2016-12-25 11:21:46
 layout:  post
@@ -19,7 +19,7 @@ When it comes to finding the right job, timing isn't everything, but it can cert
 
 January opens not just a new calendar year, but also a new financial year. With minds and budgets refreshed after the holidays, hiring managers are eager to see open positions filled in order to execute projects.  Job seekers who make contact right at the start of this cycle have the best chance of being hired with their favoured companies.
 
-![hiring-developers](/assets/images/ten-data-points-demand-language.png)
+![hiring-developers](/assets/images/ten-data-points-avg-salary-position.png)
 
 **Lots of decision-makers in the office**
 
@@ -28,6 +28,8 @@ December can wreak havoc with hiring process of a company, especially since hiri
 **Demand outweighs supply**
 
 If you are a software developer, you know that demand nearly always outweighs supply, but this is particularly true in January. Strong hiring periods, like the first quarter, offer even more opportunities to find a job which ticks all the boxes for you.
+
+![hiring-developers](/assets/images/ten-data-points-demand-language.png)
 
 **Go searching when it's not urgent and follow your career resolution goals**
 
