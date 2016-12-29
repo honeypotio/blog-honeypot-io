@@ -1,0 +1,63 @@
+---
+title:   Munich Tech Map 
+subtitle:
+date:    2017-01-02 09:54:05
+layout:  post
+author:  emma_tracey
+categories: Developers
+cover_image: 
+permalink:  munich-tech-map/
+importance: 2
+---
+
+While Berlin is the capital of Germany, Munich is its economic heartland. The city has the highest purchasing power of any German city and about 90 of the 1,000 largest German  companies are headquartered in Munich, including global corporations such as Allianz, BMW, MAN, Munich Re, and Siemens. 
+
+<!--more-->
+
+But what does Munich have to offer software developers? To figure that out, we created the Munich Tech Map, a guide to jobs and companies in the city for software developers. We mapped 200 tech companies (both startups and corporates) based in Munich, classified them by industry and further divided them by their programming languages. We also talked to some locals in Munich’s developer scene and soon discovered the city has a lot to offer software developers.
+
+[![Munich tech map](/assets/images/map-small.png)](/assets/images/Münich-big.png)
+
+### Munich’s Economic Dominance
+
+According to the [Deutsche Startup Monitor]( http://deutscherstartupmonitor.de/fileadmin/dsm/dsm-15/studie_dsm_2015.pdf) , 31% of startups in Germany are located in Berlin, compared to 11% in Munich. If you take Bavaria, the state to which Munich is the capital, as a whole, that number jumps to 16%. 
+
+![Munich-tech-industries](/assets/images/industries.png)
+
+ 
+While Berlin is home to the most startups in Germany, Munich’s strength is its mix of old and new industry. The reasons for Munich’s economic strength are both cultural and historical: following WW2,  many firms moved production from East Germany to West Germany. After the fall of the Berlin Wall, East Germany again underwent a sustained period of deindustrialization; large rundown East German industries were sold off to West German companies by the public German Treuhand agency, created in 1990 to privatize state-owned East German assets. 
+
+While Bavaria flourished, Berlin floundered. And despite over €2 trillion of financial transfers from the former West to the former East, huge disparities still exist between the regions, in measures such as labor productivity, GDP, and income, [with maps comparing the regions confirming this fact](http://www.dw.com/en/mapping-differences-in-two-german-economies/a-17734799).
+
+For software developers interested in working in Munich, Bavaria’s dominant economic position has a number of implications. First, wages are higher here than in Berlin, but so is the cost of living. Second, there is a broader choice in types of companies and industries to work for, but fewer startups. To give a rough analogy, Munich to Berlin is New York to Silicon Valley. 
+
+Bavarian automotive, finance, and media giants based in Munich are eager to cement Germany’s reputation not just as a traditional engineering powerhouse, but also a world leader in software engineering, which makes Munich a rather exciting place to be for software developers. 
+
+### Mobility in Munich
+
+![Mobility-tech-Munich](/assets/images/Mobility.png)
+
+Every [fourth German car](https://www.muenchen.de/rathaus/wirtschaft_en/industries/automotive.html)  is made in Bavaria. Munich is home to BMW and various other suppliers and Audi is based 50 minutes away in nearby Ingolstadt.  Close to 200,000 people in Munich are employed in the automotive industry, which generated [€110 billion in revenue in 2014](https://www.muenchen.de/rathaus/wirtschaft_en/industries/automotive.html).  The shift to autonomous driving is a big topic in the city, and one which dominates strategy of major carmakers. 
+
+At a December meeting of BMW, Munich’s most famous carmaker, the company’s CEO Harald Krüger, admitted that Apple, Google, Uber and Lyft were [“very dangerous players”](https://www.ft.com/content/9c04b2b6-ba3a-11e6-8b45-b8b81dd5d080) in the car market.  Krüger was talking days after BMW had posted its best-ever earnings, which largely came from record sales in its BMW, Mini and Rolls-Royce brands. Despite its bumper profits,  BMWs shares were down by a fifth, reflecting concerns of shareholders about the encroaching influence of tech companies. 
+
+
+In the same meeting, Krüger added that Germany’s background in engineering and automation made it the ideal location to respond to trends, [“We in Germany have the best conditions for a new era of mobility,”](https://www.ft.com/content/9c04b2b6-ba3a-11e6-8b45-b8b81dd5d080) he said, adding that the car industry was not being transformed, but was simply “on the move”.
+
+BMW is currently extending its reach into tech and startups. [DriveNow](https://de.drive-now.com/#), the pay-by-the-minute car-sharing service launched in 2011 is owned by BMW, and now operates in 11 European cities, the Its US version, ReachNow, which launched in three pilot cities in 2016, has 32,000 members. The company also has a VC arm, iVentures, which operates a [$530 million fund](http://www.bmw.com/com/en/insights/corporation/bmwi_ventures/), investing in shared mobility, virtual reality, in-vehicle digitalization,and cloud startups. 
+
+[BMW Startup Garage](http://www.bmwstartupgarage.com/) is BMW’s startup incubator, focused on automotive technology and urban mobility. For startups which graduate from the program, BMW buys a first unit of the startup’s technology, provides office space and supports in  manufacturing of a prototype, as well as access to skills through BMW’s innovation centres. 
+
+Daimler is also investing in startups in Munich. [Daimler Mobility](https://www.daimler.com/products/services/mobility-services/) invested in [FlixBus](https://www.flixbus.com/), a long distance bus company with an online booking platform, which since the end of the railroad monopoly and the privatization of the intercity bus market in Germany, has been offering bus tickets at very low prices.
+
+[Sixt](https://www.sixt.de/), a car rental company with about 4,000 locations in over 105 countries, also feels the need to encourage entrepreneurship within the company. According to Boyan Dimitrov Director of Platform Engineering at Sixt, the company’s biggest technical challenge is adapting to cloud technology. “Running applications in a cloud environment is something new for us, because for a long time we operated our own data centers and we were used to managing our applications in a certain way. Now when we are building our applications on the cloud we have to think more how they behave in this new environment which we do not fully control. We had a learning curve about how to build better automated software.” 
+
+![Security-tech-Munich](/assets/images/security.png)
+
+### That thing, that thing, that Internet of Things
+
+Munich’s combination of high-tech industries, knowledge-intensive services and traditional production make the city a fertile breeding ground for emerging Internet of Things companies. While the phrase IoT [irks many developers](https://blog.bolt.io/the-internet-of-dumb-things-49d102018e16#.qidse9250)  for its overly generalized and somewhat inexplicable applications, the term is useful as a catch-all phrase to describe the connection of everyday objects to the internet, allowing them to send and receive data.
+
+
+![internet-of-things-Munich](/assets/images/security.png)
+
