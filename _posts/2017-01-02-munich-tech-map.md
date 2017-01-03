@@ -103,7 +103,7 @@ Many looking at Munich’s tech development wonder if the influence of big indus
 
 ![startups-Munich](/assets/images/munich-local-heroes.png)
 
-Florian Deglmann, editor of [Munich Startup](http://en.munich-startup.de/), explained that while corporates can be powerful partners for startups, big industry players are also tough competition for top talents. However, he concedes that overall “it is more of an advantage than disadvantage, not just for startups, but for both sides as big companies are in need of innovation.” For software developers, this is clearly an advantage.
+Gabriele Böhmer, editor of [Munich Startup](http://en.munich-startup.de/), explained that while corporates can be powerful partners for startups, big industry players are also tough competition for top talents. However, he concedes that overall “it is more of an advantage than disadvantage, not just for startups, but for both sides as big companies are in need of innovation.” For software developers, this is clearly an advantage.
 
 ![corporate-Munich](/assets/images/munich-big-tech.png)
 
