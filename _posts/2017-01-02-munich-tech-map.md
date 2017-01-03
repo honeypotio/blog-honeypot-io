@@ -10,7 +10,7 @@ permalink:  munich-tech-map/
 importance: 2
 ---
 
-While Berlin is the capital of Germany, Munich is its economic heartland. The Bavarian capital has the highest purchasing power of any German city and about 90 of the 1,000 largest German  companies are headquartered here, including global corporations such as Allianz, BMW, MAN, Munich Re, and Siemens. 
+While Berlin is the capital of Germany, Munich is its economic heartland. The Bavarian capital has the highest purchasing power of any German city and many of large German companies are headquartered here, including global corporations such as Allianz, BMW, MAN, Munich Re, and Siemens. 
 
 But what does Munich have to offer software developers?
 
@@ -22,17 +22,17 @@ To figure that out, we created the Munich Tech Map, a guide to jobs and companie
 
 ### Munich’s Economic Dominance
 
-According to the [Deutsche Startup Monitor]( http://deutscherstartupmonitor.de/fileadmin/dsm/dsm-15/studie_dsm_2015.pdf) , 31% of startups in Germany are located in Berlin, compared to 11% in Munich. If you take Bavaria, the state to which Munich is the capital, as a whole, that number jumps to 16%. 
+According to [Deutsche Startup Monitor]( http://deutscherstartupmonitor.de/fileadmin/dsm/dsm-15/studie_dsm_2015.pdf), 31% of startups in Germany are located in Berlin, compared to 11% in Munich. If you take Bavaria, the state to which Munich is the capital, as a whole, that number jumps to 16%. 
 
 ![Munich-tech-industries](/assets/images/munich-industries.png)
  
 While Berlin is home to the most startups in Germany, Munich’s strength is its mix of old and new industry. The reasons for Munich’s economic strength are both cultural and historical: following WW2, many firms moved production from East to West Germany. After the fall of the Berlin Wall, East Germany again underwent a sustained period of deindustrialization; large rundown East German industries were sold off to West German companies by the German Treuhand agency, created in 1990 to privatize state-owned East German assets. 
 
-While Bavaria flourished, Berlin floundered. And despite over €2 trillion of financial transfers from the former West to the former East, huge disparities still exist between the regions, in measures such as labor productivity, GDP, and income, [with maps comparing the regions confirming this fact](http://www.dw.com/en/mapping-differences-in-two-german-economies/a-17734799).
+While Bavaria flourished, Berlin floundered. And despite over €2 trillion of financial transfers from the former West to the former East, huge disparities still exist between the regions, in measures such as labor productivity, GDP, and income. Maps comparing the regions [confirm this fact](http://www.dw.com/en/mapping-differences-in-two-german-economies/a-17734799).
 
 For software developers interested in working in Munich, Bavaria’s dominant economic position has a number of implications. First, wages are higher here than in Berlin, but so is the cost of living. Second, there is a broader choice in types of companies and industries to work for, but fewer startups. To give a rough analogy, Munich is to Berlin what New York is to Silicon Valley. 
 
-Despite fewer startups, Bavarian automotive, finance, and media giants based in Munich are eager to cement Germany’s reputation not just as a traditional engineering powerhouse, but also a world leader in software engineering, which makes Munich a rather exciting place to be for software developers. 
+Despite fewer startups, Bavarian automotive, finance, and media giants based in Munich are eager to cement Germany’s reputation not just as a traditional engineering powerhouse, but also as a world leader in software engineering, which makes Munich a rather exciting place  for software developers to be. 
 
 ### Mobility in Munich
 
@@ -44,7 +44,7 @@ At a December meeting of BMW, Munich’s most famous carmaker, the company’s C
 
 In the same meeting, Krüger added that Germany’s background in engineering and automation made it the ideal location to respond to trends, [“We in Germany have the best conditions for a new era of mobility,”](https://www.ft.com/content/9c04b2b6-ba3a-11e6-8b45-b8b81dd5d080) he said, adding that the car industry was not being transformed, but was simply “on the move”.
 
-BMW is currently extending its reach into tech and startups. [DriveNow](https://de.drive-now.com/#), the pay-by-the-minute car-sharing service launched in 2011 is owned by BMW, and now operates in 11 European cities. The US version, ReachNow, which launched in three pilot cities in 2016 and has 32,000 members. The company also has a VC arm, iVentures, which operates a [$530 million fund](http://www.bmw.com/com/en/insights/corporation/bmwi_ventures/), investing in shared mobility, virtual reality, in-vehicle digitalization,and cloud startups. 
+BMW is currently extending its reach into tech and startups. [DriveNow](https://de.drive-now.com/#), the pay-by-the-minute car-sharing service launched in 2011 is owned by BMW, and now operates in 11 European cities. The US version, ReachNow, which launched in three pilot cities in 2016 and has 32,000 members. The company also has a VC arm, iVentures, which operates a [$530 million fund](http://www.bmw.com/com/en/insights/corporation/bmwi_ventures/), investing in shared mobility, virtual reality, in-vehicle digitalization, and cloud technologies. 
 
 [BMW Startup Garage](http://www.bmwstartupgarage.com/) is BMW’s startup incubator and is also based in Munich. It is focused on automotive technology and urban mobility. For startups which graduate from the program, BMW buys a first unit of the startup’s technology, provides office space and supports in manufacturing of a prototype, as well as access to skills through BMW’s innovation centres. 
 
@@ -52,14 +52,8 @@ Daimler is also investing in startups in Munich. [Daimler Mobility](https://www.
 
 [Sixt](https://www.sixt.de/), a car rental company with about 4,000 locations in over 105 countries, is also encouraging entrepreneurship within the company. According to Boyan Dimitrov, Director of Platform Engineering at Sixt, one of the biggest technical challenges has been the shift to a new mindset about building cloud-native software: “Running applications in a cloud environment is something new for us, because we are used to operating our own data centers and therefore we are used to managing our applications in a certain way. Now when we are building applications on the cloud we have to think more about how they behave in an environment which we do not fully control. Its been a steep learning curve to figure out how to build automated and resilient software that relies on self-healing.”
 
-![Security-tech-Munich](/assets/images/munich-security.png)
+![IoT-tech-Munich](/assets/images/munich-security.png)
 
-### That thing, that thing, that Internet of Things
-
-Munich’s combination of high-tech industries, knowledge-intensive services and traditional production make the city a fertile breeding ground for emerging Internet of Things companies. While the phrase IoT [irks many developers](https://blog.bolt.io/the-internet-of-dumb-things-49d102018e16#.qidse9250)  for its overly generalized and somewhat inexplicable applications, the term is useful as a catch-all phrase to describe the connection of everyday objects to the internet, allowing them to send and receive data.
-
-
-![internet-of-things-Munich](/assets/images/security.png)
 
 ### That thing, that thing, that Internet of Things
 
@@ -80,7 +74,7 @@ Similarly [Konux](https://www.konux.com/) are developing smart sensor systems he
 
 Another IoT company to emerge from Munich is [Bragi](https://www.bragi.com/thedash/). The company launched in 2014, following  a successful $3.3 million Kickstarter crowdfunding campaign.  A year later, it launched Dash, the first completely wireless smart headphones, which can be used to listen to music, track your heart rate and oxygen saturation,, among other features.  Dash is a powerful microcomputer with more than 150 micro components, 27 sensors and a 32-bit processor. Bragi switched from Bluetooth to a technology called Near-Field Magnetic Induction, or NFMI, which uses a low-power magnetic field to transmit data.  
 
-For startups operating in IoT in Munich, the efficient supply chains are a huge benefit. CTO of Bragi Toby Martin commented, “The list of requirements to make the Dash is enormous; it was far far more complicated than we anticipated when we started. But when we were struggling with electronics, with the materials, the optics and the components, we always found that somewhere near Munich there was a company doing precisely what we needed and there were happy to help us. And certainly in the wider community of Munich companies there was a sense for community.” 
+For startups operating in IoT in Munich, the efficient supply chains are a huge benefit. CTO of Bragi, Toby Martin, commented, “The list of requirements to make the Dash is enormous; it was far far more complicated than we anticipated when we started. But when we were struggling with electronics, with the materials, the optics and the components, we always found that somewhere near Munich there was a company doing precisely what we needed and there were happy to help us. And certainly in the wider community of Munich companies there was a sense for community.” 
 
 The dominant programming languages these IoT companies in Munich are hiring for are C++, Node.js and Python. 
 
@@ -90,7 +84,7 @@ The dominant programming languages these IoT companies in Munich are hiring for 
 
 Munich is also a prominent media hub and the center of southern German finance.  While TV and production dominates in Cologne, publishing rules in Berlin and Hamburg, and advertising leads in Düsseldorf and Frankfurt, Munich’s media sector is known for its diversity.
 
-According to Munich’s Department of Labour and Economic Development, there are 8,100 companies in media in Munich, with close to 30,000 employees. The city is home to [ProSiebenSat.1 Media AG](http://www.prosiebensat1.de/), one of Germany's biggest media groups, and [Burda Media](http://www.hubert-burda-media.com/en/),  a publishing company which owns over 400 magazines, including German editions of of Playboy, Elle, and Harper's Bazaar, and Burda Style. Both companies are actively involved in startups, ProSieben through its Berlin-based [accelerator](https://www.p7s1accelerator.com/en/home/) and [Seven Ventures](http://www.sevenventures.de/en/home-en), its investment arm. 
+According to Munich’s Department of Labour and Economic Development, there are 8,100 companies in media in Munich, with close to 30,000 employees. The city is home to [ProSiebenSat.1 Media AG](http://www.prosiebensat1.de/), one of Germany's biggest media groups, and [Burda Media](http://www.hubert-burda-media.com/en/),  a publishing company which owns over 400 magazines, including German editions of of Playboy, Elle, and Harper's Bazaar, and Burda Style. Both companies are actively involved in startups. 
 
 The influence of media in the city can be seen in the MarTech and AdTech startups which populate the startup ecosystem.
 
@@ -105,14 +99,13 @@ Other succesful FinTech ventures include online fundraising platform, [Altruja](
 ![MedTech-Munich](/assets/images/munich-medtech.png)
 
 
-Many looking at Munich’s tech development wonder if the influence of big industry in Munich is more of an advantage or disadvantage for startups located in Amsterdam? 
+Many looking at Munich’s tech development wonder if the influence of big industry in Munich is more of an advantage or disadvantage for startups located in Amsterdam? A number of successful startups have emerged from Munich, notably eGym, Hetras, Holiday Check, Metaio, WestWing and Windeln.
 
 ![startups-Munich](/assets/images/munich-local-heroes.png)
 
+John Smith, editor of [Munich Startup](http://en.munich-startup.de/), explained that while corporates can be powerful partners for startups, big industry players are also tough competition for top talents. However, he concedes that overall “it is more of an advantage than disadvantage, not just for startups, but for both sides as big companies are in need of innovation.” For software developers, this is clearly an advantage.
+
 ![corporate-Munich](/assets/images/munich-big-tech.png)
-
-
-A number of successful startups have emerged from Munich, notably eGym, Hetras, Holiday Check, Metaio, WestWing and Windeln.  John Smith, editor of [Munich Startup](http://en.munich-startup.de/), explained that for startups, that on the one hand, corporates can be powerful partners for startups, while on the other, big industry players are tough competition for top talents. However, he concedes that overall “it is more of an advantage than disadvantage, not just for startups, but for both sides as big companies are in need of innovation.” For software developers, this is clearly an advantage.
 
 ![ecommerce-Munich](/assets/images/munich-Ecommerce.png)
 
@@ -121,19 +114,19 @@ A number of successful startups have emerged from Munich, notably eGym, Hetras, 
 ![startups-Munich](/assets/images/munich-other.png)
 
 
-The question for software developers in Munich then should be how to choose between startups and corporates? For David Drews, Product Manager at [Aboalarm][https://www.aboalarm.de/], it comes down to preference: “Working for a startup is a cultural question that talents have to ask themselves. At Aboalarm, we are a super young team, the average age is in the mid-20s, which keeps the workplace dynamic and agile. So, at the end of the day it comes down to the talent asking - do I want to work in a big company or a small company?”
+The question for software developers in Munich then should be how to choose between startups and corporates? For David Drews, Product Manager at [Aboalarm](https://www.aboalarm.de/), it comes down to preference: “Working for a startup is a cultural question that talents have to ask themselves. At Aboalarm, we are a super young team, the average age is in the mid-20s, which keeps the workplace dynamic and agile.”
 
 ### What programming languages are most in demand in Munich? 
 
-Of the 200 companies we featured on the Munich Developer Map, 165 of those had publicly available information about their tech stack. We used data from the careers websites of the companies featured, from GitHub, from Angel.co and from company profiles on Honeypot. 
+Of the 200 companies we featured on the Munich Tech Map, 165 of those had publicly available information about their tech stack. We used data from the careers websites of the companies featured, from GitHub, from Angel.co and from company profiles on Honeypot. 
 
 In order to calculate the most popular programming languages in Munich, we looked at the frequency of mentions of a particular programming language across all companies. Thus, if a company mentions Python and Ruby within its tech stack, then each is counted once. The frequency of mentions of each individual language was then calculated as a percentage of total companies with their tech stack publically available. 
 
 Here is what we found. 
 
-The three most popular backend languages in Munich are Java, PHP and Python. We found that 38% of companies used Java in their tech stack, 30% used PHP and 14% used Python.  
-
 ![backend-languages-munich](/assets/images/munich-backend-languages.png)
+
+The three most popular backend languages in Munich are Java, PHP and Python. We found that 38% of companies used Java in their tech stack, 30% used PHP and 14% used Python.  
 
 We did a similar calculation for the most popular frontend frameworks. Fewer companies had their frontend frameworks listed publically, just 74 in total. From those companies, 54% mentioned Angular,  27% mentioned React and 9% mentioned Ember and Backbone. 
 
@@ -143,7 +136,7 @@ We did a similar calculation for the most popular frontend frameworks. Fewer com
 
 If you are a developer looking to become a founder, Munich is a great place to base yourself. The city is dotted with corporate-backed incubators offering generous incentives to start tech companies. 
 
-[Play][https://www.play-hub.de/] is Sky Deutschland’s incubator. For those who qualify for the program, Play will give you €25,000, office space for six months to develop a prototype,  and access to engineering skills.  [Wayra](http://de.wayra.co/) is Telefónica Deutschland's startup accelerator, whose investments include [Neokami](https://www.neokami.com/), [Foodora](https://www.foodora.de/) and [Parkpocket](https://www.foodora.de/).
+[Play](https://www.play-hub.de/) is Sky Deutschland’s incubator. For those who qualify for the program, Play will give you €25,000, office space for six months to develop a prototype,  and access to engineering skills.  [Wayra](http://de.wayra.co/) is Telefónica Deutschland's startup accelerator, whose investments include [Neokami](https://www.neokami.com/), [Foodora](https://www.foodora.de/) and [Parkpocket](https://www.foodora.de/).
 
 While not directly owned by a large company, [TechFounders](http://www.techfounders.com/), an accelerator, is backed by industry partners, such as Bosch, BMW Group and Siemens. The 20-week accelerator program brings tech startups together with industry partners and venture capitalists and requires no fees. Best of all, TechFounders takes zero equity.
 
@@ -157,9 +150,11 @@ The Bavarian government has a number of initiatives supporting local talent. [Ba
 ### Life in Munich 
 
 
-In 2013, Storm van’s Gravesande, founder of AboAlarm, launched [Bits & Pretzels](https://www.bitsandpretzels.com/), which today is Munich’s biggest startup event. Bits and Pretzels is perfectly timed around Oktoberfest for it to be both a valuable business and social event.
-
 Munich’s location - close to Italy and Austria - makes it a great location for outdoor enthusiasts.  Toby Martin, Head of Software Engineering at Bragi, said Munich is a great place for developers to be: "What we find is when we recruit from other countries, we find that is easy to attract people to Munich because of the place that it is. Munich can be a difficult place to move to because it’s expensive. One-person flats are very expensive and hard to find. But once people have settled in they enjoy the vibe.” 
+
+Ultimately, Munich's appeal for software developers is the variety of jobs offered in the city. 
+
+...Oh and there is always Oktoberfest. 
 
 
 
