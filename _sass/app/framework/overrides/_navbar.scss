@@ -4,13 +4,17 @@
 
   &-nav {
     font-family: $ff-sans-serif;
-    font-size: $fs-3;
-    font-weight: $fw-semibold;
-    text-transform: uppercase;
+    font-size: $fs-9;
     color: $gray-1-color;
 
-    a {
+    > li > a {
       color: inherit;
+
+      &:hover,
+      &:focus {
+        color: $blue-color;
+        background-color: transparent;
+      }
     }
 
     li {
@@ -18,6 +22,17 @@
 
       @media #{$md-up} {
         text-align: left;
+      }
+    }
+
+    .navbar-btn {
+      color: $white-color;
+      font-size: $fs-1;
+      padding: 6px 12px;
+      text-transform: none;
+
+      @media #{$md-up} {
+        margin-left: 10px;
       }
     }
   }

@@ -1,5 +1,5 @@
 .btn {
-  @include button-size(7px, 21px, $fs-1 - 1px, $fs-2, 3px);
+  @include button-size(7px, 21px, $fs-1 - 1px, $fs-2, 4px);
   font-weight: $fw-bold;
   font-family: $ff-sans-serif;
   text-transform: uppercase;
