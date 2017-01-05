@@ -94,6 +94,8 @@ Many large financial institutions, including banks, insurance companies and othe
 
 FinanzChef24, an online broker and comparison portal, is one of the city's biggest succeses - it has raised $12.57 million in three rounds since founding, positioning it as one of Munich’s best financed startups.  
 
+![Fintech-Munich](/assets/images/munich-FinTech.png)
+
 Other succesful FinTech ventures include online fundraising platform, [Altruja](https://www.altruja.de/), mobile payments provider, [Boku](http://www.boku.com/), online payments provider [Paymill](https://www.paymill.com/de)  and online bank [Fidor Bank](https://www.fidor.de/). The majority of FinTech startups use PHP, Java and Ruby in their tech stacks. 
 
 ![MedTech-Munich](/assets/images/munich-medtech.png)
