@@ -126,7 +126,7 @@ Here is what we found.
 
 ![backend-languages-munich](/assets/images/munich-backend-languages.png)
 
-The three most popular backend languages in Munich are Java, PHP and Python. We found that 38% of companies used Java in their tech stack, 30% used PHP and 14% used Python.  
+The three most popular backend languages in Munich are Java, PHP and Python. We found that 38% of companies used PHP in their tech stack, 30% used Java and 14% used Python.  
 
 We did a similar calculation for the most popular frontend frameworks. Fewer companies had their frontend frameworks listed publically, just 74 in total. From those companies, 54% mentioned Angular,  27% mentioned React and 9% mentioned Ember and Backbone. 
 
