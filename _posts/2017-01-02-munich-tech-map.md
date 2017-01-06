@@ -78,6 +78,18 @@ For startups operating in IoT in Munich, the efficient supply chains are a huge 
 
 The dominant programming languages these IoT companies in Munich are hiring for are C++, Node.js and Python. 
 
+## Virtual Reality Munich
+
+![internet-of-things-Munich](/assets/images/munich-vr.png)
+
+[Metaio]( http://www.metaio.eu/) are the pioneers of Augmented Reality (AR) in Munich. Their purchase by Apple in 2015 catapulted Munich to the forefront of AR worldwide. While exact figures on the number of companies operating in AR and Virtual Reality (VR) in Munich are scarce, there is a vibrant community and some strong emerging players. 
+
+Like IoT, the development of AR and VR in Munich is tied to a mix of excellent universities, strong corporate support and dynamic community initiatives. 
+
+The city is home to [Technische Universität München](https://www.tum.de/), where world-class research is being conducted under the guidance of Professor Klinker. Likewise, the [Bayerisches Filmzentrum](http://filmzentrum-bayern.de/home/) is working on a number of VR projects. Automotive companies, such as BMW, and media companies, like Pro7 and Sky are working on AR and VR applications. Last year, Audi launched its [VR experience](https://www.engadget.com/2016/01/10/audi-vr-dealership-car-configurator/) in selected dealerships, to give customers an idea for the look and feel of their potential new purchase. 
+
+According to Dirk Schart, co-organizer of the VR and Mixed Reality Meetups, companies like Google are also supporting the local scene by sponsoring meetups.  This confluence of community, corporate support and technical skills have given rise to a number of AR/VR companies in Munich. [RE’FLEKT](https://www.re-flekt.com/), for example, was founded in 2012, and creates AR and VR technologies, such as face tracking, which they are developing for the augmented windows of Elon Musk’s [Hyperloop](https://www.youtube.com/watch?v=7A7GsAPR3J0).  Other startups and agenices include [Innoactive](http://www.innoactive.de/en/), [Dexperio](http://www.dexperio.net/), and [CoSpaces](https://cospaces.io/). 
+
 ### Media and Finance in Munich
 
 ![internet-of-things-Munich](/assets/images/munich-marketing.png)
