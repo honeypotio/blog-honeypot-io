@@ -150,7 +150,7 @@ We did a similar calculation for the most popular frontend frameworks. Fewer com
 
 If you are a developer looking to become a founder, Munich is a great place to base yourself. The city is dotted with corporate-backed incubators offering generous incentives to start tech companies. 
 
-[Play](https://www.play-hub.de/) is Sky Deutschland’s incubator. For those who qualify for the program, Play will give you €25,000, office space for six months to develop a prototype,  and access to engineering skills.  [Wayra](http://de.wayra.co/) is Telefónica Deutschland's startup accelerator, whose investments include [Neokami](https://www.neokami.com/), [Foodora](https://www.foodora.de/) and [Parkpocket](https://www.foodora.de/).
+[Play](https://www.play-hub.de/) is Sky Deutschland’s incubator. For those who qualify for the program, Play will give you €25,000, office space for six months to develop a prototype,  and access to engineering skills.  [Wayra](http://de.wayra.co/) is Telefónica Deutschland's startup accelerator, whose investments include [Neokami](https://www.neokami.com/), [Foodora](https://www.foodora.de/) and [Parkpocket](https://parkpocket.com/en).
 
 While not directly owned by a large company, [TechFounders](http://www.techfounders.com/), an accelerator, is backed by industry partners, such as Bosch, BMW Group and Siemens. The 20-week accelerator program brings tech startups together with industry partners and venture capitalists and requires no fees. Best of all, TechFounders takes zero equity.
 
