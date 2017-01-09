@@ -86,7 +86,7 @@ The dominant programming languages these IoT companies in Munich are hiring for 
 
 Like IoT, the development of AR and VR in Munich is tied to a mix of excellent universities, strong corporate support and dynamic community initiatives. 
 
-The city is home to [Technische Universität München](https://www.tum.de/), where world-class research is being conducted under the guidance of Professor Klinker. Likewise, the [Bayerisches Filmzentrum](http://filmzentrum-bayern.de/home/) is working on a number of VR projects. Automotive companies, such as BMW, and media companies, like Pro7 and Sky are working on AR and VR applications. Last year, Audi launched its [VR experience](https://www.engadget.com/2016/01/10/audi-vr-dealership-car-configurator/) in selected dealerships, to give customers an idea for the look and feel of their potential new purchase. 
+The city is home to [Technische Universität München](https://www.tum.de/), where world-class research is being conducted under the guidance of Professor Klinker. Likewise, the [Bayerisches Filmzentrum](http://filmzentrum-bayern.de/home/) offer coaching and support for content creators on the 360°/VR track of the First Movie Program, as well as workshops, labs, masterclasses and events. Automotive companies, such as BMW, and media companies, like Pro7 and Sky are working on AR and VR applications. Last year, Audi launched its [VR experience](https://www.engadget.com/2016/01/10/audi-vr-dealership-car-configurator/) in selected dealerships, to give customers an idea for the look and feel of their potential new purchase. 
 
 According to Dirk Schart, co-organizer of the VR and Mixed Reality Meetups, companies like Google are also supporting the local scene by sponsoring meetups.  This confluence of community, corporate support and technical skills have given rise to a number of AR/VR companies in Munich. [RE’FLEKT](https://www.re-flekt.com/), for example, was founded in 2012, and creates AR and VR technologies, such as face tracking, which they are developing for the augmented windows of Elon Musk’s [Hyperloop](https://www.youtube.com/watch?v=7A7GsAPR3J0).  Other startups and agenices include [Innoactive](http://www.innoactive.de/en/), [Dexperio](http://www.dexperio.net/), and [CoSpaces](https://cospaces.io/). 
 
@@ -104,11 +104,14 @@ The influence of media in the city can be seen in the MarTech and AdTech startup
 
 Many large financial institutions, including banks, insurance companies and other providers of financial services are located in Munich. Allianz and Munich Re, two large insurance companies, are headquarted in Munich.  
 
-FinanzChef24, an online broker and comparison portal, is one of the city's biggest succeses - it has raised $12.57 million in three rounds since founding, positioning it as one of Munich’s best financed startups.  
+Finanzchef24, an online broker and comparison portal, is one of the city's biggest succeses - it has raised over $17 million in three rounds since founding in 2012, positioning it as one of Munich’s best financed startups.  
 
 ![Fintech-Munich](/assets/images/munich-FinTech.png)
 
 Other succesful FinTech ventures include online fundraising platform, [Altruja](https://www.altruja.de/), mobile payments provider, [Boku](http://www.boku.com/), online payments provider [Paymill](https://www.paymill.com/de)  and online bank [Fidor Bank](https://www.fidor.de/). The majority of FinTech startups use PHP, Java and Ruby in their tech stacks. 
+
+For [IDNow](https://www.idnow.de/), Munich was a no-brainer in terms of location for their business: "We saw Munich as the ideal city to build our product," says Sebastian Bärhold, the Co-Founder of the FinTech startup, "Even though there is a higher salary level here compared to other cities, we are willing to pay that in order to get the quality of talent we need. Thanks to Munich’s universities there is also no shortage of skilled labor.”
+
 
 ![MedTech-Munich](/assets/images/munich-medtech.png)
 
@@ -117,7 +120,7 @@ Many looking at Munich’s tech development wonder if the influence of big indus
 
 ![startups-Munich](/assets/images/munich-local-heroes.png)
 
-Gabriele Böhmer, editor of [Munich Startup](http://en.munich-startup.de/), explained that while corporates can be powerful partners for startups, big industry players are also tough competition for top talents. However, he concedes that overall “it is more of an advantage than disadvantage, not just for startups, but for both sides as big companies are in need of innovation.” For software developers, this is clearly an advantage.
+Gabriele Böhmer, editor of [Munich Startup](http://en.munich-startup.de/), explained that while corporates can be powerful partners for startups, big industry players are also tough competition for top talents. However, she concedes that overall “it is more of an advantage than disadvantage, not just for startups, but for both sides as big companies are in need of innovation.” For software developers, this is clearly an advantage.
 
 ![corporate-Munich](/assets/images/munich-big-tech.png)
 
@@ -166,7 +169,9 @@ The Bavarian government has a number of initiatives supporting local talent. [Ba
 
 Munich’s location - close to Italy and Austria - makes it a great location for outdoor enthusiasts.  Toby Martin, Head of Software Engineering at Bragi, said Munich is a great place for developers to be: "What we find is when we recruit from other countries, we find that is easy to attract people to Munich because of the place that it is. Munich can be a difficult place to move to because it’s expensive. One-person flats are very expensive and hard to find. But once people have settled in they enjoy the vibe.” 
 
-Ultimately, Munich's appeal for software developers is the variety of jobs offered in the city. 
+Harald Wagner, Head of Business Plan Competitions at [BayStartUP](http://www.baystartup.de/), a support network for entrepreneurs in Bavaria, reaffirms Munich's relaxed atmosphere is one of the highlights of the city, mentioning, “I believe a big plus for Munich is not only the bustling tech scene, but also the Bayerische *Gemütlichkeit* (coziness) and *Biergarten Flair*, which are factors that keep many people in the city."
+
+Ultimately, Munich's appeal for software developers is the variety of jobs offered in the city, a bustling tech spirit and a relaxed atmospherse in the city. 
 
 ...Oh and there is always Oktoberfest. 
 
