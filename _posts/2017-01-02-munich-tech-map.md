@@ -104,7 +104,7 @@ The influence of media in the city can be seen in the MarTech and AdTech startup
 
 Many large financial institutions, including banks, insurance companies and other providers of financial services are located in Munich. Allianz and Munich Re, two large insurance companies, are headquarted in Munich.  
 
-Finanzchef24, an online broker and comparison portal, is one of the city's biggest succeses - it has raised over $17 million in three rounds since founding in 2012, positioning it as one of Munich’s best financed startups.  
+[Finanzchef24](https://www.finanzchef24.de/), an online broker and comparison portal, is one of the city's biggest succeses - it has raised over $17 million in three rounds since founding in 2012, positioning it as one of Munich’s best financed startups.  
 
 ![Fintech-Munich](/assets/images/munich-FinTech.png)
 
