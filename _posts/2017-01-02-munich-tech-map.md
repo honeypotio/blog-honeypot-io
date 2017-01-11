@@ -130,6 +130,8 @@ Gabriele Böhmer, editor of [Munich Startup](http://en.munich-startup.de/), expl
 
 ![startups-Munich](/assets/images/munich-other.png)
 
+![HR-Munich](/assets/images/munich-hr.png)
+
 
 The question for software developers in Munich then should be how to choose between startups and corporates? For David Drews, Product Manager at [Aboalarm](https://www.aboalarm.de/), it comes down to preference: “Working for a startup is a cultural question that talents have to ask themselves. At Aboalarm, we are a super young team, the average age is in the mid-20s, which keeps the workplace dynamic and agile.”
 
