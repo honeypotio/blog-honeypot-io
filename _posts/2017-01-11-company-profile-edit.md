@@ -1,7 +1,7 @@
 ---
 title:   An all new way to present your company on Honeypot
 subtitle:
-date:    2017-01-09 09:54:05
+date:    2017-01-12 09:54:05
 layout:  post
 author:  product_team
 categories: Updates
