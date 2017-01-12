@@ -21,6 +21,7 @@ Honeypot's mission is to get every developer a great job and we believe to do so
 ### What's important?
 
 When a developer receives your invitation for an interview on Honeypot, they don't just see the job you offer but also your company profile. The things that many developers care about are:
+
 * The product: What are you building? What is the impact you want to have?
 * The team: Who are the would-be team members? Do they have open source contributions?
 * The tech stack: Will they work with Ruby or PHP, MySQL or Postgresql?
