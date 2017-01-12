@@ -3,7 +3,7 @@ title:   An all new way to present your company on Honeypot
 subtitle:
 date:    2017-01-09 09:54:05
 layout:  post
-author:  emma_tracey
+author:  product_team
 categories: Updates
 cover_image: batch.png
 permalink:  company-profile-edit/

@@ -58,3 +58,7 @@ kado_damball:
   name: Kado Damball
   desc: Kado Damball is a software developer at Honeypot. He enjoys everything related to data. He also likes learning functional programming concepts.
   avatar: kado_damball.png
+product_team:
+  name: Product Team
+  desc: Honeypot's product team blogs to keep you updated on new features and releases.
+  avatar: product.png
