@@ -26,7 +26,7 @@ When a developer receives your invitation for an interview on Honeypot, they don
 * The tech stack: Will they work with Ruby or PHP, MySQL or Postgresql?
 * The perks: Do you offer free Mate, Hackathons or an office dog?
 
-Answering these questions on your company profile can increase your chances for successful matches with developers.
+Answering these questions on your company profile can increase your chances for successful matches with developers. Oh, and adding some photos can’t hurt either!
 
 ### Soo, where to start?
 
@@ -37,3 +37,5 @@ You can find and edit your company profile by accessing it from the dropdown in 
 
 
 Happy editing!
+
+PS, if you want to get more insights into how to make your company profile stand out, get in touch with your account manager.
