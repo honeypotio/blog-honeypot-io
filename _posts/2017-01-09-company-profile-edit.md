@@ -38,4 +38,4 @@ You can find and edit your company profile by accessing it from the dropdown in 
 
 Happy editing!
 
-PS, if you want to get more insights into how to make your company profile stand out, get in touch with your account manager.
+PS, if you want to get more insights into how to make your company profile stand out, get in touch with your account manager for some inspiration and tips.
