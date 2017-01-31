@@ -10,16 +10,16 @@ permalink:  what-is-an-embedded-engineer/
 importance: 2
 ---
 
-With the rise of IoT, autonomous driving, and robotics, low level firmware and embedded engineering skills are becoming more and more relevant, particularly in Germany. Writing embedded software requires very different skills from enterprise or application software development. To celebrate the new filter for embedded engineers on Honeypot, we prepared six questions you always wanted to know about embedded engineers, but were too afraid to ask. 
+With the rise of the Internet of things (IoT), autonomous driving, and robotics, low level firmware and embedded engineering skills are becoming more and more relevant, particularly in Germany. Writing embedded software requires very different skills from enterprise or application software development. To celebrate the new filter for embedded engineers on Honeypot, we prepared six questions you always wanted to know about embedded engineers, but were too afraid to ask. 
 
 <!--more-->
 
 
 ### What are embedded systems?
 
-[An embedded system](https://en.wikipedia.org/wiki/Embedded_system) is a computer system with a dedicated function within a larger mechanical or electrical system, which often performs pre-defined tasks, usually with very specific requirements. 
+An embedded system is a computer with a dedicated function within a larger mechanical or electrical system.  They often perform pre-defined tasks with very specific requirements.
 
-Embedded systems can be microprocessors, the tiny electronic chips found inside a computer's central processing unit (CPU), which compute and calculate the commands, or they can be microcontroller-based, which is usually a SoC (System on a chip) containing logic units, memory slots, and I/O peripherals, etc. In either case, there is an integrated circuit (IC) at the heart of the product that is generally designed to carry out computation for real-time operations.
+Embedded systems can be microprocessors, the tiny electronic chips found inside a computer's central processing unit (CPU), which compute and calculate the commands. They can also be microcontroller-based, which is usually a SoC (System on a chip) containing logic units, memory slots, and I/O peripherals, etc. In either case, there is an integrated circuit (IC) at the heart of the product that is generally designed to carry out computation for real-time operations.
 
 ### What are some examples of embedded systems? 
 
@@ -28,11 +28,11 @@ As mentioned in the previous question, think of an embedded system as any electr
 
 ### What do embedded engineers do? 
 
-Embedded engineers typically have control over both the hardware design and the software design, and as such have an in-depth knowledge of embedded architectures. 
+Embedded engineers typically have control over both hardware and software design.  Typically this requires an in-depth knowledge of embedded architectures.  
 
 ### What skills do embedded engineers have? 
 
-Embedded engineers generally come from an Electrical Engineering or a Computer Science background and have very in-depth knowledge of embedded architecture. The most common programming language used by embedded engineers is C/C++.
+Embedded engineers generally come from an Electrical Engineering, Computer Science background and have total command of embedded architecture. The most common programming language used by embedded engineers is C/C++.
 
 Maharajan Veerabahu suggests to think of [embedded engineers](https://www.linkedin.com/pulse/5-roles-played-embedded-engineer-maharajan-veerabahu?trk=prof-post) in five key roles: micro-controller firmware engineers, embedded operating system engineers, embedded networking engineers, embedded applications engineer and embedded technology experts. Each has its own particular specialities, but in general the key skills include: 
 
@@ -64,7 +64,7 @@ This list comes largely from a [StackOverflow thread](http://stackoverflow.com/q
 
 ### What is the difference between an embedded engineer and a software engineer?
 
-Like software engineers, embedded engineers code, debug, test and write the corresponding documentation. Unlike software engineers, embedded engineers work largely with hardware, and often need to develop or configure a custom operating system unique to the hardware and memory map of the device. Embedded engineers must also consider safety concerns of the devices/systems they code: the embedded systems in a car's braking system, for example, cannot fail. 
+Like software engineers, embedded engineers code, debug, test and write the corresponding documentation. Unlike software engineers, embedded engineers work largely with hardware, and often need to develop or configure a custom operating system unique to the hardware and memory map of the device. Embedded Engineers must also consider safety.  For example, the embedded system in charge of car’s brake system can not fail. 
 
 Check out what Roger DiPaolo, an embedded engineer with 35 years of experience, said in this [Quora answer on the topic](https://www.quora.com/Will-firmware-and-embedded-system-hardware-engineers-be-in-higher-demand-than-application-software-engineers) answer:
  
