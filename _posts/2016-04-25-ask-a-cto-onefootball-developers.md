@@ -1,5 +1,5 @@
 ---
-title:   "Ask a CTO: Grzegorz Krumpholz, Onefootball"
+title:   'Ask a CTO: Grzegorz Krumpholz, Onefootball'
 subtitle: On GoLang, Wisła Kraków and Microservices
 date:    2016-04-25 10:15:31
 layout:  post

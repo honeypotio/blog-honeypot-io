@@ -1,5 +1,5 @@
 ---
-title:   "Ask a CTO: Peter Loveday from Zanox"
+title:   'Ask a CTO: Peter Loveday from Zanox'
 date:    2016-06-07 17:37:49
 layout:  post
 author:  emma_tracey
