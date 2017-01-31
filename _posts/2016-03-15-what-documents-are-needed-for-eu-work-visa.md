@@ -36,7 +36,7 @@ Company has to apply for the developer’s work permit in Germany
 
 3. **Fill out the following necessary forms**:
 	- the Erlaubnis einer Beschäftigung form, a formal letter stating why the company wants to hire this specific developer
-	- the Stellenbeschreibung form (which has to be very detailed, if the developer doesn’t get the Blue Card salary). [Blue Card][3] is an approved EU-wide work permit, valid up to 4 years, giving its holders a series of rights (eg. family reunification). Salaries vary depending on the developer’s educational background: qualified employment with min. EUR 49,600 gross p.a. or, in shortage occupations, a gross salary of EUR 38,688 p.a.
+	- the Stellenbeschreibung form (which has to be very detailed, if the developer doesn’t get the Blue Card salary). [Blue Card][3] is an approved EU-wide work permit, valid up to 4 years, giving its holders a series of rights (eg. family reunification). Salaries vary depending on the developer’s educational background: qualified employment with min. €50,080 gross p.a. or, in occupations with shortages, a gross salary of €39,624. 
 	- a proper job description
 
 
@@ -75,9 +75,7 @@ Company has to apply for the developer’s work permit in Germany
 
 * * *
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160302&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
 
-* * *
 
 [1]: https://www.kmk.org/themen/anerkennung-auslaendischer-abschluesse.html
 [2]: http://anabin.kmk.org/
