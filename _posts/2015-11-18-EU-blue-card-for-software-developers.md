@@ -19,13 +19,13 @@ In theory, the Blue Card has been adopted by all EU-member states (excluding the
 
 If the Blue Card infographic leaves you with questions, drop us an [email][1]!
 
-**2016 Update: Please note, salary thresholds increased in 2016 to €38,688 and €49,600.**
+**2017 Update: Please note, salary thresholds increased in 2017 to €39,624 and €50,080
 
 ![blue-card-infographic](/assets/images/Blue-card-infographic.png)
 
 * * * 
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151104&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
+
 
 [1]: mailto:hello@honeypot.io "Hello Honeypot"
 [2]: https://www.honeypot.io/users/sign_up?utm_source=blog "Developer jobs in Europe"
