@@ -1,5 +1,5 @@
 ---
-title:   "Ask a CTO: Michael Kugele from Nu3"
+title:   'Ask a CTO: Michael Kugele from Nu3'
 subtitle:
 date:    2016-08-22 11:25:39
 layout:  post
