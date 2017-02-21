@@ -54,7 +54,7 @@ Citizens of EU / EEA countries and Switzerland do not need a residence permit to
 
 #### 3. Submit forms & fees
 
-* Most times, developers fall into the high-skilled migrant category. To be eligible for this, developers must meet certain income requirements:
+* Most times, developers fall into the highly-skilled migrant category. To be eligible for this, developers must meet certain income requirements:
 	* Highly skilled migrants from the age of 30: €4,324 gross per month excluding holiday allowance
 	* Highly skilled migrants younger than 30: €3,170 gross per month excluding holiday allowance
 	* International graduates who started working as a highly skilled migrant during their orientation year: €2,272 gross per month excluding holiday allowance
@@ -65,7 +65,7 @@ Citizens of EU / EEA countries and Switzerland do not need a residence permit to
 
 #### 4. Collect the documents
 
-* If all conditions are met and the IND approves the application they will grant the mvv and residence permit. The IND will also inform the Dutch representation in the employee’s country. Once collected the employee can travel to the Netherlands. Within two weeks of arrival the employee should be issued with the residence permit which now entitles them to work!
+* If all conditions are met and the IND approves the application they will grant the MVV and residence permit. The IND will also inform the Dutch representation in the employee’s country. Once collected the employee can travel to the Netherlands. Within two weeks of arrival the employee should be issued with the residence permit which now entitles them to work!
 
 
 ### Checklist for developers for the Dutch Highly Skilled Migrant Visa
