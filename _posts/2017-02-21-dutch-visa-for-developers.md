@@ -18,7 +18,7 @@ Honeypot is already active in the Netherlands, matching companies and developers
 
 Honeypot offers free visa support in the Netherlands for companies and developers. As a first step, we recommend reading our simple guide to the Netherlands Visa application process. 
 
-### Checklist for Companies to Complete a Highly Skilled Visa for Developers in the Netherlands 
+### Checklist for Companies to Complete a Highly Skilled Migrant Visa for Developers in the Netherlands 
 
 Citizens of EU / EEA countries and Switzerland do not need a residence permit to live and work in the Netherlands. Companies who are hiring developers from other countries must be recognized as a sponsor, which is a pretty simple process. They can then begin the procedure for getting developers the residence permit.
 
