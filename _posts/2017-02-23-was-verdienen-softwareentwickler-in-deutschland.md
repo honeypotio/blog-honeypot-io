@@ -1,7 +1,7 @@
 ---
 title:   Was verdienen Softwareentwickler in Deutschland?
 subtitle: 
-date:    2017-02-23 17:40:15
+date:    2017-02-20 17:40:15
 layout:  post
 author:  stefan_krauss
 categories: Developers
