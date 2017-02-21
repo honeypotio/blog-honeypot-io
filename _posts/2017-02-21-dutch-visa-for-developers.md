@@ -36,7 +36,7 @@ Citizens of EU / EEA countries and Switzerland do not need a residence permit to
 
 * Depending on which country the developer comes from, you may need to prepare a provisional residence permit, *Machtiging tot Voorlopig Verblijf*, or MVV for short. It is an entry permit that allows the developer to enter the Netherlands as a potential resident rather than a tourist. It will allow the developer to travel to the Netherlands to collect their residence permit from the Immigration and Naturalisation Service (IND).
 
-* **Residence Permit Only:***
+* **Residence Permit Only:**
 
 	* The developer does not need an entry permit (MVV) in the following cases: If they already hold a residence permit in another country that is part of the Schengen area; if they already hold a residence permit/Blue Card for 18 months in another EC state; if they are a national of Australia, Canada, Japan, Monaco, New Zealand, South Korea, the United States of America or the Vatican City.
 
