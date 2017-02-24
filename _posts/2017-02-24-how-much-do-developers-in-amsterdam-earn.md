@@ -1,12 +1,12 @@
 ---
-title:   How Much Do Developers in Amsterdam Earn?
+title: How Much Do Developers in Amsterdam Earn?
 subtitle: 
-date:    2017-02-23 12:40:15
-layout:  post
-author:  emma_tracey
+date: 2017-02-24 08:40:15
+layout: post
+author: emma_tracey
 categories: Developers
 cover_image: dev-salaries-netherlands.png
-permalink:  how-much-do-developers-in-amsterdam-earn 
+permalink: how-much-do-developers-in-amsterdam-earn/
 importance: 2
 ---
 
