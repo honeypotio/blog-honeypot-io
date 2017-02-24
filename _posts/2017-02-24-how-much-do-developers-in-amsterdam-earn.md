@@ -24,10 +24,10 @@ Nonetheless, these figures give some insight into average salaries for developer
 
 ![mid-developer-in-amsterdam-salary](/assets/images/4-6-years-experience-netherlands-eng.png)
 
-![mid-developer-in-amsterdam-salary](6-8-years-experience-netherlands-eng.png)
+![mid-developer-in-amsterdam-salary](/assets/images/6-8-years-experience-netherlands-eng.png)
 
 
-![mid-developer-in-amsterdam-salary](8plusyears-experience-netherlands-eng.png)
+![mid-developer-in-amsterdam-salary](/assets/images/8plus-years-experience-netherlands-eng.png)
 
 According to [Compass](http://startup-ecosystem.compass.co/ser2015/), the proportion of developers with prior experience is lower than in other European startup hubs. Competition is fierce among employers for those developers with previous experience, especially given the resources of large tech companies such as Booking.com and TomTom. For startups based in Amsterdam, hiring developers remains one of the biggest challenges to growth.
 
