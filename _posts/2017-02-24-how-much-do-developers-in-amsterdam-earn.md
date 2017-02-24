@@ -1,7 +1,7 @@
 ---
 title:   How Much Do Developers in Amsterdam Earn?
 subtitle: 
-date:    2017-02-24 09:40:15
+date:    2017-02-24 01:40:15
 layout:  post
 author:  emma_tracey
 categories: Developers
