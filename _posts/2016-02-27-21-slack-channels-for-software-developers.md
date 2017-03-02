@@ -86,7 +86,6 @@ Slack channels are to our generation what forums were to the nineties generation
 
 * * *
 
-**[Join Honeypot][22] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: http://www.hashtagdevelopers.com
