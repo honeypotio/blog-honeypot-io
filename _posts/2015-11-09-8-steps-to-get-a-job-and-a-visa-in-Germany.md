@@ -64,7 +64,6 @@ To complete the process, you will receive another card with which you will need 
 
 Have a Bier, revel in your newly approved working authorisation, and then get to work! ;)
 
-***Many companies listed on Honeypot support the visa process for developers who want to relocate to Europe. Request an [invite][14]{:target="_blank"} to the platform today to get started.***
 
 [1]: http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32001R0539 "Scroll to Annex 1"
 [2]: http://wunderflats.com/
