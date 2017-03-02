@@ -47,7 +47,6 @@ Another [GitHub repository][2]{:target="_blank"} of interview questions for fron
 
 ***
 
-**[Join Honeypot][3] today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
 
 [1]: https://github.com/h5bp/Front-end-Developer-Interview-Questions
 [2]: https://github.com/khan4019/front-end-Interview-Questions
