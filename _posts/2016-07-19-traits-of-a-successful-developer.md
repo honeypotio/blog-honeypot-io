@@ -4,7 +4,7 @@ subtitle:
 date:    2016-07-17 10:24:27
 layout:  post
 author:  johanna_dahlroos
-categories: Developers
+categories: [Developer Careers]
 cover_image: 29.png
 permalink:  29-traits-of-a-great-developer/
 importance: 2

@@ -4,7 +4,7 @@ subtitle: I'll just slack that to you
 date:    2016-02-27 19:02:40
 layout:  post
 author:  emma_tracey
-categories: Developers
+categories: [Developer Careers]
 cover_image: slack.png
 permalink:  21-slack-channels-for-software-developers/
 importance: 2

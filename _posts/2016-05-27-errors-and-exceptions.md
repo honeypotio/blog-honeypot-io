@@ -4,7 +4,7 @@ subtitle: An introduction to errors and exceptions handling using Rust as exampl
 date:    2016-05-27 12:03:00
 layout:  post
 author:  giovanni_capuano
-categories: Tech
+categories: [Developer Careers]
 cover_image: errors_and_exceptions_in_rust.png
 permalink:  errors-and-exceptions-in-rust/
 importance: 2

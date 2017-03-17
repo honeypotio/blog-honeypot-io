@@ -4,7 +4,7 @@ subtitle: Insights from a Honeypot Talent Rep
 date:    2016-05-06 13:58:07
 layout:  post
 author:  kate_nicolaisen
-categories: Company
+categories: []
 cover_image: backend.png
 permalink:  5-interview-questions-for-a-backend-developer/
 importance: 2

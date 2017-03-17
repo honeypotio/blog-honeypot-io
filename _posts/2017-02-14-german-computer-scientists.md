@@ -4,7 +4,7 @@ subtitle:
 date:    2017-02-14 09:00:05
 layout:  post
 author:  kamal_naeem
-categories: Developers
+categories: [Developer Careers]
 cover_image: german-computing-history.png
 permalink:  german-computer-scientists/
 importance: 2

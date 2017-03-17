@@ -4,7 +4,7 @@ subtitle:
 date:    2016-11-02 09:03:27
 layout:  post
 author:  hugo_duksis
-categories: Developer
+categories: [Developer Careers]
 cover_image: wercker-cto.png
 permalink:  what-is-it-like-to-work-at-wercker/
 importance: 2

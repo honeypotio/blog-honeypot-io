@@ -4,7 +4,7 @@ subtitle: And boy, oh boy, there's a lot more boys!
 date:    2016-02-11 14:25:44
 layout:  post
 author:  johanna_dahlroos
-categories: Developer
+categories: [Developer Careers]
 cover_image: computer_science.png
 permalink:  what-happened-to-women-in-computer-science-infographic
 importance: 2

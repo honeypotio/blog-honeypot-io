@@ -4,7 +4,7 @@ subtitle:
 date:    2016-06-13 16:18:41
 layout:  post
 author:  sasha_pliusnina
-categories: Developers
+categories: [Developer Careers]
 cover_image: future_programming.png
 permalink:  functional-or-object-oriented/
 importance: 2

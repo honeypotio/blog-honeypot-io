@@ -4,7 +4,7 @@ subtitle:
 date:    2016-10-17 09:54:05
 layout:  post
 author:  emma_tracey
-categories: Developers
+categories: [Developer Careers]
 cover_image: ifhemingway.png
 permalink:  if-hemingway-wrote-javascript/
 importance: 2

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-09-13 15:58:27
 layout:  post
 author:  kado_damball
-categories: Company
+categories: []
 cover_image: css-wizardry.png
 permalink:  interview-harry-roberts-css-wizardry/
 importance: 2

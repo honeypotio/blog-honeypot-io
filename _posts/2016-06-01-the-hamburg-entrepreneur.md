@@ -4,7 +4,7 @@ subtitle: An interview with Stephan Uhrenbacher
 date:    2016-06-01 10:37:08
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: []
 cover_image: hamburg_entrepreneur.png
 permalink:  the-hamburg-entrepreneur/
 importance: 2

@@ -4,7 +4,7 @@ subtitle: An infographic to answer all your questions!
 date:    2016-01-22 17:40:15
 layout:  post
 author:  johanna_dahlroos
-categories: Developers
+categories: [Developer Careers]
 cover_image: matrix.png
 permalink:  how-much-does-a-developer-earn-in-berlin/
 importance: 2

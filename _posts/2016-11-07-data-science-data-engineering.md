@@ -4,7 +4,7 @@ subtitle:
 date:    2016-11-09 04:00:09
 layout:  post
 author:  kado_damball
-categories: Company
+categories: []
 cover_image: data-science-data-engineering.png
 permalink:  data-science-data-engineering/
 importance: 2

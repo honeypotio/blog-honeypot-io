@@ -4,7 +4,7 @@ subtitle: On Scala, Reactive Programming and GraphQL
 date:    2016-05-01 12:19:37
 layout:  post
 author:  emma_tracey
-categories: Community
+categories: [Developer Careers]
 cover_image: community_devs_scala.png
 permalink:  berlin-scala-community/
 importance: 2

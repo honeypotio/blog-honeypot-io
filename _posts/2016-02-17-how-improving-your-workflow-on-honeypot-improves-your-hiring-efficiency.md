@@ -4,7 +4,7 @@ subtitle: Does your hiring manager have a login for Honeypot?
 date:    2016-02-17 17:23:29
 layout:  post
 author:  ewe_grajko
-categories: Company
+categories: []
 cover_image: manager.png
 permalink:  how-improving-your-workflow-on-honeypot-improves-your-hiring-efficiency/
 importance: 2

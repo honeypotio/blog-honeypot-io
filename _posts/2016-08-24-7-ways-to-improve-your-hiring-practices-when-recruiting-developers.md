@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-24 07:04:20
 layout:  post
 author:  ewe_grajko
-categories: HR
+categories: [HR Tips]
 cover_image: hiring-hacks.png
 permalink:  7-ways-to-improve-your-hiring-practices-when-recruiting-developers/
 importance: 2

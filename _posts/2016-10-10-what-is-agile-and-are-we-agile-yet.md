@@ -4,7 +4,7 @@ subtitle:
 date:    2016-10-10 10:19:12
 layout:  post
 author:  sasha_pliusnina
-categories: Developer
+categories: [Developer Careers]
 cover_image: age-of-agile-cover.png
 permalink:  what-is-agile-and-are-we-agile-yet/
 importance: 2

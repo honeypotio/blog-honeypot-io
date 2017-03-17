@@ -4,7 +4,7 @@ subtitle:
 date:    2016-10-31 09:36:22
 layout:  post
 author:  johanna_dahlroos
-categories: Developers
+categories: [Developer Careers]
 cover_image: remarkable-woman-in-tech-cover.png
 permalink:  the-history-of-women-in-technology/
 importance: 2

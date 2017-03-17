@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-29 12:00:28
 layout:  post
 author:  kado_damball
-categories: Developers
+categories: [Developer Careers]
 cover_image: fullstack_dev.png
 permalink:  fullstack-developer/
 importance: 2

@@ -4,7 +4,7 @@ subtitle: Moin moin!
 date:    2016-05-30 10:06:08
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: []
 cover_image: hello_hamburg.png
 permalink:  honeypot-launches-in-hamburg/
 importance: 2

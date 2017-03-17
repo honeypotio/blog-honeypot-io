@@ -4,7 +4,7 @@ subtitle:
 date:    2016-09-09 02:52:34
 layout:  post
 author:  kate_nicolaisen
-categories: Company
+categories: []
 cover_image: what-is-devops-cover.png
 permalink:  what-is-devops/
 importance: 2

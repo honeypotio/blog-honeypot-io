@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-25 14:34:44
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: []
 cover_image: employer-experience.png
 permalink:  employee-experience-infographic
 importance: 2

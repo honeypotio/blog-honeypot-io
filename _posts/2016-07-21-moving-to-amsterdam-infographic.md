@@ -4,13 +4,13 @@ subtitle:
 date:    2016-07-20 16:13:35
 layout:  post
 author:  johanna_dahlroos
-categories: Amsterdam
+categories: [Developer Careers]
 cover_image: move-to-amsterdam.png
 permalink:  moving-to-amsterdam-infographic/
 importance: 2
 ---
 
-Ready to make the move to Amsterdam? Follow our handy move to Amsterdam infographic to make the process as smooth as good glass of jenever! 
+Ready to make the move to Amsterdam? Follow our handy move to Amsterdam infographic to make the process as smooth as good glass of jenever!
 
 <!--more-->
 
@@ -24,8 +24,8 @@ Here are the key takeaways:
 ### 1. Get your Dutch visa!
 
 * EU Citizens don't need a visa to work in the Netherlands
-* Graduates of Dutch universities can use the orientation permit to work or seek employment for up to a year 
-* Highly-skilled migrants (this includes developers) qualify for an accelerated visa process. Check with the [Immigration and Naturalisation Service][1] (IND) for a list of companies sponsoring the visa. 
+* Graduates of Dutch universities can use the orientation permit to work or seek employment for up to a year
+* Highly-skilled migrants (this includes developers) qualify for an accelerated visa process. Check with the [Immigration and Naturalisation Service][1] (IND) for a list of companies sponsoring the visa.
 
 ### 2. Register with BSN for your Dutch residence permit
 
@@ -37,17 +37,17 @@ To get your BSN, bring the following documents:
 * Valid ID
 * Proof of residence
 * Employment agreement
-* Birth certificate 
+* Birth certificate
 * Marriage certificate
 
-### 3.  Find an [Apartment][5] 
+### 3.  Find an [Apartment][5]
 
 ### 4. Understand the [30% Ruling][4]
 
-### 5. [Join Honeypot][5] today and receive 4 interview invites or more in three weeks. 
+### 5. [Join Honeypot][5] today and receive 4 interview invites or more in three weeks.
 
 [1]: https://ind.nl/EN/organisation/contact
-[2]: http://www.iamsterdam.com/en/expatcenter 
+[2]: http://www.iamsterdam.com/en/expatcenter
 [3]: https://www.amsterdam.nl/adressengids/stadsloketten/stadsloket-centrum/
 [4]: http://www.expatax.nl/30ruling
 [5]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160704&utm_campaign=dev-no

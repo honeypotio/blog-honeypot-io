@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-22 11:25:39
 layout:  post
 author:  kate_nicolaisen
-categories: Company
+categories: []
 cover_image: cto_nu3.png
 permalink:  ask-a-cto-michael-kugele-from-nu3/
 importance: 2

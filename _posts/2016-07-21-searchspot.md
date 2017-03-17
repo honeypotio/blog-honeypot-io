@@ -4,7 +4,7 @@ subtitle:
 date:    2016-07-21 13:40:56
 layout:  post
 author:  giovanni_capuano
-categories: Tech
+categories: [Developer Careers]
 cover_image: open-source.png
 permalink:  open-sourcing-searchspot/
 importance: 2

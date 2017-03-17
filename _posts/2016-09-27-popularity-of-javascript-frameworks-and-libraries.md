@@ -4,7 +4,7 @@ subtitle:
 date:    2016-09-27 06:17:40
 layout:  post
 author:  kate_nicolaisen
-categories: Developers
+categories: [Developer Careers]
 cover_image: frontend-tools-cover.png
 permalink: popularity-of-javascript-frameworks-and-libraries/
 importance: 2

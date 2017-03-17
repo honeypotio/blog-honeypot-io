@@ -4,7 +4,7 @@ subtitle: Honeypot launches free visa support for users!
 date:    2016-03-15 12:03:24
 layout:  post
 author:  ewe_grajko
-categories: Company
+categories: []
 cover_image: german_visa.png
 permalink:  step-by-step-guide-to-the-german-visa-for-developers
 importance: 2

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-9">
+      <div class="post-listing">
+        <ul class="post-listing__list js-post-listing">
+          {% for post in site.categories[page.category] %}
+            {% include post.html post=post importance=post.importance details=true %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-3">
+      {% include featured-posts.html %}
+    </div>
+  </div>
+</div>
+
+{% include footer.html bluefooter=false %}

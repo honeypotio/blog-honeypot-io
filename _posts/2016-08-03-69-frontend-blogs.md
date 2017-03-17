@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-02 13:01:26
 layout:  post
 author:  sasha_pliusnina
-categories: Developers
+categories: [Developer Careers]
 cover_image: frontend-blogs.png
 permalink:  definitive-list-of-frontend-blogs-2016/
 importance: 2

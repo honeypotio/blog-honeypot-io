@@ -4,7 +4,7 @@ subtitle: Deployment for your pull request workflow on a single page application
 date:    2016-04-26 10:00:00
 layout:  post
 author:  hugo_duksis
-categories: Tech
+categories: [Developer Careers]
 cover_image: static_pr_deploy.png
 permalink:  feature-staging-deployment-for-static-pages/
 importance: 2

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-07-13 12:47:28
 layout:  post
 author:  andreas_loupasakis
-categories: Company
+categories: []
 cover_image: company-profile.png
 permalink:  5-things-developers-want-to-know-before-accepting-a-job-offer/
 importance: 2

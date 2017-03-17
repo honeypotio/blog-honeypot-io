@@ -4,7 +4,7 @@ subtitle:
 date:    2016-06-29 08:39:56
 layout:  post
 author:  fabio_migliorini
-categories: Company
+categories: []
 cover_image: enrico.jpg
 permalink:  zend-framework/
 importance: 2

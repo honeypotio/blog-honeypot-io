@@ -4,7 +4,7 @@ subtitle: Whats happening in Hamburg!?
 date:    2016-05-31 09:58
 layout:  post
 author:  emma_tracey
-categories: Startups
+categories: [Interviews]
 cover_image: startup_hamburg.png
 permalink:  hamburg-startup-map/
 importance: 2
@@ -260,4 +260,3 @@ Some lovely Hamburg startups reached out to us to remind us to include them! The
 [77]: http://ecomcon.de/
 [78]: https://www.addapptr.com/
 [79]: http://www.radio.de/
-

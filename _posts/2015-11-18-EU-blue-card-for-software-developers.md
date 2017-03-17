@@ -4,7 +4,7 @@ subtitle: Beat the bureaucracy blues with our blue card infographic!
 date: 2015-11-17 18:30:15
 layout: post
 author: johanna_dahlroos
-categories: Developer
+categories: [Developer Careers]
 cover_image: bluecard.png
 permalink:  EU-Bluecard-for-software-developers/
 importance: 2

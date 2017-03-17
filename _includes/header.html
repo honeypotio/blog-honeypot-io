@@ -21,3 +21,17 @@
     </div>
   </div>
 </nav>
+<div class="category-nav-wrapper">
+  <div class="container">
+    <nav class="category-nav">
+      <a href="{{ site.baseurl }}/" class="category-nav__item{% if page.url == '/' %} category-nav__item--active{% endif %}">All Articles</a>
+      {% for category in site.categories %}
+        {% assign browse_url = category | first | slugify | append: '/' | prepend: '/browse/' %}
+        <a href="{{ browse_url | prepend: site.baseurl }}"
+           class="category-nav__item{% if page.url == browse_url %} category-nav__item--active{% endif %}">
+           {{ category | first }}
+        </a>
+      {% endfor %}
+    </nav>
+  </div>
+</div>

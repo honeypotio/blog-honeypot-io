@@ -4,7 +4,7 @@ subtitle: East side versus west side
 date:    2016-03-09 16:01:14
 layout:  post
 author:  emma_tracey
-categories: Developer
+categories: [Developer Careers]
 cover_image: startupmap.png
 featured: true
 featured_weight: 5

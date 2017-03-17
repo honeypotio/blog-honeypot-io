@@ -4,7 +4,7 @@ subtitle:
 date:    2016-11-25 11:06:52
 layout:  post
 author:  frederik_bohn
-categories: Developer
+categories: [Developer Careers]
 cover_image: scout24.png
 permalink:  scout24-talks-about-startup-life-in-munich/
 importance: 2

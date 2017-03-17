@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-17 13:12:12
 layout:  post
 author:  kate_nicolaisen
-categories: Developers
+categories: [Developer Careers]
 cover_image: learn-backend.png
 featured: true
 featured_weight: 1

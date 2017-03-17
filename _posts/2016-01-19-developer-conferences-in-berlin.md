@@ -4,7 +4,7 @@ subtitle: Start planning your summer!
 date:    2016-01-19 20:22:17
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: []
 cover_image: conference.png
 permalink:  developer-conferences-in-berlin/
 importance: 2

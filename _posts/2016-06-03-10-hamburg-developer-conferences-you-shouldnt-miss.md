@@ -4,7 +4,7 @@ subtitle:
 date:    2016-06-03 09:39:53
 layout:  post
 author:  kate_nicolaisen
-categories: Company 
+categories: [] 
 cover_image: hamburg_conference.png 
 permalink:  10-hamburg-developer-conferences-you-shouldnt-miss
 importance: 2
