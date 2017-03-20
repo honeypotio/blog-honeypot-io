@@ -4,7 +4,7 @@ subtitle:
 date:    2017-02-20 17:40:15
 layout:  post
 author:  stefan_krauss
-categories: Developers
+categories: [Developer Careers]
 cover_image: dev-salaries-germany.png
 permalink:  was-verdienen-softwareentwickler-in-deutschland
 importance: 2
