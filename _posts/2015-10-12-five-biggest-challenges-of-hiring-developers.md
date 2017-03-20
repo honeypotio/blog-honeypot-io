@@ -4,7 +4,7 @@ subtitle: And how to use Honeypot to solve them
 date:    2015-10-12 16:13:23
 layout:  post
 author:  joana_monteiro
-categories: HR
+categories: [HR Tips]
 cover_image: challenge.png
 permalink:  2015-10-12-five-biggest-challenges-of-hiring-developers/
 importance: 2

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-01-14 09:17:58
 layout:  post
 author:  emma_tracey
-categories: Developer
+categories: [Research]
 cover_image: cto.png
 permalink:  this-is-what-it-takes-to-become-a-berlin-cto/
 importance: 2

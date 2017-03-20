@@ -4,7 +4,7 @@ subtitle: Meetup groups, workshops, networking and more!
 date:    2016-01-11 14:35:50
 layout:  post
 author:  sasha_pliusnina
-categories: Developer
+categories: [Developer Careers]
 cover_image: female.png
 permalink:  resources-for-female-developers-in-berlin/
 importance: 2

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-12-25 11:21:46
 layout:  post
 author:  emma_tracey
-categories: Developer
+categories: [Developer Careers]
 cover_image: average-time.png
 permalink:   why-january-is-best-for-finding-software-developer-jobs/
 importance: 2

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-02 13:01:26
 layout:  post
 author:  sasha_pliusnina
-categories: Developers
+categories: [Developer Careers]
 cover_image: frontend-blogs.png
 permalink:  definitive-list-of-frontend-blogs-2016/
 importance: 2
@@ -183,7 +183,6 @@ Have we missed something? Send us suggestions for frontend blogs to hello@honeyp
 
 * * *
 
-**[Join Honeypot][79] today and receive 4 interview invites or more in three weeks.**
 
 [1]: https://github.com/rmurphey/js-assessment 
 [2]: http://rmurphey.com/ 

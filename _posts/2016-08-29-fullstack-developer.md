@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-29 12:00:28
 layout:  post
 author:  kado_damball
-categories: Developers
+categories: [Developer Careers]
 cover_image: fullstack_dev.png
 permalink:  fullstack-developer/
 importance: 2
@@ -113,4 +113,3 @@ The old definition of a fullstack developer is almost extinct, and it is much be
 
 * * *
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160806&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**

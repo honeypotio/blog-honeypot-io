@@ -4,7 +4,7 @@ subtitle: An interview with Stephan Uhrenbacher
 date:    2016-06-01 10:37:08
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: [Interviews]
 cover_image: hamburg_entrepreneur.png
 permalink:  the-hamburg-entrepreneur/
 importance: 2
@@ -57,4 +57,3 @@ FLIO is offering exactly that - allowing users to gain instant WIFI access in ai
  
  * * *
  
- **[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160601&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**

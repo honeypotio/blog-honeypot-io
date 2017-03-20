@@ -4,7 +4,7 @@ subtitle:
 date:    2017-01-30 09:00:05
 layout:  post
 author:  emma_tracey
-categories: HR
+categories: [HR Tips]
 cover_image: embedded.png
 permalink:  what-is-an-embedded-engineer/
 importance: 2

@@ -1,16 +1,16 @@
 ---
-title:  Step-by-step guide to the German visa for developers
+title:  Step-by-Step Guide to the German Visa for Developers
 subtitle: Honeypot launches free visa support for users!
 date:    2016-03-15 12:03:24
 layout:  post
 author:  ewe_grajko
-categories: Company
+categories: [HR Tips]
 cover_image: german_visa.png
 permalink:  step-by-step-guide-to-the-german-visa-for-developers
 importance: 2
 ---
 
-Honeypot recently [launched free visa support][6] for all non-EU developers hired through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the visa process here in Germany.
+Honeypot [offers free visa support][6] for all non-EU developers hired in Germany through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the visa process here in Germany.
 
 <!--more-->
 

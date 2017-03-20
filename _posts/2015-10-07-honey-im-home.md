@@ -4,7 +4,7 @@ subtitle: "Why IT recruitment is broken and how Honeypot plans to fix it"
 date: 2015-10-07 16:27:15
 layout: post
 author: kaya_taner
-categories: Company
+categories: [Product]
 cover_image: honey.png
 permalink:  2015-10-07-honey-im-home/
 importance: 2
@@ -13,7 +13,7 @@ importance: 2
 
 Hello! Welcome to our first Honeypot blog post. We launched the platform last Thursday to some very nice press from the likes of [TechCrunch][3]{:target="_blank"}, [VentureBeat][4]{:target="_blank"} and [Gruenderszene][5]{:target="_blank"}. We have also had great feedback from the 400+ new users who signed up in the first week.
 
-<!--more--> 
+<!--more-->
 
 
 So now that we have launched it's time to ask what is Honeypot all about?

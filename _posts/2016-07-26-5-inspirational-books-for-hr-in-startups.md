@@ -4,7 +4,7 @@ subtitle:
 date:    2016-07-25 10:39:38
 layout:  post
 author:  ewe_grajko
-categories: HR 
+categories: [HR Tips] 
 cover_image: account-manager.png
 permalink:  5-inspirational-books-for-hr-in-startups/
 importance: 2

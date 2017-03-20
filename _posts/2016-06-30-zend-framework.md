@@ -4,7 +4,7 @@ subtitle:
 date:    2016-06-29 08:39:56
 layout:  post
 author:  fabio_migliorini
-categories: Company
+categories: [Interviews]
 cover_image: enrico.jpg
 permalink:  zend-framework/
 importance: 2
@@ -53,7 +53,6 @@ Grazie Enrico!
 
 * * * 
 
-**[Join Honeypot][10] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: http://www.zend.com

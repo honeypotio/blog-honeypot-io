@@ -4,7 +4,7 @@ subtitle: "Notes from a data scientist on knowing your worth"
 date: 2015-11-04 11:27:15
 layout: post
 author: eyal_matzkel
-categories: Developer
+categories: [Developer Careers]
 cover_image: salary.png
 permalink:  2015-11-04-how-to-negotiate-your-salary-as-a-developer/
 importance: 2

@@ -4,7 +4,7 @@ subtitle: And its about more than just equality
 date:    2015-12-29 16:30:13
 layout:  post
 author:  emma_tracey
-categories: Developer
+categories: [Developer Careers]
 cover_image: women.png
 permalink:  why-you-should-hire-more-female-developers/
 importance: 2

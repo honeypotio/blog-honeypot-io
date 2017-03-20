@@ -4,7 +4,7 @@ subtitle:
 date:    2016-10-10 10:19:12
 layout:  post
 author:  sasha_pliusnina
-categories: Developer
+categories: [Developer Careers]
 cover_image: age-of-agile-cover.png
 permalink:  what-is-agile-and-are-we-agile-yet/
 importance: 2
@@ -39,4 +39,3 @@ Thanks Andy for providing the content for this piece.
 
 * * *
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161001&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.** 

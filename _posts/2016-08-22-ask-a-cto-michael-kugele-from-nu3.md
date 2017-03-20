@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-22 11:25:39
 layout:  post
 author:  kate_nicolaisen
-categories: Company
+categories: [Interviews]
 cover_image: cto_nu3.png
 permalink:  ask-a-cto-michael-kugele-from-nu3/
 importance: 2
@@ -74,7 +74,6 @@ As I mentioned earlier, we want to increase the headcount, just to be able to fo
 
 * * *
 
-**[Join Honeypot][1] today and receive 4 interview invites or more in three weeks.** 
 
 [1]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160803&utm_campaign=dev-no
 [2]: https://www.nu3.com/

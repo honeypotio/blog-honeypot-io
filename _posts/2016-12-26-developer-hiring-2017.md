@@ -4,7 +4,7 @@ subtitle:
 date:    2016-12-25 10:09:38
 layout:  post
 author:  emma_tracey
-categories: HR
+categories: [HR Tips]
 cover_image: ten-data-points.png
 permalink: hiring-developers-in-2017/
 importance: 2

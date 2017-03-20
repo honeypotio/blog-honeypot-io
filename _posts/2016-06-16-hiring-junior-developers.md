@@ -4,7 +4,7 @@ subtitle:
 date:    2016-06-16 17:24:38
 layout:  post
 author:  ewe_grajko
-categories: Company
+categories: [HR Tips]
 cover_image: ibb_program.png
 permalink:  hiring-junior-developers/
 importance: 2

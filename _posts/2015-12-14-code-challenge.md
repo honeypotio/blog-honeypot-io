@@ -4,7 +4,7 @@ subtitle: How we screen developers on our platform
 date:    2015-12-14 16:30:05
 layout:  post
 author:  hugo_duksis
-categories: Developer
+categories: [Developer Careers]
 cover_image: code-challenge.png
 permalink:  code-challenge/
 importance: 2

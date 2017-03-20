@@ -4,7 +4,7 @@ subtitle: Honeypot's mascot dresses up as 12 computer scientists!
 date:    2016-01-04 16:00:26
 layout:  post
 author:  emma_tracey
-categories: Developer
+categories: [Developer Careers]
 cover_image: famous-devs.png
 permalink:  12-famous-computer-programmers-as-bears/
 importance: 2

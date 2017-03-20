@@ -4,7 +4,7 @@ subtitle:
 date:    2017-01-02 09:54:05
 layout:  post
 author:  emma_tracey
-categories: Developers
+categories: [Research]
 cover_image: munich-tech-map-cover.png
 permalink:  munich-tech-map/
 importance: 2

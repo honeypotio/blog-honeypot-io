@@ -1,10 +1,10 @@
 ---
-title:   Berlin's Startups Mapped by U-bahn Station
+title:   Berlin's Startups Mapped by U-bahn Station 2016
 subtitle: East side versus west side
 date:    2016-03-09 16:01:14
 layout:  post
 author:  emma_tracey
-categories: Developer
+categories: [Research]
 cover_image: startupmap.png
 featured: true
 featured_weight: 5

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-11-02 09:03:27
 layout:  post
 author:  hugo_duksis
-categories: Developer
+categories: [Interviews]
 cover_image: wercker-cto.png
 permalink:  what-is-it-like-to-work-at-wercker/
 importance: 2
@@ -93,6 +93,3 @@ We're working on really nailing down the performance and reliability of the syst
 
 * * *
 
-[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161101&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks. 
-
-* * *

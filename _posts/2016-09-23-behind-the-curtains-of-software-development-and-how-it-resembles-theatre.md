@@ -4,7 +4,7 @@ subtitle:
 date:    2016-09-23 09:35:33
 layout:  post
 author:  janet_todorova
-categories: HR
+categories: [HR Tips]
 cover_image: theather-software.png
 permalink:  behind-the-curtains-of-software-development-and-how-it-resembles-theatre/
 importance: 2

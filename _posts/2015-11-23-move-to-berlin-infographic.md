@@ -4,7 +4,7 @@ subtitle: Berlin may be relaxed but it still loves paperwork!
 date: 2015-11-23 12:30:15
 layout: post
 author: johanna_dahlroos
-categories: Developer
+categories: [Developer Careers]
 cover_image: move-to-berlin.png
 permalink:  moving-to-berlin-infographic/
 importance: 2

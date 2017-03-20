@@ -1,10 +1,10 @@
 ---
-title:   How much does a developer earn in Berlin?
+title:   How much does a developer earn in Berlin in 2016?
 subtitle: An infographic to answer all your questions!
 date:    2016-01-22 17:40:15
 layout:  post
 author:  johanna_dahlroos
-categories: Developers
+categories: [Developer Careers]
 cover_image: matrix.png
 permalink:  how-much-does-a-developer-earn-in-berlin/
 importance: 2
@@ -18,8 +18,6 @@ Interested in working as a developer in Berlin? Want to know how much you can ea
 ![developer-salaries-berlin](/assets/images/salary-matrix-2.png "Berlin developer salary matrix")
 
 * * *
-
-**[Join Honeypot][1] today and receive 4 interview invites or more in three weeks.**
 
 If you need a personalized salary estimate for Berlin, try this handy [salary estimator tool][2].
 

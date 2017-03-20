@@ -4,7 +4,7 @@ subtitle:
 date:    2017-01-12 09:54:05
 layout:  post
 author:  product_team
-categories: Updates
+categories: [Product]
 cover_image: batch.png
 permalink:  company-profile-edit/
 importance: 2

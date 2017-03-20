@@ -4,7 +4,7 @@ subtitle:
 date: 2017-02-24 08:40:15
 layout: post
 author: emma_tracey
-categories: Developers
+categories: [Developer Careers]
 cover_image: dev-salaries-netherlands.png
 permalink: how-much-do-developers-in-amsterdam-earn/
 importance: 2

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-07-18 15:53:38
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: [HR Tips]
 cover_image: why-use-honeypot.png
 permalink:  why-use-honeypot-to-hire-developers/
 importance: 2
@@ -77,7 +77,6 @@ Happy Hiring!
 
 * * *
 
-**[Join Honeypot][1] and make your next hire within 28 days.**
 
 
 [1]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160703&utm_campaign=com-no

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-07-17 10:24:27
 layout:  post
 author:  johanna_dahlroos
-categories: Developers
+categories: [Developer Careers]
 cover_image: 29.png
 permalink:  29-traits-of-a-great-developer/
 importance: 2
@@ -22,8 +22,6 @@ What does it take to become a great developer? Its all about learning from the b
 Check out the original post by Firehose [here][3].
 
 * * *
-
-**[Join Honeypot][2] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: https://www.thefirehoseproject.com/

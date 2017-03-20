@@ -4,7 +4,7 @@ subtitle: Moin moin!
 date:    2016-05-30 10:06:08
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: [Product]
 cover_image: hello_hamburg.png
 permalink:  honeypot-launches-in-hamburg/
 importance: 2
@@ -37,7 +37,6 @@ Honeypot will be having its first event, [HRinTech Hamburg][5], in the city on J
 
 * * * 
 
-**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160507&utm_campaign=com-no) and make your next hire within 28 days.**
 
 [1]: https://bytro.com/
 [2]: http://www.wunder.org/en/

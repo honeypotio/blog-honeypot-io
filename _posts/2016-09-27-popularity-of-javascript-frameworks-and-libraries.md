@@ -4,7 +4,7 @@ subtitle:
 date:    2016-09-27 06:17:40
 layout:  post
 author:  kate_nicolaisen
-categories: Developers
+categories: [Developer Careers]
 cover_image: frontend-tools-cover.png
 permalink: popularity-of-javascript-frameworks-and-libraries/
 importance: 2
@@ -32,4 +32,3 @@ Considering how sought after code testing skills are amongst the Berlin-based st
 
 * * * 
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160908&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**

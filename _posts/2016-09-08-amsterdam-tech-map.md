@@ -6,7 +6,7 @@ layout:  post
 author:  emma_tracey
 featured: true
 featured_weight: 3
-categories: Startups
+categories: [Research]
 cover_image: amsterdam-tech-map.png
 permalink:  amsterdam-tech-map/
 importance: 2

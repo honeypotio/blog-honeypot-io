@@ -4,7 +4,7 @@ subtitle: 9 tips including where to get the best pelmeni and borsch!
 date:    2015-12-03 10:45:06
 layout:  post
 author:  sasha_pliusnina
-categories: Developer
+categories: [Developer Careers]
 cover_image: russia.png
 permalink:  9-things-all-Russian-developers-should-know-about-life-in-berlin/
 importance: 2
