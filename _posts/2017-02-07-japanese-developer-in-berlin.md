@@ -4,7 +4,7 @@ subtitle:
 date:    2017-02-07 09:00:05
 layout:  post
 author:  emma_tracey
-categories: [Developer Careers]
+categories: [Interviews]
 cover_image: shuhei-cover.png
 permalink:  japanese-developer-in-berlin/
 importance: 2

@@ -4,7 +4,7 @@ subtitle:
 date:    2016-09-20 06:35:45
 layout:  post
 author:  kate_nicolaisen
-categories: []
+categories: [Interviews]
 cover_image: userstory-nico.png
 permalink:  nico-ulbricht-the-story-of-an-untraditional-programmer/
 importance: 2

@@ -39,4 +39,3 @@ Thanks Andy for providing the content for this piece.
 
 * * *
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161001&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.** 
