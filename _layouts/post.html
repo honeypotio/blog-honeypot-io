@@ -9,7 +9,21 @@ layout: default
     <div class="col-md-9">
       <div class="post">
         <header class="post__cover-container">
-          <img class="post__cover js-post-cover" src="/assets/cover-images/{{page.cover_image}}" width="746" />
+          <picture>
+            <source
+              srcset="/assets/cover-images/thumbnail_{{ page.cover_image }}"
+              media="(min-width: 1200px)">
+            <source
+              srcset="/assets/cover-images/md/thumbnail_{{ page.cover_image }}"
+              media="(min-width: 768px)">
+            <source
+              srcset="/assets/cover-images/sm/thumbnail_{{ page.cover_image }}"
+              media="(min-width: 480px)">
+            <img
+              class="post__cover"
+              srcset="/assets/cover-images/xs/thumbnail_{{ page.cover_image }}"
+              alt="">
+          </picture>
           <div class="post__sticky js-sticky-container">
             <div class="post__icon post__icon--google-plus">
               <a href="https://plus.google.com/share?url={{site.url | uri_escape}}/{{ page.permalink | uri_escape}}" class="popup">
