@@ -4,7 +4,7 @@ subtitle: An interview with Dennis Anikin, Director of Engineering of Cloud and 
 date: 2015-11-26 15:44:15
 layout: post
 author: emma_tracey
-categories: [Developer Careers]
+categories: [Interviews]
 cover_image: anikin.png
 permalink:  what's-it-like-to-work-at-mailru/
 importance: 2

@@ -4,7 +4,7 @@ subtitle: An interview with Kevin Goldsmith, VP of Engineering at Spotify
 date: 2015-11-13 15:30:15
 layout: post
 author: emma_tracey
-categories: [Developer Careers]
+categories: [Interviews]
 cover_image: kevin.png
 featured: true
 featured_weight: 4

@@ -3,7 +3,7 @@ title:   Interview questions for a frontend developer
 subtitle: Insights from a Honeypot Talent Rep
 date:    2015-12-28 12:27:37
 layout:  post
-author:  janet_todorova
+author:  emma_tracey
 categories: [HR Tips]
 cover_image: frontend.png
 permalink:  interview-questions-for-a-frontend-developer/

@@ -4,7 +4,7 @@ subtitle: "Why IT recruitment is broken and how Honeypot plans to fix it"
 date: 2015-10-07 16:27:15
 layout: post
 author: kaya_taner
-categories: []
+categories: [Product]
 cover_image: honey.png
 permalink:  2015-10-07-honey-im-home/
 importance: 2
