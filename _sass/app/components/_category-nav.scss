@@ -6,14 +6,31 @@ $category-nav-height: 50px;
   // scrollable nav (hide the scrollbar)
   height: $category-nav-height;
   overflow: hidden;
+}
 
-  & > .container {
-    height: 100%;
+.category-nav-container {
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+
+  @media #{$sm-up} {
+    width: $container-sm;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  @media #{$md-up} {
+    width: $container-md;
+  }
+  @media #{$lg-up} {
+    width: $container-lg;
   }
 }
 
 .category-nav {
   border-top: 1px solid $light-gray-2-color;
+  padding-left: 15px;
+  padding-right: 15px;
+
   // scrollable nav
   white-space: nowrap;
   overflow-x: scroll;
@@ -22,10 +39,11 @@ $category-nav-height: 50px;
   padding-bottom: 20px;               // push the scrollbar down (🦄 magic number ✨)
   // -
 
-
   @media #{$sm-up} {
     display: flex;
     height: 100%;
+    padding-left: 0;
+    padding-right: 0;
 
     // scrollable nav (reset)
     padding-bottom: 0;
