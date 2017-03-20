@@ -77,7 +77,6 @@ Happy Hiring!
 
 * * *
 
-**[Join Honeypot][1] and make your next hire within 28 days.**
 
 
 [1]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160703&utm_campaign=com-no

@@ -4,7 +4,7 @@ subtitle: Honeypot's free visa support lets you pick the best from around the wo
 date:    2016-05-11 11:23:26
 layout:  post
 author:  emma_tracey
-categories: [Interviews]
+categories: [HR Tips]
 cover_image: where.png
 permalink:  where-do-developers-on-honeypot-come-from/
 importance: 2

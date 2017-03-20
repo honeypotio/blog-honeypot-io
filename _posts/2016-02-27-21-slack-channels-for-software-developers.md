@@ -1,5 +1,5 @@
 ---
-title:   21 Slack channels for software developers
+title:   21 Slack Channels for Software Developers
 subtitle: I'll just slack that to you
 date:    2016-02-27 19:02:40
 layout:  post

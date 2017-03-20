@@ -1,10 +1,10 @@
 ---
-title:   Honeypot's little secret to improve your hiring efficiency
-subtitle: Does your hiring manager have a login for Honeypot? 
+title:   Does your hiring manager have a login for Honeypot?
+subtitle:  
 date:    2016-02-17 17:23:29
 layout:  post
 author:  ewe_grajko
-categories: []
+categories: [Product]
 cover_image: manager.png
 permalink:  how-improving-your-workflow-on-honeypot-improves-your-hiring-efficiency/
 importance: 2

@@ -113,4 +113,3 @@ The old definition of a fullstack developer is almost extinct, and it is much be
 
 * * *
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160806&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**

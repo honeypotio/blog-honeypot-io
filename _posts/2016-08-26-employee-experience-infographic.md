@@ -4,7 +4,7 @@ subtitle:
 date:    2016-08-25 14:34:44
 layout:  post
 author:  emma_tracey
-categories: []
+categories: [HR Tips]
 cover_image: employer-experience.png
 permalink:  employee-experience-infographic
 importance: 2
@@ -60,4 +60,3 @@ Thiel’s advice, which launched Airbnb’s obsession with employee culture, cam
 
 * * * 
 
-**[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=160805&utm_campaign=hr-no) today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**

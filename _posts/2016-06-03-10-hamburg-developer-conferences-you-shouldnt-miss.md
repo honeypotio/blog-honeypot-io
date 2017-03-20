@@ -4,7 +4,7 @@ subtitle:
 date:    2016-06-03 09:39:53
 layout:  post
 author:  kate_nicolaisen
-categories: [] 
+categories: [Developer Careers] 
 cover_image: hamburg_conference.png 
 permalink:  10-hamburg-developer-conferences-you-shouldnt-miss
 importance: 2
@@ -128,7 +128,7 @@ The Chaos Communication Congress is an annual conference organized by the Chaos 
 
 * * *
 
-**[Join Honeypot][12] today and receive 4 interview invites or more in three weeks.**
+
 
 [1]: http://blog.honeypot.io/hamburg-startup-map/
 [2]: http://www.meetup.com/womentechmakershamburg/events/228068329/ 

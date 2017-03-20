@@ -42,5 +42,3 @@ important project. Rust is really enjoyable as programming language and things c
 As always, every contribution or feedback is more than appreciated.
 
 * * *
-
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160705&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**

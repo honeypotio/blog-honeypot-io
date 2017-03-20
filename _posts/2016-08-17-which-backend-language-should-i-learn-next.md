@@ -202,7 +202,6 @@ Industry: Internet
 
 * * *
 
-**[Join Honeypot][26] today and receive 4 interview invites or more in three weeks.** 
 
 [1]: https://wire.com/
 [2]: https://www.eyeem.com/ 

@@ -23,8 +23,6 @@ Check out the original post by Firehose [here][3].
 
 * * *
 
-**[Join Honeypot][2] today and receive 4 interview invites or more in three weeks.**
-
 
 [1]: https://www.thefirehoseproject.com/
 [2]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160702&utm_campaign=dev-no

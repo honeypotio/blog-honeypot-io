@@ -183,7 +183,6 @@ Have we missed something? Send us suggestions for frontend blogs to hello@honeyp
 
 * * *
 
-**[Join Honeypot][79] today and receive 4 interview invites or more in three weeks.**
 
 [1]: https://github.com/rmurphey/js-assessment 
 [2]: http://rmurphey.com/ 
