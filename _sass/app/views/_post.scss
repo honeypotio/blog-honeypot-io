@@ -1,5 +1,4 @@
 $sticky-icon-size: 40px;
-$post-padding: 25px;
 
 @mixin social-share-icon($size) {
   @include sizing($size);
@@ -28,7 +27,11 @@ $post-padding: 25px;
   }
 
   &__info {
-    padding: 0 $post-padding;
+    padding: 0 $post-padding-small;
+
+    @media #{$md-up} {
+      padding: 0 $post-padding-large;
+    }
   }
 
   &__icon {
@@ -87,9 +90,15 @@ $post-padding: 25px;
   }
 
   &__content {
-    padding: $post-padding;
+    padding-left: $post-padding-small;
+    padding-right: $post-padding-small;
     padding-top: 8px;
     color: $text-2-color;
+
+    @media #{$md-up} {
+      padding-left: $post-padding-large;
+      padding-right: $post-padding-large;
+    }
 
     h1,
     h2,
@@ -115,7 +124,13 @@ $post-padding: 25px;
   }
 
   &__mobile-share {
-    padding-left: 25px;
+    padding-left: $post-padding-small;
+    margin-top: 35px;
+    margin-bottom: 35px;
+
+    @media #{$md-up} {
+      padding-left: $post-padding-large;
+    }
 
     &__text {
       margin-right: 10px;

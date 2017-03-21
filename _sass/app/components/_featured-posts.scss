@@ -1,5 +1,10 @@
 .c-featured-posts {
   padding-top: 15px;
+  margin-top: 20px;
+
+  @media #{$lg-up} {
+    margin-top: 0;
+  }
 
   &__title {
     @include text($fs-14, $fw-normal, $black-color);
