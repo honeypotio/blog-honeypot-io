@@ -1,22 +1,16 @@
-<div class="media c-post-info">
-  <div class="media-left">
-    <img src="{{ site.baseurl }}/assets/authors/{{ include.avatar }}" class="img-circle c-post-info__avatar">
-  </div>
-  <div class="media-body c-post-info__body">
-    <h3 class="c-post-info__title">{{ include.title }}</h3>
-    <p class="c-post-info__block-container">
-      <span class="visible-md-inline visible-lg-inline c-post-info__block">{{ include.name }}</span>
-      <span class="c-post-info__block">
-        <i class="fa fa-clock-o c-post-info__block__icon"></i>
-        <time datetime="{{ include.date | date: "%Y-%m-%d" }}">{{ include.date | date: "%b %-d, %Y" }}</time>
-      </span>
-      <span class="c-post-info__block">
-        <i class="fa fa-tag c-post-info__block__icon"></i>
-        {{ include.categories | array_to_sentence_string }}
-      </span>
-    </p>
-    <p class="hidden-md hidden-lg">
-      <span class="c-post-info__block">{{ include.name }}</span>
-    </p>
-  </div>
-</div> <!-- ./media -->
+<div class="c-post-info">
+  <h3 class="c-post-info__title">{{ include.title }}</h3>
+  <p class="c-post-info__block-container">
+    <span class="c-post-info__block">
+      <time datetime="{{ include.date | date: "%Y-%m-%d" }}">
+        {{ include.date | date: "%b %-d, %Y" }}
+      </time>
+    </span>
+    <span class="c-post-info__block">
+      {{ include.categories | array_to_sentence_string }}
+    </span>
+    <span class="c-post-info__block">
+      {{ include.name }}
+    </span>
+  </p>
+</div>
