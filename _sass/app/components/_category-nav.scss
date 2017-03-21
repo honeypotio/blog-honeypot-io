@@ -36,7 +36,7 @@ $category-nav-height: 50px;
   overflow-x: scroll;
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
-  padding-bottom: 20px;               // push the scrollbar down (🦄 magic number ✨)
+  padding-bottom: 30px;               // push the scrollbar down (🦄 magic number ✨)
   // -
 
   @media #{$sm-up} {
@@ -49,6 +49,7 @@ $category-nav-height: 50px;
     padding-right: 0;
 
     // scrollable nav (reset)
+    overflow-x: hidden;
     padding-bottom: 0;
     // -
   }
