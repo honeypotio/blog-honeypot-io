@@ -1,5 +1,5 @@
 ---
-title:   "Community Devs: Scala in Berlin"
+title:   "Community Devs&#58; Scala in Berlin"
 subtitle: On Scala, Reactive Programming and GraphQL
 date:    2016-05-01 12:19:37
 layout:  post

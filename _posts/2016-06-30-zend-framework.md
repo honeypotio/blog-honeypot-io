@@ -1,5 +1,5 @@
 ---
-title:  "Community Devs: Zend Contributor"
+title:  "Community Devs&#58; Zend Contributor"
 subtitle:
 date:    2016-06-29 08:39:56
 layout:  post
@@ -10,7 +10,7 @@ permalink:  zend-framework/
 importance: 2
 ---
 
-[Enrico Zimuel][8] is an Italian open source developer working on the [Zend Framework][5] and [Apigility][6] projects. He is a TEDx speaker, an author, a [blogger][7] and a big fan of PHP 7. We chat to him about life as an open-source developer and his feelings on the future of PHP. 
+[Enrico Zimuel][8] is an Italian open source developer working on the [Zend Framework][5] and [Apigility][6] projects. He is a TEDx speaker, an author, a [blogger][7] and a big fan of PHP 7. We chat to him about life as an open-source developer and his feelings on the future of PHP.
 
 <!--more-->
 
@@ -26,17 +26,17 @@ Since I was a young developer I have been sharing my code with friends, later I 
 
 ### You work for [Zend][1], what are the pros of being an open source developer?
 
-The pros are huge! As developer you can share your ideas and code with millions of great developers worldwide and I think this is the best satisfaction for any developer; I feel very honored and privileged for this opportunity. We have about 700 contributors to the Zend Framework alone. Because your code is used by such a big audience you can impact and guide the development of technologies. For example, we started in 2006 with OOP best practices and we were one of the first PHP frameworks to offer the MVC architectural pattern. 
+The pros are huge! As developer you can share your ideas and code with millions of great developers worldwide and I think this is the best satisfaction for any developer; I feel very honored and privileged for this opportunity. We have about 700 contributors to the Zend Framework alone. Because your code is used by such a big audience you can impact and guide the development of technologies. For example, we started in 2006 with OOP best practices and we were one of the first PHP frameworks to offer the MVC architectural pattern.
 
 ### What are the biggest cons of being an open source developer?
 
 I would say that we also have big responsibilities. We need to be careful when you release something, especially for backward compatibility. As uncle Ben said in Spiderman: "With great power comes great responsibility!"
 
-### How do you handle remote work? 
+### How do you handle remote work?
 
-Working remotely is absolutely awesome! I have worked remotely from Italy for a company based in Cupertino (California) since 2008. I can manage my time better, balancing between company and family needs. I can only do this because Zend Technologies has a good remote working culture. Many of my colleagues are remote workers and the company gives us all that we need to work remotely. 
+Working remotely is absolutely awesome! I have worked remotely from Italy for a company based in Cupertino (California) since 2008. I can manage my time better, balancing between company and family needs. I can only do this because Zend Technologies has a good remote working culture. Many of my colleagues are remote workers and the company gives us all that we need to work remotely.
 
-### What are the challenges of working remotely? 
+### What are the challenges of working remotely?
 
 The only thing that I've recognized is that remote working is not an easy process, you need to practice and have a good mentor. For instance, the best advice that I received was to have a dedicated computer only for work with a little space to manage the difference between personal life and job. If you have a dedicated room use it as your office, and remember close the door when you finish to work!
 
@@ -47,21 +47,21 @@ I've had the privileges to give many talks at various international conferences,
 
 ### What do you think of the history of PHP and how do you think it will evolve in the future?
 
-PHP was born in 1995 as language for the web and it's incredible to think that after 21 years it's the first language, by usage, on the web. Today, we can definitely bet that this technology will continue for many years thanks to the incredible performance improvement and the new features of PHP 7. For instance, recently badoo.com, the largest dating network in the world, saved more than [$1 million moving to PHP 7][4]. 
+PHP was born in 1995 as language for the web and it's incredible to think that after 21 years it's the first language, by usage, on the web. Today, we can definitely bet that this technology will continue for many years thanks to the incredible performance improvement and the new features of PHP 7. For instance, recently badoo.com, the largest dating network in the world, saved more than [$1 million moving to PHP 7][4].
 
-Grazie Enrico! 
+Grazie Enrico!
 
-* * * 
+* * *
 
 
 
 [1]: http://www.zend.com
-[2]: https://w3techs.com/technologies/overview/programming_language/all 
-[3]: https://www.youtube.com/watch?v=SienrLY40-w 
+[2]: https://w3techs.com/technologies/overview/programming_language/all
+[3]: https://www.youtube.com/watch?v=SienrLY40-w
 [4]: https://dl.dropboxusercontent.com/u/216377/verona_php_2.pdf
-[5]: http://framework.zend.com/ 
-[6]: https://apigility.org/ 
-[7]: http://www.zimuel.it/ 
-[8]: https://github.com/ezimuel 
-[9]: http://www.zimuel.it/books/ 
+[5]: http://framework.zend.com/
+[6]: https://apigility.org/
+[7]: http://www.zimuel.it/
+[8]: https://github.com/ezimuel
+[9]: http://www.zimuel.it/books/
 [10]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160607&utm_campaign=dev-no
