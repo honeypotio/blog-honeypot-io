@@ -1,5 +1,5 @@
 ---
-title:   'Ask a CTO: Grzegorz Krumpholz, Onefootball'
+title:   "Ask a CTO: Grzegorz Krumpholz, Onefootball"
 subtitle: On GoLang, Wisła Kraków and Microservices
 date:    2016-04-25 10:15:31
 layout:  post
@@ -102,9 +102,8 @@ It will be the combination of building a scalable and flexible backend. We also 
 
 **[Join Honeypot][3] today and receive 4 interview invites or more in three weeks.**
 
-* * * 
+* * *
 
 [1]:https://www.linkedin.com/in/krumpholz
 [2]: https://www.onefootball.com
 [3]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160402&utm_campaign=dev-no
-
