@@ -40,7 +40,10 @@ $category-nav-height: 50px;
   // -
 
   @media #{$sm-up} {
+    display: -webkit-flex;
+    display: -ms-flexbox;
     display: flex;
+
     height: 100%;
     padding-left: 0;
     padding-right: 0;
@@ -56,7 +59,11 @@ $category-nav-height: 50px;
   font-size: 16px;
 
   // scrollable nav
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
   display: inline-flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
   align-items: center;
   height: $category-nav-height;
   // -
