@@ -1,20 +1,11 @@
 .c-featured-posts {
-  padding-top: 15px;
-  margin-top: 20px;
-
-  @media #{$lg-up} {
-    margin-top: 0;
-  }
+  margin-top: 25px;
 
   &__title {
-    @include text($fs-14, $fw-normal, $black-color);
+    @include text($fs-14, $fw-semibold, $black-color);
     margin-top: 0;
     padding-bottom: 7px;
     border-bottom: 1px solid $gray-3-color;
-
-    @media #{$md-up} {
-      margin-top: 20px;
-    }
   }
 
   &__item {
