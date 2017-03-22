@@ -1,0 +1,22 @@
+{% assign category = include.categories | first %}
+{% assign postCounter = 0 %}
+{% assign maxPost = 3 %}
+
+<div class="c-latest-posts">
+  <h3 class="c-latest-posts__title">You might also like</h3>
+  <div class="c-latest-posts__items">
+    {% for post in site.categories[category] %}
+      {% if post.url != page.url %}
+        <a class="c-latest-posts__card" href="{{ post.url }}">
+          <img class="c-latest-posts__card-image" src="/assets/cover-images/xs/thumbnail_{{ post.cover_image }}">
+          <div class="c-latest-posts__card-meta">{{ category }}</div>
+          <div class="c-latest-posts__card-title">{{ post.title }}</div>
+        </a>
+        {% assign postCounter = postCounter | plus: 1 %}
+        {% if postCounter >= maxPost %}
+          {% break %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

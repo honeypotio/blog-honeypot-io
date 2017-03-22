@@ -92,9 +92,16 @@ layout: default
         {% include sign-up.html %}
       </div><!-- ./post -->
     </div><!-- ./col-md-9 -->
+
     <div class="col-md-3">
       {% include featured-posts.html %}
       {% include sidebar-signup.html %}
+    </div>
+
+    <div class="col-md-9">
+      {% include latest-posts.html
+        categories=page.categories
+       %}
     </div>
   </div>
 </div>
