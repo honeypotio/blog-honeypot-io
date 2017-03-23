@@ -1,4 +1,6 @@
 $(function() {
+  var sidebarScrollHandler = null;
+
   $.cookieBar({
     acceptText: '&times;',
     message: '<span>Honeypot uses cookies to make your experience better.</span>',
@@ -63,8 +65,33 @@ $(function() {
 
   // ignore small screens
   if ((window.innerWidth > 991) && $('.js-sidebar-signup').length) {
-    $(window).scroll(stickSignupSidebar.bind(null, $('.js-sidebar-signup').offset()));
+    sidebarScrollHandler = stickSignupSidebar.bind(null, $('.js-sidebar-signup').offset());
+    $(window).on('scroll', sidebarScrollHandler);
+    $(window).on('resize', stickOnResize);
   }
+
+  function _setScrollAction() {
+    // Remove all scroll listeners on resize and do it all over again
+    $(window).off('scroll', sidebarScrollHandler);
+    if ((window.innerWidth > 991) && $('.js-sidebar-signup').length) {
+      sidebarScrollHandler = stickSignupSidebar.bind(null, $('.js-sidebar-signup').offset());
+      $(window).on('scroll', sidebarScrollHandler);
+    }
+  };
+
+  function stickOnResize() {
+    let element = $('.js-sidebar-signup');
+    let normalSidebarCSS = {
+      'position': 'initial',
+      'margin-top': '',
+      'width': '',
+      'top': '',
+      'left': 0
+    };
+    element.css(normalSidebarCSS);
+    _setScrollAction();
+    stickSignupSidebar(element.offset());
+  };
 
   function stickSignupSidebar(signupSidebarOffset) {
     var signupSidebar = $('.js-sidebar-signup');
