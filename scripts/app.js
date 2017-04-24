@@ -80,8 +80,8 @@ $(function() {
   };
 
   function stickOnResize() {
-    let element = $('.js-sidebar-signup');
-    let normalSidebarCSS = {
+    var element = $('.js-sidebar-signup');
+    var normalSidebarCSS = {
       'position': 'initial',
       'margin-top': '',
       'width': '',
