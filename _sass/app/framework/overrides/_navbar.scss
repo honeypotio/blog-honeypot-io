@@ -37,6 +37,44 @@
     }
   }
 
+  .dropdown {
+    &.open > a {
+      background-color: $light-gray-color;
+    }
+  }
+
+  .dropdown-menu {
+    padding: 0;
+
+    &:before {
+      position: absolute;
+      top: -7px;
+      right: 11px;
+      display: inline-block;
+      content: "";
+      border-right: 7px solid transparent;
+      border-bottom: 7px solid $white-color;
+      border-left: 7px solid transparent;
+    }
+
+    > li {
+      border-bottom: 1px solid $light-blue-1-color;
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    > li > a {
+      font-size: $fs-9;
+      font-weight: $fw-light;
+      color: inherit;
+      text-align: right;
+      padding-top: 8px;
+      padding-bottom: 8px;
+    }
+  }
+
   .icon-bar {
     background-color: $gray-1-color;
   }
