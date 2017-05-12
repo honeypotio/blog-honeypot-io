@@ -10,11 +10,11 @@ permalink: london-tech-map/
 importance: 2
 ---
 
-[Compass](http://startup-ecosystem.compass.co/ser2015/) estimates that London has between 3,000 and 5,000 active tech startups with a combined value of £34 billion, which makes London the fourth largest startup ecosystem in the world.  For software developers working in the metropolis, London isn’t just about startups - the inner city alone is home to an [estimated 40,000 tech companies](https://www.ft.com/content/876bcd12-140a-11e5-9bc5-00144feabdc0). Reinforcing the demand, a recent parliamentary report estimates that the shortage of digital skills [costs the UK economy £63 billion per year](https://www.publications.parliament.uk/pa/cm201617/cmselect/cmsctech/270/270.pdf). Needless to say, software developers in London are in high demand.  
+[Compass](http://startup-ecosystem.compass.co/ser2015/) estimates that London has between 3,000 and 5,000 active tech startups with a combined value of £34 billion, making London the fourth largest startup ecosystem in the world.  For software developers working in the metropolis, London isn’t just about startups - the inner city alone is home to an [estimated 40,000 tech companies](https://www.ft.com/content/876bcd12-140a-11e5-9bc5-00144feabdc0). A recent parliamentary report estimates that the shortage of digital skills [costs the UK economy £63 billion per year](https://www.publications.parliament.uk/pa/cm201617/cmselect/cmsctech/270/270.pdf). Needless to say, software developers in London are in high demand.  
 
 <!--more-->  
 
-[Honeypot](https://www.honeypot.io/?utm_source=LondonTechMap&utm_medium=organic) is a developer-focused job platform, headquartered in Berlin, Germany. To celebrate our expansion to London, we created [an interactive tech map]( https://techmap.honeypot.io/london).  We took a sample of over 800 London tech companies currently hiring developers and sorted them by industry and programming language, to judge which developer skills are most in demand in London.  For a summary of our research , check out these slides. 
+[Honeypot](https://www.honeypot.io/?utm_source=LondonTechMap&utm_medium=organic) is a developer-focused job platform, headquartered in Berlin, Germany. To celebrate our expansion to London, we created [an interactive tech map]( https://techmap.honeypot.io/london), which takes a sample of over 800 London tech companies currently hiring developers and sorts them by industry and programming language, to judge which developer skills are most in demand in London.  For a summary of our research, check out these slides. 
 
 
 
