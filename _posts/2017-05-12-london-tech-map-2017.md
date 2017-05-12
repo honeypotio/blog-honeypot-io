@@ -57,7 +57,7 @@ The Northern Line, which stops at Old Street Station, is the most densely popula
 ![london-tube-northern-line](/assets/images/london-tube-northern-line.png)
 
 
-East London’s association with startups may not last however. [Research from 2015](https://www.theguardian.com/media-network/2016/apr/12/startups-abandon-tech-city-commercial-rent-soars-east-london-shoreditch) showed that the number of registered technology companies in the EC1V postcode dropped by 227 over the course of 6 months, from 2,480 in the second quarter of 2015 to 2,421 in Q3 and 2,253 in Q4, a 10.1% fall.
+East London’s association with startups may not last however. [Research from 2015](https://www.theguardian.com/media-network/2016/apr/12/startups-abandon-tech-city-commercial-rent-soars-east-london-shoreditch) showed that the number of registered technology companies in the EC1V postcode dropped by 227 over the course of 6 months, from 2,480 in the second quarter of 2015 to 2,421 in Q3 and 2,253 in Q4, a 9.2% fall.
 
 Tech companies headquartered in East London aren’t just paying for a hip location. They are also paying for proximity to developers. StackOverflow reported that over 80% of developers registered in London live in the east of the city. 
 
@@ -182,7 +182,7 @@ Food delivery platforms are in tough competition in London.  By August 2016, Del
 
 ### MedTech in London
 
-5% of London tech companies are MedTech companies. MedTech covers mobile health applications, health analytics and big data and digitised health systems for patient medical records, among others. According to the UK government, MedTech or Digital Health was worth [€2 billion in 2014](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/461479/BIS-15-544-digital-health-in-the-uk-an-industry-study-for-the-Office-of-Life-Sciences.pdf) in the UK alone.  
+5% of London tech companies are MedTech companies. MedTech covers mobile health applications, health analytics and big data and digitised health systems for patient medical records, among others. According to the UK government, MedTech or Digital Health was worth [€1.6 billion in 2014](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/461479/BIS-15-544-digital-health-in-the-uk-an-industry-study-for-the-Office-of-Life-Sciences.pdf) in the UK alone.  
 
 
 ![london-medtech](/assets/images/london-medtech.png)
