@@ -1,12 +1,12 @@
 ---
-title:   London Tech Map 2017
+title: "London Tech Map 2017"
 subtitle:
-date:    2017-12-05 09:54:05
-layout:  post
-author:  emma_tracey
+date: 2017-05-12 07:54:05
+layout: post
+author: emma_tracey
 categories: [Research]
 cover_image: london-tech-map-cover.png
-permalink:  london-tech-map/
+permalink: london-tech-map/
 importance: 2
 ---
 
