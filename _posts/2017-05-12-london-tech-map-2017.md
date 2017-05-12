@@ -24,7 +24,7 @@ London stands apart from other European cities for its unrivalled access to gene
 
 In fact, London has more tech “unicorns” – businesses valued at more than a $1 billion – than any other European city. 
 
-Analysis of VC investment by London & Partners shows that since 2010 UK technology companies have collectively raised almost [£8 billion](http://www.londonandpartners.com/media-centre/press-releases/2016/20160106-vc-barometer-q4)  with London-based firms accounting for more than half of the total (£4.4 billion). Balderton Capital, in a similar study, puts investment even higher. According to its research approximately £7.5 billion has been invested in the London between 2011 and Q3 2016.  
+Analysis of VC investment by London & Partners shows that since 2010 UK technology companies have collectively raised almost [£8 billion](http://www.londonandpartners.com/media-centre/press-releases/2016/20160106-vc-barometer-q4)  with London-based firms accounting for more than half of the total (£4.4 billion). Balderton Capital, in a similar study, puts investment even higher. According to its research approximately £7.5 billion has been invested in London between 2011 and Q3 2016.  
 
 
 ![london-startup-investments](/assets/images/london-startup-investments.png)
@@ -84,7 +84,7 @@ When looking more closely at the breakdown of salaries in the UK for tech positi
 
 ![london-average-salary](/assets/images/london-average-salary.png)
 
-Living costs tend to be one of the biggest concerns for people in the London.  
+Living costs tend to be one of the biggest concerns for people in London.  
 
 
 ![london-living-costs](/assets/images/london-living-costs.png)
