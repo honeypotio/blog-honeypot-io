@@ -151,9 +151,6 @@ MarTech refers to marketing technology. In its broadest sense, it can also encom
 
 MarTech is the second most represented industry, accounting for 14% of tech companies in London. Java, Python and PHP are the most popular backend languages for London tech companies offering MarTech solutions. 
 
-
-![london-martech](/assets/images/london-martech.png)
-
 AdTech runs parallel to MarTech. Generally speaking, MarTech targets existing customers and prospects, while AdTech enables the programmatic buying and selling of advertisements to create new leads. AdTech represents 3% of our sample. Java, Python and Scala are the most popular programming languages for AdTech companies. 
 
 
