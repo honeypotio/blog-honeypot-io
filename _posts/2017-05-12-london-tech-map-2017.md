@@ -1,5 +1,5 @@
 ---
-title: "London Tech Map 2017"
+title: "London Tech Map 2017 launches!"
 subtitle:
 date: 2017-05-12 07:54:05
 layout: post
@@ -14,7 +14,9 @@ importance: 2
 
 <!--more-->  
 
-[Honeypot](https://www.honeypot.io/?utm_source=LondonTechMap&utm_medium=organic) is a developer-focused job platform, headquartered in Berlin, Germany. To celebrate our expansion to London, we created [an interactive tech map]( https://techmap.honeypot.io/london) with over 800  tech companies and 12,000 job postings. The companies are sorted by industry and programming language to judge which developer skills are most in demand in London.   
+[Honeypot](https://www.honeypot.io/?utm_source=LondonTechMap&utm_medium=organic) is a developer-focused job platform, headquartered in Berlin, Germany. To celebrate our expansion to London, **we created [an interactive tech map]( https://techmap.honeypot.io/london)** with over 800  tech companies and 12,000 job postings. The companies are sorted by industry and programming language to judge which developer skills are most in demand in London. 
+
+This blog post gives a summary of the findings from the research. For a **full overview of our research, read [our London Tech Map 2017 report](https://honeypotio.github.io/research/pages/london-techmap.html).** 
 
 
 
