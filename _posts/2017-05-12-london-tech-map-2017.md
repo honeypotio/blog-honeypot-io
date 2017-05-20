@@ -1,5 +1,5 @@
 ---
-title: "London Tech Map 2017 launches!"
+title: "London Tech Map 2017"
 subtitle:
 date: 2017-05-12 07:54:05
 layout: post
@@ -14,7 +14,7 @@ importance: 2
 
 <!--more-->  
 
-[Honeypot](https://www.honeypot.io/?utm_source=LondonTechMap&utm_medium=organic) is a developer-focused job platform, headquartered in Berlin, Germany. To celebrate our expansion to London, **we created [an interactive tech map]( https://techmap.honeypot.io/london)** with over 800  tech companies and 12,000 job postings. The companies are sorted by industry and programming language to judge which developer skills are most in demand in London. 
+[Honeypot](https://www.honeypot.io/?utm_source=LondonTechMap&utm_medium=organic) is a developer-focused job platform, headquartered in Berlin, Germany. To celebrate our expansion to London, **we created [an interactive tech map](https://techmap.honeypot.io/london) with over 800  tech companies** and 12,000 job postings. The companies are sorted by industry and programming language to judge which developer skills are most in demand in London. 
 
 This blog post gives a summary of the findings from the research. For a **full overview of our research, read [our London Tech Map 2017 report](https://honeypotio.github.io/research/pages/london-techmap.html).** 
 
@@ -33,7 +33,7 @@ Analysis of VC investment by London & Partners shows that since 2010 UK technolo
 
 ## Developers in London
 
-According to Balderton Capital’s [*European Tech Landscape Report*](https://talent.balderton.com/#3), the UK has the highest percentage of Science, Technology, Engineering and Mathematics (STEM) graduates as a percentage of the population in Europe. 
+According to Balderton Capital’s [*European Tech Landscape Report*](https://talent.balderton.com/#3), the UK has the largest number of Science, Technology, Engineering and Mathematics (STEM) graduates as a percentage of the population in Europe. 
 
 London is home to over 300,000 developers, compared to 130,000 in Paris and some 80,000 in Berlin. According to StackOverflow’s London Edition of the 2016 *Developer Ecosystem Report*, there are more developers in Greater London than in San Francisco or New York.  
 
@@ -144,92 +144,9 @@ Other companies are challenging more traditional financial services providers, s
 
 InsurTech, which is sometimes classified within FinTech, is one of London’s fastest growing industries.  The insurance industry has been slightly slower to react to digital disruption than other industries, but over the last year it has picked up pace significantly. Venture Capital investment in insurance technology companies [doubled in 2016 to almost £1 billion](https://www.ft.com/content/4547ba76-08e2-11e7-ac5a-903b21361b43).
 
-
-### MarTech and AdTech in London
-
-MarTech refers to marketing technology. In its broadest sense, it can also encompass BI, analytics, AdTech and even eCommerce. In our definition it focuses on marketing operations - tools and platforms which drive customers to business and shape their behaviour. This definition includes events platforms, lead generation tools, design tools, website builders, loyalty platforms, and video platforms. 
-
-MarTech is the second most represented industry, accounting for 14% of tech companies in London. Java, Python and PHP are the most popular backend languages for London tech companies offering MarTech solutions. 
-
-AdTech runs parallel to MarTech. Generally speaking, MarTech targets existing customers and prospects, while AdTech enables the programmatic buying and selling of advertisements to create new leads. AdTech represents 3% of our sample. Java, Python and Scala are the most popular programming languages for AdTech companies. 
+**For more insight into London's industries and products, check out our [research report](https://honeypotio.github.io/research/pages/london-techmap.html).**
 
 
-![london-adtech](/assets/images/london-adtech.png)
-
-
-### eCommerce in London
-
-eCommerce companies are the third largest industry segment in London’s tech ecosystem. Our definition of eCommerce covers companies which allow for the buying and selling of goods online, including online retailers, price comparison tools, car trading platforms, online classifieds, personalized gifts and printing, among others. PHP, Java and Python are the most commonly used programming languages by eCommerce companies in London. 
-
-![london-ecommerce](/assets/images/london-ecommerce.png)
-
-According to London Partners, 2016 was a record year for eCommerce investment in London, with a total of [£486 million invested across 69 deals](http://www.londonandpartners.com/media-centre/press-releases/2017/20170112-uk-tech-sector-leads-european-investment-in-2016). London’s most successful eCommerce startup is [ASOS](http://www.asos.com), which IPO’d in 2008. Other successful eCommerce players to emerge from London include [Made.com](http://www.made.com/), a furniture retailer, [Lyst](https://www.lyst.com/), a personalized fashion marketplace, [CarWow](https://www.carwow.co.uk/), a used car platform, and [FarFetch](https://www.farfetch.com/de/), a marketplace connecting luxury retailers and consumers.
-
-
-### Logistics, Delivery & On-Demand Services in London
-
-Logistics, Delivery and On-Demand Services is a broad category which includes food delivery, parking apps, storage services, supplier management, removals, courier services, booking services and cleaner and handyman apps, among other things. 5% of tech companies in London fall into this category and the most common backend languages are PHP, Ruby and Java. 
-
-
-
-![london-logistics](/assets/images/london-logistics.png)
-
-Food delivery startups have received heavy investment over the last few years. According to Euromonitor, since the 2006 financial crisis, growth in the home delivery and takeaway food sector has outpaced the growth of restaurants.  Citing the data, the Financial Times reported that between 2010 and 2015, the western European market for [takeaway and delivery grew 2.2 per cent, to £18.4 billion](https://www.ft.com/content/5930b09a-32cf-11e6-bda0-04585c31b153), while the value of food bought in restaurants fell by 7.6 per cent to £135.3 billion.
-
-Food delivery platforms are in tough competition in London.  By August 2016, Deliveroo had raised roughly £370 million, while Just Eat IPO’d in 2014 at a [£1.5 billion valuation](https://www.ft.com/content/4d24d4d6-baf7-11e3-948c-00144feabdc0). UberEats recently entered the market adding another layer of competition to the already tight industry. 
-
-
-### MedTech in London
-
-5% of London tech companies are MedTech companies. MedTech covers mobile health applications, health analytics and big data and digitised health systems for patient medical records, among others. According to the UK government, MedTech or Digital Health was worth [€1.6 billion in 2014](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/461479/BIS-15-544-digital-health-in-the-uk-an-industry-study-for-the-Office-of-Life-Sciences.pdf) in the UK alone.  
-
-
-![london-medtech](/assets/images/london-medtech.png)
-
-For developers looking to make a difference in the world, MedTech is often one of the most exciting areas to enter. Notable examples of MedTech companies include [Antidote](https://antidote.me/), which matches the right patients with the right clinical trials, [Big Health](https://www.bighealth.com/), which is tackling mental health disorders using non-drug solutions, including the digital delivery of Cognitive Behavioral Therapy, [uMotif](https://www.umotif.com/), a platform to improve clinical trials, and [Health Unlocked](https://healthunlocked.com/about), a social network for patients to share experiences and tips. 
-
-
-
-### EduTech in London
-
-[Innovation Norway](http://www.innovasjonnorge.no/globalassets/tea/uk-start-up-scene-at-a-glance-int.pdf) reports EduTech is one of the fastest growing tech sectors across Britain, with more than 1,000 start-ups across the country and over 200 based in London. EduTech or Education Technology includes apps for schools, corporate learning, platforms to find universities, homeschooling software, self-learning apps, coding bootcamps, and career advice platforms. 
-
-![london-edutech](/assets/images/london-edutech.png)
-
-Schools in the UK spend [£900m a year on education technology]( https://www.ft.com/content/6e73096a-7675-11e5-933d-efcdc3c11c89) and teachers can be the first point of sale, in contrast to in the US where suppliers must be approved via school district authorities. [The Times Higher Education World University 2015 rankings](https://www.timeshighereducation.com) revealed that London has more world class universities than any other city in the world, which makes the city particularly prospective for EduTech startups. 
-
-
-### AI in London
-
-London rivals Silicon Valley for the density of companies working on AI in the city. Companies falling into this category are working on “deep reinforcement learning” – the task of giving computers the tools to draw conclusions based on large amounts of data, mirroring the way that humans make assumptions based on experience. Bank of America Merrill Lynch estimate that the robots and AI solutions market [will grow to £120 billion by 2020](https://www.bofaml.com/content/dam/boamlimages/documents/PDFs/robotics_and_ai_condensed_primer.pdf). 
-
-One of the most interesting technology companies in London, [DeepMind](https://deepmind.com/) was bought by Google for a reported £400 million in 2015. Google has already started to use DeepMind’s algorithms across its products and platforms. London universities like Imperial and UCL are becoming hotbeds of talent and [breeding grounds for new AI business ideas](https://www.theguardian.com/technology/2016/mar/05/artificial-intelligence-brains-money-london).  
-
-
-
-![london-ai](/assets/images/london-ai.png)
-
-## Other Industries in London
-
-On our interactive [London Tech Map](https://techmap.honeypot.io/london), we explored a total of 20 industries in London, including data analytics and process automation tools, travel companies, gaming security and developer tools. For a full overview, [head over to the tech map](https://techmap.honeypot.io/london). 
-
-![london-travel](/assets/images/london-travel.png)
-
-![london-security](/assets/images/london-security.png)
-
-![london-hrtech](/assets/images/london-hrtech.png)
-
-![london-data-analytics](/assets/images/london-data-analytics.png)
-
-![london-gaming](/assets/images/london-gaming.png)
-
-![london-music](/assets/images/london-music.png)
-
-![london-real-estate](/assets/images/london-real-estate.png)
-
-![london-software](/assets/images/london-software.png)
-
-![london-dating](/assets/images/london-dating.png)
 
 ## The Future of London’s Tech Scene 
 
@@ -242,4 +159,9 @@ London is one of the most attractive locations in the world to build a successfu
 
 
 ![london-local-heroes](/assets/images/london-local-heroes.png)
+
+## **For more insight into London's programming langauges, industries, and products, check out our [research report](https://honeypotio.github.io/research/pages/london-techmap.html).**
+
+## To get an interactive overview, head over to our [Tech Map](https://techmap.honeypot.io/london)
+
 
