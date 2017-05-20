@@ -160,7 +160,7 @@ London is one of the most attractive locations in the world to build a successfu
 
 ![london-local-heroes](/assets/images/london-local-heroes.png)
 
-## **For more insight into London's programming langauges, industries, and products, check out our [research report](https://honeypotio.github.io/research/pages/london-techmap.html).**
+## **For more insight into London's programming languages, industries, and products, check out our [research report](https://honeypotio.github.io/research/pages/london-techmap.html).**
 
 ## To get an interactive overview, head over to our [Tech Map](https://techmap.honeypot.io/london)
 
