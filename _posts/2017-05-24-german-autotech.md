@@ -5,7 +5,7 @@ date: 2017-05-24 07:54:05
 layout: post
 author: emma_tracey
 categories: [Interviews]
-cover_image: autotech-cover.png
+cover_image: kerry-wu-mobility.png
 permalink: autotech-in-germany/
 importance: 2
 ---
