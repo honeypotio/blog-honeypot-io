@@ -5,7 +5,7 @@ date: 2017-05-24 07:54:05
 layout: post
 author: frederik_bohn
 categories: [Interviews]
-cover_image: thumbnail_kerry-wu-mobility.png
+cover_image: kerry-wu-mobility.png
 permalink: autotech-in-germany/
 importance: 2
 ---
