@@ -25,7 +25,7 @@ American automakers, as well as the Germans and the Japanese, are all looking to
 
 The automakers are looking for talent. A lot of players are still open, in that they are exploring a lot of different business models from robo taxis and car sharing, to new ownership paradigms, so there are a lot of questions open on the table. In sum, we are seeing a lot of uncertainty and hecticness. Its definitely an interesting state in the industry right now.
 
-![autotech-in-germany](/_assets/images/2-auto-tech-deal-share-global-2016.png)
+![autotech-in-germany](/assets/images/1-auto-tech-annual-funding-2016.png)
 
 **For sure, it seems like there’s a land grab going on with the big carmakers trying to get their hands onto as much intellectual property as possible.  Which organization do you think is most prepared to shape the future of autonomous driving?** 
 
@@ -57,7 +57,7 @@ To a certain extent, this could be true. It could be a group of experts or resea
 
 It’s a challenge for both investors and existing automakers who are looking for acquisitions or investment targets to tease out who is really a team dedicated to this problem of autonomy and who is looking to capitalise off a panicking automaker or something along those lines. 
 
-![autotech-in-germany](/assets/images/_2-auto-tech-deal-share-global-2016.png)
+![autotech-in-germany](/assets/images/2-auto-tech-deal-share-global-2016.png)
 
 **There is a lot of collaboration between the German automakers. Daimler recently announced a partnership with Uber. HERE is also owned by Daimler, BMW, Audi, and Intel. What do you make of this trend? Do you think there will be more partnerships like that, more consolidation?** 
   
