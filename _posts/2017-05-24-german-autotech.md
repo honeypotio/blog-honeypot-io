@@ -12,6 +12,9 @@ importance: 2
 
 Kerry Wu is Senior Tech Industry Analyst at [CB Insights](https://www.cbinsights.com/), a technology market intelligence platform. Kerry  leads CB Insights' autotech newsletter and mobility research, tracking startup developments, investments, and emerging business models across the automotive, transportation, and logistics industries. In this interview, Kerry talks to Honeypot about the state of AutoTech in America and Germany and what strategies large automakers are employing to attract software developers.
 
+<!--more--> 
+
+
 ***Note: This interview was conducted in February 2017.*** 
 
 **If you had to describe the state of AutoTech in one word, what would it be?**
