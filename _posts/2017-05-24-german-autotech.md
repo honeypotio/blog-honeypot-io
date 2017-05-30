@@ -35,6 +35,10 @@ Overall, Google - or now the Waymo programme - is in the best position, despite 
 I don’t know if you would count Tesla in there with Google. Tesla has milage but Google’s data is richer.  Tesla have a fair amount of experience with their autopilot and their semi-autonomous system, but Tesla tester suites aren’t as robust. Their data pool is not as refined or as valuable as their broad numbers may make it seem.
 
 
+![autotech-in-germany](/assets/images/mobility-wheel.png)
+## Check out our [Wheel of German AutoTech.](https://autotechmap.honeypot.io/)
+
+
 **If you were to look at traditional automakers, who do you think is the most advanced?**
 
 Traditional automakers were taking a more incremental approach until all the hype around autonomy and tech companies triggered a rush towards full autonomy. 
