@@ -1,5 +1,5 @@
 ---
-title: "Comparing AutoTech in Germany and the US: An Interview with Kerry Wu, CB Insights."
+title: "Comparing AutoTech in Germany and the US&#58; An Interview with Kerry Wu, CB Insights."
 subtitle:
 date: 2017-05-24 07:54:05
 layout: post
