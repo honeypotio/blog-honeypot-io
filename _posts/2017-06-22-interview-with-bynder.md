@@ -9,7 +9,7 @@ cover_image: bynder.png
 permalink:  interview-with-bynder/
 importance: 2
 ---
-Dutch tech company [Bynder](https://www.bynder.com/) began life as a side project in a web agency. The difficulty of image-transfer led the founders to develop their own digital asset management software, which today is used by more than 150,000 brand managers, marketers and creatives globally. We talk to Bynder CTO, [Roland Keijzer](https://nl.linkedin.com/in/keijzer) about their modern tech stack and the joys of having offices in two of Europe’s coolest cities, Amsterdam and Barcelona. 
+Dutch tech company [Bynder](https://www.bynder.com/) began life as a side project in a web agency. The difficulty of image-transfer led the founders to develop their own digital asset management software, which today is used by more than 150,000 brand managers, marketers and creatives globally. We talk to Bynder CTO, [Roland Keijzer](https://nl.linkedin.com/in/keijzer) about their modern tech stack and the joys of having offices in three of Europe’s coolest cities, Amsterdam, Rotterdam and Barcelona. 
 
 <!--more-->
 
