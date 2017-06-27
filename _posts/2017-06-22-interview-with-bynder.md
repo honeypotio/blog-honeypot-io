@@ -18,7 +18,7 @@ Dutch tech company [Bynder](https://www.bynder.com/) began life as a simple web 
  
 That’s actually a nice story! It all started with Label A, a company founded by Chris, Stefan and myself back in 2008. We were a web agency and built all kinds of websites, applications and also more complex projects. We had a client, a distributor of alcoholic beverages, who wanted a database for their images and marketing materials. These digital assets used to be shared using an ftp drive or they would even be delivered by a bike courier, so we were asked to create a more modern solution. 
  
-We created a digital asset management (DAM) tool, without really being aware of it. Then this need started popping up everywhere; more and more clients were requesting something very similar.This concept was very powerful, and we gradually came to understand the value and the potential of it; every company doing marketing (i.e. basically every company) could use a tool like this.
+We created a digital asset management (DAM) tool, without really being aware of it. Then this need started popping up everywhere; more and more clients were requesting something very similar. This concept was very powerful, and we gradually came to understand the value and the potential of it - every company doing marketing (i.e. basically every company) could use a tool like this.
  
 ### Your product grew out of a real problem felt by a client. How did Bynder develop after that?
  
@@ -36,7 +36,7 @@ We were on a virtual server at the very beginning, but we quickly switched to S3
  
 Back in the days, Bynder didn’t start in the cloud in the strictest sense, but on a virtual server. A very simple, 200GB server. The thing with images is that the file sizes can be pretty large. Everything went well when we had a small amount of clients but when we started to grow, we were confronted with some issues. When you have ten customers uploading 100GB footage, at some point you will have to replace your hard drives. Replacing a hard drive on a server means downtime so that is why we looked for other solutions and eventually chose to work with Amazon Web Services and their ‘unlimited’ storage. This way we could fully focus on our customers and their needs without paying full time attention to our hardware. 
  
-Also, our clients can download files or select particular files and download as .ZIP file. This is very processor-intensive because every customer puts together his own package of files. Therefore, we decided to create a special microservice. This microservice has the ability to scale up automatically when needed. Before that, problems would arise when a customer would send out an email and all recipients would start to download at the same time. The workload was too heavy which caused our server to go down. The problem of too many users requesting heavy tasks at the same time is solved through these microservices. From that day, the scale of our service became unlimited.
+Also, our clients can download files or select particular files and download them as ZIP files. This is very processor-intensive because every customer puts together his own package of files. Therefore, we decided to create a special microservice. This microservice has the ability to scale up automatically when needed. Before that, problems would arise when a customer would send out an email and all recipients would start to download at the same time. The workload was too heavy which caused our server to go down. The problem of too many users requesting heavy tasks at the same time is solved through these microservices. From that day, the scale of our service became unlimited.
 
 ![bynder-jobs](/assets/images/bynder-two.jpg)
  
@@ -45,18 +45,19 @@ Also, our clients can download files or select particular files and download as 
 
 The way we generate previews, because there are many exotic file types out there. Sometimes these are very complex and with sizes up to 10GB for a single image. We used to have problems with this in terms of scale and quality, but we’ve taken huge strides to generate previews in so many different formats. More generally, I would say we are pretty good UX/UI-wise. 
  
-Thinking more broadly, our UX and UI have and will remain one of the signatures of our software. . I think this is because of our roots going from a web agency, we have a focus on UX/UI and we have a design-first approach. We are always concerned with the end user, and we also realize that usability is the quickest path to widespread adoption of the tool, so we’ve doubled down on that.
+Thinking more broadly, our UX and UI have and will remain one of the signatures of our software. I think this is because of our roots as a web agency, we have a focus on UX/UI and we have a design-first approach. We are always concerned with the end user, and we also realize that usability is the quickest path to widespread adoption of the tool, so we’ve doubled down on that.
  
 ### You mentioned previously that scaling your engineering team has been a challenge. What are you doing to deal with that? 
  
-We added a second office dedicated to development, this time in Barcelona. The talent pool there is tremendous, and it’s good to add new perspectives to the team. We have 15 employees now in Spain and we found out that it is important to have them operate autonomously. We work in squads of maximum 8 people: backend, frontend, QA and product owner, focusing on certain parts of Bynder. This means that they are working autonomously on these parts. 
+We added a second office dedicated to development, this time in Barcelona. The talent pool there is tremendous, and it’s good to add new perspectives to the team. We have 15 employees now in Spain and we found out that it is important to have them operate autonomously. We work in squads of maximum 8 people: backend, frontend, QA and product owner, focusing on certain parts of Bynder. 
+
 
 ![bynder-jobs](/assets/images/bynder-three.jpg)
 
 
 ### Why do developers want to work for Bynder? 
  
-A number of things. The location of our offices are centrally located: we are at Plaça de Catalunya in Barcelona, on Blaak in Rotterdam and practically on Leidseplein in Amsterdam. For developers specifically, I’d say we are attractive because we work with new technologies. We are currently building a single page application with React and Redux as frontend frameworks, we build our backend in Python and work with a GraphQL API. Everything is hosted on AWS. We are actually one of the top 3 clients of Amazon in the Benelux so we are also involved in the development of new features and products and we are invited to run new services in Beta with them.
+A number of things. Our offices are centrally located: we are at Plaça de Catalunya in Barcelona, on Blaak in Rotterdam and practically on Leidseplein in Amsterdam. For developers specifically, I’d say we are attractive because we work with new technologies. We are currently building a single page application with React and Redux as frontend frameworks, we build our backend in Python and work with a GraphQL API. Everything is hosted on AWS. We are actually one of the top 3 clients of Amazon in the Benelux so we are also involved in the development of new features and products and we are invited to run new services in Beta with them.
 
 ### What is your vision for the development of the product over the next couple of years?
 
