@@ -10,92 +10,91 @@
     <g id="Cheat-Sheet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="cheat-sheet-glossary">
             <path d="M22.4460831,205.5 L772.446083,205.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="API" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="API" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="101" y="154">API</tspan>
             </text>
-            <text id="Functions-and-proced" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="291.031394" y="152">Functions and procedures that allow you to create applications </tspan>
-                <tspan x="291.031394" y="171">that access data of an operating system or other service.</tspan>
+            <text id="Functions-and-proced" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="291.031394" y="153">Functions and procedures that allow you to create applications that </tspan>
+                <tspan x="291.031394" y="172">access data of an operating system or other service.</tspan>
             </text>
             <path d="M22.4460831,306.5 L772.446083,306.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Backend" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Backend" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="101" y="255">Backend</tspan>
             </text>
-            <text id="The-backend-consists" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="291.031394" y="253">The backend consists of the server, the app and the database, this </tspan>
-                <tspan x="291.031394" y="272">technology is what enables the frontend to happen.</tspan>
+            <text id="The-backend-consists" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="291.031394" y="254">The backend consists of the server, the app and the database, this </tspan>
+                <tspan x="291.031394" y="273">technology is what enables the frontend to happen.</tspan>
             </text>
             <path d="M20,428 L770,428" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Database" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Database" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="99" y="358">Database</tspan>
             </text>
-            <text id="A-database-is-a-coll" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="289" y="356">A database is a collection of information that is organized in a way </tspan>
-                <tspan x="289" y="375">that makes it quick and easy to access, manage, and update by a </tspan>
-                <tspan x="289" y="394">computer program. Comes to getting the data needed.</tspan>
+            <text id="A-database-is-a-coll" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="289" y="357">A database is a collection of information that is organized in a way </tspan>
+                <tspan x="289" y="376">that makes it quick and easy to access, manage, and update by a </tspan>
+                <tspan x="289" y="395">computer program. Comes to getting the data needed.</tspan>
             </text>
             <path d="M20,571 L770,571" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Deployment" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Deployment" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="99" y="476">Deployment</tspan>
             </text>
-            <text id="Deployment-is-the-mo" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="289" y="474">Deployment is the movement of new software or hardware from the </tspan>
-                <tspan x="289" y="493">testing phase to the production phase, getting the system available </tspan>
-                <tspan x="289" y="512">for use. This means the installation, the configuration, running, </tspan>
-                <tspan x="289" y="531">testing and all the changes that has to be done.</tspan>
+            <text id="Deployment-is-the-mo" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="289" y="475">Deployment is the movement of new software or hardware from the </tspan>
+                <tspan x="289" y="494">testing phase to the production phase, getting the system available for </tspan>
+                <tspan x="289" y="513">use. This means the installation, the configuration, running, testing and </tspan>
+                <tspan x="289" y="532">all the changes that has to be done.</tspan>
             </text>
             <path d="M20,705 L770,705" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Framework" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Framework" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="99" y="619">Framework</tspan>
             </text>
-            <text id="Reusable-software-en" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="289" y="617">Reusable software environment that provides particular functionality </tspan>
-                <tspan x="289" y="636">as part of a larger software platform to facilitate development of </tspan>
-                <tspan x="289" y="655">software applications, products and solutions.</tspan>
+            <text id="Reusable-software-en" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="289" y="618">Reusable software environment that provides particular functionality as </tspan>
+                <tspan x="289" y="637">part of a larger software platform to facilitate development of software </tspan>
+                <tspan x="289" y="656">applications, products and solutions.</tspan>
             </text>
             <path d="M20,785 L770,785" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Frontend" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Frontend" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="99" y="753">Frontend</tspan>
             </text>
-            <text id="The-frontend-is-the" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="289" y="751">The frontend is the part of the web that users can see and interact </tspan>
-                <tspan x="289" y="770">with.</tspan>
+            <text id="The-frontend-is-the" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="289" y="752">The frontend is the part of the web that users can see and interact with.</tspan>
             </text>
             <path d="M20,902 L770,902" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Library" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Library" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="99" y="830">Library</tspan>
             </text>
-            <text id="Libraries,-in-most-p" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="289" y="828">Libraries, in most programming languages, are resources which you </tspan>
-                <tspan x="289" y="847">can reuse. They are sets of pre-written code that is stored to assist </tspan>
-                <tspan x="289" y="866">programmers in the development of software.</tspan>
+            <text id="Libraries,-in-most-p" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="289" y="829">Libraries, in most programming languages, are resources which you can </tspan>
+                <tspan x="289" y="848">reuse. They are sets of pre-written code that is stored to assist </tspan>
+                <tspan x="289" y="867">programmers in the development of software.</tspan>
             </text>
             <path d="M21,1070 L771,1070" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Programming" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Programming" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="99" y="946">Programming</tspan>
             </text>
-            <text id="Computer-programming" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="289" y="944">Computer programming is a bunch of instructions that tell a </tspan>
-                <tspan x="289" y="963">computer/software program what to do in a language that the </tspan>
-                <tspan x="289" y="982">computer understands. These instructions come in the form of </tspan>
-                <tspan x="289" y="1001">many different languages such as C++, Java, JavaScript, HTML, </tspan>
-                <tspan x="289" y="1020">Ruby, and Python. Using the appropiate language, you can </tspan>
-                <tspan x="289" y="1039">program/create all sorts of software. 	</tspan>
+            <text id="Computer-programming" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="289" y="945">Computer programming is a bunch of instructions that tell a computer/</tspan>
+                <tspan x="289" y="964">software program what to do in a language that the computer </tspan>
+                <tspan x="289" y="983">understands. These instructions come in the form of many different </tspan>
+                <tspan x="289" y="1002">languages such as C++, Java, JavaScript, HTML, Ruby, and Python. </tspan>
+                <tspan x="289" y="1021">Using the appropiate language, you can program/create all sorts of </tspan>
+                <tspan x="289" y="1040">software. 	</tspan>
             </text>
             <path d="M21,1183 L771,1183" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Server" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Server" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="100" y="1114">Server</tspan>
             </text>
-            <text id="A-server-is-a-comput" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="290" y="1110">A server is a computer program or a device that provides </tspan>
-                <tspan x="290" y="1129">functionality, that processes requests and delivers data, for other </tspan>
-                <tspan x="290" y="1148">programs or devices.</tspan>
+            <text id="A-server-is-a-comput" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="290" y="1111">A server is a computer program or a device that provides functionality, </tspan>
+                <tspan x="290" y="1130">that processes requests and delivers data, for other programs or </tspan>
+                <tspan x="290" y="1149">devices.</tspan>
             </text>
             <rect id="Rectangle" fill="#3685D6" x="0" y="0" width="799" height="110"></rect>
-            <text id="Honeypot's-Technical" font-family="OpenSans-Bold, Open Sans" font-size="30" font-weight="bold" fill="#FFFFFF">
+            <text id="Honeypot's-Technical" font-family="Helvetica-Bold, Helvetica" font-size="30" font-weight="bold" fill="#FFFFFF">
                 <tspan x="99" y="54">Honeypot's Technical HR Cheat Sheet</tspan>
             </text>
-            <text id="Glossary" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#FFFFFF">
+            <text id="Glossary" font-family="Helvetica" font-size="20" font-weight="normal" fill="#FFFFFF">
                 <tspan x="98" y="83">Glossary</tspan>
             </text>
             <g id="Logo2_EPS" transform="translate(620.000000, 1310.000000)">
@@ -134,9 +133,7 @@
                 <circle id="Oval" fill="#3685D6" cx="7" cy="3" r="1"></circle>
                 <circle id="Oval" fill="#3685D6" cx="10" cy="3" r="1"></circle>
                 <path d="M0.5,5.5 L44.141299,5.5 L44.141299,32.2714932 C44.141299,33.5214346 43.2843488,34.5 42.2569712,34.5 L2.38432776,34.5 C1.36155139,34.5 0.5,33.5149102 0.5,32.2714932 L0.5,5.5 Z" id="Rectangle-2" stroke="#3685D6"></path>
-                <text id="&gt;_" font-family="ProximaNova-Semibold, Proxima Nova" font-size="16" font-weight="500" fill="#3685D6">
-                    <tspan x="5" y="21">&gt;_</tspan>
-                </text>
+                <path d="M5.464,19.56 L12.568,16.248 L12.568,15.048 L5.464,11.72 L5.464,13.016 L11.288,15.656 L5.464,18.28 L5.464,19.56 Z M12.984,22.792 L22.104,22.792 L22.104,21.64 L12.984,21.64 L12.984,22.792 Z" id="&gt;_" fill="#3685D6"></path>
             </g>
             <g id="Group" transform="translate(35.000000, 137.000000)" fill-rule="nonzero">
                 <path d="M36.8218556,11.6758833 C36.8290222,11.50865 36.8342778,11.34045 36.8342778,11.1712833 C36.8342778,5.00153333 31.8864111,0 25.7823222,0 C21.3619222,0 17.5492556,2.62401667 15.7814778,6.41383333 C14.7996444,5.70575 13.5865667,5.28621667 12.2731556,5.28621667 C9.00563333,5.28621667 6.35731111,7.87688333 6.35731111,11.0717167 C6.35731111,11.54635 6.41703333,12.0064833 6.52692222,12.4472833 C2.79977778,13.2501 0,16.6605 0,20.7466 C0,25.4291333 3.6765,29 8.21156667,29 L35.1415111,29 C39.4816444,29 43,25.2507833 43,20.34785 C43,16.0969333 40.3540667,12.5458833 36.8218556,11.6758833 Z M35.1415111,27.55 L8.21156667,27.55 C4.41084444,27.55 1.43333333,24.56155 1.43333333,20.7466 C1.43333333,17.4323833 3.70134444,14.5386667 6.82553333,13.8653833 C7.20632222,13.7832167 7.5379,13.5478333 7.74382222,13.2133667 C7.94974444,12.8789 8.01185556,12.4738667 7.9163,12.0920333 C7.83268889,11.7575667 7.79016667,11.4139167 7.79016667,11.0717167 C7.79016667,8.68115 9.80113333,6.73621667 12.2726778,6.73621667 C13.2449556,6.73621667 14.1699333,7.03298333 14.9487111,7.59461667 C15.1942889,7.77151667 15.4852556,7.86383333 15.781,7.86383333 C15.9018778,7.86383333 16.0237111,7.84836667 16.1426778,7.81695 C16.5535667,7.70868333 16.8956556,7.4211 17.0772111,7.0325 C18.6591333,3.64143333 22.0762,1.45 25.7823222,1.45 C31.0861333,1.45 35.4014222,5.81111667 35.4014222,11.1712833 C35.4014222,11.3196667 35.3966444,11.4670833 35.3904333,11.61305 C35.3608111,12.3047 35.8185222,12.92095 36.4835889,13.0848 C39.4290889,13.8098 41.5671444,16.8644667 41.5671444,20.34785 C41.5666667,24.3865833 38.7444333,27.55 35.1415111,27.55 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.5" fill="#3685D6"></path>
@@ -205,9 +202,7 @@
                 <path d="M3.5,30.5 L11.5,30.5" id="Line" stroke="#3685D6" stroke-linecap="square"></path>
                 <g id="Group-9" transform="translate(13.000000, 11.000000)">
                     <circle id="Oval-3" stroke="#3685D6" stroke-width="1.1" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
-                    <text id="check---material" font-family="material" font-size="15.4" font-weight="normal" fill="#3685D6">
-                        <tspan x="1.125" y="14.125"></tspan>
-                    </text>
+                    <polygon id="check---material" fill="#3685D6" points="6.9 11.4146 13.6914 4.6078 14.6 5.5164 6.9 13.2164 3.3272 9.6436 4.2204 8.735"></polygon>
                 </g>
             </g>
             <path d="M72.363,1114.811 L38.763,1114.811 C37.2395,1114.811 36,1116.051 36,1117.5755 L36,1124.925 C36,1126.449 37.2395,1127.689 38.763,1127.689 L72.363,1127.689 C73.8875,1127.689 75.1275,1126.449 75.1275,1124.925 L75.1275,1117.575 C75.1275,1116.051 73.887,1114.811 72.363,1114.811 Z M72.6275,1124.925 C72.6275,1125.068 72.5065,1125.189 72.363,1125.189 L38.763,1125.189 C38.6205,1125.189 38.5,1125.068 38.5,1124.925 L38.5,1117.5755 C38.5,1117.432 38.6205,1117.311 38.763,1117.311 L72.363,1117.311 C72.5065,1117.311 72.6275,1117.432 72.6275,1117.575 L72.6275,1124.925 Z M43.356,1119.4585 C42.3675,1119.4585 41.564,1120.262 41.564,1121.25 C41.564,1122.238 42.3675,1123.0415 43.356,1123.0415 C44.344,1123.0415 45.1475,1122.238 45.1475,1121.25 C45.1475,1120.262 44.344,1119.4585 43.356,1119.4585 Z M48.356,1119.4585 C47.3675,1119.4585 46.564,1120.262 46.564,1121.25 C46.564,1122.238 47.3675,1123.0415 48.356,1123.0415 C49.344,1123.0415 50.1475,1122.238 50.1475,1121.25 C50.1475,1120.262 49.344,1119.4585 48.356,1119.4585 Z M53.356,1119.4585 C52.3675,1119.4585 51.564,1120.262 51.564,1121.25 C51.564,1122.238 52.3675,1123.0415 53.356,1123.0415 C54.344,1123.0415 55.1475,1122.238 55.1475,1121.25 C55.1475,1120.262 54.344,1119.4585 53.356,1119.4585 Z M72.363,1129.622 L38.763,1129.622 C37.2395,1129.622 36,1130.862 36,1132.3865 L36,1139.736 C36,1141.26 37.2395,1142.5 38.763,1142.5 L72.363,1142.5 C73.8875,1142.5 75.1275,1141.26 75.1275,1139.736 L75.1275,1132.386 C75.1275,1130.862 73.887,1129.622 72.363,1129.622 Z M72.6275,1139.736 C72.6275,1139.879 72.5065,1140 72.363,1140 L38.763,1140 C38.6205,1140 38.5,1139.879 38.5,1139.736 L38.5,1132.3865 C38.5,1132.243 38.6205,1132.122 38.763,1132.122 L72.363,1132.122 C72.5065,1132.122 72.6275,1132.243 72.6275,1132.386 L72.6275,1139.736 Z M43.356,1134.2695 C42.3675,1134.2695 41.564,1135.073 41.564,1136.061 C41.564,1137.049 42.3675,1137.8525 43.356,1137.8525 C44.344,1137.8525 45.1475,1137.049 45.1475,1136.061 C45.1475,1135.073 44.344,1134.2695 43.356,1134.2695 Z M48.356,1134.2695 C47.3675,1134.2695 46.564,1135.073 46.564,1136.061 C46.564,1137.049 47.3675,1137.8525 48.356,1137.8525 C49.344,1137.8525 50.1475,1137.049 50.1475,1136.061 C50.1475,1135.073 49.344,1134.2695 48.356,1134.2695 Z M53.356,1134.2695 C52.3675,1134.2695 51.564,1135.073 51.564,1136.061 C51.564,1137.049 52.3675,1137.8525 53.356,1137.8525 C54.344,1137.8525 55.1475,1137.049 55.1475,1136.061 C55.1475,1135.073 54.344,1134.2695 53.356,1134.2695 Z M72.363,1100 L38.763,1100 C37.2395,1100 36,1101.24 36,1102.7645 L36,1110.114 C36,1111.638 37.2395,1112.878 38.763,1112.878 L72.363,1112.878 C73.8875,1112.878 75.1275,1111.638 75.1275,1110.114 L75.1275,1102.764 C75.1275,1101.24 73.887,1100 72.363,1100 Z M72.6275,1110.114 C72.6275,1110.257 72.5065,1110.378 72.363,1110.378 L38.763,1110.378 C38.6205,1110.378 38.5,1110.257 38.5,1110.114 L38.5,1102.7645 C38.5,1102.621 38.6205,1102.5 38.763,1102.5 L72.363,1102.5 C72.5065,1102.5 72.6275,1102.621 72.6275,1102.764 L72.6275,1110.114 Z M43.356,1104.647 C42.3675,1104.647 41.564,1105.4505 41.564,1106.4385 C41.564,1107.4265 42.3675,1108.23 43.356,1108.23 C44.344,1108.23 45.1475,1107.4265 45.1475,1106.4385 C45.1475,1105.4505 44.344,1104.647 43.356,1104.647 Z M48.356,1104.647 C47.3675,1104.647 46.564,1105.4505 46.564,1106.4385 C46.564,1107.4265 47.3675,1108.23 48.356,1108.23 C49.344,1108.23 50.1475,1107.4265 50.1475,1106.4385 C50.1475,1105.4505 49.344,1104.647 48.356,1104.647 Z M53.356,1104.647 C52.3675,1104.647 51.564,1105.4505 51.564,1106.4385 C51.564,1107.4265 52.3675,1108.23 53.356,1108.23 C54.344,1108.23 55.1475,1107.4265 55.1475,1106.4385 C55.1475,1105.4505 54.344,1104.647 53.356,1104.647 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.4" fill="#3685D6" fill-rule="nonzero"></path>

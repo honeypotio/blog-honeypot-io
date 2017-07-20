@@ -41,287 +41,287 @@
             </g>
             <path d="M24.5,185.5 L775.5,185.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <path d="M24.5,321.5 L775.5,321.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Frameworks" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Frameworks" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="312" y="158">Frameworks</tspan>
             </text>
-            <text id="Language" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Language" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="103" y="158">Language</tspan>
             </text>
-            <text id="Testing-Frameworks-&amp;" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Testing-Frameworks-&amp;" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="527" y="158">Testing Frameworks </tspan>
-                <tspan x="527" y="177">&amp; Librairies</tspan>
+                <tspan x="527" y="175">&amp; Librairies</tspan>
             </text>
-            <text id="Java" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Java" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="1259">Java</tspan>
             </text>
-            <text id="Apache-wickets-Grail" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="1259">Apache wickets</tspan>
-                <tspan x="314" y="1278">Grails</tspan>
-                <tspan x="314" y="1297">Hibernate</tspan>
-                <tspan x="314" y="1316">JSF</tspan>
-                <tspan x="314" y="1335">Spring</tspan>
-                <tspan x="314" y="1354">Struts</tspan>
+            <text id="Apache-wickets-Grail" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="1260">Apache wickets</tspan>
+                <tspan x="314" y="1279">Grails</tspan>
+                <tspan x="314" y="1298">Hibernate</tspan>
+                <tspan x="314" y="1317">JSF</tspan>
+                <tspan x="314" y="1336">Spring</tspan>
+                <tspan x="314" y="1355">Struts</tspan>
             </text>
-            <text id="Arquillian-Jtest-jUn" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="1259">Arquillian</tspan>
-                <tspan x="528" y="1278">Jtest</tspan>
-                <tspan x="528" y="1297">jUnit</tspan>
-                <tspan x="528" y="1316">JWalk</tspan>
-                <tspan x="528" y="1335">Mockito</tspan>
-                <tspan x="528" y="1354">Powermock</tspan>
-                <tspan x="528" y="1373">TestNG</tspan>
-                <tspan x="528" y="1392">The Grinder</tspan>
+            <text id="Arquillian-Jtest-jUn" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="1260">Arquillian</tspan>
+                <tspan x="528" y="1279">Jtest</tspan>
+                <tspan x="528" y="1298">jUnit</tspan>
+                <tspan x="528" y="1317">JWalk</tspan>
+                <tspan x="528" y="1336">Mockito</tspan>
+                <tspan x="528" y="1355">Powermock</tspan>
+                <tspan x="528" y="1374">TestNG</tspan>
+                <tspan x="528" y="1393">The Grinder</tspan>
             </text>
-            <text id="C" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="C" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="246">C</tspan>
             </text>
-            <text id="Kore" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="245">Kore</tspan>
+            <text id="Kore" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="246">Kore</tspan>
             </text>
-            <text id="Cmocka-Cmockery-Ctes" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="245">Cmocka</tspan>
-                <tspan x="528" y="264">Cmockery</tspan>
-                <tspan x="528" y="283">Ctest</tspan>
+            <text id="Cmocka-Cmockery-Ctes" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="246">Cmocka</tspan>
+                <tspan x="528" y="265">Cmockery</tspan>
+                <tspan x="528" y="284">Ctest</tspan>
             </text>
             <path d="M24.5,435.5 L775.5,435.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="C#" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="C#" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="374">C#</tspan>
             </text>
-            <text id="ASP.NET-.NET" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="373">ASP.NET</tspan>
-                <tspan x="314" y="392">.NET</tspan>
+            <text id="ASP.NET-.NET" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="374">ASP.NET</tspan>
+                <tspan x="314" y="393">.NET</tspan>
             </text>
-            <text id="NUnit" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="373">NUnit</tspan>
+            <text id="NUnit" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="374">NUnit</tspan>
             </text>
             <path d="M24.5,561.5 L775.5,561.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="C++" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="C++" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="488">C++</tspan>
             </text>
-            <text id="Boost-Qt-STL" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="487">Boost</tspan>
-                <tspan x="314" y="506">Qt</tspan>
-                <tspan x="314" y="525">STL</tspan>
+            <text id="Boost-Qt-STL" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="488">Boost</tspan>
+                <tspan x="314" y="507">Qt</tspan>
+                <tspan x="314" y="526">STL</tspan>
             </text>
-            <text id="Bandit-Cute-Doctest" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="487">Bandit</tspan>
-                <tspan x="528" y="506">Cute</tspan>
-                <tspan x="528" y="525">Doctest</tspan>
+            <text id="Bandit-Cute-Doctest" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="488">Bandit</tspan>
+                <tspan x="528" y="507">Cute</tspan>
+                <tspan x="528" y="526">Doctest</tspan>
             </text>
             <path d="M24.5,657.5 L775.5,657.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Clojure" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Clojure" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="603">Clojure</tspan>
             </text>
-            <text id="Arachne-Luminus" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="602">Arachne</tspan>
-                <tspan x="314" y="621">Luminus</tspan>
+            <text id="Arachne-Luminus" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="603">Arachne</tspan>
+                <tspan x="314" y="622">Luminus</tspan>
             </text>
-            <text id="Clojure.test" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="602">Clojure.test</tspan>
+            <text id="Clojure.test" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="603">Clojure.test</tspan>
             </text>
             <path d="M24.5,756.5 L775.5,756.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Elixir" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Elixir" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="702">Elixir</tspan>
             </text>
-            <text id="Pheonix-Sugar" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="701">Pheonix</tspan>
-                <tspan x="314" y="720">Sugar</tspan>
+            <text id="Pheonix-Sugar" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="702">Pheonix</tspan>
+                <tspan x="314" y="721">Sugar</tspan>
             </text>
-            <text id="Amrita-ESpec-Exunit" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="701">Amrita</tspan>
-                <tspan x="528" y="720">ESpec</tspan>
-                <tspan x="528" y="739">Exunit</tspan>
+            <text id="Amrita-ESpec-Exunit" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="702">Amrita</tspan>
+                <tspan x="528" y="721">ESpec</tspan>
+                <tspan x="528" y="740">Exunit</tspan>
             </text>
             <path d="M24.5,878.5 L775.5,878.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Erlang" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Erlang" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="796">Erlang</tspan>
             </text>
-            <text id="ChicagoBoss-N2O-Nitr" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="795">ChicagoBoss</tspan>
-                <tspan x="314" y="814">N2O</tspan>
-                <tspan x="314" y="833">Nitrogen</tspan>
-                <tspan x="314" y="852">Zotonic</tspan>
+            <text id="ChicagoBoss-N2O-Nitr" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="796">ChicagoBoss</tspan>
+                <tspan x="314" y="815">N2O</tspan>
+                <tspan x="314" y="834">Nitrogen</tspan>
+                <tspan x="314" y="853">Zotonic</tspan>
             </text>
-            <text id="EUnit" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="795">EUnit</tspan>
+            <text id="EUnit" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="796">EUnit</tspan>
             </text>
             <path d="M24.5,1029.5 L775.5,1029.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Go" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Go" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="919">Go</tspan>
             </text>
-            <text id="Beego-GoCraft-Gorill" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="918">Beego</tspan>
-                <tspan x="314" y="937">GoCraft</tspan>
-                <tspan x="314" y="956">Gorilla</tspan>
-                <tspan x="314" y="975">Martini</tspan>
-                <tspan x="314" y="994">Net/HTTP</tspan>
+            <text id="Beego-GoCraft-Gorill" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="919">Beego</tspan>
+                <tspan x="314" y="938">GoCraft</tspan>
+                <tspan x="314" y="957">Gorilla</tspan>
+                <tspan x="314" y="976">Martini</tspan>
+                <tspan x="314" y="995">Net/HTTP</tspan>
             </text>
-            <text id="Gingko-Go-test-GoCon" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="918">Gingko</tspan>
-                <tspan x="528" y="937">Go test</tspan>
-                <tspan x="528" y="956">GoConvey</tspan>
-                <tspan x="528" y="975">Gomega</tspan>
-                <tspan x="528" y="994">Gospec</tspan>
+            <text id="Gingko-Go-test-GoCon" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="919">Gingko</tspan>
+                <tspan x="528" y="938">Go test</tspan>
+                <tspan x="528" y="957">GoConvey</tspan>
+                <tspan x="528" y="976">Gomega</tspan>
+                <tspan x="528" y="995">Gospec</tspan>
             </text>
             <path d="M24.5,1213.5 L775.5,1213.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Node.js" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Node.js" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="1472">Node.js</tspan>
             </text>
-            <text id="Catberry-Derby-Expre" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="1472">Catberry</tspan>
-                <tspan x="314" y="1491">Derby</tspan>
-                <tspan x="314" y="1510">Express.js</tspan>
-                <tspan x="314" y="1529">Feathers</tspan>
-                <tspan x="314" y="1548">Hapi.js</tspan>
-                <tspan x="314" y="1567">Interfake</tspan>
-                <tspan x="314" y="1586">Koa.js</tspan>
-                <tspan x="314" y="1605">Loopback</tspan>
-                <tspan x="314" y="1624">Meteor.js</tspan>
-                <tspan x="314" y="1643">Mojito</tspan>
-                <tspan x="314" y="1662">Nuxt.js</tspan>
-                <tspan x="314" y="1681">Restberry</tspan>
-                <tspan x="314" y="1700">Restify</tspan>
-                <tspan x="314" y="1719">SailsJS</tspan>
-                <tspan x="314" y="1738">Seneca</tspan>
-                <tspan x="314" y="1757">Socket.io</tspan>
-                <tspan x="314" y="1776">ThinkJS</tspan>
-                <tspan x="314" y="1795">Total.js</tspan>
+            <text id="Catberry-Derby-Expre" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="1473">Catberry</tspan>
+                <tspan x="314" y="1492">Derby</tspan>
+                <tspan x="314" y="1511">Express.js</tspan>
+                <tspan x="314" y="1530">Feathers</tspan>
+                <tspan x="314" y="1549">Hapi.js</tspan>
+                <tspan x="314" y="1568">Interfake</tspan>
+                <tspan x="314" y="1587">Koa.js</tspan>
+                <tspan x="314" y="1606">Loopback</tspan>
+                <tspan x="314" y="1625">Meteor.js</tspan>
+                <tspan x="314" y="1644">Mojito</tspan>
+                <tspan x="314" y="1663">Nuxt.js</tspan>
+                <tspan x="314" y="1682">Restberry</tspan>
+                <tspan x="314" y="1701">Restify</tspan>
+                <tspan x="314" y="1720">SailsJS</tspan>
+                <tspan x="314" y="1739">Seneca</tspan>
+                <tspan x="314" y="1758">Socket.io</tspan>
+                <tspan x="314" y="1777">ThinkJS</tspan>
+                <tspan x="314" y="1796">Total.js</tspan>
             </text>
-            <text id="AVA-Chai-Enzyme-Expe" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="1472">AVA</tspan>
-                <tspan x="528" y="1491">Chai</tspan>
-                <tspan x="528" y="1510">Enzyme</tspan>
-                <tspan x="528" y="1529">Expect</tspan>
-                <tspan x="528" y="1548">Jasmine</tspan>
-                <tspan x="528" y="1567">Jest</tspan>
-                <tspan x="528" y="1586">Karma</tspan>
-                <tspan x="528" y="1605">Mocha</tspan>
-                <tspan x="528" y="1624">Qunit</tspan>
-                <tspan x="528" y="1643">Sinon.js</tspan>
-                <tspan x="528" y="1662">tape</tspan>
+            <text id="AVA-Chai-Enzyme-Expe" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="1473">AVA</tspan>
+                <tspan x="528" y="1492">Chai</tspan>
+                <tspan x="528" y="1511">Enzyme</tspan>
+                <tspan x="528" y="1530">Expect</tspan>
+                <tspan x="528" y="1549">Jasmine</tspan>
+                <tspan x="528" y="1568">Jest</tspan>
+                <tspan x="528" y="1587">Karma</tspan>
+                <tspan x="528" y="1606">Mocha</tspan>
+                <tspan x="528" y="1625">Qunit</tspan>
+                <tspan x="528" y="1644">Sinon.js</tspan>
+                <tspan x="528" y="1663">tape</tspan>
             </text>
             <path d="M24.5,1426.5 L775.5,1426.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <path d="M24.5,1833.5 L775.5,1833.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Haskell" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Haskell" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="1073">Haskell</tspan>
             </text>
-            <text id="Happstack-Lemmachine" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="314" y="1072">Happstack</tspan>
-                <tspan x="314" y="1091">Lemmachine</tspan>
-                <tspan x="314" y="1110">miku</tspan>
-                <tspan x="314" y="1129">Salvia</tspan>
-                <tspan x="314" y="1148">Scotty</tspan>
-                <tspan x="314" y="1167">Snap</tspan>
-                <tspan x="314" y="1186">Yesod</tspan>
+            <text id="Happstack-Lemmachine" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="314" y="1073">Happstack</tspan>
+                <tspan x="314" y="1092">Lemmachine</tspan>
+                <tspan x="314" y="1111">miku</tspan>
+                <tspan x="314" y="1130">Salvia</tspan>
+                <tspan x="314" y="1149">Scotty</tspan>
+                <tspan x="314" y="1168">Snap</tspan>
+                <tspan x="314" y="1187">Yesod</tspan>
             </text>
-            <text id="Hspec-HUnit" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="1072">Hspec</tspan>
-                <tspan x="528" y="1091">HUnit</tspan>
+            <text id="Hspec-HUnit" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="1073">Hspec</tspan>
+                <tspan x="528" y="1092">HUnit</tspan>
             </text>
-            <text id="PHP" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="PHP" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="1884">PHP</tspan>
             </text>
-            <text id="Cake-PHP-Codeigniter" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="315" y="1884">Cake PHP</tspan>
-                <tspan x="315" y="1903">Codeigniter</tspan>
-                <tspan x="315" y="1922">Doctrine</tspan>
-                <tspan x="315" y="1941">FuelPHP</tspan>
-                <tspan x="315" y="1960">Laravel</tspan>
-                <tspan x="315" y="1979">Phalcon</tspan>
-                <tspan x="315" y="1998">PHPixie</tspan>
-                <tspan x="315" y="2017">Silex</tspan>
-                <tspan x="315" y="2036">Slim</tspan>
-                <tspan x="315" y="2055">Symfony</tspan>
-                <tspan x="315" y="2074">Yii</tspan>
-                <tspan x="315" y="2093">Zend</tspan>
+            <text id="Cake-PHP-Codeigniter" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="315" y="1885">Cake PHP</tspan>
+                <tspan x="315" y="1904">Codeigniter</tspan>
+                <tspan x="315" y="1923">Doctrine</tspan>
+                <tspan x="315" y="1942">FuelPHP</tspan>
+                <tspan x="315" y="1961">Laravel</tspan>
+                <tspan x="315" y="1980">Phalcon</tspan>
+                <tspan x="315" y="1999">PHPixie</tspan>
+                <tspan x="315" y="2018">Silex</tspan>
+                <tspan x="315" y="2037">Slim</tspan>
+                <tspan x="315" y="2056">Symfony</tspan>
+                <tspan x="315" y="2075">Yii</tspan>
+                <tspan x="315" y="2094">Zend</tspan>
             </text>
-            <text id="Atoun-Behat-Codecept" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="1884">Atoun</tspan>
-                <tspan x="528" y="1903">Behat</tspan>
-                <tspan x="528" y="1922">Codeception</tspan>
-                <tspan x="528" y="1941">Kahlan</tspan>
-                <tspan x="528" y="1960">Peridot</tspan>
-                <tspan x="528" y="1979">PHP Unit</tspan>
-                <tspan x="528" y="1998">PHPSpec</tspan>
-                <tspan x="528" y="2017">Selenium</tspan>
-                <tspan x="528" y="2036">SimpleTest</tspan>
-                <tspan x="528" y="2055">Storyplayer</tspan>
+            <text id="Atoun-Behat-Codecept" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="1885">Atoun</tspan>
+                <tspan x="528" y="1904">Behat</tspan>
+                <tspan x="528" y="1923">Codeception</tspan>
+                <tspan x="528" y="1942">Kahlan</tspan>
+                <tspan x="528" y="1961">Peridot</tspan>
+                <tspan x="528" y="1980">PHP Unit</tspan>
+                <tspan x="528" y="1999">PHPSpec</tspan>
+                <tspan x="528" y="2018">Selenium</tspan>
+                <tspan x="528" y="2037">SimpleTest</tspan>
+                <tspan x="528" y="2056">Storyplayer</tspan>
             </text>
             <path d="M24.5,2117.5 L775.5,2117.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Python" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Python" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="2168">Python</tspan>
             </text>
-            <text id="CubicWeb-Django-Flas" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="315" y="2168">CubicWeb</tspan>
-                <tspan x="315" y="2187">Django</tspan>
-                <tspan x="315" y="2206">Flask</tspan>
-                <tspan x="315" y="2225">Giotto</tspan>
-                <tspan x="315" y="2244">Grok</tspan>
-                <tspan x="315" y="2263">Pylons</tspan>
-                <tspan x="315" y="2282">Pyramid</tspan>
-                <tspan x="315" y="2301">TurboGears</tspan>
-                <tspan x="315" y="2320">Web2py</tspan>
+            <text id="CubicWeb-Django-Flas" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="315" y="2169">CubicWeb</tspan>
+                <tspan x="315" y="2188">Django</tspan>
+                <tspan x="315" y="2207">Flask</tspan>
+                <tspan x="315" y="2226">Giotto</tspan>
+                <tspan x="315" y="2245">Grok</tspan>
+                <tspan x="315" y="2264">Pylons</tspan>
+                <tspan x="315" y="2283">Pyramid</tspan>
+                <tspan x="315" y="2302">TurboGears</tspan>
+                <tspan x="315" y="2321">Web2py</tspan>
             </text>
-            <text id="Doctest-Nose-Pytest" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="2168">Doctest</tspan>
-                <tspan x="528" y="2187">Nose</tspan>
-                <tspan x="528" y="2206">Pytest</tspan>
-                <tspan x="528" y="2225">Sancho</tspan>
-                <tspan x="528" y="2244">Subunit</tspan>
-                <tspan x="528" y="2263">Testify</tspan>
-                <tspan x="528" y="2282">Testresources</tspan>
-                <tspan x="528" y="2301">Trial</tspan>
-                <tspan x="528" y="2320">Unittest</tspan>
+            <text id="Doctest-Nose-Pytest" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="2169">Doctest</tspan>
+                <tspan x="528" y="2188">Nose</tspan>
+                <tspan x="528" y="2207">Pytest</tspan>
+                <tspan x="528" y="2226">Sancho</tspan>
+                <tspan x="528" y="2245">Subunit</tspan>
+                <tspan x="528" y="2264">Testify</tspan>
+                <tspan x="528" y="2283">Testresources</tspan>
+                <tspan x="528" y="2302">Trial</tspan>
+                <tspan x="528" y="2321">Unittest</tspan>
             </text>
             <path d="M24.5,2354.5 L775.5,2354.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Ruby" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Ruby" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="2405">Ruby</tspan>
             </text>
-            <text id="Cuba-Lotus-Padrino-R" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="315" y="2405">Cuba</tspan>
-                <tspan x="315" y="2424">Lotus</tspan>
-                <tspan x="315" y="2443">Padrino</tspan>
-                <tspan x="315" y="2462">Ruby on Rails</tspan>
-                <tspan x="315" y="2481">Sinatra</tspan>
+            <text id="Cuba-Lotus-Padrino-R" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="315" y="2406">Cuba</tspan>
+                <tspan x="315" y="2425">Lotus</tspan>
+                <tspan x="315" y="2444">Padrino</tspan>
+                <tspan x="315" y="2463">Ruby on Rails</tspan>
+                <tspan x="315" y="2482">Sinatra</tspan>
             </text>
-            <text id="Bacon-Minitest-Riot" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="2405">Bacon</tspan>
-                <tspan x="528" y="2424">Minitest</tspan>
-                <tspan x="528" y="2443">Riot</tspan>
-                <tspan x="528" y="2462">Rspec</tspan>
-                <tspan x="528" y="2481">Rubydoctest</tspan>
-                <tspan x="528" y="2500">Test Unit</tspan>
-                <tspan x="528" y="2519">Wrong</tspan>
+            <text id="Bacon-Minitest-Riot" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="2406">Bacon</tspan>
+                <tspan x="528" y="2425">Minitest</tspan>
+                <tspan x="528" y="2444">Riot</tspan>
+                <tspan x="528" y="2463">Rspec</tspan>
+                <tspan x="528" y="2482">Rubydoctest</tspan>
+                <tspan x="528" y="2501">Test Unit</tspan>
+                <tspan x="528" y="2520">Wrong</tspan>
             </text>
             <path d="M24.5,2553.5 L775.5,2553.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Rust" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Rust" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="2613">Rust</tspan>
             </text>
-            <text id="Hyper-Iron-Kinglet-N" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="315" y="2613">Hyper</tspan>
-                <tspan x="315" y="2632">Iron</tspan>
-                <tspan x="315" y="2651">Kinglet</tspan>
-                <tspan x="315" y="2670">Nickel.rs</tspan>
-                <tspan x="315" y="2689">Rustful</tspan>
-                <tspan x="315" y="2708">Solicit</tspan>
+            <text id="Hyper-Iron-Kinglet-N" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="315" y="2614">Hyper</tspan>
+                <tspan x="315" y="2633">Iron</tspan>
+                <tspan x="315" y="2652">Kinglet</tspan>
+                <tspan x="315" y="2671">Nickel.rs</tspan>
+                <tspan x="315" y="2690">Rustful</tspan>
+                <tspan x="315" y="2709">Solicit</tspan>
             </text>
-            <text id="Stainless" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="2613">Stainless</tspan>
+            <text id="Stainless" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="2614">Stainless</tspan>
             </text>
             <path d="M24.5,2743.5 L775.5,2743.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <path d="M24.5,2878.5 L775.5,2878.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Scala" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Scala" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="2794">Scala</tspan>
             </text>
-            <text id="Pinky-Play-Scalatra" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="315" y="2794">Pinky</tspan>
-                <tspan x="315" y="2813">Play</tspan>
-                <tspan x="315" y="2832">Scalatra</tspan>
+            <text id="Pinky-Play-Scalatra" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="315" y="2795">Pinky</tspan>
+                <tspan x="315" y="2814">Play</tspan>
+                <tspan x="315" y="2833">Scalatra</tspan>
             </text>
-            <text id="Scala-Check-Scalaspe" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="528" y="2794">Scala Check</tspan>
-                <tspan x="528" y="2813">Scalaspecs</tspan>
-                <tspan x="528" y="2832">Scalatest</tspan>
+            <text id="Scala-Check-Scalaspe" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="528" y="2795">Scala Check</tspan>
+                <tspan x="528" y="2814">Scalaspecs</tspan>
+                <tspan x="528" y="2833">Scalatest</tspan>
             </text>
             <g id="c" transform="translate(30.000000, 223.000000)" stroke="#7F8B99" fill-rule="nonzero">
                 <path d="M45.4354219,12.9779722 C45.0661641,12.3258056 44.5129063,11.7794444 43.7711563,11.3471944 C37.6472266,7.79566667 31.5173672,4.25497222 25.3955937,0.699833333 C23.7451641,-0.258375 22.1448672,-0.223527778 20.5066562,0.748583333 C18.0691953,2.19447222 5.86553906,9.22675 2.22902344,11.3452083 C0.731507812,12.2172917 0.0026953125,13.5517778 0.0023359375,15.286375 C0,22.4287917 0.0023359375,29.5708472 0,36.7134444 C0.000359375,37.5685556 0.178429687,38.3261667 0.537804687,38.9794167 C0.907242188,39.6510833 1.46804687,40.2126111 2.22704688,40.6546111 C5.86374219,42.7730694 18.0690156,49.8048056 20.5059375,51.2510556 C22.1448672,52.2237083 23.7451641,52.258375 25.3961328,51.2998056 C31.5180859,47.7444861 37.6483047,44.2039722 43.7731328,40.6524444 C44.5321328,40.210625 45.0929375,39.6487361 45.462375,38.9776111 C45.8212109,38.3243611 45.9996406,37.56675 46,36.7114583 C46,36.7114583 46,22.4305972 45.9976641,15.288 C45.9973047,14.4135694 45.8113281,13.6409722 45.4354219,12.9779722 Z" id="Shape"></path>
@@ -444,16 +444,16 @@
                 <path d="M0,15.2307692 L0,0 C0,1.26923077 41,3.80769231 41,10.1538462 L41,10.1538462 L41,25.3846154 C41,19.0384615 0,16.5 0,15.2307692" id="Shape" stroke="#DB001B" transform="translate(20.500000, 12.692308) scale(-1, 1) rotate(-180.000000) translate(-20.500000, -12.692308) "></path>
                 <path d="M0,55.8461538 L0,40.6153846 C0,41.8846154 41,44.4230769 41,50.7692308 L41,50.7692308 L41,66 C41,59.6538462 0,57.1153846 0,55.8461538" id="Shape" stroke="#DB001B" transform="translate(20.500000, 53.307692) scale(-1, 1) rotate(-180.000000) translate(-20.500000, -53.307692) "></path>
             </g>
-            <text id="#" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" fill="#A278DC">
+            <text id="#" font-family="Helvetica" font-size="11" font-weight="normal" fill="#A278DC">
                 <tspan x="66" y="380">#</tspan>
             </text>
             <path d="M54.7242593,683.088659 L54.9858225,681.63693 L53.8954358,682.630403 C53.7813693,682.734332 53.5696131,682.931055 53.2740971,683.211632 C52.7827623,683.678129 52.2355813,684.210556 51.646474,684.799989 C49.9634015,686.483993 48.2802819,688.288467 46.7082297,690.142579 C45.0486232,692.099954 43.6098497,694.000485 42.4562497,695.80453 C42.1902548,696.220503 41.9403178,696.630061 41.7070354,697.032864 C37.6472836,704.042746 35.6958532,713.007087 36.8097394,719.585615 C37.7978793,725.421496 40.5541085,729.281755 44.5242718,731.48838 C46.1596583,732.397331 47.9059894,732.968566 49.6701152,733.268278 C50.8264295,733.464728 51.8141628,733.519228 52.5421372,733.495773 C52.6273672,733.492515 52.6273672,733.492515 52.650555,733.491121 C52.7499982,733.492065 52.9859166,733.485546 53.3126485,733.466201 C53.8527931,733.434221 54.4535698,733.376761 55.1000731,733.287446 C56.9483319,733.032109 58.797575,732.572257 60.5290319,731.854653 C63.1965886,730.749081 65.3378349,729.130806 66.7467538,726.911881 C70.114462,721.608032 70.1593735,715.316015 68.3735739,712.116721 C67.7731525,711.041054 66.9899479,709.915557 65.8863711,708.497441 C65.3202501,707.769966 63.1982605,705.144107 62.826771,704.674297 C60.51387,701.749249 59.0197964,699.507777 57.9118367,697.076132 C56.3591671,693.668481 55.4107876,690.585363 54.9525962,687.848621 C54.6383359,685.97157 54.5870804,684.485361 54.6855774,683.4118 C54.7009386,683.244373 54.7156765,683.136295 54.7242593,683.088659 L54.7242593,683.088659 Z" id="Path-4" stroke="#846E91"></path>
             <path d="M40,722 C40,722 43,727 47,729 C51,731 56,730 56,730 C56,730 53.3128353,729.656418 48.5602682,727.280134 C43.8077012,724.903851 40,722 40,722 Z" id="Path-5" stroke="#846E91"></path>
             <rect id="Rectangle" fill="#3685D6" x="0" y="0" width="799" height="110"></rect>
-            <text id="Honeypot's-Technical" font-family="OpenSans-Bold, Open Sans" font-size="30" font-weight="bold" fill="#FFFFFF">
+            <text id="Honeypot's-Technical" font-family="Helvetica-Bold, Helvetica" font-size="30" font-weight="bold" fill="#FFFFFF">
                 <tspan x="99" y="54">Honeypot's Technical HR Cheat Sheet</tspan>
             </text>
-            <text id="Backend-Terms" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#FFFFFF">
+            <text id="Backend-Terms" font-family="Helvetica" font-size="20" font-weight="normal" fill="#FFFFFF">
                 <tspan x="98" y="83">Backend Terms</tspan>
             </text>
             <g id="Group-13" transform="translate(34.000000, 29.000000)">

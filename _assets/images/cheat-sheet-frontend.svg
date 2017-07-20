@@ -41,128 +41,127 @@
                 </g>
             </g>
             <path d="M24.5,185.5 L775.5,185.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Pre--processors" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Pre--processors" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="249" y="158">Pre-</tspan>
-                <tspan x="249" y="177">processors</tspan>
+                <tspan x="249" y="175">processors</tspan>
             </text>
-            <text id="Language" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Language" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="103" y="158">Language</tspan>
             </text>
-            <text id="Frameworks-&amp;-Librair" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Frameworks-&amp;-Librair" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="388" y="158">Frameworks </tspan>
-                <tspan x="388" y="177">&amp; Librairies</tspan>
+                <tspan x="388" y="175">&amp; Librairies</tspan>
             </text>
-            <text id="CSS" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="CSS" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="246">CSS</tspan>
             </text>
-            <text id="LESS-PostCSS-Sass-St" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="249" y="245">LESS</tspan>
-                <tspan x="249" y="264">PostCSS</tspan>
-                <tspan x="249" y="283">Sass</tspan>
-                <tspan x="249" y="302">Stylus</tspan>
+            <text id="LESS-PostCSS-Sass-St" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="249" y="246">LESS</tspan>
+                <tspan x="249" y="265">PostCSS</tspan>
+                <tspan x="249" y="284">Sass</tspan>
+                <tspan x="249" y="303">Stylus</tspan>
             </text>
-            <text id="Bootstrap-Foundation" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="388" y="245">Bootstrap</tspan>
-                <tspan x="388" y="264">Foundation</tspan>
-                <tspan x="388" y="283">Material Design Lite</tspan>
-                <tspan x="388" y="302">Materialize</tspan>
-                <tspan x="388" y="321">Pure.css</tspan>
-                <tspan x="388" y="340">Semantic UI</tspan>
-                <tspan x="388" y="359">Tachyons</tspan>
+            <text id="Bootstrap-Foundation" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="388" y="246">Bootstrap</tspan>
+                <tspan x="388" y="265">Foundation</tspan>
+                <tspan x="388" y="284">Material Design Lite</tspan>
+                <tspan x="388" y="303">Materialize</tspan>
+                <tspan x="388" y="322">Pure.css</tspan>
+                <tspan x="388" y="341">Semantic UI</tspan>
+                <tspan x="388" y="360">Tachyons</tspan>
             </text>
-            <text id="Naming-conventions-&amp;" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Naming-conventions-&amp;" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="564" y="158">Naming conventions </tspan>
-                <tspan x="564" y="177">&amp; Methodologies</tspan>
+                <tspan x="564" y="175">&amp; Methodologies</tspan>
             </text>
-            <text id="BEM-ITCSS-OOCSS-SMAC" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="564" y="245">BEM</tspan>
-                <tspan x="564" y="264">ITCSS</tspan>
-                <tspan x="564" y="283">OOCSS</tspan>
-                <tspan x="564" y="302">SMACSS</tspan>
+            <text id="BEM-ITCSS-OOCSS-SMAC" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="564" y="246">BEM</tspan>
+                <tspan x="564" y="265">ITCSS</tspan>
+                <tspan x="564" y="284">OOCSS</tspan>
+                <tspan x="564" y="303">SMACSS</tspan>
             </text>
             <path d="M24.5,478.5 L775.5,478.5" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Framework" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Framework" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="249" y="463">Framework</tspan>
             </text>
-            <text id="Language" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Language" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="103" y="463">Language</tspan>
             </text>
-            <text id="Testing-framework" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Testing-framework" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="388" y="463">Testing framework</tspan>
             </text>
-            <text id="JavaScript" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="JavaScript" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="103" y="539">JavaScript</tspan>
             </text>
-            <text id="Build-tools-and-task" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Build-tools-and-task" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="53" y="897">Build tools and task runners</tspan>
             </text>
-            <text id="Angular-Aurelia-Back" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="249" y="538">Angular</tspan>
-                <tspan x="249" y="557">Aurelia</tspan>
-                <tspan x="249" y="576">Backbone.js</tspan>
-                <tspan x="249" y="595">choo</tspan>
-                <tspan x="249" y="614">cycle.js</tspan>
-                <tspan x="249" y="633">Ember.js</tspan>
-                <tspan x="249" y="652">Knockout.js</tspan>
-                <tspan x="249" y="671">meteor</tspan>
-                <tspan x="249" y="690">Polymer</tspan>
-                <tspan x="249" y="709">Preact</tspan>
-                <tspan x="249" y="728">React</tspan>
-                <tspan x="249" y="747">Riot.js</tspan>
-                <tspan x="249" y="766">Vue.js</tspan>
+            <text id="Angular-Aurelia-Back" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="249" y="539">Angular</tspan>
+                <tspan x="249" y="558">Aurelia</tspan>
+                <tspan x="249" y="577">Backbone.js</tspan>
+                <tspan x="249" y="596">choo</tspan>
+                <tspan x="249" y="615">cycle.js</tspan>
+                <tspan x="249" y="634">Ember.js</tspan>
+                <tspan x="249" y="653">Knockout.js</tspan>
+                <tspan x="249" y="672">meteor</tspan>
+                <tspan x="249" y="691">Polymer</tspan>
+                <tspan x="249" y="710">Preact</tspan>
+                <tspan x="249" y="729">React</tspan>
+                <tspan x="249" y="748">Riot.js</tspan>
+                <tspan x="249" y="767">Vue.js</tspan>
             </text>
-            <text id="AVA-Chai-Enzyme-Expe" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="388" y="538">AVA</tspan>
-                <tspan x="388" y="557">Chai</tspan>
-                <tspan x="388" y="576">Enzyme</tspan>
-                <tspan x="388" y="595">Expect</tspan>
-                <tspan x="388" y="614">Jasmine</tspan>
-                <tspan x="388" y="633">Jest</tspan>
-                <tspan x="388" y="652">Karma</tspan>
-                <tspan x="388" y="671">Mocha</tspan>
-                <tspan x="388" y="690">Qunit</tspan>
-                <tspan x="388" y="709">Sinon.JS</tspan>
+            <text id="AVA-Chai-Enzyme-Expe" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="388" y="539">AVA</tspan>
+                <tspan x="388" y="558">Chai</tspan>
+                <tspan x="388" y="577">Enzyme</tspan>
+                <tspan x="388" y="596">Expect</tspan>
+                <tspan x="388" y="615">Jasmine</tspan>
+                <tspan x="388" y="634">Jest</tspan>
+                <tspan x="388" y="653">Karma</tspan>
+                <tspan x="388" y="672">Mocha</tspan>
+                <tspan x="388" y="691">Qunit</tspan>
+                <tspan x="388" y="710">Sinon.JS</tspan>
             </text>
-            <text id="Bundlers" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Bundlers" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="564" y="463">Bundlers</tspan>
             </text>
-            <text id="browserify-Rollup-we" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="564" y="538">browserify</tspan>
-                <tspan x="564" y="557">Rollup</tspan>
-                <tspan x="564" y="576">webpack</tspan>
+            <text id="browserify-Rollup-we" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="564" y="539">browserify</tspan>
+                <tspan x="564" y="558">Rollup</tspan>
+                <tspan x="564" y="577">webpack</tspan>
             </text>
-            <text id="Supersets" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#B5B5B5">
+            <text id="Supersets" font-family="Helvetica" font-size="14" font-weight="normal" fill="#B5B5B5">
                 <tspan x="688" y="463">Supersets</tspan>
             </text>
-            <text id="CoffeeScript-Dart-El" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="689" y="538">CoffeeScript</tspan>
-                <tspan x="689" y="557">Dart</tspan>
-                <tspan x="689" y="576">Elm</tspan>
-                <tspan x="689" y="595">TypeScript</tspan>
+            <text id="CoffeeScript-Dart-El" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="689" y="539">CoffeeScript</tspan>
+                <tspan x="689" y="558">Dart</tspan>
+                <tspan x="689" y="577">Elm</tspan>
+                <tspan x="689" y="596">TypeScript</tspan>
             </text>
             <rect id="Rectangle-5" stroke="#E2E8F0" x="28.5" y="846.5" width="362" height="247.267761"></rect>
-            <text id="Broccoli-Brunch-Grun" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="54" y="976">Broccoli</tspan>
-                <tspan x="54" y="995">Brunch</tspan>
-                <tspan x="54" y="1014">Grunt</tspan>
-                <tspan x="54" y="1033">Gulp</tspan>
-                <tspan x="54" y="1052">npm-scripts</tspan>
+            <text id="Broccoli-Brunch-Grun" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="54" y="977">Broccoli</tspan>
+                <tspan x="54" y="996">Brunch</tspan>
+                <tspan x="54" y="1015">Grunt</tspan>
+                <tspan x="54" y="1034">Gulp</tspan>
+                <tspan x="54" y="1053">npm-scripts</tspan>
             </text>
-            <text id="Bower-npm-Yarn" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="428" y="976">Bower</tspan>
-                <tspan x="428" y="995">npm</tspan>
-                <tspan x="428" y="1014">Yarn</tspan>
+            <text id="Bower-npm-Yarn" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="428" y="977">Bower</tspan>
+                <tspan x="428" y="996">npm</tspan>
+                <tspan x="428" y="1015">Yarn</tspan>
             </text>
-            <text id="A-build-tool-is-soft" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="17" fill="#868686">
-                <tspan x="54" y="922">A build tool is software that automates the </tspan>
-                <tspan x="54" y="939">transformation of source code into a deliverable.</tspan>
+            <text id="A-build-tool-is-soft" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#868686">
+                <tspan x="54" y="923">A build tool is software that automates the </tspan>
+                <tspan x="54" y="940">transformation of source code into a deliverable.</tspan>
             </text>
-            <text id="Package-managers" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Package-managers" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="428" y="897">Package managers</tspan>
             </text>
-            <text id="Host-packages-and-pr" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#868686">
-                <tspan x="429" y="921">Host packages and provide tools for fetching </tspan>
-                <tspan x="429" y="940">them</tspan>
+            <text id="Host-packages-and-pr" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#868686">
+                <tspan x="429" y="922">Host packages and provide tools for fetching them</tspan>
             </text>
             <rect id="Rectangle-5" stroke="#E2E8F0" x="409.5" y="846.5" width="362" height="247.267761"></rect>
             <g id="javascript" transform="translate(31.000000, 526.000000)" fill-rule="nonzero">
@@ -180,12 +179,12 @@
             <path d="M28,1338 L769.5,1338" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <path d="M28,1132.80328 L769.5,1132.80328" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
             <path d="M28,811 L769.5,811" id="Line" stroke="#E2E8F0" stroke-linecap="square"></path>
-            <text id="Bundler" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Bundler" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="107" y="1180.26776">Bundler</tspan>
             </text>
-            <text id="A-JavaScript-bundler" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="297" y="1178">A JavaScript bundler is a tool that puts your code and all its </tspan>
-                <tspan x="297" y="1197">dependencies together in one JavaScript file</tspan>
+            <text id="A-JavaScript-bundler" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="297" y="1179">A JavaScript bundler is a tool that puts your code and all its </tspan>
+                <tspan x="297" y="1198">dependencies together in one JavaScript file</tspan>
             </text>
             <g id="Group-10" transform="translate(37.000000, 1162.267761)">
                 <rect id="Rectangle-6" stroke="#3685D6" x="2.375" y="8" width="40.25" height="36.5" rx="2.82"></rect>
@@ -195,11 +194,11 @@
                     <rect stroke="#3685D6" stroke-width="1" x="0.5" y="0.5" width="44" height="14" rx="2.82"></rect>
                 </g>
             </g>
-            <text id="Supersets" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill="#3685D6">
+            <text id="Supersets" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#3685D6">
                 <tspan x="108" y="1278.53552">Supersets</tspan>
             </text>
-            <text id="Languages-that-compi" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
-                <tspan x="297" y="1275">Languages that compile to JavaScript.</tspan>
+            <text id="Languages-that-compi" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="19" fill="#1F2228">
+                <tspan x="297" y="1276">Languages that compile to JavaScript.</tspan>
             </text>
             <g id="Group-12" transform="translate(42.000000, 1264.535523)" stroke="#3685D6">
                 <path d="M5.98416667,35.28 L3.67291667,35.28 C2.09376842,35.2700954 0.816028288,33.975847 0.80625,32.3762963 L0.80625,3.33925926 C0.816028288,1.73970858 2.09376842,0.445460178 3.67291667,0.435555556 L25.7820833,0.435555556 C27.5155345,0.455175791 28.9160467,1.87378241 28.9354167,3.62962963" id="Shape"></path>
@@ -212,10 +211,10 @@
                 <path d="M14.5841667,28.5 L38.5841667,28.5" id="Shape"></path>
             </g>
             <rect id="Rectangle" fill="#3685D6" x="0" y="0" width="799" height="110"></rect>
-            <text id="Honeypot's-Technical" font-family="OpenSans-Bold, Open Sans" font-size="30" font-weight="bold" fill="#FFFFFF">
+            <text id="Honeypot's-Technical" font-family="Helvetica-Bold, Helvetica" font-size="30" font-weight="bold" fill="#FFFFFF">
                 <tspan x="99" y="54">Honeypot's Technical HR Cheat Sheet</tspan>
             </text>
-            <text id="Frontend-Terms" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#FFFFFF">
+            <text id="Frontend-Terms" font-family="Helvetica" font-size="20" font-weight="normal" fill="#FFFFFF">
                 <tspan x="98" y="83">Frontend Terms</tspan>
             </text>
             <g id="Group-13" transform="translate(34.000000, 29.000000)">
