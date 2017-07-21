@@ -75,6 +75,6 @@ name: Stefan Krauss
 desc: Stefan is Customer Success Manager at Honeypot. He was born in Bavaria and is passionate about startups, technology and pizza.  
 avatar: stefan.png
 agathe_badia:
-name: Agathe Badia
-desc: Agathe is a Talent Rep at Honeypot. She was born in France and loves traveling, tech and hosting jewelery-making workshops.  
-avatar: Agathe.png
+  name: Agathe Badia
+  desc: Agathe is a Talent Rep at Honeypot. She was born in France and loves traveling, tech and hosting jewelery-making workshops.  
+  avatar: Agathe.png
