@@ -4,7 +4,7 @@ subtitle:
 date:    2017-06-22 10:28:42
 layout:  post
 author:  jelle_groot
-categories: Interviews
+categories: [Interviews]
 cover_image: bynder.png
 permalink:  interview-with-bynder/
 importance: 2

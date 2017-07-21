@@ -4,7 +4,7 @@ subtitle:
 date:    2017-07-20 08:30:13
 layout:  post
 author:  agathe_badia
-categories: HR
+categories: [HR Tips]
 cover_image: hr-cheatsheet.png
 permalink:  hr-cheatsheet/
 importance: 2
