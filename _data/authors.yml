@@ -71,6 +71,10 @@ jelle_groot:
   desc: Jelle is Honeypot's Market Manager for the Netherlands. Jelle left his career in finance to join the fast-paced world of startups. He likes to try to be creative in both the kitchen and on the football pitch (both with mixed results).  
   avatar: jelle.png
 stefan_krauss:
-name: Stefan Krauss
-desc: Stefan is Customer Success Manager at Honeypot. He was born in Bavaria and is passionate about startups, technology and pizza.  
-avatar: stefan.png
+  name: Stefan Krauss
+  desc: Stefan is Customer Success Manager at Honeypot. He was born in Bavaria and is passionate about startups, technology and pizza.  
+  avatar: stefan.png
+agathe_badia:
+  name: Agathe Badia
+  desc: Agathe is a Talent Rep at Honeypot. She was born in France and loves traveling, tech and hosting jewelery-making workshops.  
+  avatar: agathe.png
