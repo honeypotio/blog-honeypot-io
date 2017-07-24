@@ -16,9 +16,14 @@ Hiring developers is tough. Especially for HR people coming from non-technical b
 
 If you have ever been confused about where Sinatra and Laravel belong, and if Scala is a Java framework (hint: it’s not), have a look at our cheatsheet. Refer to it anytime during screening and interviewing developers!
 
+{% include svg.html
+  svg_path="/assets/images/cheat-sheet-glossary.svg"
+%}
 
-![hr-cheatsheet-glossary](/assets/images/cheat-sheet-glossary.svg)
+{% include svg.html
+  svg_path="/assets/images/cheat-sheet-frontend.svg"
+%}
 
-![hr-cheatsheet-frontend](/assets/images/cheat-sheet-frontend.svg)
-
-![hr-cheatsheet-backend](/assets/images/cheat-sheet-backend.svg)
+{% include svg.html
+  svg_path="/assets/images/cheat-sheet-backend.svg"
+%}
