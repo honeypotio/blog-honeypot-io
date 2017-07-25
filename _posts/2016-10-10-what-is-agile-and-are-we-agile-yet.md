@@ -17,7 +17,9 @@ Nevertheless, with time many Agile projects started to feel as formal and conser
 
 So how did Agile come to dominance and is it now more dogma than direction? Inspired by [Andy Budd](http://www.andybudd.com/archives/2016/08/are_we_moving_towards_a_postagile_age/), in this infographic we ponder the post-agile age, which drives upon the best elements of agile, waterfall and lean development. 
 
-![age-of-agile.svg](/assets/images/age-of-agile.svg)
+{% include svg.html
+  svg_path="/assets/images/age-of-agile.svg"
+%}
 
 ## What is pre-Agile software development?
 
