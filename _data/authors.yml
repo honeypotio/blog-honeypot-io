@@ -64,17 +64,21 @@ product_team:
   avatar: product.png
 kamal_naeem:
   name: Kamal Naeem
-  desc: Kamal is Honeypot’s online marketer.  As a tried and true music nerd, he’s at his best with his headphones on. 
+  desc: Kamal is Honeypot’s online marketer.  As a tried and true music nerd, he’s at his best with his headphones on.
   avatar: kamal.png
 jelle_groot:
   name: Jelle Groot
-  desc: Jelle is Honeypot's Market Manager for the Netherlands. Jelle left his career in finance to join the fast-paced world of startups. He likes to try to be creative in both the kitchen and on the football pitch (both with mixed results).  
+  desc: Jelle is Honeypot's Market Manager for the Netherlands. Jelle left his career in finance to join the fast-paced world of startups. He likes to try to be creative in both the kitchen and on the football pitch (both with mixed results).
   avatar: jelle.png
 stefan_krauss:
   name: Stefan Krauss
-  desc: Stefan is Customer Success Manager at Honeypot. He was born in Bavaria and is passionate about startups, technology and pizza.  
+  desc: Stefan is Customer Success Manager at Honeypot. He was born in Bavaria and is passionate about startups, technology and pizza.
   avatar: stefan.png
 agathe_badia:
   name: Agathe Badia
-  desc: Agathe is a Talent Rep at Honeypot. She was born in France and loves traveling, tech and hosting jewelery-making workshops.  
+  desc: Agathe is a Talent Rep at Honeypot. She was born in France and loves traveling, tech and hosting jewelery-making workshops.
   avatar: agathe.png
+hunter_wright:
+  name: Hunter Wright
+  desc: Hunter is Honeypot's Community & Content Manager. As an American living in Germany, Hunter brings his Nashville country roots to the big city life of Berlin startups.
+  avatar: hunter.jpg
