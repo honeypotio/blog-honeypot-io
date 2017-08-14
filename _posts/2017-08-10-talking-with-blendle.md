@@ -5,7 +5,7 @@ date:    2017-08-10 14:54:03
 layout:  post
 author: jelle_groot
 categories: [Interviews]
-cover_image: blendle.jpg
+cover_image: blendle-cover.jpg
 permalink:  talking-with-blendle/
 importance: 2
 ---
@@ -15,7 +15,7 @@ Blendle aggregates articles into a single, ad-free platform where readers can pi
 <!--more-->
 
 ### How did you end up at Blendle?
-I was watching De Wereld Draait Door (‘The World Keeps Turning’,  a Dutch television show) when I saw Alexander. [Klöpping, Founder & CEO] I thought to myself that sounds like an interesting bunch, let’s see if they need developers. I jumped on the train, went to Utrecht to meet them, and got a really good feeling right from the start. We got to work on a few things together where I was able to demonstrate what I can do, and even got a chance to go out for lunch as a team. It was a nice way to get to know the company. That was a little over two years ago, after which I joined as a backend developer and a year later I became CTO.
+I was watching De Wereld Draait Door (‘The World Keeps Turning’,  a Dutch television show) when I saw Alexander [Klöpping, Founder & CEO]. I thought to myself that sounds like an interesting bunch, let’s see if they need developers. I jumped on the train, went to Utrecht to meet them, and got a really good feeling right from the start. We got to work on a few things together where I was able to demonstrate what I can do, and even got a chance to go out for lunch as a team. It was a nice way to get to know the company. That was a little over two years ago, after which I joined as a backend developer and a year later I became CTO.
 
 ### What is it like working at Blendle?
 We are still kind of a startup, we’ve only existed for about 3.5 years. What defines us is a  combination of passion for technology and for journalism. Everything we do is focused on promoting quality journalism, especially with younger readers who rarely experience this kind of journalism. 
