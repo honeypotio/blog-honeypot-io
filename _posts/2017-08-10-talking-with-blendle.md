@@ -5,14 +5,14 @@ date:    2017-08-10 14:54:03
 layout:  post
 author: jelle_groot
 categories: [Interviews]
-cover_image: blendle.jpg
+cover_image: blendle.png
 permalink:  talking-with-blendle/
 importance: 2
 ---
 
 Blendle aggregates articles into a single, ad-free platform where readers can pick and choose which stories to read. We interviewed Blendle’s CTO Jean Mertz and talked about how the Utrecht-based tech startup combines journalism and technology, how they maintain a polyglot development environment and why it's so fun to work there as a developer.
 
-<!--more-->
+![CTO Blendle](/assets/images/cto-blendle.png)
 
 ### How did you end up at Blendle?
 I was watching De Wereld Draait Door (‘The World Keeps Turning’,  a Dutch television show) when I saw Alexander. [Klöpping, Founder & CEO] I thought to myself that sounds like an interesting bunch, let’s see if they need developers. I jumped on the train, went to Utrecht to meet them, and got a really good feeling right from the start. We got to work on a few things together where I was able to demonstrate what I can do, and even got a chance to go out for lunch as a team. It was a nice way to get to know the company. That was a little over two years ago, after which I joined as a backend developer and a year later I became CTO.
