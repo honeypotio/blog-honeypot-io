@@ -12,6 +12,8 @@ importance: 2
 
 Blendle aggregates articles into a single, ad-free platform where readers can pick and choose which stories to read. We interviewed Blendle’s CTO Jean Mertz and talked about how the Utrecht-based tech startup combines journalism and technology, how they maintain a polyglot development environment and why it's so fun to work there as a developer.
 
+<!--more-->
+
 ![CTO Blendle](/assets/images/cto-blendle.png)
 
 ### How did you end up at Blendle?
