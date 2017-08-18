@@ -5,7 +5,7 @@ date:    2017-08-17 12:36:51
 layout:  post
 author:  hunter_wright
 categories: [Developer Careers]
-cover_image: honey01.jpg
+cover_image: stuttgart-dusseldorf-cologne.png
 permalink:  developer-salaries-in-cologne-stuttgart-and-duesseldorf/
 importance: 2
 ---
