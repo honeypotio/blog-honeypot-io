@@ -14,14 +14,14 @@ Germany is a great location for developers to find jobs. A developer survey done
 
 <!--more--> 
 
-![](/assets/images/by-prog-language-salary.png)
+![Highest paid programming languages in Germany](/assets/images/by-prog-language-salary.png)
 
 
-![](/assets/images/by-position-salary.png)
+![Highest paid IT positions in Germany](/assets/images/by-position-salary.png)
 
 According to [PayScale](http://www.payscale.com/research/DE/Job=Software_Developer/Salary), the median salary for a software developer in Germany in 2017 is €46,163 a year. For a more detailed breakdown of developer salaries in Berlin, check out one of our [previous posts](http://blog.honeypot.io/how-much-does-a-developer-earn-in-berlin/). 
 
-![](/assets/images/dev-germany-median-salary.png)
+![Developer Salaries in Germany](/assets/images/dev-germany-median-salary.png)
 
 Along with a high salary, Germany offers foreign developers the chance to work in English. 
 
@@ -29,13 +29,13 @@ Along with a high salary, Germany offers foreign developers the chance to work i
 
 Germany was ranked by Education First as the ninth best country for English proficiency in the world. Here’s how some of Germany’s major cities including Cologne (Köln), Stuttgart, and Düsseldorf stacked up in percentage of proficient English speakers per city:
 
-![](/assets/images/english-proficiency-germany.png)
+![English Proficiency Graph for Germany](/assets/images/english-proficiency-germany.png)
 
 ### Developer salaries in Stuttgart
 
-Stuttgart was ranked ahead of Hamburg, Frankfurt, & Berlin as the second  best city for IT jobs in Germany by Jobspotting. Stuttgart’s high median developer salary is certainly attractive:
+Stuttgart was ranked ahead of Hamburg, Frankfurt, and Berlin as the second  best city for IT jobs in Germany by Jobspotting. Stuttgart’s high median developer salary is certainly attractive:
 
-![](/assets/images/dev-stuttgart-median-salary.png)
+![Developer Salaries in Stuttgart](/assets/images/dev-stuttgart-median-salary.png)
 
 This beats the German-wide median by more than €3,000 annually. 
 
@@ -49,7 +49,7 @@ Java Developers earn on average €59,180 a year in Stuttgart, with a median inc
 
 We see a drop in median salary when looking at Cologne:
 
-![](/assets/images/dev-cologne-median-salary.png)
+![Developer Salaries in Cologne](/assets/images/dev-cologne-median-salary.png)
 
 ### English speakers desired
 
@@ -64,7 +64,7 @@ As the host of Gamescom, Cologne is a huge Mecca for gamers. A chance to test ou
 
 Median developer salaries in Düsseldorf are €1,700 more a year when compared to Cologne:
 
-![](/assets/images/dev-duesseldorf-median-salary.png)
+![Developer Salaries in Duesseldorf](/assets/images/dev-duesseldorf-median-salary.png)
 
 ### Best IT job in Düsseldorf
 
@@ -82,7 +82,7 @@ Cologne, Stuttgart, and Düsseldorf have all seen tremendous growth in their dem
 
 ### About Honeypot: 
 
-Listed on EU-Startups Top 10 startups to watch in 2017, our mission is to get every developer a great job. The ability to compare job offers side by side while stating your preferences and only getting relevant offers makes Honeypot one-of-a-kind. Check us out at: [https://www.honeypot.io/pages/how_it_works](https://www.honeypot.io/pages/how_it_works)
+Listed on EU-Startups Top 10 startups to watch in 2017, our mission is to get every developer a great job. The ability to compare job offers side by side while stating your preferences and only getting relevant offers makes Honeypot one-of-a-kind. Visit us [here](https://www.honeypot.io/pages/how_it_works)
 
 
 
