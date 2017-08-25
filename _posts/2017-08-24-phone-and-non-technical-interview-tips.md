@@ -3,7 +3,7 @@ title:   Phone and Non-Technical Interview Tips For Developers
 subtitle:
 date:    2017-08-23 18:16:51
 layout:  post
-author:  hunter_wright
+author:  sviatlana_dzenisevich
 categories: [Developer Interview]
 cover_image: hiring-hacks.png
 permalink:  phone-and-non-technical-interview-tips-for-developers/
