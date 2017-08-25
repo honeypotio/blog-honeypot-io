@@ -4,7 +4,7 @@ subtitle:
 date:    2017-08-23 18:16:51
 layout:  post
 author:  sviatlana_dzenisevich
-categories: [Developer Interview]
+categories: [Developer Careers]
 cover_image: hiring-hacks.png
 permalink:  phone-and-non-technical-interview-tips-for-developers/
 importance: 2
@@ -78,6 +78,6 @@ Preparation is key but having a positive attitude and being open to new challeng
 **Good luck with your next interview!**
 
 _____________________________________________________________________________
-*As a former a Talent Representative at Honeypot, I worked with a lot of developers, guiding them through our platform and assisting them throughout the interview process with numerous companies. Now as a Customer Success Manager, I help companies design their interview process to help them hire the best developers.*
+*As a former a Talent Representative at Honeypot, I worked with a lot of developers, guiding them through our platform and assisting them throughout the interview process with numerous companies. Now as a Customer Success Team Lead, I help companies design their interview process to help them hire the best developers.*
 
 Listed on EU-Startups Top 10 startups to watch in 2017, our mission is to get every developer a great job. The ability to compare job offers side by side while stating your preferences and only getting relevant offers makes Honeypot one-of-a-kind. Visit us [here](https://www.honeypot.io/pages/how_it_works)
