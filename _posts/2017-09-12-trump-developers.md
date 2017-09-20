@@ -3,7 +3,7 @@ title:  Are More American Software Developers Moving to Europe post-Trump?
 subtitle:
 date:    2017-09-12 15:42:26
 layout:  post
-author:  hana_ensley
+author:  hunter_wright
 categories: [Developer Careers]
 cover_image: american-devs-moving.png
 permalink:  trump-american-developers/
