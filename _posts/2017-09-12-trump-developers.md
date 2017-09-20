@@ -16,30 +16,27 @@ American developers are increasingly looking to Europe for new opportunities. Co
 
 ### Berlin and London Growing as Startup Destinations
 
-According to [Startup Genome](https://startupgenome.com/), five out of the top 10 best cities for startups are in the U.S. but London, at #3, and Berlin, at #7, have been moving up the list:
+According to [Startup Genome](https://startupgenome.com/), five out of the top 10 best cities for startups are in the U.S., but London, at #3, and Berlin, at #7, have been moving up the list:
 
 ![Top Ten Cities For Startups](/assets/images/top-ten-cities-metric-2017.png)
 
-London moved up three places from its ranking last year, and Berlin advanced two places. Both cities offer great market reach along with reliable funding sources. Because of this, [Europe is looking increasingly more attractive to American developers.](https://thenextweb.com/insider/2017/05/01/global-startup-ecosystem-report-2017/#.tnw_w5T4slht) European cities offer exciting new career opportunities and many startups and tech companies operate in English. Check out our [startup map of Berlin](http://blog.honeypot.io/berlin-startup-map) and [London](http://blog.honeypot.io/london-tech-map/) to see where startups are concentrated within each city.
+London moved up three places from its ranking last year, and Berlin advanced two places. Both cities offer great market reach along with reliable funding sources. With growing tech ecosystems, [Europe is looking increasingly more attractive to American developers.](https://thenextweb.com/insider/2017/05/01/global-startup-ecosystem-report-2017/#.tnw_w5T4slht) European cities offer exciting new career opportunities and many startups and tech companies operate in English. Check out our [startup map of Berlin](http://blog.honeypot.io/berlin-startup-map) and [London](http://blog.honeypot.io/london-tech-map/) to see where startups are concentrated within each city.
 
 ### London
 
-London is well-known for its Fintech sector, but also has a 'Silicon Roundabout' (Old Street Roundabout) bustling with startups. London is the cultural hub of Great Britain and is extremely diverse with more than half of Londoners from [various countries and nationalities](http://www.dailymail.co.uk/news/article-2950401/How-one-three-Londoners-born-abroad-areas-live-in.html) in many parts of the city as reported by [Martin Robinson](http://www.dailymail.co.uk/news/article-2950401/How-one-three-Londoners-born-abroad-areas-live-in.html). 
+London is probably the best location in Europe for software developers in terms of choice and quality of the jobs offered. The metropolis isn’t just about startups - the inner city alone is home to an estimated 40,000 tech companies. A recent parliamentary report estimates that the shortage of digital skills costs the UK economy £63 billion per year. Needless to say, software developers in London are in high demand.
 
-London boasts almost daily Meetups and 2-3 Hackathons a week. These are usually peer-organized and feed a huge computer enthusiast scene. London further benefits from other cities nearby, such as Birmingham which is just a £12 train ride away. 
+The size of the city means there are plenty of opportunities to keep up-to-date on tech trends, there are hundreds of meet-ups dedicated to almost every technology and at least 10 big conferences each year.  London is a hub for talented people from around the world, meaning if you are motivated to learn, this could be the city for you. Developers considering London will get higher salaries than elsewhere, but also can expect a higher cost of living. 
 
 ### Amsterdam
 
 The city of canals has a ton to offer: Amsterdam itself is famous for great bars and nightlife while corporations such as Uber, Tesla, Elastic and Atlassian have major offices here. 
 
-Amsterdam also boasts a history of tech innovation with homegrown software and security companies such as Booking.com, Gemalto, and TomTom. Our [Amsterdam Tech Map](http://blog.honeypot.io/amsterdam-tech-map/) demonstrates more of the advantages Amsterdam has for international developers, such as the 2nd highest non-native English proficiency globally. 
+Amsterdam also boasts a history of tech innovation. Home grown, well established software and security companies, such as Gemalto, Xebia, AVG Technologies, Schuberg Philis and TomTom are a testament to that culture of innovation. In 2015, the Netherlands ranked 4th on the Global Innovation Index. More recent editions to Amsterdam’s portfolio include Bright Computing, Pyramid Analytics and Wercker. Our [Amsterdam Tech Map](http://blog.honeypot.io/amsterdam-tech-map/) demonstrates more of the advantages Amsterdam has for international developers, such as the 2nd highest non-native English proficiency globally. 
 
 ### Berlin 
 
-Once nicknamed the 'poorest capital of Europe' Berlin has never looked back by becoming a European heaven for working with new technologies while remaining a cheap place to live. Berlin's tech scene features everything from machine learning to E-commerce, and offers a very high standard of life. Salaries won't match what you would find in London or Amsterdam, but the cheaper cost of living means that the quality of life can actually be higher. Lastly, Berlin has natural beauty thanks to numerous parks and recreational areas. 
-
-
-
+Once nicknamed the 'poorest capital of Europe' Berlin is now a European heaven for European startups - and it remains a cheap place to live. Software Developers are in huge demand in Berlin and while salaries won't match what you would find in London or Amsterdam, but the cheaper cost of living means that the quality of life can actually be higher. Berlin is also beginning to rival London in terms of innovative conferences. Berlin is home to the first European editions of [GraphQL-](https://graphql-europe.org/) and [Rust-focused](http://2016.rustfest.eu/) conferences. Lastly, Berlin has natural beauty thanks to numerous parks and recreational areas. 
 
 
 ### Europe a Land of Opportunity For Developers
