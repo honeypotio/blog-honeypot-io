@@ -14,6 +14,8 @@ We are happy to announce our first **Applicant Tracking System Integration**  - 
 
 Once the Greenhouse integration is setup on your account,  **Honeypot candidates who accept your interview invite will be automatically uploaded to Greenhouse, including their email, CV and social links, and a link to their Honeypot profile**. Whether you reject or hire a candidate, we will be automatically notified and your Interview tab on Honeypot will be updated.  No more manual copying and pasting!  
 
+<!--more-->
+
 Before you start the integration, please make sure that you use the same email address on Honeypot as you do on Greenhouse. You must also be an admin on Greenhouse. 
 
 The integration may seem long, but stick with it! It's worth the effort. Your Customer Success Manager is also on standby to guide you through the process!  
