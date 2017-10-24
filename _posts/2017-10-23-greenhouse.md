@@ -3,7 +3,7 @@ title: How to Integrate Honeypot and Greenhouse
 subtitle:
 date:    2017-10-23 13:11:07
 layout:  post
-author:  hunter_wright
+author:  emma_tracey
 categories: Product
 cover_image: prduct-update-greenhouse.png
 permalink:  greenhouse/
