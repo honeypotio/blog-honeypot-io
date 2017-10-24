@@ -5,12 +5,12 @@ date:    2017-10-23 13:11:07
 layout:  post
 author:  hunter_wright
 categories: Company
-cover_image: _assets/cover-images/prduct-update-greenhouse.png
+cover_image: _assets/cover-images/product-update-greenhouse.png
 permalink:  greenhouse/
 importance: 2
 ---
 
-We are happy to announce our first *Applicant Tracking System* Integration  - (Greenhouse)https://www.greenhouse.io/. 
+We are happy to announce our first **Applicant Tracking System Integration**  - [Greenhouse](https://www.greenhouse.io/). 
 
 Once the Greenhouse integration is setup on your account,  Honeypot candidates who accept your interview invite will be automatically uploaded to Greenhouse, including their email, CV and social links, and a link to their Honeypot profile. Whether you reject or hire a candidate, we will be automatically notified and your Interview tab on Honeypot will be updated.  No more manual copying and pasting!  
 
@@ -39,7 +39,7 @@ So here’s how it works:
 
 **Step One:** Visit the Greenhouse Configure Page. Navigate to “Dev Center” and then “API Credentials.” 
 
-(**Important note**: You (or your Site Administrator) must have developer permissions for “Can manage ALL organization’s API Credentials” to generate a Harvest API key.)
+(**Important note**: You (or your Site Administrator) must have developer permissions for “Can manage ALL organization’s API Credentials” to generate a Harvest API key.
 
 
 
@@ -140,11 +140,11 @@ Click “Update” to save the key’s permissions![greenhouse-honeypot](/assets
 
 
 
-Step One: Visit the Greenhouse Configure Page. Navigate to “Dev Center” and then to “API Credentials.”
+**Step One:** Visit the Greenhouse Configure Page. Navigate to “Dev Center” and then to “API Credentials.”
 
 
 
-Step Two: Copy “Your Board Token.” Navigate back to Honeypot and paste it into the “Your Board Token” box. 
+**Step Two:** Copy “Your Board Token.” Navigate back to Honeypot and paste it into the “Your Board Token” box. 
 ![greenhouse-honeypot](/assets/images/greenhouse12.png)
 
 
@@ -203,5 +203,5 @@ Remember, for the ATS integration to work correctly, the Position you enter when
 ![greenhouse-honeypot](/assets/images/greenhouse15.png)
 
 
-If you have any questions, feel free to reach out directly to your Customer Success Manager or integrations@honeypot.io, who can guide you through the process.
+If you have any questions, feel free to reach out directly to your Customer Success Manager, who can guide you through the process.
 
