@@ -22,9 +22,9 @@ Honeypot offers free visa support in the Netherlands for companies and developer
 
 Citizens of EU / EEA countries and Switzerland do not need a residence permit to live and work in the Netherlands. Companies who are hiring developers from other countries must be recognized as a sponsor, which is a pretty simple process. They can then begin the procedure for getting developers the residence permit.
 
-#### 1. Become a sponsor: For detailed information on the process of becoming a sponsor check the [Immigrationa and Naturalization (IND) site](https://ind.nl/en/Documents/3084.pdf). Here are the basic steps you must take:
+#### 1. Become a sponsor: For detailed information on the process of becoming a sponsor check the [Immigrationa and Naturalization (IND) site](https://ind.nl/en). Here are the basic steps you must take:
 
-* **Meet Required Conditions:** To become a recognised sponsor you must first make sure that your organisation meets the required conditions, which can be found on [the IND website](http://www.ind.nl). All prospective sponsors must be registered in the trade register, have no issues with bankruptcy or debt payment, and anyone involved with the organisation must be deemed trustworthy. Further specific requirements may apply depending the nature of your organisation. 
+* **Meet Required Conditions:** To become a recognised sponsor you must first make sure that your organisation meets the required conditions, which can be found on [the IND website](https://ind.nl/en/work/Pages/Recognition_as_a_sponsor.aspx). All prospective sponsors must be registered in the trade register, have no issues with bankruptcy or debt payment, and anyone involved with the organisation must be deemed trustworthy. Further specific requirements may apply depending the nature of your organisation. 
 
 * **Fill in the form and pay a fee:** On the same website you will find the application form which you must complete and send to the IND, along with the required fee. The IND will begin the process once the fee has been paid. The [fee](https://ind.nl/en/Pages/Costs.aspx) for this process is €2,638 for startups and small businesses with no more than 50 employees, and €5,276 for larger companies. 
 
@@ -87,7 +87,7 @@ take out [health insurance](https://www.government.nl/topics/health-insurance)  
 
 ### Extra Resources
 
-* Dutch Immigration and Naturalisation Service [guide to working in the Netherlands](https://ind.nl/en/Documents/3086.pdf).
+* Dutch Immigration and Naturalisation Service [guide to working in the Netherlands](https://ind.nl/en/Forms/3086.pdf).
 
 * [FAQs](https://www.government.nl/topics/immigration/question-and-answer/hire-a-highly-skilled-migrant) for Dutch employers looking to employ a highly skilled migrant.
 
