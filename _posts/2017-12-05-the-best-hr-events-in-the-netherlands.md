@@ -13,9 +13,19 @@ The Netherlands may not be the biggest country, but it does have more than its f
 
 <!--more-->
 
+### [Amsterdam FinTech Forum](https://www.eventbrite.co.uk/e/amsterdam-fintech-forum-tickets-9527638423?aff=es2)
+
+**Where: Amsterdam**
+
+**When: 25 Jan 2018**
+
+**Cost: €1,000**
+
+Europe’s most successful event organizers come to Amsterdam in 2018. ING Bank’s former Headquarters, ‘De Schaats’ (The Skate), will be the venue for the inaugural Amsterdam FinTech Forum. More than 200 executives will get together and share experience, views and ideas around the European ecosystem.
+
 ### [Sourcing Summit Europe: #SOSU EUROPE](https://www.sosueurope.com/)
 
-**Where: Amsterdam, the Netherlands**
+**Where: Amsterdam**
 
 **Date to be defined**
 
@@ -23,6 +33,15 @@ The Netherlands may not be the biggest country, but it does have more than its f
 
 The main theme of the sessions in 2017 centered on exploring new frontiers for  talent sourcing. What frontiers of sourcing remain to be explored? What does the future of talent sourcing hold? Where to from here? The first Sourcing Summit in Europe was held in Amsterdam in 2013. The aim of the event is to highlight the growing importance of talent sourcing, promote and spread new thinking, and bring together practitioners to network and learn from each other.
 
+### [GOTO Conference](https://gotoams.nl/ )
+
+**Where: Amsterdam**
+
+**When: 18-20 June**
+
+**Cost 600-1,349**
+
+GOTO Conference is a software development conference designed for developers, team leads, architects, and project managers and is organized "for developers by developers". As software developers and architects ourselves, we wanted to create a great social and learning experience. In 2018 GOTO Amsterdam returns for its eighth edition. The conference topics are Digital Transformation, Privacy & Security, topics that couldn't be more relevant.
 
 ### [Human Resources Director Summit]( https://www.hrdsummit.eu/contact/)
 
@@ -33,6 +52,8 @@ The main theme of the sessions in 2017 centered on exploring new frontiers for  
 **Cost: €890**
 
 Strategy, Leadership and Business Transformation, Talent and Engagement, Organizational Development and Learning were the main topics covered in 2017.  200 delegates, 30 speakers across three streams. The conference also promises to bring participants together Through a meeting portal which matches attendees through a bespoke algorithm. expertise through case studies, interactive workshops, private networking receptions and demos.
+
+
 
 ### [BEYOND - Global HR Leadership Forum 2018](http://www.beyondhrforum.com/)
 
@@ -59,7 +80,7 @@ HR Vision will make a triumphant return to Amsterdam in June 2018 with a focus o
 
 **Where: Amsterdam, the Netherlands**
 
-**When: September 23-24**
+**When: 23-24 September**
 
 **Cost: TBA**
 
@@ -71,9 +92,9 @@ Total Talent Management by ProcureCon is Europe’s must-attend event for spend 
 
 **Where: London**
 
-**When: 20/21st March**
+**When: 20/21 March**
 
-**Cost: 1.000€**
+**Cost: €1.000**
 
 The world’s fastest growing community on the future of work, UNLEASH is ranked as the largest Corporate Network focused on the interface between people, technology, organizations and the future.
 
@@ -81,9 +102,9 @@ The world’s fastest growing community on the future of work, UNLEASH is ranked
 
 **Where: Birmingham**
 
-**When: 6-7th February**
+**When: 6-7 February**
 
-**Cost: 1.338€**
+**Cost: €1.338**
 
 The HRD Summit hosts the most senior gathering of HR Directors on the globe. The 2018 Summit will host 150+ speakers in 8 content streams, 70+ Exhibitors, 250+ Match Meetings and 11+ hours of networking spread across 2 days.
 
@@ -91,7 +112,7 @@ The HRD Summit hosts the most senior gathering of HR Directors on the globe. The
 
 **Where: Barcelona**
 
-**When: 5th October**
+**When: 5 October**
 
 **Cost: TBA**
 
