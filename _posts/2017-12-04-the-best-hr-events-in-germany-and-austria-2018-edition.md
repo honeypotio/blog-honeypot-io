@@ -1,62 +1,98 @@
 ---
-title:  The Best HR Events in Germany 2018 Edition
+title:  The Best HR Events in Germany and Austria 2018 Edition
 subtitle:
 date:    2017-12-04 13:20:16
 layout:  post
 author:  hunter_wright
 categories: [HR Tips]
-cover_image: honey01.jpg
+cover_image: hr-germany-austria.png
 permalink:  the-best-hr-events-in-germany-and-austria-2018-edition/
 importance: 2
 ---
 
-Germany's 2018 can't miss HR events all in one place. If you work in HR, would like to work in HR, or simply want to learn what HR stands for, you need to see this.  
+Germany and Austria's 2018 best HR events all in one place. If you work in HR, would like to work in HR, or simply want to find out what HR stands for, you need to see this.  
 
 <!--more-->
 
-### [ReThink HRTech](http://rethink-hrtech.de/de/)
+### [HR360 European Summit](http://hr360.wbresearch.com/)
 
-**Hamburg, March 15th-16th, €1,195**
+**Vienna**
 
-This is Hamburg’s *premier event* for CHROs and HR decision makers. 2017’s event covered topics such as HR transformation and technology, digitization and leadership, and recruiting and talent management, from speakers from Thyssenkrupp’s, Deutsche Telekom, Galeria Kaufhof, Avira and Zalando. Be sure to brush up on your *Deutsch before coming*, the event will be in German. 
+**June 20th-21st**
 
-### [NWX18](https://newworkexperience.xing.com/)
+**Cost not yet set**
 
-**Hamburg, March 6th, €831 - 1.069**
+Content is king at the [HR360 European Summit](http://hr360.wbresearch.com/). In the 2017 edition, the event was packed with informative case studies and in-depth workshops, including how to use data analytics to identify the best talent pools and target them with personalised information. Speakers and workshop leaders include representatives from industry-leading companies Coca-Cola, Red Bull, and Cisco.  
 
-NWX17 was hosted in Berlin and nearly 1,000 participants joined. For the 2018 edition, XING is hosting its conference in its home city of Hamburg in the beautiful Elbphilharmonie, which at a cost of €789 million, and dazzling architecture, is a must-see. 
-The focus is on digital transformation and change. The night includes an Awards ceremony. The event will also be held in German. 
+### [HR Garage](https://hr-garage.de/index.php#termine)
 
-### [HR Garage - Munich](https://hr-garage.de/index.php#termine)
+**Munich**
 
-**Munich, March 21st**
+**March 21st**
+
 **€699 - €799**
 
-Extremely exclusive due to an attendance capped at 30 participants, the HR Garage draws on Lean Startup Methodology to inspire and transform HR practices.  During the sessions, which take place in cities across Germany, participants have the room to test and benchmark new ideas among fellow HR professionals. 
-
-### [TalentPro](http://www.talentpro.de/home.html)
-
-**Munich, March 22nd**
-
-TalentPro is an Trade Fair and Conference for Recruiting, Talent Management and Employer Branding. TalentPro is the offshoot of Personal Swiss, one of the largest HR-focused conferences in Switzerland. **Cost is not yet set.** 
+Exclusive due to an attendance capped at 30 participants, the [HR Garage](https://hr-garage.de/index.php#termine) draws on a *Lean Startup Methodology* to inspire and transform HR practices.  During the sessions, participants can test and benchmark new ideas among fellow HR professionals.  
 
 ### [HR Minds](https://hr-minds.quadriga.eu/)
 
-**Berlin, March 22nd**
+**Berlin** 
 
-Discover cutting-edge strategies for talent management and recruitment in times of global change, digitalization and HR automation. Catch up with the latest developments and stay ahead of the curve. Benefit from informal networking sessions and enjoy the HR European Excellence Awards gala in vibrant Berlin. **Cost is not yet set.** 
+**March 22nd**
+
+**Cost is not yet set**
+
+[HR Minds](https://hr-minds.quadriga.eu/) is an international event featuring 18 speakers from 9 countries and is focused on audience engagement. **Nestlé** is kicking off the event with a keynote followed by several prominent speakers such as Matt Buckland from **Lyst**, who will discuss how to use data to become an _HR Superstar_.   
+
+### [NWX18](https://newworkexperience.xing.com/)
+
+**Hamburg**
+
+**March 6th**
+
+**€831 - 1.069**
+
+**XING** is hosting [NWX18](https://newworkexperience.xing.com/) in its home city of Hamburg in the beautiful *Elbphilharmonie*. With 50 speakers, over 1,000 participants and 40 hours of scheduled events to choose from, this event is big. **NWX18** will also be held in German.
 
 ### [Personal Management Kongress](https://www.personalmanagementkongress.de/)
 
-**Berlin, June 26-27th, 1.190€**
+**Berlin**
 
-The annual conference attracts around 1,500 participants from startups and corporates. Organized by the Bundesverband der Personal Manager (BPM) or the Federation of Personnel Managers, Germany’s leading professional body for HR managers with 4,000 members, the conference focuses on trends and future changes in the industry. 
+**June 26th-27th**
 
-**[HR360 European Summit](http://hr360.wbresearch.com/)**
+**1.190€**
 
-**Vienna, June 28-29th**
+The [Personal Management Kongress](https://www.personalmanagementkongress.de/) annually attracts around 1,500 participants from startups and corporations alike. Organized by the Federation of Personnel Managers (BPM), Germany’s leading professional body for HR managers, the conference focuses on trends and future changes in the industry. 
 
-Content is king at the HR360 European Summit. In the 2017 edition, the event was packed with informative case studies and in-depth workshops, including how can you use data analytics to identify the best talent pools and target them with personalised information, harnessing technology and AI to deliver the next generation of Talent, performance management and change management. Speakers and workshop leaders come from the likes of CocaCola, Red Bull, and Cisco. **Cost not yet set**. 
+### [ReThink HRTech](http://rethink-hrtech.de/de/)
+
+**Hamburg**
+
+**March 15th-16th**
+
+**€1,195**
+
+Hamburg’s *premier event* for CHROs and HR decision makers, [ReThink HRTech](http://rethink-hrtech.de/de/) covers a wide range of HR related topics. 2017’s event featured sessions on HR transformation and technology, digitization and leadership, and recruiting and talent management. Speakers will include representatives from **Thyssenkrupp’s**, **Deutsche Telekom**, **Galeria Kaufhof**, **Avira** and **Zalando**. The event will be in German. 
+
+### [Sino HR Conference 2018](http://www.sino-hr-conference.com/en/home.html)
+
+**Frankfurt**
+
+**April 25th**
+
+**€1,195**
+
+As the name suggests, the [Sino HR Conference 2018](http://www.sino-hr-conference.com/en/home.html) involves China. This unique event focues exclusively on German-Chinese HR management for German companies with branches operating in China. Whether or not you have operations in China or are looking to grow towards it, this event provides an opportunity to explore the recruitment, retention, and development of foreign employees. The event will be held in German. 
+
+### [TalentPro](http://www.talentpro.de/home.html)
+
+**Munich**
+
+**March 22nd**
+
+**Cost is not yet set**
+
+[TalentPro](http://www.talentpro.de/home.html) is a Trade Fair and conference focused on recruiting, talent management and employer branding. **TalentPro** is the offshoot of **Personal Swiss**, one of the largest HR-focused conferences in Switzerland.
 
 ### Keep an eye out for these:
 
@@ -68,13 +104,7 @@ Content is king at the HR360 European Summit. In the 2017 edition, the event was
 
 ### Conclusion
 
-For HR professionals, CTOs and founders, [Honeypot](https://www.honeypot.io/lp/join) is the quickest, easiest and most efficient way to find skilled developers. 
-
-Before founding **Honeypot**, we were just like you: tired of trawling through CVs, frustrated by direct outreach, bored of job postings. Annoyed by these inefficiencies, we built a platform which connects developers and companies directly, giving transparency and speed to both sides. To give you an example, developers on Honeypot have a 90% response rate and it takes an average of 25 days to make a hire. 
-
-Today, Honeypot is Europe’s leading developer-focused job platform, serving Berlin, Munich, Hamburg, Stuttgart, Cologne, Amsterdam and London. 
-
-The only question that remains: are you ready to join us on our mission to get every developer a great job?
+With so many HR events to choose from, it may be difficult to decide which one to attend. This list provides an overview of the best HR events within Germany and Austria that offer insights into HR and opportunities to network. For more great HR events, check out our blog on the [Best HR Events in the Netherlands 2018](blog.honeypot.io/the-best-hr-events-in-the-netherlands/).
 
 
 P.S. And if you're still wondering what HR stands for...*Human Resources!*
