@@ -5,7 +5,7 @@ date:    2017-12-05 09:31:53
 layout:  post
 author:  hunter_wright
 categories: HR Tips
-cover_image: honey01.jpg
+cover_image: hr-netherlands.png
 permalink:  the-best-hr-events-in-the-netherlands/
 importance: 2
 ---
