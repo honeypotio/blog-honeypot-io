@@ -1,7 +1,7 @@
 ---
 title:  Announcing the Personio Honeypot Integration 
 subtitle:
-date:    2017-12-05 11:50:00
+date:    2018-01-03 11:50:00
 layout:  post
 author:  emma_tracey
 categories: Company
