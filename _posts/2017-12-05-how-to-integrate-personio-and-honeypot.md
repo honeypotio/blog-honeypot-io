@@ -10,15 +10,15 @@ permalink:  how-to-integrate-personio-and-honeypot/
 importance: 2
 ---
 
-Germany’s largest **Applicant Tracking System** and Germany’s largest **Developer Job Platform** have joined forces to make recruiters life’s easier. As of today, Personio users can automatically upload candidates directly from Honeypot to Personio. 
+Germany’s largest **Applicant Tracking System** and Germany’s largest **Developer Job Platform** have joined forces to make recruiters' lives easier. As of today, Personio users can automatically upload candidates directly from Honeypot to Personio. 
 
 <!--more--> 
 
 ### How it Works
 
-Once a developer accepts your interview invite, they are entered into your **ATS**. The source is then automatically set as Honeypot, and you're sent the connecting message, the CV as a PDF, and a link to the profile.
+The integration enables recruiters to automatically upload candidates from Honeypot to Personio. As soon as a developer accepts your interview invite, they are automatically entered into your ATS, with the source “Honeypot”, together with the connecting message, the CV as a PDF, and a link to the candidate’s Honeypot profile.
 
-This streamlines workflow for recruiters and hiring managers, allowing you to focus on candidate follow-up. 
+The integration reduces manual effort for recruiters and hiring managers, streamlining workflow, allowing you to focus on candidate follow-up. 
 
 ### Set-up
 
@@ -52,11 +52,11 @@ To integrate, there are four simple fields to fill in:
 
 <br><br>
 
-3.) **Account Name**: This is the name which appears in your [Personio customer url](https://acme.personio.de/).
+3.) **Account Name**: This is the name which appears in your Personio customer url (e.g https://mycompany.personio.de/).
 
 <br>
 
-4.) **Channel ID**: The channel first has to be created. Navigate into Settings > Recruiting > Channels, e.g. [https://mycompany.personio.de/configuration/recruiting/channels](https://honeypot.personio.de/configuration/recruiting/channels). 
+4.) **Channel ID**: The channel first has to be created. Navigate into Settings > Recruiting > Channels, e.g. https://mycompany.personio.de/configuration/recruiting/channels. 
 
 You should now create a channel for Honeypot. When you click on the newly created channel you can see an associated ID. Copy the ID into this box. If the channel has already been created, you can just copy the ID directly. 
 
