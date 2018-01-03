@@ -1,7 +1,7 @@
 ---
 title:  The Best HR Events in Germany and Austria 2018 Edition
 subtitle:
-date:    2017-12-04 13:20:16
+date:    2017-1-03 13:20:16
 layout:  post
 author:  hunter_wright
 categories: [HR Tips]
