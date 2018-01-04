@@ -62,7 +62,7 @@ You should now create a channel for Honeypot. When you click on the newly create
 
 <br>
 
-![Channel ID](/assets/images/Personio-screenshot-5.png)
+![Channel ID](/assets/images/personio-screenshot-5.png)
 
 <br>
 
