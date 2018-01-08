@@ -16,7 +16,7 @@ Germany’s largest **Applicant Tracking System** and Germany’s largest **Deve
 
 ### How it Works
 
-The integration enables recruiters to automatically upload candidates from Honeypot to Personio. As soon as a developer accepts your interview invite, they are automatically entered into your ATS, with the source “Honeypot”, together with the connecting message, the CV as a PDF, and a link to the candidate’s Honeypot profile.
+The integration enables recruiters to automatically upload candidates from **Honeypot** to **Personio**. As soon as a developer accepts your interview invite, they are automatically entered into your ATS, with the source “**Honeypot**”, together with the connecting message, the CV as a PDF, and a link to the candidate’s Honeypot profile.
 
 The integration reduces manual effort for recruiters and hiring managers, streamlining workflow, allowing you to focus on candidate follow-up. 
 
@@ -56,7 +56,7 @@ To integrate, there are four simple fields to fill in:
 
 <br>
 
-4.) **Channel ID**: The channel first has to be created. Navigate into Settings > Recruiting > Channels, e.g. https://mycompany.personio.de/configuration/recruiting/channels. 
+4.) **Channel ID**: The channel first has to be created. Navigate into "Settings" > "Recruiting" > "Channels", e.g. https://mycompany.personio.de/configuration/recruiting/channels. 
 
 You should now create a channel for Honeypot. When you click on the newly created channel you can see an associated ID. Copy the ID into this box. If the channel has already been created, you can just copy the ID directly. 
 
