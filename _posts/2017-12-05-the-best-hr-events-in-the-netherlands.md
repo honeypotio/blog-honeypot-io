@@ -1,7 +1,7 @@
 ---
 title:   The Best HR Events in the Netherlands in 2018
 subtitle:
-date:    2017-12-05 09:31:53
+date:    2018-1-10 09:31:53
 layout:  post
 author:  hunter_wright
 categories: HR Tips
