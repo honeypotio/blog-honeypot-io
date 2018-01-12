@@ -83,7 +83,7 @@ As the name suggests, the [Sino HR Conference 2018](http://www.sino-hr-conferenc
 
 **June 26th-27th**
 
-**1.190€**
+**1,190€**
 
 The [Personal Management Kongress](https://www.personalmanagementkongress.de/) annually attracts around 1,500 participants from startups and corporations alike. Organized by the Federation of Personnel Managers (BPM), Germany’s leading professional body for HR managers, the conference focuses on trends and future changes in the industry. 
 
