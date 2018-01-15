@@ -22,7 +22,7 @@ The start of the year is the perfect time to plan your events schedule for 2018.
 
 **€831 - €1,069**
 
-**XING** is hosting [NWX18](https://newworkexperience.xing.com/) in its home city of Hamburg in the beautiful *Elbphilharmonie*. With 50 speakers, over 1,000 participants and 40 hours of scheduled events to choose from, this event is big. **NWX18** will also be held in German.
+**XING** is hosting [NWX18](https://newworkexperience.xing.com/) in its home city of Hamburg in the beautiful *Elbphilharmonie*. With 50 speakers, over 1,000 participants and 40 hours of scheduled events to choose from, this event is big. **NWX18** will also be held in German. 
 
 ### [ReThink HRTech](http://rethink-hrtech.de/de/)
 
@@ -34,6 +34,15 @@ The start of the year is the perfect time to plan your events schedule for 2018.
 
 Hamburg’s *premier event* for CHROs and HR decision makers, [ReThink HRTech](http://rethink-hrtech.de/de/) covers a wide range of HR related topics. 2017’s event featured sessions on HR transformation and technology, digitization and leadership, and recruiting and talent management. In 2018, speakers will include representatives from **Thyssenkrupp**, **Deutsche Telekom**, **Galeria Kaufhof**, **Avira** and **Zalando**. The event will be in German. 
  
+### [HR Garage](https://hr-garage.de/index.php#termine)
+
+**Munich**
+
+**March 21st**
+
+**€699 - €799**
+
+Due to a capped attendance of 30, this event feels like one of the more exclusive in the HR calendar. The [HR Garage](https://hr-garage.de/index.php#termine) draws on *Lean Startup Methodology* to inspire and transform HR practices.  During the sessions, participants can test and benchmark new ideas among fellow HR professionals.  
 
 ### [TalentPro](http://www.talentpro.de/home.html)
 
@@ -45,16 +54,6 @@ Hamburg’s *premier event* for CHROs and HR decision makers, [ReThink HRTech](h
 
 [TalentPro](http://www.talentpro.de/home.html) is a Trade Fair and conference focused on recruiting, talent management and employer branding. **TalentPro** is the offshoot of **Personal Swiss**, one of the largest HR-focused conferences in Switzerland.
 
-### [HR Garage](https://hr-garage.de/index.php#termine)
-
-**Munich**
-
-**March 21st**
-
-**€699 - €799**
-
-Due to a capped attendance of 30, this event feels like one of the more exclusive in the HR calendar. The [HR Garage](https://hr-garage.de/index.php#termine) draws on *Lean Startup Methodology* to inspire and transform HR practices.  During the sessions, participants can test and benchmark new ideas among fellow HR professionals.  
-
 ### [HR Minds](https://hr-minds.quadriga.eu/)
 
 **Berlin** 
@@ -65,6 +64,15 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 [HR Minds](https://hr-minds.quadriga.eu/) is an international event featuring 18 speakers from nine countries and is focused on audience engagement. **Nestlé** is kicking off the event with a keynote followed by several prominent speakers such as Matt Buckland from **Lyst**, who will discuss how to use data to become an _HR Superstar_.   
 
+### [Recruiter Slam](http://www.recruiterslam.de/)
+
+**Stuttgart**
+
+**April 12th**
+
+**€22,50**
+
+This one-of-a-kind event invites recruiters to share their personal recruiting experiences through poetry. This 'competition' is meant to show the importance of HR and the need for visionary managers within it. Taking part in the [Slam](http://www.recruiterslam.de/) is not mandatory, but you're sure to have a great time watching. 
 
 ### [Sino HR Conference 2018](http://www.sino-hr-conference.com/en/home.html)
 
@@ -76,6 +84,15 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 As the name suggests, the [Sino HR Conference 2018](http://www.sino-hr-conference.com/en/home.html) focuses exclusively on German-Chinese HR management for German companies with branches operating in China. Whether or not you have operations in China or are looking to grow towards it, this event provides an opportunity to explore the recruitment, retention, and development of foreign employees. The event will be held in German.
 
+### [Recruiting Convent](https://www.recruiting-convent.de/)
+
+**Dusseldorf**
+
+**June 6th-7th**
+
+**€1,495**
+
+*"Innovate and Survive"* is the motto for the [Recruiting Convent](https://www.recruiting-convent.de/) which focuses on the way digitization and changing practices in the areas of personal marketing and recruiting has effected HR as a whole. This event especially caters to  companies trying to make the transition into more digitized recruiting practices.
 
 ### [Personal Management Kongress](https://www.personalmanagementkongress.de/)
 
@@ -87,6 +104,15 @@ As the name suggests, the [Sino HR Conference 2018](http://www.sino-hr-conferenc
 
 The [Personal Management Kongress](https://www.personalmanagementkongress.de/) annually attracts around 1,500 participants from startups and corporations alike. Organized by the Federation of Personnel Managers (BPM), Germany’s leading professional body for HR managers, the conference focuses on trends and future changes in the industry. 
 
+### [Zukunft Personal](http://www.zukunft-personal.de/)
+
+**Cologne**
+
+**September 11th-13th**
+
+**Cost is not yet set**
+
+[Zukunft Personal](http://www.zukunft-personal.de/) or *Future Employees* is a three day event featuring hundreds of speakers, exhibitions and panel discussions. The focus will be on innovative solutions and networking in the HR community.  
 
 ### Keep an eye out for these:
 
