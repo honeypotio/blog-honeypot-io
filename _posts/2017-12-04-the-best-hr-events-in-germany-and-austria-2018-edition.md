@@ -1,7 +1,7 @@
 ---
 title:  The Best HR and Talent Acquisition Events in Germany 2018 
 subtitle:
-date:    2018-1-03 13:20:16
+date:    2018-1-15 8:20:16
 layout:  post
 author:  hunter_wright
 categories: [HR Tips]
