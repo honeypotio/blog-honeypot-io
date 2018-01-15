@@ -60,7 +60,7 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 **March 22nd-23rd**
 
-**Cost is not yet set**
+**€110**
 
 Focused on innovative HR practices in the age of social media, the [HR BarCamp](hrbarcamp.eu/berlin/) provides a less formal setting for HR professionals to meet and discuss challenges and opportunities within HR. The topics are chosen at the beginning of the conference by a participant vote. 
 
