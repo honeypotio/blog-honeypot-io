@@ -142,7 +142,7 @@ The [Personal Management Kongress](https://www.personalmanagementkongress.de/) a
 
 **€1,295**
 
-With speakers like **Mounira Latrache** (YouTube), **Ross Sparkman** (Facebook), and **Gerard Penning** (Shell), the [ReThink! HRTech Europe](http://rethink-hrtech.com/en/) in Berlin is a great place to gain HR knowledge from leaders in the industry. Key topics for the event include 'HC Analytics and Reporting', along with 'Social Collaboration and Workforce Learning'
+With speakers like **Mounira Latrache** (YouTube), **Ross Sparkman** (Facebook), and **Gerard Penning** (Shell), the [ReThink! HRTech Europe](http://rethink-hrtech.com/en/) in Berlin is a great place to gain HR knowledge from leaders in the industry. Key topics for the event include 'HC Analytics and Reporting', along with 'Social Collaboration and Workforce Learning'.
 
 ### Keep an eye out for these:
 
