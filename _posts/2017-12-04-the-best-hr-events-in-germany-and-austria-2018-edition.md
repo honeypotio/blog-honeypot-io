@@ -24,7 +24,7 @@ The start of the year is the perfect time to plan your events schedule for 2018.
 
 **XING** is hosting [NWX18](https://newworkexperience.xing.com/) in its home city of Hamburg in the beautiful *Elbphilharmonie*. With 50 speakers, over 1,000 participants and 40 hours of scheduled events to choose from, this event is big. **NWX18** will be held in German.
 
-### [ReThink HRTech](http://rethink-hrtech.de/de/)
+### [ReThink! HRTech D/A/CH](http://rethink-hrtech.de/de/)
 
 **Hamburg**
 
@@ -32,7 +32,7 @@ The start of the year is the perfect time to plan your events schedule for 2018.
 
 **€1,195**
 
-Hamburg’s *premier event* for CHROs and HR decision makers, [ReThink HRTech](http://rethink-hrtech.de/de/) covers a wide range of HR related topics. 2017’s event featured sessions on HR transformation and technology, digitization and leadership, and recruiting and talent management. In 2018, speakers will include representatives from **Thyssenkrupp**, **Deutsche Telekom**, **Galeria Kaufhof**, **Avira** and **Zalando**. The event will be in German. 
+Hamburg’s *premier event* for CHROs and HR decision makers, [ReThink! HRTech Hamburg](http://rethink-hrtech.de/de/) covers a wide range of HR related topics. 2017’s event featured sessions on HR transformation and technology, digitization and leadership, and recruiting and talent management. In 2018, speakers will include representatives from **Thyssenkrupp**, **Deutsche Telekom**, **Galeria Kaufhof**, **Avira** and **Zalando**. The event will be in German. 
  
 ### [HR Garage](https://hr-garage.de/index.php#termine)
 
@@ -62,7 +62,7 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 **Cost is not yet set**
 
-[HR Minds](https://hr-minds.quadriga.eu/) is an international event featuring 18 speakers from nine countries and is focused on audience engagement. **Nestlé** is kicking off the event with a keynote followed by several prominent speakers such as Matt Buckland from **Lyst**, who will discuss how to use data to become an _HR Superstar_.   
+[HR Minds](https://hr-minds.quadriga.eu/) is an international event featuring 18 speakers from nine countries and is focused on audience engagement. **Nestlé** is kicking off the event with a keynote followed by several prominent speakers such as Matt Buckland from **Lyst**, who will discuss how to use data to become an _HR Superstar_.     
 
 ### [Recruiter Slam](http://www.recruiterslam.de/)
 
@@ -72,7 +72,17 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 **€22,50**
 
-This one-of-a-kind event invites recruiters to share their personal recruiting experiences through poetry. This 'competition' is meant to show the importance of HR and the need for visionary managers within it. Taking part in the [Slam](http://www.recruiterslam.de/) is not mandatory, but you're sure to have a great time watching. 
+This one-of-a-kind event invites recruiters to share their personal recruiting experiences through poetry. This 'competition' is meant to show the importance of HR and the need for visionary managers within it. Taking part in the _Slam_ is not mandatory, but you're sure to have a great time watching. 
+
+### [Sourcing Summit Europe](https://www.sosueurope.com/)
+
+**Munich** 
+
+**April 25th-26th**
+
+**€795**
+
+The [Sourcing Summit Europe](https://www.sosueurope.com/) is a tech-focused event with delegates from over 50 countries and 30 speakers. It features several hands-on and practical sessions, while bringing together big names in sourcing like **Luisa Preiss** (Adidas), **Yves Greijn** (Facebook), and **Steffen Ruf** (Daimler AG).
 
 ### [Sino HR Conference 2018](http://www.sino-hr-conference.com/en/home.html)
 
@@ -113,6 +123,26 @@ The [Personal Management Kongress](https://www.personalmanagementkongress.de/) a
 **Cost is not yet set**
 
 [Zukunft Personal](http://www.zukunft-personal.de/) or *Future Employees* is a three day event featuring hundreds of speakers, exhibitions and panel discussions. The focus will be on innovative solutions and networking in the HR community.  
+
+### [Bitz & Pretzels](https://www.bitsandpretzels.com/)
+
+**Munich**
+
+**September 30th-October 2nd**
+
+**Cost is not yet set**
+
+[Bitz & Pretzels](https://www.bitsandpretzels.com/) is famous for taking place in Munich during Oktoberfest. The main theme this year is 'Diversity in the workforce', with speakers **Philipp Lahm** (International football star), **Rolf Schroemgens** (Trivago), and **Carice Van Houten** (Game of Thrones) to name a few. 
+
+### [ReThink! HRTech Europe](http://rethink-hrtech.com/en/)
+
+**Berlin**
+
+**November 21st-23rd**
+
+**€1,295**
+
+With speakers like **Mounira Latrache** (YouTube), **Ross Sparkman** (Facebook), and **Gerard Penning** (Shell), the [ReThink! HRTech Europe](http://rethink-hrtech.com/en/) in Berlin is a great place to gain HR knowledge from leaders in the industry. Key topics for the event include 'HC Analytics and Reporting', along with 'Social Collaboration and Workforce Learning'
 
 ### Keep an eye out for these:
 
