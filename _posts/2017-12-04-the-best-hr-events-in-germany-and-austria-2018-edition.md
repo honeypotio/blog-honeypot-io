@@ -22,7 +22,7 @@ The start of the year is the perfect time to plan your events schedule for 2018.
 
 **€831 - €1,069**
 
-**XING** is hosting [NWX18](https://newworkexperience.xing.com/) in its home city of Hamburg in the beautiful *Elbphilharmonie*. With 50 speakers, over 1,000 participants and 40 hours of scheduled events to choose from, this event is big. **NWX18** will also be held in German.
+**XING** is hosting [NWX18](https://newworkexperience.xing.com/) in its home city of Hamburg in the beautiful *Elbphilharmonie*. With 50 speakers, over 1,000 participants and 40 hours of scheduled events to choose from, this event is big. **NWX18** will be held in German.
 
 ### [ReThink HRTech](http://rethink-hrtech.de/de/)
 
@@ -83,7 +83,7 @@ As the name suggests, the [Sino HR Conference 2018](http://www.sino-hr-conferenc
 
 **June 26th-27th**
 
-**1,190€**
+**€1,190**
 
 The [Personal Management Kongress](https://www.personalmanagementkongress.de/) annually attracts around 1,500 participants from startups and corporations alike. Organized by the Federation of Personnel Managers (BPM), Germany’s leading professional body for HR managers, the conference focuses on trends and future changes in the industry. 
 
