@@ -54,15 +54,15 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 [TalentPro](http://www.talentpro.de/home.html) is a Trade Fair and conference focused on recruiting, talent management and employer branding. **TalentPro** is the offshoot of **Personal Swiss**, one of the largest HR-focused conferences in Switzerland.
 
-### [HR Minds](https://hr-minds.quadriga.eu/)
+### [HR BarCamp](hrbarcamp.eu/berlin/)
 
 **Berlin** 
 
-**March 22nd**
+**March 22nd-23rd**
 
 **Cost is not yet set**
 
-[HR Minds](https://hr-minds.quadriga.eu/) is an international event featuring 18 speakers from nine countries and is focused on audience engagement. **Nestlé** is kicking off the event with a keynote followed by several prominent speakers such as Matt Buckland from **Lyst**, who will discuss how to use data to become an _HR Superstar_.     
+Focused on innovative HR practices in the age of social media, the [HR BarCamp](hrbarcamp.eu/berlin/) provides a less formal setting for HR professionals to meet and discuss challenges and opportunities within HR. The topics are chosen at the beginning of the conference by a participant vote. 
 
 ### [Recruiter Slam](http://www.recruiterslam.de/)
 
@@ -72,7 +72,7 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 **€22,50**
 
-This one-of-a-kind event invites recruiters to share their personal recruiting experiences through poetry. This 'competition' is meant to show the importance of HR and the need for visionary managers within it. Taking part in the _Slam_ is not mandatory, but you're sure to have a great time watching. 
+This one-of-a-kind event invites recruiters to share their personal recruiting experiences through poetry. This 'competition' is meant to show the importance of HR and the need for visionary managers within it. Taking part in the **_Slam_** is not mandatory, but you're sure to have a great time watching. 
 
 ### [Sourcing Summit Europe](https://www.sosueurope.com/)
 
@@ -132,7 +132,7 @@ The [Personal Management Kongress](https://www.personalmanagementkongress.de/) a
 
 **Cost is not yet set**
 
-[Bitz & Pretzels](https://www.bitsandpretzels.com/) is famous for taking place in Munich during Oktoberfest. The main theme this year is 'Diversity in the workforce', with speakers **Philipp Lahm** (International football star), **Rolf Schroemgens** (Trivago), and **Carice Van Houten** (Game of Thrones) to name a few. 
+[Bitz & Pretzels](https://www.bitsandpretzels.com/) is famous for taking place in Munich during **Oktoberfest**. The main theme this year is 'Diversity in the workforce'. There will also be a pitch competition involving 100 startups, with the chance to present their companies to 5,000 attendees as the reward.
 
 ### [ReThink! HRTech Europe](http://rethink-hrtech.com/en/)
 
