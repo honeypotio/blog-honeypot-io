@@ -132,7 +132,7 @@ The [Personal Management Kongress](https://www.personalmanagementkongress.de/) a
 
 **Cost is not yet set**
 
-[Bitz & Pretzels](https://www.bitsandpretzels.com/) is famous for taking place in Munich during **Oktoberfest**. The main theme this year is 'Diversity in the workforce'. There will also be a pitch competition involving 100 startups, with the chance to present their companies to 5,000 attendees as the reward.
+[Bitz & Pretzels](https://www.bitsandpretzels.com/) is famous for taking place in Munich during **Oktoberfest**. The main theme this year is 'Diversity in the workforce'. There will also be a pitch competition involving 100 startups, with the chance to present their company to 5,000 attendees as the reward.
 
 ### [ReThink! HRTech Europe](http://rethink-hrtech.com/en/)
 
@@ -166,7 +166,7 @@ Content is king at the [HR360 European Summit](http://hr360.wbresearch.com/). In
 
 ### Conclusion
 
-With so many HR events to choose from, it may be difficult to decide which one to attend. This list provides an overview of the best HR events within Germany. For more great HR events, check out our blog on the [Best HR Events in the Netherlands 2018](blog.honeypot.io/the-best-hr-events-in-the-netherlands/).
+With so many HR events to choose from, it may be difficult to decide which one to attend. This list provides an overview of the best HR events within Germany. For more great events, check out our blog on the Best HR Events in the Netherlands 2018 coming out next week.
 
 
 
