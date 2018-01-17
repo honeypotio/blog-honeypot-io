@@ -6,7 +6,7 @@ layout:  post
 author:  hunter_wright
 categories: [HR Tips]
 cover_image: hr-germany.png
-permalink:  the-best-hr-events-in-germany-and-austria-2018-edition/
+permalink:  best-hr-events-germany-austria-2018//
 importance: 2
 ---
 
