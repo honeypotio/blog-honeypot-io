@@ -54,7 +54,7 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 [TalentPro](http://www.talentpro.de/home.html) is a Trade Fair and conference focused on recruiting, talent management and employer branding. **TalentPro** is the offshoot of **Personal Swiss**, one of the largest HR-focused conferences in Switzerland.
 
-### [HR BarCamp](hrbarcamp.eu/berlin/)
+### [HR BarCamp](http://hrbarcamp.eu/berlin/)
 
 **Berlin** 
 
@@ -62,7 +62,7 @@ Due to a capped attendance of 30, this event feels like one of the more exclusiv
 
 **€110**
 
-Focused on innovative HR practices in the age of social media, the [HR BarCamp](hrbarcamp.eu/berlin/) provides a less formal setting for HR professionals to meet and discuss challenges and opportunities within HR. The topics are chosen at the beginning of the conference by a participant vote. 
+Focused on innovative HR practices in the age of social media, the [HR BarCamp](http://hrbarcamp.eu/berlin/) provides a less formal setting for HR professionals to meet and discuss challenges and opportunities within HR. The topics are chosen at the beginning of the conference by a participant vote. 
 
 ### [Recruiter Slam](http://www.recruiterslam.de/)
 
@@ -74,7 +74,7 @@ Focused on innovative HR practices in the age of social media, the [HR BarCamp](
 
 This one-of-a-kind event invites recruiters to share their personal recruiting experiences through poetry. This 'competition' is meant to show the importance of HR and the need for visionary managers within it. Taking part in the **_Slam_** is not mandatory, but you're sure to have a great time watching. 
 
-### [Sourcing Summit Europe](www.sourcingsummit.de )
+### [Sourcing Summit Europe](http://sourcingsummit.de/en/)
 
 **Munich** 
 
@@ -82,7 +82,7 @@ This one-of-a-kind event invites recruiters to share their personal recruiting e
 
 **€795**
 
-The [Sourcing Summit Europe](www.sourcingsummit.de ) is a dedicated talent sourcing event with delegates from over 50 countries and 30 speakers. It features several hands-on and practical sessions, while bringing together big names in sourcing like **Luisa Preiss** (Adidas), **Yves Greijn** (Facebook), and **Steffen Ruf** (Daimler AG).
+The [Sourcing Summit Europe](http://sourcingsummit.de/en/) is a dedicated talent sourcing event with delegates from over 50 countries and 30 speakers. It features several hands-on and practical sessions, while bringing together big names in sourcing like **Luisa Preiss** (Adidas), **Yves Greijn** (Facebook), and **Steffen Ruf** (Daimler AG).
 
 ### [Sino HR Conference 2018](http://www.sino-hr-conference.com/en/home.html)
 
