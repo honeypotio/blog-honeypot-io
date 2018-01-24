@@ -9,7 +9,7 @@ cover_image: hr-netherlands.png
 permalink:  the-best-hr-events-in-the-netherlands/
 importance: 2
 ---
-The Netherlands has dozens of great HR events. Check out which made our list of best HR events in 2018.   
+We've put together a curated list of the best HR events in the Netherlands in 2018. Without further _ado_, here they are:   
 
 <!--more-->
 
