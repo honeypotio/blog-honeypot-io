@@ -1,7 +1,7 @@
 ---
 title:   The Best HR Events in the Netherlands in 2018
 subtitle:
-date:    2018-1-10 09:31:53
+date:    2018-1-21 09:31:53
 layout:  post
 author:  hunter_wright
 categories: HR Tips
@@ -9,11 +9,14 @@ cover_image: hr-netherlands.png
 permalink:  the-best-hr-events-in-the-netherlands/
 importance: 2
 ---
-The Netherlands may not be the biggest country, but it does have more than its fair share of great HR events. Check out which made our list of best HR events in 2018.   
+The Netherlands has dozens of great HR events. Check out which made our list of best HR events in 2018.   
 
 <!--more-->
 
 ### [BEYOND - Global HR Leadership Forum 2018](http://www.beyondhrforum.com/)
+
+<iframe src="https://player.vimeo.com/video/241580982" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/241580982">Beyond HR Forum 2017</a> from <a href="https://vimeo.com/user44374695">Beyond HR Forum</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **Amsterdam**
 
@@ -35,6 +38,8 @@ The Netherlands may not be the biggest country, but it does have more than its f
 **HR Vision** will focus on how digitization, technology, AI, and robotics are changing the way we work. The goal is to learn how to best adapt to this changing work landscape which is encapsulated in this year's title: **A Brave New World: The Marriage of Tech and HR**
 
 ### [Human Resources Director Summit](https://www.hrdsummit.eu/contact/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9IKEfGZBigY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Amsterdam**
 
@@ -64,6 +69,9 @@ Featuring several speakers from big companies such as **Adidas**, **Vodafone**, 
 
 **Recruitment Tech's Demo Day** offers a chance to meet one-on-one with several startups and suppliers, while viewing technology such as CV parsing, e-Assessments, and Matching technology. You'll also get the chance to visit the _Speaker's Corner_ where experts will give short tech talks throughout the day. 
 
+Get a feel for what the event will be like, by watching this keynote from *Alan Walker* and his robotic assistant _Bobby_ from the 2017 Event:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ELuq23gVn14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ### [Sourcing Summit Europe: #SOSU EUROPE](https://www.sosueurope.com/)
 
@@ -77,4 +85,4 @@ Sourcing excellence is the focus of **#SOSU EUROPE** with professionals and orga
 
 ### Conclusion
 
-The Netherlands has several great opportunities to both network within the HR world and to learn more about how it works. Take the time to visit one or two of these conferences in order to learn how to become more efficient within your own HR department. For more information on HR events in Europe be sure to check out the **Best HR events in Germany and Austria 2018 edition**.
+The Netherlands has several great opportunities to both network within the HR world and to learn more about how it works. Take the time to visit one or two of these conferences in order to learn how to become more efficient within your own HR department. For more information on HR events in Europe be sure to check out the [Best HR events in Germany and Austria 2018 edition](http://blog.honeypot.io/best-hr-events-germany-austria-2018/).
