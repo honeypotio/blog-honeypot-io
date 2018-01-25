@@ -13,33 +13,8 @@ We've put together a curated list of the best HR events in the Netherlands in 20
 
 <!--more-->
 
-### [BEYOND - Global HR Leadership Forum 2018](http://www.beyondhrforum.com/)
-
-<iframe src="https://player.vimeo.com/video/241580982" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/241580982">Beyond HR Forum 2017</a> from <a href="https://vimeo.com/user44374695">Beyond HR Forum</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-**Amsterdam**
-
-**June 14th-15th**
-
-**€695 - €1,495**
-
-**The Global HR Leadership Forum** focuses on the role of HR leaders in shaping change in organizations. Additionally, the 2018 edition promises to explore science and AI in HR, and delve into trends in employee experience, data analytics and social entrepreneurship.
-
-
-### [HR Vision](https://www.hrvisionevent.com/amsterdam/)
-
-**Amsterdam**
-
-**June**
-
-**Cost: TBA**
-
-**HR Vision** will focus on how digitization, technology, AI, and robotics are changing the way we work. The goal is to learn how to best adapt to this changing work landscape which is encapsulated in this year's title: **A Brave New World: The Marriage of Tech and HR**
 
 ### [Human Resources Director Summit](https://www.hrdsummit.eu/contact/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9IKEfGZBigY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Amsterdam**
 
@@ -47,17 +22,19 @@ We've put together a curated list of the best HR events in the Netherlands in 20
 
 **€995**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9IKEfGZBigY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 **The HRD Summit** features an HR tech village showcasing the most disruptive innovations in HR today, along with scheduled networking sessions, and presentations by **Nestle**, **Asics**, and other multi-national companies. This blend of the most cutting-edge HR tech along with the opportunity to learn about tried-and-true HR practices from large corporations, is what makes this event stand out. 
 
-### [ProcureCon HR and Extended Workforce](https://procureconhr.wbresearch.com/)
+### [HR Vision](https://www.hrvisionevent.com/amsterdam/)
 
-**Amsterdam, the Netherlands**
+**Amsterdam**
 
-**September 23rd-24th**
+**June 6th-7th**
 
-**Cost: TBA**
+**€1,999**
 
-Featuring several speakers from big companies such as **Adidas**, **Vodafone**, and **Mondelez**, the **ProcureCon HR and Extended Workdforce** event is a great place to network. Other benefits include the opportunity to learn about HR best practices from peers, with several workshops and interactive case studies to choose from.
+**HR Vision** will focus on how digitization, technology, AI, and robotics are changing the way we work. The goal is to learn how to best adapt to this changing work landscape which is encapsulated in this year's title: **A Brave New World: The Marriage of Tech and HR**
 
 ### [Recruitment Tech Demo Day](https://www.recruitmenttech.nl/demoday/programma)
 
@@ -65,12 +42,35 @@ Featuring several speakers from big companies such as **Adidas**, **Vodafone**, 
 
 **June 7th**
 
-**Cost: TBA**
+**€35**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ELuq23gVn14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Recruitment Tech's Demo Day** offers a chance to meet one-on-one with several startups and suppliers, while viewing technology such as CV parsing, e-Assessments, and Matching technology. You'll also get the chance to visit the _Speaker's Corner_ where experts will give short tech talks throughout the day. 
 
-Get a feel for what the event will be like, by watching this keynote from *Alan Walker* and his robotic assistant _Bobby_ from the 2017 Event:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ELuq23gVn14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### [BEYOND - Global HR Leadership Forum 2018](http://www.beyondhrforum.com/)
+
+**Amsterdam**
+
+**June 14th-15th**
+
+**€695 - €1,495**
+
+<iframe src="https://player.vimeo.com/video/241580982" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+**The Global HR Leadership Forum** focuses on the role of HR leaders in shaping change in organizations. Additionally, the 2018 edition promises to explore science and AI in HR, and delve into trends in employee experience, data analytics and social entrepreneurship.
+
+
+### [ProcureCon HR and Extended Workforce](https://procureconhr.wbresearch.com/)
+
+**Amsterdam, the Netherlands**
+
+**September 26th-27th**
+
+**Cost: TBA**
+
+Featuring several speakers from big companies such as **Adidas**, **Vodafone**, and **Mondelez**, the **ProcureCon HR and Extended Workdforce** event is a great place to network. Other benefits include the opportunity to learn about HR best practices from peers, with several workshops and interactive case studies to choose from.
 
 
 ### [Sourcing Summit Europe: #SOSU EUROPE](https://www.sosueurope.com/)
@@ -85,4 +85,4 @@ Sourcing excellence is the focus of **#SOSU EUROPE** with professionals and orga
 
 ### Conclusion
 
-The Netherlands has several great opportunities to both network within the HR world and to learn more about how it works. Take the time to visit one or two of these conferences in order to learn how to become more efficient within your own HR department. For more information on HR events in Europe be sure to check out the [Best HR events in Germany and Austria 2018 edition](http://blog.honeypot.io/best-hr-events-germany-austria-2018/).
+The Netherlands has several great opportunities to both network within the HR world and to learn more about how it works. Take the time to visit one or two of these conferences in order to learn how to become more efficient within your own HR department. For more information on HR events in Europe be sure to check out the [Best HR events in Germany 2018 edition](http://blog.honeypot.io/best-hr-events-germany-austria-2018/).
