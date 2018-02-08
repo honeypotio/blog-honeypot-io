@@ -1,7 +1,7 @@
 ---
 title:  Honeypot Advanced Search 
 subtitle:
-date:    2018-01-31 15:31:19
+date:    2018-02-08 11:31:19
 layout:  post
 author:  emma_tracey
 categories: Company
@@ -13,7 +13,7 @@ Today we are releasing Advanced Search functionality on Honeypot Search to help 
 
 <!--more-->
 
-Before jumping into the new functionality, let me quickly explain how some core ideas that make our search work - terms and operators:  
+Before jumping into the new functionality, let me explain some search terminology - terms and operators.  
 
 * A **term is the word you are searching for**: it can be a single word  —  `java` — or a phrase, surrounded by double quotes  —  `"product owner"` — which searches for all the words in the phrase, in the same order.
 * An **operator allows you to customize a search**. Without applying any operators, the **default search will return OR: for example, a search for** `java scala ruby` **will return any profile that contains one or more reference to** `java OR scala OR ruby`. This will return the maximum amount of developer profiles possible. 
