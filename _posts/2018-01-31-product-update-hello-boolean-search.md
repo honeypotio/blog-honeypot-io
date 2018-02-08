@@ -23,14 +23,13 @@ So, here’s the exciting part.
 You can now add power to your search by using the Boolean search operators, which are listed below: 
 
  
-### Boolean Search Operators on Honeypot 
+### Boolean Search Operators on Honeypot
 
-| -------------    	|:-------------:|						 -----:|
-| Phrase Searches   |`"Product Owner"`   |    This search will return profiles containing exactly this term in exactly this order. |
-| NOT Searches    	| `Scala NOT Java`   |    To exclude a particular term, type that term with an **uppercase** `NOT` immediately before it. For example, type: `scala NOT java` and you will get Scala developers but not Java developers |
-| OR Searches    	| `Scala OR Java`    |    To see results that include at least one or more terms, use an **uppercase OR**. For example, type `scala OR java` and you will see profiles that contain at least Scala or Java once. **This operator gives you the broadest search results possible.**  |
-| `AND Searches`    | `Scala AND Java`   |    To get results that include minimum two or more terms, you can use the uppercase word `AND` as a separator. For example, type: `Scala AND Java` and you will get profiles which contain both terms. 
-Remember,  `AND` means you are searching for profiles containing both of the words or values, not just one of them |
+|:-------------------:|:----------------------:|:-----------------------:|
+| Phrase Searches &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | `"Product Owner"` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | This search will return profiles containing exactly this term in exactly this order. <br /><br /> |
+| NOT Searches <br /> - Sup | `Scala NOT Java`   | To exclude a particular term, type that term with an **uppercase** `NOT` immediately before it. For example, type: `scala NOT java` and you will get Scala developers but not Java developers <br /><br /> |
+| OR Searches	| `Scala OR Java`  | To see results that include at least one or more terms, use an **uppercase OR**. For example, type `scala OR java` and you will see profiles that contain at least Scala or Java once. **This operator gives you the broadest search results possible.**  <br /><br /> |
+| AND Searches | `Scala AND Java` | To get results that include minimum two or more terms, you can use the uppercase word `AND` as a separator. For example, type: `Scala AND Java` and you will get profiles which contain both terms. Remember,  `AND` means you are searching for profiles containing both of the words or values, not just one of them <br /><br /> |
 
  
 
