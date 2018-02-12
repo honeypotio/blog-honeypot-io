@@ -24,7 +24,7 @@ Knowing what to include in your Honeypot profile can be difficult. That’s why 
 
 * Add work location preferences as long as they are within our active markets - Doing this at the beginning of your profile will let the company know about it upfront. If you’d like to work in Munich because of Oktoberfest, don’t be afraid to write that into your profile. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/98QEReucNGk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmKeq1_rbnU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2) What is your speciality as a developer?
 
@@ -40,11 +40,15 @@ List each language that you have worked in, along with the number of years of ex
 * Tech 2 (years of experience)
 * Tech 3….etc.
 
+![Years of Experience Photo](/assets/images/years_experience.png)
+
 Include your main programming languages and frameworks (+ years of experience), also any unit testing, working methodologies, or platforms that you use, etc. This is an especially important step if you are a junior coder, so be sure to include links to your personal projects to give companies insight into your work (Stack overflow, github, etc.). Also, include any tech conferences you have been to, and other ways you are involved with programming, like teaching or volunteering. Online courses such as MOOCS are also good to mention. 
 
 ### 4) Open up and be personal 
 
 Have a friendly smiling profile photo. Your profile picture and profile don’t have to be ultra-professional. Loosening up will show hiring managers your personality which is a very good thing, after all they want to know what it will be like to work with you.
+
+![Smiling Bear Profile](/assets/images/smiling_bear.png)
 
 ### 5) Additional accreditation:
 
@@ -63,5 +67,7 @@ It’s important to explain anything that might look unusual on your resume. If 
 ### Conclusion:
 
 To finish off your profile, be sure to include if you are a European citizen or not. Likewise, we are here to answer any work visa related questions, or you can check out our blog post related to [EU work permit](http://blog.honeypot.io/EU-Bluecard-for-software-developers/) assistance! Be sure to include if you have an EU work permit or not on the first line of your profile.
+
+![EU Work Permit Question](/assets/images/eu_visa.png)
 
 P.S.  Be sure not to make the mistake of leaving your profile empty! Your talent rep is here if you need anything, and is more than happy to help :)
