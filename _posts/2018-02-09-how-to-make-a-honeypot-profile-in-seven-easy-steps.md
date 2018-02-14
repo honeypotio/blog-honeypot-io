@@ -10,7 +10,7 @@ permalink:  how-to-make-a-honeypot-profile-in-seven-easy-steps/
 importance: 2
 ---
 
-Knowing what to include in your Honeypot profile can be difficult. That’s why we created this quick guide for what to include.
+Knowing what to include in a job profle can be tricky. This is why at Honeypot we have created 7 steps that break it down for you. Follow the guidelines and make the most out of your profileso that it attracts lots of interveiw invites!
 
 <!--more-->
 
@@ -52,17 +52,16 @@ Have a friendly smiling profile photo. Your profile picture and profile don’t 
 
 ### 5) Additional accreditation:
 
-Be sure to include any additional accreditation that you may have including: Scrum master certification, microsoft Certified Solutions Developer, Certified Secure Software Lifecycle Professional, Ruby Association Certified Ruby Programmer, etc. Also include any education you have like a bachelor/master’s degree or doctorate. 
+Be sure to include any additional accreditation that you may have including: Scrum master certification, Microsoft Certified Solutions Developer, Certified Secure Software Lifecycle Professional, Ruby Association Certified Ruby Programmer, etc. Also include any education you have like a bachelor/master’s degree or doctorate. 
 
 ### 6) Why you’re leaving your current position - What you have learned in your previous job that will help in finding a new job?
 
-It’s important to explain why you are willing to change jobs, so that companies are not worried about you leaving them after a few months. Honesty is good here, whether it be that you want to try something else, or move to a different city. If you had a more difficult reason to leave like disagreements with a coworker or boss, you should be careful in describing what happened and focus on how you dealt with it so that it won’t happen in the future. 
+It’s important to explain why you are willing to change jobs, so that companies are not worried about you leaving them after only a few months. Honesty is good here, whether it be that you want to try something else, or move to a different city. If you had a more difficult reason to leave like disagreements with a coworker or boss, you should be careful in describing what happened and focus on how you dealt with it so that it won’t happen in the future. 
 
 ### 7) What would be your ideal next position?
 
 What did you love about your previous job? What didn't you like? Including these details will help your future employer better understand what you’re looking for!
 
-It’s important to explain anything that might look unusual on your resume. If you were on parental leave for a year, changed a company quickly after just a few months working there.  In the same way, if you are from another country other than what is on your passport, this kind of information needs to be shared! 
 
 ### Conclusion:
 
@@ -70,4 +69,4 @@ To finish off your profile, be sure to include if you are a European citizen or 
 
 ![EU Work Permit Question](/assets/images/eu_visa.png)
 
-P.S.  Be sure not to make the mistake of leaving your profile empty! Your talent rep is here if you need anything, and is more than happy to help :)
+P.S.  Be sure not to make the mistake of leaving your profile empty! Your dedicated Honeypot talent rep is here if you need anything, and is more than happy to help :)
