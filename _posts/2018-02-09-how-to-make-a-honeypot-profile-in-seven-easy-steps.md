@@ -10,7 +10,7 @@ permalink:  how-to-make-a-honeypot-profile-in-seven-easy-steps/
 importance: 2
 ---
 
-Knowing what to include in a job profle can be tricky. This is why at Honeypot we have created 7 steps that break it down for you. Follow the guidelines and make the most out of your profileso that it attracts lots of interveiw invites!
+Knowing what to include in a job profle can be tricky. Honeypot's got your back with a step-by-step guide to creating a great profile on our platform. Follow these guidelines to make the most out of your profile and get lots of interview invites!
 
 <!--more-->
 
@@ -20,7 +20,7 @@ Knowing what to include in a job profle can be tricky. This is why at Honeypot w
 
 * Add a short description of your daily tasks and write about any current projects you have - a good way to demonstrate what you are actively doing and which programming languages you are most up-to-date with. 
 
-* Be sure to include which project your most proud of working on - this will reveal your passion for your work and show that you enjoy what you do.
+* Be sure to include which project you're most proud of working on - this will demonstrate your passion for your work and show that you enjoy what you do.
 
 * Add work location preferences as long as they are within our active markets - Doing this at the beginning of your profile will let the company know about it upfront. If you’d like to work in Munich because of Oktoberfest, don’t be afraid to write that into your profile. 
 
@@ -65,7 +65,7 @@ What did you love about your previous job? What didn't you like? Including these
 
 ### Conclusion:
 
-To finish off your profile, be sure to include if you are a European citizen or not. Likewise, we are here to answer any work visa related questions, or you can check out our blog post related to [EU work permit](http://blog.honeypot.io/EU-Bluecard-for-software-developers/) assistance! Be sure to include if you have an EU work permit or not on the first line of your profile.
+To finish off your profile, be sure to include if you are a European citizen or not. Likewise, we are here to answer any work Visa related questions, or you can check out our blog post related to [EU work permit](http://blog.honeypot.io/EU-Bluecard-for-software-developers/) assistance! Be sure to include if you have an EU work permit or not on the first line of your profile.
 
 ![EU Work Permit Question](/assets/images/eu_visa.png)
 
