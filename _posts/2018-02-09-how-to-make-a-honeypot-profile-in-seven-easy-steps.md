@@ -1,5 +1,5 @@
 ---
-title:   A Step by Step Guide
+title:   How to make a Honeypot Profile in 7 easy steps
 subtitle:
 date:    2018-02-09 09:29:52
 layout:  post
