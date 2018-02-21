@@ -1,11 +1,11 @@
 ---
 title:  Honeypot Advanced Search 
 subtitle:
-date:    2018-02-08 11:31:19
+date:    2018-02-21 11:31:19
 layout:  post
 author:  emma_tracey
 categories: Company
-cover_image: Boolean-update.png
+cover_image: boolean-search.png
 permalink:  product-update-hello-boolean-search/
 importance: 2
 ---

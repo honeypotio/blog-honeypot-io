@@ -5,7 +5,7 @@ date:    2018-01-08 6:50:00
 layout:  post
 author:  emma_tracey
 categories: Company
-cover_image: Personio-update-cover.png
+cover_image: personio-update.png
 permalink:  how-to-integrate-personio-and-honeypot/
 importance: 2
 ---
