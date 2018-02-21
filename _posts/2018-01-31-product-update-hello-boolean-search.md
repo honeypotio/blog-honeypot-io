@@ -4,7 +4,7 @@ subtitle:
 date:    2018-02-21 11:31:19
 layout:  post
 author:  emma_tracey
-categories: Company
+categories: [Product]
 cover_image: boolean-search.png
 permalink:  product-update-hello-boolean-search/
 importance: 2

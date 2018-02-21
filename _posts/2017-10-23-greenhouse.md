@@ -4,7 +4,7 @@ subtitle:
 date:    2017-10-23 13:11:07
 layout:  post
 author:  emma_tracey
-categories: Product
+categories: [Product]
 cover_image: prduct-update-greenhouse.png
 permalink:  greenhouse/
 importance: 2
