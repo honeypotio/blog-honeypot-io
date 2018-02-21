@@ -4,7 +4,7 @@ subtitle:
 date:    2018-1-21 09:31:53
 layout:  post
 author:  hunter_wright
-categories: HR Tips
+categories: [HR Tips]
 cover_image: hr-netherlands.png
 permalink:  the-best-hr-events-in-the-netherlands/
 importance: 2
