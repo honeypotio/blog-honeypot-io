@@ -1,5 +1,5 @@
 ---
-title:  Honeypot Advanced Search 
+title:  Product 
 subtitle:
 date:    2018-02-21 11:31:19
 layout:  post
@@ -9,6 +9,9 @@ cover_image: boolean-search.png
 permalink:  product-update-hello-boolean-search/
 importance: 2
 ---
+
+# Honeypot Advanced Search
+
 Today we are releasing Advanced Search functionality on Honeypot Search to help you find developers, data scientists and other tech talent quickly and efficiently. 
 
 <!--more-->
