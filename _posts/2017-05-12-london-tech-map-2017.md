@@ -10,6 +10,8 @@ permalink: london-tech-map/
 importance: 2
 ---
 
+# London Tech Map 2017
+
 [Compass](http://startup-ecosystem.compass.co/ser2015/) estimates that there are between 3,000 and 5,000 active tech startups in London, with a combined value of £34 billion, making London the fourth largest startup ecosystem in the world.  For software developers working in the metropolis, London isn’t just about startups - the inner city alone is home to an [estimated 40,000 tech companies](https://www.ft.com/content/876bcd12-140a-11e5-9bc5-00144feabdc0). A recent parliamentary report estimates that the shortage of digital skills [costs the UK economy £63 billion per year](https://www.publications.parliament.uk/pa/cm201617/cmselect/cmsctech/270/270.pdf). Needless to say, software developers in London are in high demand.  
 
 <!--more-->  

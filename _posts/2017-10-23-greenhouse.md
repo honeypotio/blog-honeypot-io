@@ -10,6 +10,8 @@ permalink:  greenhouse/
 importance: 2
 ---
 
+# How to Integrate Honeypot and Greenhouse
+
 We are happy to announce our first **Applicant Tracking System Integration**  - [Greenhouse](https://www.greenhouse.io/). 
 
 Once the Greenhouse integration is setup on your account,  **Honeypot candidates who accept your interview invite will be automatically uploaded to Greenhouse, including their email, CV and social links, and a link to their Honeypot profile**. Whether you reject or hire a candidate, we will be automatically notified and your Interview tab on Honeypot will be updated.  No more manual copying and pasting!  

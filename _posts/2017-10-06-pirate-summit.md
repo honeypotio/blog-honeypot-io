@@ -10,6 +10,8 @@ permalink:  pirate-summit/
 importance: 2
 ---
 
+# Pirate Summit 2017
+
 About a month ago, Cologne hosted it’s annual [Pirate Summit](https://piratesummit.com/), also known as “Europe’s Craziest Startup Conference”. This unique conference hosted more than 650 founders, 200 investors, attendees from over 70+ countries, and a fire-breathing mechanical horse: 
 
 <!--more-->

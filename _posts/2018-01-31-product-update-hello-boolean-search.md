@@ -1,5 +1,5 @@
 ---
-title:  Product 
+title:  Boolean Search 
 subtitle:
 date:    2018-02-21 11:31:19
 layout:  post
