@@ -14,7 +14,7 @@ Knowing what to include in a job profle can be tricky. Honeypot's got your back 
 
 <!--more-->
 
-### 1) First things first - What are you working on right now?
+### 1) Second things first - What are you working on right now?
 
 * Include where you are at in your career while looking for a new job - this will help companies better understand what your situation is like. 
 
