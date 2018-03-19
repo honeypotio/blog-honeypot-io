@@ -24,7 +24,7 @@ Knowing what to include in a job profle can be tricky. Honeypot's got your back 
 
 * Add work location preferences as long as they are within our active markets - Doing this at the beginning of your profile will let the company know about it upfront. If you’d like to work in Munich because of Oktoberfest, don’t be afraid to write that into your profile. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XmKeq1_rbnU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2F7M5AAlzNs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2) What is your speciality as a developer?
 
