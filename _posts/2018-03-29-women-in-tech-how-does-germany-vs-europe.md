@@ -10,11 +10,9 @@ permalink:  women-in-tech-germany/
 importance: 2
 ---
 
-While women’s history month encourages us to look back and celebrate the accomplishments of pioneering women throughout history, it’s also an opportune time to shed further light on the bias that has plagued women since ages past and ask ourselves if any progress has been made towards reducing gender disparity.
+2017 was a landmark year for women in the fight for gender equality, with the #MeToo and Time’s Up movements inspiring more women than ever before to speak up, but there’s still tremendous work to be done when it comes to the economic empowerment of women. **Particularly in tech.**
 
 <!--more-->
-
-2017 was a landmark year for women in the fight for gender equality, with the #MeToo and Time’s Up movements inspiring more women than ever before to speak up, but there’s still tremendous work to be done when it comes to the economic empowerment of women. **Particularly in tech.**
 
 Concerned by the situation and eager to get a better understanding of **the challenges and opportunities facing European women in the IT industry**, we recently conducted a study aimed at highlighting which countries offer the best *(and worst)* opportunities for women in tech.
 
@@ -34,7 +32,7 @@ While it’s worth mentioning that **there are more female tech workers in Germa
 
 <br />
 
-**Ranked 14th in terms of average tech wages for women**, practically on par with Slovenia at 44,292€ per annum, Germany’s financial attractiveness in the eyes of women tech workers is also quite questionable. But the underlying issue lies elsewhere.
+**Ranked 14th in terms of average tech wages for women**, practically on par with Slovenia at 44,292€ per annum, Germany has some way to go to compete effectively with other Western European countries.
 
 Our data suggests that **the German gender pay gap in tech is among the worst on the continent**, with only Greece, Poland, Estonia, Slovakia, Lithuania and the Czech Republic ranking lower. To be precise, on average, male tech workers in Germany earn almost 15,000€ more per year than their female counterparts.
 
@@ -42,9 +40,11 @@ Our data suggests that **the German gender pay gap in tech is among the worst on
 
 <br />
 
-And, as if falling behind most of Europe in terms of workforce composition and pay equity wasn’t bad enough, it seems **Germany’s struggles with gender parity in the tech field have deep roots**. While a third of Italy’s science, technology, engineering, and mathematics (STEM) graduates are female, women in Germany account for little over 21.26% of all STEM grads.
+Further, it seems **Germany’s struggles with gender parity in the tech field have deep roots**. While a third of Italy’s science, technology, engineering, and mathematics (STEM) graduates are female, women in Germany account for little over 21.26% of all STEM grads.
 
-Germany’s troubles are worrying, but the encouraging news is several other European countries have taken decisive steps towards gender parity.
+While Germany’s troubles are worrying, it is still a very attractive country in terms of job opportunities, particularly given its unique composition between innovative startups and market-leading corporate.
+
+Germany can look to other European countries, that have taken decisive steps towards gender parity.
 
 <br />
 
@@ -66,6 +66,8 @@ More precisely though, if there’s one country in the bunch that stands out fro
 
 ## Europe must continue encouraging gender diversity in tech
 
-As much as we’d like to applaud certain countries for paying women in tech fairer wages, and attempting to reduce the gender pay gap within the tech industry, the fact that **the proportion of female tech workers remains under 30% across the continent** underlines how important it is that we inspire more women to seek out opportunities in tech.
+Our study shows that **the proportion of female tech workers remains under 30% across the continent**, which underlines how important it is that we inspire more women to seek out opportunities in tech. 
 
-That being said, the report also shows that countries such as **Latvia, Sweden and Finland are genuinely making strides towards parity both in the tech industry and in general**, and we can only hope that their example will serve as a catalyst for the remaining European nations to address their wage disparities.
+Germany, especially, needs strong female and male technical leaders to encourage and grow opportunities for women in tech. There are a number of grassroots global organisations operating in Germany, such as WomenWhoCode, GeeksGirlsCarrots and WomenTechmakers, who are pushing for more opportunities for female developers and other engineering talent. We intend to continue to push for more equality too.
+
+The report also shows that countries such as **Latvia, Sweden and Finland are genuinely making strides towards parity both in the tech industry and in general**, and we can only hope that their example will serve as a catalyst for Germany and the remaining European nations to address their wage disparities.
