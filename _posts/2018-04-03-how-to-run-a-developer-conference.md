@@ -22,6 +22,8 @@ So here goes…
 
 PS: [This year's edition](https://www.graphql-europe.org/) will be taking place in Berlin on June 15th, but be sure to check out [GraphQL Day](https://www.graphqlday.org/) in Amsterdam on April 14th if you can't wait that long!
 
+<br />
+
 ## 1. Make sure people are interested in the topic
 *Validate the topic before you think about organizing a conference*
 
