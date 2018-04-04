@@ -1,11 +1,11 @@
 ---
 title:   "How to run a Developer Conference: What we learned from GraphQL Europe 2017"
-subtitle:
+subtitle: This article is a guide - and a reflection - on what it took for us to plan, organize and execute Europe’s first GraphQL-dedicated conference. We got a lot of help along the way and my intention is to opensource the knowledge we inherited, picked up and learnt.
 date:    2018-04-04 10:10:16
 layout:  post
 author:  emma_tracey
 categories: [HR Tips]
-cover_image: graphql-europe.png
+cover_image: graphql-europe-2017.png
 permalink:  what-we-learned-from-graphql-europe-2017
 importance: 2
 ---
