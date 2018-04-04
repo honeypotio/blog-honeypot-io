@@ -16,9 +16,9 @@ But I’m lucky. I ran GraphQL Europe 2017 with a team of four people who care d
 
 This article is a guide - and a reflection - on what it took for us to plan, organize and execute Europe’s first GraphQL-dedicated conference. We got a lot of help along the way and my intention is to opensource the knowledge we inherited, picked up and learnt.
 
-So here goes…
-
 <!--more-->
+
+So here goes…
 
 PS: [This year's edition](https://www.graphql-europe.org/) will be taking place in Berlin on June 15th, but be sure to check out [GraphQL Day](https://www.graphqlday.org/) in Amsterdam on April 14th if you can't wait that long!
 
