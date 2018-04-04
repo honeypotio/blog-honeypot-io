@@ -1,7 +1,7 @@
 ---
 title:   "How to run a Developer Conference: What we learned from GraphQL Europe 2017"
 subtitle:
-date:    2018-04-03 10:10:16
+date:    2018-04-04 10:10:16
 layout:  post
 author:  emma_tracey
 categories: [HR Tips]
