@@ -6,7 +6,7 @@ layout:  post
 author:  emma_tracey
 categories: [HR Tips]
 cover_image: graphql-europe-2017.png
-permalink:  what-we-learned-from-graphql-europe-2017
+permalink:  what-we-learned-from-graphql-europe-2017/
 importance: 2
 ---
 
