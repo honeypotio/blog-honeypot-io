@@ -1,5 +1,5 @@
 ---
-title:   The 5 biggest challenges HR face hiring developers
+title:   The five biggest challenges HR face hiring developers
 subtitle: And how to use Honeypot to solve them
 date:    2015-10-12 16:13:23
 layout:  post
