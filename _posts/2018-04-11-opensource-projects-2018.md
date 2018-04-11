@@ -207,6 +207,8 @@ Interested in contributing to Searchspot or learning more about the project? Be 
 
 ## Summary
 
+<br />
+
 More than 2 decades after Eric S. Raymond published [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/), a reflective analysis of free software principles that led to the **very first “Open Source Summit” in April 1998**, open source technology is having an increasing impact on the development and implementation of cutting edge capabilities around the world.
 
 This year has been a year of massive growth in open source and based on the projects we’ve included in our list, particularly TensorFlow, Hyper.is and Kubernetes, it’s quite clear that **GitHub were right in predicting that deep learning, cross-platform development and containerisation would thrive in 2018.**
