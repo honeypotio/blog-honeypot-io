@@ -10,9 +10,7 @@ permalink:  most-exciting-open-source-projects-2018/
 importance: 2
 ---
 
-A key driver of cost savings and efficiency, open source technology has been a hotbed of innovation in recent years, providing users and developers with an extensive range of benefits and exciting new projects.
-
-As a bunch of self-confessed geeks, there’s nothing we love more than to dissect the latest GitHub repositories in search of interesting open source projects, and we’re constantly amazed at the sheer volume of new additions and the united manner in which the dev community gets behind them.
+As a bunch of self-confessed tech addicts, there’s nothing we love more than to dissect the latest GitHub repositories in search of interesting open source projects, and we’re constantly amazed at the sheer volume of new additions and the united manner in which the dev community gets behind them.
 
 *So, what open source projects are making waves in the tech community in 2018?*
 
