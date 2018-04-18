@@ -1,5 +1,5 @@
 ---
-title:   "Tech Salaries 2018: How much do developers earn in Germany?"
+title:   "Tech salaries 2018: How much do developers earn in Germany?"
 subtitle: We gathered data from our platform to provide you with an overview of tech salaries in Germany depending on experience and role.
 date:    2018-04-18 10:10:16
 layout:  post
