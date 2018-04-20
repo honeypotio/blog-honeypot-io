@@ -5,7 +5,7 @@ date:    2018-04-18 10:10:16
 layout:  post
 author:  stefan_kingham
 categories: [Research]
-cover_image: tech-salaries-germany.png
+cover_image: tech-salaries-germany-1.png
 permalink:  how-much-do-developers-earn-in-germany/
 importance: 2
 ---
