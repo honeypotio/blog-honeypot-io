@@ -86,7 +86,7 @@ Here’s a short recap of our cofounder’s pitch:
 
 <br />
 
-We couldn’t be prouder and it’s an absolute honor to be awarded first prize in such a prestigious competition, pitted against such fierce competition! It really inspires us to keep believing in and working on our mission of getting every developer a great job.
+We couldn’t be prouder and it’s an absolute honor to be awarded first prize at such a prestigious event, pitted against such fierce competition! It really inspires us to keep believing in and working on our mission of getting every developer a great job.
 
 *PS: The trophy is now sitting pretty in our Berlin office - maybe we should invest in a shelf for it?*
 
