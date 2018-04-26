@@ -1,5 +1,5 @@
 ---
-title:   "Tech Salaries 2018: How much do developers earn in Amsterdam?"
+title:   "Tech salaries 2018: How much do developers earn in Amsterdam?"
 subtitle: We gathered data from our platform to provide you with an overview of tech salaries in Amsterdam depending on experience and role.
 date:    2018-04-26 10:10:16
 layout:  post
