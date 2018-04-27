@@ -30,4 +30,4 @@ We gathered data from our platform to make the following infographic. The data i
 
 <br />
 
-<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://www.blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/'&gt;&lt;img src='https://www.blog.honeypot.io/assets/images/amsterdam-salaries-infographic.png' alt='Honeypot - Tech Salaries 2018 in Amsterdam' title='How much do developers earn in Amsterdam?' /&gt;&lt;/a&gt;</textarea></div>
+<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/'&gt;&lt;img src='https://blog.honeypot.io/assets/images/amsterdam-salaries-infographic.png' alt='Honeypot - Tech Salaries 2018 in Amsterdam' title='How much do developers earn in Amsterdam?' /&gt;&lt;/a&gt;</textarea></div>
