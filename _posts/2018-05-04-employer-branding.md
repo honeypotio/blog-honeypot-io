@@ -69,6 +69,8 @@ In actual fact, candidates generated through **referalls are the 2nd cheapest me
 ![What social media platforms do candidates use to gather information about employer brands?](/assets/images/top-social-media.png)
 *Source: https://manpowergroup.com*
 
+<br />
+
 **Bottom line: According to Linkedin, companies that invest in employer branding experience a 50% cost-per-hire reduction.**
 
 <br />
