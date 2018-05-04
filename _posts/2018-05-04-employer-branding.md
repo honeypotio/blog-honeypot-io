@@ -1,5 +1,5 @@
 ---
-title:   "Find top talent and save money - The benefits of employer branding"
+title:   "Find top talent and reduce hiring costs - The benefits of employer branding"
 subtitle: What are the benefits of employer branding and to what extent can it impact your organizational attractiveness, your hiring costs and your overall business growth?
 date:    2018-05-04 10:10:16
 layout:  post
