@@ -157,7 +157,7 @@ Passive candidates could be just as tempted by a company that offers better **gr
 
 <br />
 
-![What factors attract passive candidates?](/assets/images/passive-candidates.png)
+<img alt="What factors attract passive candidates?" src="/assets/images/passive-candidates.png" style="width:60% !important;"><br>
 *Source: http://www.middlemarketcenter.org*
 
 <br />
