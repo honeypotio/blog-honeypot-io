@@ -1,6 +1,6 @@
 ---
-title: 10 datapoints you need to know to supercharge your developer hiring skills in 2017
-subtitle:
+title: 10 things you need to know to become a better tech recruiter
+subtitle: "What's the average salary for a frontend developer in Europe? What's the most in-demand programming language? What do developers usually dislike about the hiring process? We've listed out 10 essentiall things you need to know about developers to supercharge your developer hiring skills!"
 date:    2016-12-25 10:09:38
 layout:  post
 author:  emma_tracey
