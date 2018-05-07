@@ -1,6 +1,6 @@
 ---
-title: Check out these Berlin developer conferences
-subtitle: Start planning your summer!
+title: 8 Berlin developer conferences you won't want to miss
+subtitle: "What are the best developer and tech-related conferences in Berlin? We've put together a list of 8 great tech conferences in Berlin, including Tech Open Air, CodeMotion and Droidcon, that you should definitely check out to bump up your developer knowledge and mingle with other members of the city's developer community."
 date:    2016-01-19 20:22:17
 layout:  post
 author:  emma_tracey
