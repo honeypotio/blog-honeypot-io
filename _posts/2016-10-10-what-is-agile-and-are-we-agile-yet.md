@@ -1,6 +1,6 @@
 ---
-title:   What is Agile? And are we Agile yet?
-subtitle:
+title:   What is Agile software development?
+subtitle: "What is pre-Agile software development? What is Agile software development? And are we entering a post-Agile world? In this infographic we ponder the post-agile age, which drives upon the best elements of agile, waterfall and lean development."
 date:    2016-10-10 10:19:12
 layout:  post
 author:  sasha_pliusnina
