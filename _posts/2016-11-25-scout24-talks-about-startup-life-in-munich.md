@@ -1,6 +1,6 @@
 ---
 title:   Scout24 talks about startup life in Munich
-subtitle:
+subtitle: "Interested in the prospect of joining Scout24? We met with the team in Munich to discuss the evolution of Scout24, startup life in Munich compared to Berlin and what makes Scout24 a great workplace for developers."
 date:    2016-11-25 11:06:52
 layout:  post
 author:  frederik_bohn
