@@ -1,6 +1,6 @@
 ---
-title:   Berlin life for Russian developers
-subtitle: 9 tips including where to get the best pelmeni and borsch!
+title:   9 things Russian developers should know about Berlin
+subtitle: "What's the Russian-speaking developer community like in Berlin? How should Russian developers apply for a visa in Germany? How expensive is Berlin compared to Moscow? Check out this useful guide for Russian-speaking developers in the German capital."
 date:    2015-12-03 10:45:06
 layout:  post
 author:  sasha_pliusnina
