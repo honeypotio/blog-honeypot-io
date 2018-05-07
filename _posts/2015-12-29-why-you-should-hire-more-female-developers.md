@@ -1,6 +1,6 @@
 ---
 title:   Why you should hire more female developers
-subtitle: And its about more than just equality
+subtitle: "How can hiring more female developers help you to perform more efficiently and achieve your business goals? We've dived into the professional benefits of hiring more women developers to prove that it's not just about gender equality."
 date:    2015-12-29 16:30:13
 layout:  post
 author:  emma_tracey
