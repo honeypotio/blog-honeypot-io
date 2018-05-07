@@ -1,6 +1,6 @@
 ---
 title:   How Long Does it Take to Find a Job as a Developer in the US Compared to Europe? 
-subtitle:
+subtitle: "How do US cities compare to European cities when it comes to the average time to hire developers? We compared survey data of Silicon Valley, New York, London, Amsterdam and Berlin with our own Honeypot averages and the results are pretty interesting…"
 date:    2016-06-23 11:21:46
 layout:  post
 author:  emma_tracey
