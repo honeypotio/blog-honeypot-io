@@ -1,6 +1,6 @@
 ---
-title:   "Ask a CTO&#58; Michael Kugele from Nu3"
-subtitle:
+title:   "What's it like to work at Nu3?"
+subtitle: "Interested in the prospect of joining Nu3? We interviewed Michael Kugele, CTO at Nu3, to discuss the organization of the company's engineering team, what they look for when hiring developers and how Berlin's startup scene has changed over the last 15 years."
 date:    2016-08-22 11:25:39
 layout:  post
 author:  kate_nicolaisen
