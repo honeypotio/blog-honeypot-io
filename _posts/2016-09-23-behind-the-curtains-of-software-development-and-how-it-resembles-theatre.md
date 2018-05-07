@@ -1,6 +1,6 @@
 ---
 title:   Behind the Curtains of Software Development and How It Resembles Theatre
-subtitle:
+subtitle: "How is software built? What are the roles of product managers, designers and developers in software development? And to what extent is software development similar to theatre production?"
 date:    2016-09-23 09:35:33
 layout:  post
 author:  janet_todorova
