@@ -1,6 +1,6 @@
 ---
-title:   The five biggest challenges HR face hiring developers
-subtitle: And how to use Honeypot to solve them
+title:   The 5 biggest challenges when hiring developers
+subtitle: "How can you determine if a developer's code is good or bad? How do you know if a developer is actively looking for a new position? Learn more about the different challenges facing tech recruiters and the solutions you can implement to overcome them."
 date:    2015-10-12 16:13:23
 layout:  post
 author:  joana_monteiro
