@@ -1,6 +1,6 @@
 ---
-title:   What is DevOps
-subtitle:
+title:   What is DevOps and what does a DevOps engineer do?
+subtitle: "What is DevOps and what does a DevOps engineer do? What tools do DevOps engineers use? Does DevOps replace System Admin? Learn all about the history and purpose of DevOps in our guide to DevOps."
 date:    2016-09-09 02:52:34
 layout:  post
 author:  kate_nicolaisen
