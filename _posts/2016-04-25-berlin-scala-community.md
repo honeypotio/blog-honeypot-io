@@ -1,6 +1,6 @@
 ---
-title:   "Community Devs&#58; Scala in Berlin"
-subtitle: On Scala, Reactive Programming and GraphQL
+title:   "What should developers in Berlin know about the Scala community?"
+subtitle: "What are the advantages of using Scala over Java? Which Berlin startups are working with Scala? What should developers in Berlin know about the Berlin Scala community? We interviewed Oleg Ilyenko, the creator of a Scala GraphQL implementation called Sangria, to discuss all things Scala!"
 date:    2016-05-01 12:19:37
 layout:  post
 author:  emma_tracey
