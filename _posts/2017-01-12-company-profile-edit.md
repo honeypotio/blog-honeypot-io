@@ -1,6 +1,6 @@
 ---
-title:   An all new way to present your company on Honeypot
-subtitle:
+title:   Introducing Honeypot's company profile pages!
+subtitle: "We recently launched a new feature allowing organizations on the Honeypot platform to manage their own company profile page and share information about themselves, their product, tech stack and engineering team. But, how does it work and what should you include on your company profile page? We're here to help!"
 date:    2017-01-12 09:54:05
 layout:  post
 author:  product_team
