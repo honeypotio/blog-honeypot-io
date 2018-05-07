@@ -1,6 +1,6 @@
 ---
-title: "An Interview with 3D Hubs"
-subtitle:
+title: "What's it like to work at 3D Hubs?"
+subtitle: "Interested in the prospect of joining 3D Hubs? We sat down with the team in Amstedam to discuss the technologies they use on a daily basis, the tech team culture within the organization and the challenges the company faces within the 3D printing industry."
 date: 2017-04-11 08:27:15
 layout: post
 author: kado_damball
