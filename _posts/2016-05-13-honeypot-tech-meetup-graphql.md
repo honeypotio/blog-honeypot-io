@@ -1,6 +1,6 @@
 ---
-title:   "Honeypot Tech Meetup&#58; GraphQL"
-subtitle: The Future of the API
+title:   "HWhat is GraphQL and why should you care?"
+subtitle: "What is GraphQL and why is it important? How can you use GraphQL in your frontend projects? We hosted a tech meetup focused on GraphQL and this is what the speakers had to say!"
 date:    2016-05-12 12:46:32
 layout:  post
 author:  emma_tracey
