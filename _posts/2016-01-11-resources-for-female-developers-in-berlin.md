@@ -1,6 +1,6 @@
 ---
-title: Resources for female developers in Berlin
-subtitle: Meetup groups, workshops, networking and more!
+title: 7 communities for female developers in Berlin
+subtitle: "Looking for some cool meetups and groups for female developers in Berlin? In order to bring together Berlin's women in tech, we've created a list of great developer resources for women including Geek Girls Carrots, Women who Code, Women Techmakers and Geekettes."
 date:    2016-01-11 14:35:50
 layout:  post
 author:  sasha_pliusnina
