@@ -1,6 +1,6 @@
 ---
-title:  "Community Devs&#58; Zend Contributor"
-subtitle:
+title:  "What are the pros and cons of being an open source developer?"
+subtitle: "What are the pros and cons of being an open source developer? What are the challenges of working remotely? How will PHP evolve in the future? We interviewed Enrico Zimuel, an Italian open source developer working on the Zend Framework and Apigility projects, to discuss all things PHP and open source!"
 date:    2016-06-29 08:39:56
 layout:  post
 author:  fabio_migliorini
