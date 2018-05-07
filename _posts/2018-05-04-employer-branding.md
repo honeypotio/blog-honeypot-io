@@ -18,7 +18,7 @@ Employer branding is quite evidently gaining greater strategic importance with e
 
 Put simply, employer branding is **the way your company is perceived by potential new employees**, or in other words, your organization's **reputation as an employer.**
 
-An employer branding program includes all strategies that aim to improve your company's external and internal reputations, enhace  your organizational attractiveness and boost your company's capacity to retain its best talents.
+An employer branding program includes all strategies that aim to improve your company's external and internal reputations, enhance your organizational attractiveness and boost your company's capacity to retain its best talents.
 
 <br />
 
@@ -56,7 +56,7 @@ But while investing in employer branding may seem like an excessive time commitm
 
 ### Lower Cost-Per-Hire
 
-A strong employer brand fosters a great work environment and makes your brand more attractive to potential candidates. This in turn means that your employees will be **more enclined to refer your organization to other professionals** and that you may have a **ready-made talent community** from which to draw from.
+A strong employer brand fosters a great work environment and makes your brand more attractive to potential candidates. This in turn means that your employees will be **more inclined to refer your organization to other professionals** and that you may have a **ready-made talent community** from which to draw from.
 
 Look at it this way. If you've worked on developing a strong brand image and job seekers are naturally attracted to your company, you'll most probably spend less money creating awareness for your job openings. Instead, you might just post your job opportunities across your company's social media channels.
 
@@ -79,7 +79,7 @@ In actual fact, candidates generated through **referalls are the 2nd cheapest me
 
 By investing in employer branding, you're able to attract more talent. And companies that can attract more talent can also **hire that talent faster.**
 
-One of the main benefits of having a strong employer brand is that you'll have a larger, and better (we'll discuss this in the next section) talent pool from which to fill vacancies. Basically, this means you'll be able to spend **less time selling and more time closing candidates.**
+One of the main benefits of having a strong employer brand is that you'll have a larger, and better talent pool from which to fill vacancies. Basically, this means you'll be able to spend **less time selling and more time closing candidates.**
 
 Think about it from a sales perspective. It's a well known fact that inbound leads convert at a much higher rate than cold calls, right? Well it's the same for talent acquisition!
 
@@ -170,7 +170,7 @@ In other words, no matter how interesting the role you're trying to fill may be,
 
 In actual fact, the **number 1 obstacle talents experience when searching for a job is not knowing what it's like to work at an organization.**
 
-By investing in employer branding, making sure your website has a dedicated careers page, building a community on your social media platforms and encouraing your current employees to share their own experiences online, you're giving candidates the information they crave and making your brand significantly more attractive.
+By investing in employer branding, making sure your website has a dedicated careers page, building a community on your social media platforms and encouraging your current employees to share their own experiences online, you're giving candidates the information they crave and making your brand significantly more attractive.
 
 Candidates tend to trust a company's employees **3 times more** than the company to provide credible information on what it's like to work there, which is why it's so important to encourage high levels of staff engagement.
 
