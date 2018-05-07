@@ -1,6 +1,6 @@
 ---
 title:   Feature Staging Deployment for Static Pages
-subtitle: Deployment for your pull request workflow on a single page application project
+subtitle: "What are the benefits and disadvantages of having your static pages deployed and served separately from your application? And more importantly, how can you set it up yourself using a CI tool such as Travis-CI?"
 date:    2016-04-26 10:00:00
 layout:  post
 author:  hugo_duksis
