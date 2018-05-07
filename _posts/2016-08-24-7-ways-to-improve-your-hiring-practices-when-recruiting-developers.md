@@ -1,6 +1,6 @@
 ---
-title:   7 ways to improve your hiring practices when recruiting developers
-subtitle:
+title:   7 steps to hiring top developers!
+subtitle: "Are you a recruiter looking to improve your developer hiring process? Trying to hire a developer but unsure what factors to consider? Check out these 7 ways you can improve your hiring process when hiring developers."
 date:    2016-08-24 07:04:20
 layout:  post
 author:  ewe_grajko
