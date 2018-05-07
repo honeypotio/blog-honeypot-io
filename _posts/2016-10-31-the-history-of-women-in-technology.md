@@ -1,6 +1,6 @@
 ---
-title:   The History of Women in Technology
-subtitle:
+title:   The most remarkable women in tech history
+subtitle: "Who are the most remarkable women in tech history? Who is Ada Lovelace? Who were the first female engineers hired at Google and Facebook? Learn more about the most influential women to have impacted technology in this comprehensive infographic."
 date:    2016-10-31 09:36:22
 layout:  post
 author:  johanna_dahlroos
