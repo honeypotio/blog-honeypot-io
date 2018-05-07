@@ -1,6 +1,6 @@
 ---
 title:   What happened to women in computer science?
-subtitle: And boy, oh boy, there's a lot more boys!
+subtitle: "What happened to women in computer science and how can companies promote women in tech? This week we've put together an infographic that attemps to explain where all the women in tech went, why they went and how we can get them back."
 date:    2016-02-11 14:25:44
 layout:  post
 author:  johanna_dahlroos
