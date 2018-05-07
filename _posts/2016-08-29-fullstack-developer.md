@@ -1,6 +1,6 @@
 ---
-title: Fullstack Developer is an Outdated Term
-subtitle:
+title: What is a full-stack developer?
+subtitle: "What is full-stack development and what does a full-stack developer do? What are the perks and disadvantages of being a full-stack developer? Our in-house developer Kado tells you all about full-stack development and the manner in which it has evolved since the 90s."
 date:    2016-08-29 12:00:28
 layout:  post
 author:  kado_damball
