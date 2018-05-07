@@ -1,6 +1,6 @@
 ---
-title:   "Ask a CTO&#58; Martin Kleppe, Ubilabs"
-subtitle: On mapping, El Capitan and Hamburg
+title:   "What's it like to work at Ubilabs?"
+subtitle: "Interested in the prospect of joining Ubilabs? We spoke to Martin Kleppe, the CTO at Ubilabs, to discuss their partnership with Google, the key skills of developers working on interactive maps and the advantages of founding a startup in Hamburg."
 date:    2016-05-25 09:53:15
 layout:  post
 author:  emma_tracey
