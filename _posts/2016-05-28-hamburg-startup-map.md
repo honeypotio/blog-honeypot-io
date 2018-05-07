@@ -1,6 +1,6 @@
 ---
-title:  Hamburg Startup Map
-subtitle: Whats happening in Hamburg!?
+title:  The Ultimate Guide to Hamburg's Startup Scene - Hamburg Tech Map
+subtitle: "Which tech startups are based in Hamburg? Do you need to speak German to work in Hamburg? What are Hamburg's most famous gaming companies? How much funds have been raised in recent years? All this and more in our ultimate guide to Hamburg's tech scene!"
 date:    2016-05-31 09:58
 layout:  post
 author:  emma_tracey
