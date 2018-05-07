@@ -1,6 +1,6 @@
 ---
 title:   What's it like to work at TomTom? 
-subtitle:
+subtitle: "Interested in the prospect of joining TomTom? We interviewed Cees van Dok, Head of UX Design at TomTom, to discuss trends in UI design, his role in TomTom’s navigation UI redesign and the many options available for developers in Amsterdam."
 date:    2016-09-01 09:58:37
 layout:  post
 author:  emma_tracey
