@@ -79,7 +79,7 @@ In actual fact, candidates generated through **referalls are the 2nd cheapest me
 
 By investing in employer branding, you're able to attract more talent. And companies that can attract more talent can also **hire that talent faster.**
 
-One of the main benefits of having a strong employer brand is that you'll have a larger, and better talent pool from which to fill vacancies. Basically, this means you'll be able to spend **less time selling and more time closing candidates.**
+One of the main benefits of having a strong employer brand is that you'll have a larger and better talent pool from which to fill vacancies. Basically, this means you'll be able to spend **less time selling and more time closing candidates.**
 
 Think about it from a sales perspective. It's a well known fact that inbound leads convert at a much higher rate than cold calls, right? Well it's the same for talent acquisition!
 
