@@ -1,6 +1,6 @@
 ---
-title:   Popularity of JavaScript Frameworks and Libraries
-subtitle:
+title:   What are the most popular Javascript frameworks and libraries?
+subtitle: "What are the most popular Javascript frameworks and libraries? Which Javascript testing tools are most commonly used? What's most developers' favourite CSS preprocessor? Over 2000 developers completed a survey on their favourite frontend developer tools and we summarized the results in this slick infographic!"
 date:    2016-09-27 06:17:40
 layout:  post
 author:  kate_nicolaisen
