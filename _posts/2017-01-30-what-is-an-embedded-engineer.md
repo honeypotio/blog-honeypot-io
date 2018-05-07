@@ -1,6 +1,6 @@
 ---
 title:   Six Questions You Always Wanted to Ask about Embedded Engineers
-subtitle:
+subtitle: "What's an embedded engineer and what does one do? What skills do embedded engineers have? What's the difference between an embedded engineer and a software engineer? Come on over to Honeypot to learn all about embedded engineering."
 date:    2017-01-30 09:00:05
 layout:  post
 author:  emma_tracey
