@@ -1,6 +1,6 @@
 ---
-title:   5 interview questions for DevOps
-subtitle:
+title:   5 Interview Questions for a Dev0ps Engineer
+subtitle: "What is your experience with continuous integration? How familiar are you with Chef, Puppet, Ansible and Salt? Check out these common examples of non-technical interview questions for devOps engineers and ace your next interview!"
 date:    2016-09-12 02:24:17
 layout:  post
 author:  kate_nicolaisen
