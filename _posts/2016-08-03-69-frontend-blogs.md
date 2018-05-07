@@ -1,6 +1,6 @@
 ---
-title:   React fast! A (kind-of) Definitive List of Frontend Blogs!
-subtitle:
+title:   70 frontend blogs you need to check out!
+subtitle: "Are you an avid follower of tech blogs? Looking to read up on the latest news and trends in general web development, HTML, CSS and frontend frameworks? We've put together a list of our favourite frontend blogs to celebrate the diverse world of frontend development!"
 date:    2016-08-02 13:01:26
 layout:  post
 author:  sasha_pliusnina
