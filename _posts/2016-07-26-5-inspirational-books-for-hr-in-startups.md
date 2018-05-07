@@ -1,6 +1,6 @@
 ---
 title:   5 Inspirational Books for HR in Startups
-subtitle:
+subtitle: "Looking to read up on the future of HR, employee development, employee motivation, and company culture? We've listed out 5 inspirational books that we believe every modern HR professional should read!"
 date:    2016-07-25 10:39:38
 layout:  post
 author:  ewe_grajko
