@@ -1,6 +1,6 @@
 ---
 title:   5 Things Developers Want to Know Before Accepting a Job Offer
-subtitle:
+subtitle: "Are you a recruiter looking to find top tech talent? Aware you need to go the extra mile but not sure where to begin? We've listed out the 5 things you really need to emphasize when hiring developers!"
 date:    2016-07-13 12:47:28
 layout:  post
 author:  andreas_loupasakis
