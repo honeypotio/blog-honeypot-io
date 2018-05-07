@@ -1,6 +1,6 @@
 ---
 title:   How developers become visible to companies on Honeypot
-subtitle: An interview with Fabio, a Honeypot Talent Rep
+subtitle: "How do developers become visible to companies on Honeypot? What is a batch and how can you get into one? How do we decide which profiles to include in a batch? Our Talent Reps provide all the answers to your batch-related questions!"
 date:    2015-10-27 11:36:06
 layout:  post
 author:  fabio_migliorini
