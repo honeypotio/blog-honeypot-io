@@ -1,6 +1,6 @@
 ---
 title:   CSS Wizardry creator, Harry Roberts, talks to Honeypot
-subtitle:
+subtitle: "We interviewed CSS Wizardry creator Harry Roberts to discuss CSS in JS, CSS for functionality and animation, organizing CSS with BEM, page wieght bloat and the future of programming in general!"
 date:    2016-09-13 15:58:27
 layout:  post
 author:  kado_damball
