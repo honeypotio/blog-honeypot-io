@@ -1,5 +1,5 @@
 ---
-title:   7 interview questions for a frontend developer
+title:   7 Interview Questions for a Frontend Developer
 subtitle: "Have you ever used an MVC? What's the difference between a Frontend Developer and a UI/UX Designer? Check out these common examples of non-technical interview questions for frontend developers and ace your next interview!"
 date:    2015-12-28 12:27:37
 layout:  post
