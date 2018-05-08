@@ -18,8 +18,9 @@ We gathered data from our platform to see the average salaries offered by compan
 
 Nonetheless, these figures give some insight into average salaries for developers in Amsterdam. The results of our findings are outlined below:
 
-*The following infographic has since been updated. [Click here](http://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/) to get a more accurate overview of tech salaries in Amsterdam in 2018. 
+**The following infographic has since been updated. [Click here](http://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/) to get a more accurate overview of tech salaries in Amsterdam in 2018.**
 
+<br />
 
 ![developer-in-amsterdam-salary](/assets/images/by-experience-netherlands-eng.png)
 
