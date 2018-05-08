@@ -1,6 +1,6 @@
 ---
 title:   Pirate Summit 2017
-subtitle:
+subtitle: "What makes the Pirate Summit and the Cologne tech scene in general so damn special? We caught up with some of the city's tech specialists to discuss the popularity of Pirate Summit 2017 and what makes Cologne such a great city to work in for developers."
 date:    2017-10-06 12:54:50
 layout:  post
 author:  hunter_wright
