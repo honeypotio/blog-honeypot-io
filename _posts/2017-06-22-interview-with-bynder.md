@@ -1,6 +1,6 @@
 ---
-title:   An Interview with Bynder
-subtitle:
+title:   "What's it like to work at Bynder?"
+subtitle: "Interested in the prospect of joining Bynder? We interviewed their CTO, Roland Keijzer, to discuss the company's tech stack, the unforeseen technical challenges in scaling Bynder and their vision for the development of the product over the next few years."
 date:    2017-06-22 10:28:42
 layout:  post
 author:  jelle_groot
