@@ -1,6 +1,6 @@
 ---
 title:   "The 10 most exciting open source projects of 2018"
-subtitle: Now that we’re a quarter of the way through the year, let’s take a closer look at the open source projects that have been getting some much-deserved recognition in 2018!
+subtitle: "Now that we’re a quarter of the way through the year, let’s take a closer look at the open source projects that have been getting some much-deserved recognition in 2018, including TensorFlow, Kubernetes and Hyperledger!"
 date:    2018-04-11 10:10:16
 layout:  post
 author:  stefan_kingham
