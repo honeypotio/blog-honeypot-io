@@ -1,6 +1,6 @@
 ---
-title: This infographic makes your Berlin move easy-peasy
-subtitle: Berlin may be relaxed but it still loves paperwork!
+title: The ultimate guide to moving to Berlin
+subtitle: "Are you moving to Berlin but confused about the paperwork? Unsure how to open a bank account, prepare your health insurance, and get a job? This handy infographic provides you with all the information you need to make a stress-free move to the German capital!"
 date: 2015-11-23 12:30:15
 layout: post
 author: johanna_dahlroos

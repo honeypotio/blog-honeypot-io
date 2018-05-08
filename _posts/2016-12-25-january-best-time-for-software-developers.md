@@ -1,6 +1,6 @@
 ---
 title: Is January the best time for software developers to find a new job?
-subtitle:
+subtitle: "When's the best time of year for software developers to start a new job search? When do job seekers have the best chance of being hired by their favoured companies? For software developers in particular, January is one of the best times to find a new job."
 date:    2016-12-25 11:21:46
 layout:  post
 author:  emma_tracey

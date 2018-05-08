@@ -1,6 +1,6 @@
 ---
-title: "London Tech Map 2017"
-subtitle:
+title: "The Ultimate Guide to London's Tech Scene - London Tech Map"
+subtitle: "Which tech startups are based in London? Where are London’s tech companies located? What are the average salaries for developers in London? What are the most in-demand programming langauges in the English capital? All this and more in our ultimate guide to London's tech scene!"
 date: 2017-05-12 07:54:05
 layout: post
 author: emma_tracey

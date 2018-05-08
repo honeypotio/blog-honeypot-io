@@ -1,6 +1,6 @@
 ---
 title:   21 Slack Channels for Software Developers
-subtitle: I'll just slack that to you
+subtitle: "Looking to meet other developers or get advice from other members of the tech community? Check out these 21 developer-focused slack channels, including Hashtag Developers, Slash Rocket and FEDs on Slack, and get slacking people!"
 date:    2016-02-27 19:02:40
 layout:  post
 author:  emma_tracey

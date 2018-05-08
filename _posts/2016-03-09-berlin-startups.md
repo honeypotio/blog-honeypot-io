@@ -1,6 +1,6 @@
 ---
-title:   Berlin's Startups Mapped by U-bahn Station 2016
-subtitle: East side versus west side
+title:   The Ultimate Guide to Berlin's Startup Scene - Berlin Tech Map
+subtitle: "Which tech startups are based in Berlin? What are Berlin's most popular industries? What are Berlin's most famous e-commerce companies? How much funds have been raised in recent years? All this and more in our ultimate guide to Berlin's startup scene!"
 date:    2016-03-09 16:01:14
 layout:  post
 author:  emma_tracey

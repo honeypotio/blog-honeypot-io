@@ -1,6 +1,6 @@
 ---
 title:   "Tech salaries 2018: How much do developers earn in Germany?"
-subtitle: We gathered data from our platform to provide you with an overview of tech salaries in Germany depending on experience and role.
+subtitle: "How much do developers earn on average in Berlin, Munich and Hamburg? What are the highest paid programming languages in Germany? We gathered data from our platform to provide you with an overview of tech salaries in Germany depending on experience and role."
 date:    2018-04-18 10:10:16
 layout:  post
 author:  stefan_kingham

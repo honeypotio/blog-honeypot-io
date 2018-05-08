@@ -1,6 +1,6 @@
 ---
 title:   "10 Hamburg Developer Conferences You Shouldn't Miss!"
-subtitle:
+subtitle: "What are the best developer and tech-related conferences in Hamburg? We've put together a list of 10 great tech conferences in Hamburg, including ContainerDays, Code Talks and Women Techmakers Hamburg Workshop & Lecture, that you should definitely check out to bump up your developer knowledge."
 date:    2016-06-03 09:39:53
 layout:  post
 author:  kate_nicolaisen

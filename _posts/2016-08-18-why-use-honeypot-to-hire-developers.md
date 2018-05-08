@@ -1,6 +1,6 @@
 ---
 title:   Why Use Honeypot to Hire Developers?
-subtitle:
+subtitle: "Why should you use Honeypot to hire developers? How does the Honeypot platform work? How are Honeypot developers screened? Learn more about how we're revolutionizing tech recruitment and making tech recruiters' lives easier!"
 date:    2016-07-18 15:53:38
 layout:  post
 author:  emma_tracey

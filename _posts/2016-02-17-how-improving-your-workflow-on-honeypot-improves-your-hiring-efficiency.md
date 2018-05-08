@@ -1,6 +1,6 @@
 ---
-title:   Does your hiring manager have a login for Honeypot?
-subtitle:  
+title:   Improve your hiring efficiency with Honeypot!
+subtitle:  "Looking to improve your hiring effiency and streamline your workflow? Get your hiring manager to sign up to Honeypot, save their favourite developers and send personalized inteview invites to top tech talents right away!"
 date:    2016-02-17 17:23:29
 layout:  post
 author:  ewe_grajko

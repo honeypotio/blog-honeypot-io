@@ -1,6 +1,6 @@
 ---
-title:   What is it like to work at Wercker?
-subtitle:
+title:   What's it like to work at Wercker?
+subtitle: "Interested in the prospect of joining Wercker? We interviewed Andy Smith, CTO at Wercker, to discuss the company's transition from LXC to Docker, the tech stack they're currently using and the manner in which they interview developers."
 date:    2016-11-02 09:03:27
 layout:  post
 author:  hugo_duksis

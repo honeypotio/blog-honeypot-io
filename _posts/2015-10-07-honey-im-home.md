@@ -1,6 +1,6 @@
 ---
 title: Honey I’m Home! Welcome to Honeypot
-subtitle: "Why IT recruitment is broken and how Honeypot plans to fix it"
+subtitle: "What is Honeypot all about? How do we plan on revolutionizing IT recruitment? Check out our first blog piece to get a better understanding of the Honeypot platform and our mission of getting every developer a great job!"
 date: 2015-10-07 16:27:15
 layout: post
 author: kaya_taner

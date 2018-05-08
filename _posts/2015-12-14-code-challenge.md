@@ -1,6 +1,6 @@
 ---
 title:   Coding challenges on Honeypot
-subtitle: How we screen developers on our platform
+subtitle: "Here at Honeypot, every developer is prescreened based on public contributions and in some cases a code challenge. But how do we evaluate those code challenges and what do we value in particular? Here's an explanation to help you become the master of code challenges!"
 date:    2015-12-14 16:30:05
 layout:  post
 author:  hugo_duksis

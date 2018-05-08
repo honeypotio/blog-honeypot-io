@@ -1,6 +1,6 @@
 ---
 title:   5 of the Greatest Contributions by German Computer Scientists
-subtitle:
+subtitle: "Did you know the first programmable computer was invented by a German engineer in 1941? Or that the MP3 was initially developed by the Fraunhofer-Insitute when they were working on a way to increase the quality of phone calls back in 1987? Here are five of Germany's most exciting contributions to computing."
 date:    2017-02-14 09:00:05
 layout:  post
 author:  kamal_naeem

@@ -1,6 +1,6 @@
 ---
-title:  Some Thoughts on the Future of Programming
-subtitle:
+title:  What does the future hold for female developers?
+subtitle: "What does the future of programming look like? And what will it mean for women in tech? We interviewed some awesome Berlin-based female developers to discuss what's in store for future programmers."
 date:    2016-06-13 16:18:41
 layout:  post
 author:  sasha_pliusnina

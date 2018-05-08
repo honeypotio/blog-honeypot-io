@@ -1,6 +1,6 @@
 ---
-title:   How to make a Honeypot Profile in 7 easy steps
-subtitle:
+title:   How to make a Honeypot profile in 7 easy steps
+subtitle: "So you want to create a Honeypot profile but don't know where to start? We're here to help! Leverage the following step-by-step guide to make the most out of your profile and get lots of interview invites!"
 date:    2018-02-09 09:29:52
 layout:  post
 author:  hunter_wright

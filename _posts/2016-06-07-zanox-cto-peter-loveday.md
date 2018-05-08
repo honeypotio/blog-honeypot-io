@@ -1,5 +1,6 @@
 ---
-title:   "Ask a CTO&#58; Peter Loveday from Zanox"
+title:   "What's it like to work at Zanox?"
+subtitle: "Interested in the prospect of joining Zanox? We interviewed Peter Loveday, CTO at Zanox, to discuss the organization of the company's engineering teams, what they look for when hiring developers and Zanox's approach to hiring developers with no academic background in computer science."
 date:    2016-06-07 17:37:49
 layout:  post
 author:  emma_tracey

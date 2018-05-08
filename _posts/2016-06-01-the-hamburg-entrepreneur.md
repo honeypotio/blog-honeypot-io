@@ -1,6 +1,6 @@
 ---
 title:   The Hamburg Entrepreneur
-subtitle: An interview with Stephan Uhrenbacher
+subtitle: "What are the advantages of founding a startup in Hamburg? Do you need to speak German to succeed in Hamburg? What are the most popular programming languages used by startups in Hamburg? We sat down with Stephan Uhrenbacher, the CEO and founder of FLIO, to discuss Hamburg's exciting startup scene!"
 date:    2016-06-01 10:37:08
 layout:  post
 author:  emma_tracey

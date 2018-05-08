@@ -1,6 +1,6 @@
 ---
 title:  "Open Sourcing Searchspot, Honeypot’s Search Engine"
-subtitle:
+subtitle: "Our tech team members love to contribute to open source projects and share our internal products with the world through our Honeypot Github page. One of those is Searchspot, the search engine we use to let companies search for talents."
 date:    2016-07-21 13:40:56
 layout:  post
 author:  giovanni_capuano

@@ -1,6 +1,6 @@
 ---
-title:   Talking with Blendle
-subtitle:
+title:   What's it like to work at Blendle?
+subtitle: "Interested in the prospect of joining Blendle? We interviewed their CTO, Jean Mertz, to discuss how the Utrecht-based tech startup combines journalism and technology, how they maintain a polyglot development environment and why it’s so fun to work there as a developer."
 date:    2017-08-10 14:54:03
 layout:  post
 author: jelle_groot

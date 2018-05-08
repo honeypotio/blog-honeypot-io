@@ -1,6 +1,6 @@
 ---
-title:  Amsterdam Tech Map
-subtitle:
+title:  The Ultimate Guide to Amsterdam's Tech Scene - Amsterdam Tech Map
+subtitle: "Which tech startups are based in Amsterdam? What are the city's most common industries? Why is the sharing economy so popular in Amsterdam? How much funds have been raised in recent years? All this and more in our ultimate guide to Amsterdam's tech scene!"
 date:    2016-09-08 05:09:38
 layout:  post
 author:  emma_tracey

@@ -1,6 +1,6 @@
 ---
 title:   If Hemingway Wrote JavaScript
-subtitle:
+subtitle: "We sat down with Angus Croll, the creator of Javascript Javascript, to discuss his book entitled "If Hemingway Wrote Javascript", a creation in which he imagines 25 famous novelists, poets and playwrights solving simple problems in Javascript."
 date:    2016-10-17 09:54:05
 layout:  post
 author:  emma_tracey

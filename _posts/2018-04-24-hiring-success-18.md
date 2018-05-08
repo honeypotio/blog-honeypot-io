@@ -1,6 +1,6 @@
 ---
 title:   "Honeypot wins Recruiting Startup of the Year at Hiring Success 18"
-subtitle: We are absolutely thrilled to announce that we won Recruiting Startup of the Year at Hiring Success 18 in San Francisco!
+subtitle: "Honeypot was up against some tough competition with the likes of Recruitsy, Talent Savant, Job Pal and Recruiterly also competing for the award and we’re absolutely thrilled to announce that we won Recruiting Startup of the Year at Hiring Success 18 in San Francisco!"
 date:    2018-04-24 10:10:16
 layout:  post
 author:  jelle_groot

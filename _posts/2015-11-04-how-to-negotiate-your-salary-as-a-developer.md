@@ -1,6 +1,6 @@
 ---
 title: How to negotiate your salary as a developer
-subtitle: "Notes from a data scientist on knowing your worth"
+subtitle: "How much are you worth as a developer? How and when should you ask for a raise in the IT field? Here are some tips to help you figure out your current worth, determine whether or not you should negotiate your salary, and succeed at the negotiation table."
 date: 2015-11-04 11:27:15
 layout: post
 author: eyal_matzkel

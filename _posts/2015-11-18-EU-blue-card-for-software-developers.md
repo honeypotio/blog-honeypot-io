@@ -1,6 +1,6 @@
 ---
 title: A guide to the EU Blue Card for software developers
-subtitle: Beat the bureaucracy blues with our blue card infographic!
+subtitle: "Why was the Blue Card introduced in Europe? How can you apply for a Blue Card in Germany? Where do you need to go to apply and what documents do you need? Here's everything you need to know about EU Blue Cards for highly-skilled non-EU nationals."
 date: 2015-11-17 18:30:15
 layout: post
 author: johanna_dahlroos

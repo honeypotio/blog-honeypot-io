@@ -1,6 +1,6 @@
 ---
 title:   "Errors and Exceptions (in Rust)"
-subtitle: An introduction to errors and exceptions handling using Rust as example
+subtitle: "How do popular programming languages deal with exceptions and errors? Our in-house developer Giovanni wrote the following piece to introduce beginner developers to error and exception-handling, using Rust as an example."
 date:    2016-05-27 12:03:00
 layout:  post
 author:  giovanni_capuano

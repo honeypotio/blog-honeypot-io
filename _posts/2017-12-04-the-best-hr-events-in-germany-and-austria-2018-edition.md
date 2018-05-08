@@ -1,6 +1,6 @@
 ---
 title:  The Best HR and Talent Acquisition Events in Germany 2018 
-subtitle:
+subtitle: "What are the best HR events in Germany to learn the latest industry trends, hear from industry thought leaders, and network with your peers? This article summarizes our top picks for HR and Talent Acquisiton events in Germany in 2018."
 date:    2018-1-17 8:20:16
 layout:  post
 author:  hunter_wright

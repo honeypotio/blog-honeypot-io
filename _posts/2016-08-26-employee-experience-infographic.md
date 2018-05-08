@@ -1,6 +1,6 @@
 ---
 title:   "What is Employee Experience?"
-subtitle:
+subtitle: "What is Employee Experience and how does it differ from traditional Human Resources? Why are more and more companies moving towards Employee Experience? Who is leading the shift from Human Resources to Employee Experience? Find all the answers in this handy infographic."
 date:    2016-08-25 14:34:44
 layout:  post
 author:  emma_tracey

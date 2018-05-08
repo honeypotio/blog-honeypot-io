@@ -1,6 +1,6 @@
 ---
 title:   Which countries do Honeypot developers come from?
-subtitle: Honeypot's free visa support lets you pick the best from around the world
+subtitle: "Ever wondered where the developers using Honeypot come from? We've gathered internal data to determine which countries they hail from!"
 date:    2016-05-11 11:23:26
 layout:  post
 author:  emma_tracey

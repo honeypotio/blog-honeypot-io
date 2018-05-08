@@ -1,6 +1,6 @@
 ---
-title: How Much Do Developers in Amsterdam Earn?
-subtitle: 
+title: How much do developers earn in Amsterdam?
+subtitle: "How much can you make as a developer in Amsterdam? What's the average salary for developers with 2 to 4 years experience? We gathered data from our platform to see the average salaries offered by companies to developers in Amsterdam."
 date: 2017-02-24 08:40:15
 layout: post
 author: emma_tracey
@@ -17,6 +17,8 @@ There are between [1,900 and 2,600 tech startups](http://blog.honeypot.io/amster
 We gathered data from our platform to see the average salaries offered by companies to developers in Amsterdam. This data is taken from 300 offers which have been sent in the last four months. It should be noted that these figures are averages and do not take into account differences which can result from programming languages. In future blog posts, we will dive deeper into the data. 
 
 Nonetheless, these figures give some insight into average salaries for developers in Amsterdam. The results of our findings are outlined below:
+
+*The following infographic has since been updated. [Click here](http://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/) to get a more accurate overview of tech salaries in Amsterdam in 2018. 
 
 
 ![developer-in-amsterdam-salary](/assets/images/by-experience-netherlands-eng.png)

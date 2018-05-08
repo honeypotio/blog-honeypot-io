@@ -1,6 +1,6 @@
 ---
-title: What is it like to work as a developer at Number26?
-subtitle: An interview with Christian Rebernik, CTO of Number26
+title: What's it like to work at N26?
+subtitle: "Interested in the prospect of joining N26? Raring to know more about the tech stack they use and the technical challenges their developers face on a daily basis? Excited by the idea of working in Fintech? We interviewed Christian Rebernik, the CTO of N26, to find the answers to your questions!"
 date: 2015-11-22 12:30:15
 layout: post
 author: emma_tracey

@@ -1,6 +1,6 @@
 ---
 title:   "Nico Ulbricht&#58; the story of an untraditional programmer"
-subtitle:
+subtitle: "Is a degree in Computer Science necessary to become a professional programmer? We sat down with Nico Ulbricht, an untraditional programmer who used our platform to find a development position in Berlin, to discuss his experience with Honeypot and his thoughts on tech recruitment."
 date:    2016-09-20 06:35:45
 layout:  post
 author:  kate_nicolaisen

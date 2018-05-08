@@ -1,6 +1,6 @@
 ---
 title: 5 Interview Questions for a Backend Developer
-subtitle: Insights from a Honeypot Talent Rep
+subtitle: "What's your understanding of object-oriented programming? What is the largest web application you have ever worked on? Check out these common examples of interview questions for backend developers and ace your next interview!"
 date:    2016-05-06 13:58:07
 layout:  post
 author:  kate_nicolaisen

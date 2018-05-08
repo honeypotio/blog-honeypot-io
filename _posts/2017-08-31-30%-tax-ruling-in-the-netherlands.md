@@ -1,6 +1,6 @@
 ---
 title:   30% Dutch Tax Ruling Demystified
-subtitle:
+subtitle: "What's the 30% ruling tax advantage and how does it work? What requirements need to be met in order to apply? The following is a guide to the 30% Dutch tax rule for highly skilled international workers and its application process."
 date:    2017-08-31 06:16:51
 layout:  post
 author:  hunter_wright

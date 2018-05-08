@@ -1,6 +1,6 @@
 ---
-title: We researched 58 of Berlin’s top CTOs. This is what we found.
-subtitle:
+title: What does it take to become a CTO in Berlin?
+subtitle: "Where do Berlin's CTOs originally come from? What educational background do you need to become a CTO in Berlin? What are the 5 most common skills listed by Berlin CTOs on their Linkedin profiles? We researched 58 of Berlin's top CTOs to determine what it takes to become a CTO in Berlin."
 date:    2016-01-14 09:17:58
 layout:  post
 author:  emma_tracey

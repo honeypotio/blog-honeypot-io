@@ -1,6 +1,6 @@
 ---
 title: This Grant Subsidizes the Cost of Hiring Junior Developers in Germany
-subtitle:
+subtitle: "Calling all Berlin-based SMEs, you can now get a grant to subsidize the cost of hiring junior developers with the help of the IBB! But what is the IBB exactly? What requirements need to be met and how can you apply for this grant? Check it out!"
 date:    2016-06-16 17:24:38
 layout:  post
 author:  ewe_grajko

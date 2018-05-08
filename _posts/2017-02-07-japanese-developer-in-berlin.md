@@ -1,6 +1,6 @@
 ---
-title:   From APIs to IPAs. A Japanese Developer in Berlin.
-subtitle:
+title:   What's it like for a Japanese developer to work in Berlin?
+subtitle: "We sat down with Shuhei Kagawa, a full stack developer from Tokyo who recently moved to Berlin after finding a job through Honeypot, to discuss his experience on the platform and his thoughts on open source contributions."
 date:    2017-02-07 09:00:05
 layout:  post
 author:  emma_tracey

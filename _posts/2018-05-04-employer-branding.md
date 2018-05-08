@@ -1,6 +1,6 @@
 ---
 title:   "What are the benefits of employer branding?"
-subtitle: What are the benefits of employer branding and to what extent can it impact your organizational attractiveness, your hiring costs and your overall business growth?
+subtitle: "Why should you care about employer branding? To what extent can it have an impact on your company's ability to attract top talent and lower your hiring costs? And what are the dangers of ignoring employer branding?"
 date:    2018-05-04 10:10:16
 layout:  post
 author:  stefan_kingham

@@ -1,6 +1,6 @@
 ---
 title:   Have you ever seen a bear dressed as a computer programmer?
-subtitle: Honeypot's mascot dresses up as 12 computer scientists!
+subtitle: Who are the 12 most famous computer programmers, developers and scientists of all time? And what would they look like if they were related to our very own Honeypot mascot? Check it out!
 date:    2016-01-04 16:00:26
 layout:  post
 author:  emma_tracey

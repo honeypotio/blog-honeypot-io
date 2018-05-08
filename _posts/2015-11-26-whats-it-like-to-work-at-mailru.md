@@ -1,6 +1,6 @@
 ---
-title: Whats it like to work as a developer at Mail.Ru?
-subtitle: An interview with Dennis Anikin, Director of Engineering of Cloud and Email Service
+title: What's it like to work at Mail.Ru?
+subtitle: "How is Mail.ru better than Gmail? What are the advantages of Tarantool? What is the team setup like at Mail.ru? We interviewed Dennis Anikin, the Director of Engineering of Cloud and Email Service at Mail.ru, to find the answers to your questions!"
 date: 2015-11-26 15:44:15
 layout: post
 author: emma_tracey

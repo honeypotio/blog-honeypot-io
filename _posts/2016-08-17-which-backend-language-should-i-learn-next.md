@@ -1,6 +1,6 @@
 ---
 title:   Which Backend Language Should I Learn Next? 
-subtitle: 
+subtitle: "Are you in the process of choosing your first programming language? Or perhaps you're an experienced developer wondering which backend language to learn next? This week we'll be gauging the popularity of Scala, PHP, Java, Ruby and Python to help you decide which language to learn next!"
 date:    2016-08-17 13:12:12
 layout:  post
 author:  kate_nicolaisen

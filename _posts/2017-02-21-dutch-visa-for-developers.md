@@ -1,6 +1,6 @@
 ---
 title:   Highly-Skilled Migrant Visa For Developers in the Netherlands
-subtitle: 
+subtitle: "Need help applying for a Highly-Skilled Migrant Visa in the Netherlands? We've made this simple step-by-step guide to assist you and your company in the Dutch visa process. Everything you need to successfully apply for a Dutch highly-skilled migrant visa in one place!"
 date:    2017-02-21 11:36:06
 layout:  post
 author:  jelle_groot

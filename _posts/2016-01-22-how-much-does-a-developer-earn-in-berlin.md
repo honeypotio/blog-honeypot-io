@@ -1,6 +1,6 @@
 ---
 title:   How much does a developer earn in Berlin in 2016?
-subtitle: An infographic to answer all your questions!
+subtitle: "Interested in working as a developer in Berlin? Want to know how much you can earn? Here's a handy infographic to get a better idea of tech salaries in Berlin for frontend and backend developers as well as fullstack, devOps and mobile engineers."
 date:    2016-01-22 17:40:15
 layout:  post
 author:  johanna_dahlroos
@@ -14,6 +14,7 @@ Interested in working as a developer in Berlin? Want to know how much you can ea
 
 <!--more--> 
 
+The following infographic has since been updated. [Click here](http://blog.honeypot.io/how-much-do-developers-earn-in-germany/) to get a more accurate overview of tech salaries in Berlin in 2018.
 
 ![developer-salaries-berlin](/assets/images/salary-matrix-2.png "Berlin developer salary matrix")
 

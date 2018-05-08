@@ -1,6 +1,6 @@
 ---
-title:   HR Cheatsheet
-subtitle:
+title:   The ultimate guide to developer terms for tech recruiters
+subtitle: "So you're looking to hire a developer but you're not sure about tech lingo? Confused about the difference between a language and a framework? Unable to differentiate frontend and backend terms? The following is a guide to some of the common terms and tools in frontend and backend development."
 date:    2017-07-20 08:30:13
 layout:  post
 author:  agathe_badia

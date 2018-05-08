@@ -1,6 +1,6 @@
 ---
 title:   Germany's 30 Biggest Startups in 2015
-subtitle: There's more to Deutschland than beer and cars!
+subtitle: "What are the biggest startups in Germany? How much funding have they received? Which industries are booming? Check out Germany's 30 biggest startups, including Delivery Hero, Foodpanda, Soundcloud and Home24."
 date:    2016-04-05 19:16:35
 layout:  post
 author:  johanna_dahlroos

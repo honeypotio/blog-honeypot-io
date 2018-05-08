@@ -1,6 +1,6 @@
 ---
 title:   Honeypot Launches in Hamburg! 
-subtitle: Moin moin!
+subtitle: "We're pleased to announce that Honeypot is officially launching in Hamburg! Wondering why we chose Hamburg and to what extent it's a great destination for developers? Read all about it!"
 date:    2016-05-30 10:06:08
 layout:  post
 author:  emma_tracey

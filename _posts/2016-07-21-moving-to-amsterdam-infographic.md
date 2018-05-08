@@ -1,6 +1,6 @@
 ---
-title:   Moving to Amsterdam Infographic
-subtitle:
+title:   The ultimate guide to moving to Amsterdam
+subtitle: "Are you moving to Amsterdam but confused about the paperwork? Unsure how to get your Dutch visa, register with the BSN for your Dutch residence permit, and find an apartment? This handy infographic provides you with all the information you need to make a stress-free move to the Dutch capital!"
 date:    2016-07-20 16:13:35
 layout:  post
 author:  johanna_dahlroos

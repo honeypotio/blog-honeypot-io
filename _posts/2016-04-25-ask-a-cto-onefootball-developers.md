@@ -1,6 +1,6 @@
 ---
-title:   "Ask a CTO&#58; Grzegorz Krumpholz, Onefootball"
-subtitle: On GoLang, Wisła Kraków and Microservices
+title:   "What's it like to work at Onefootball?"
+subtitle: "Interested in the prospect of joining Onefootball? Raring to know more about the company's technical setup and the organization of the engineering team? We interviewed Grzegorz Krumpholz, Onefootball's CTO, to discuss microservices, migrating to Golang and Wisła Kraków."
 date:    2016-04-25 10:15:31
 layout:  post
 author:  emma_tracey

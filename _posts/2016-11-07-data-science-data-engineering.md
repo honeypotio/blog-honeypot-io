@@ -1,6 +1,6 @@
 ---
-title: Machine Learning and the Jobs of the Future. 
-subtitle:
+title: What is machine learning and how will it impact future jobs? 
+subtitle: "What is Machine Learning? What are the nature of jobs in Machine Learning? What's the difference between a Data Scientist and a Data Engineer? Our in-house developer Kado tells you all you need to know about machine learning and the jobs of the future."
 date:    2016-11-09 04:00:09
 layout:  post
 author:  kado_damball
