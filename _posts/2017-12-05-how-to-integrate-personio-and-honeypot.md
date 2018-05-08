@@ -1,6 +1,6 @@
 ---
 title:  Announcing the Personio Honeypot Integration 
-subtitle:
+subtitle: "We are happy to announce that Personio users can now automatically upload candidates directly from Honeypot to Personio. Here's a step-by-step guide to help you set up the Honeypot-Personio integration!"
 date:    2018-01-08 6:50:00
 layout:  post
 author:  emma_tracey
