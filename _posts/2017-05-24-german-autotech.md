@@ -1,6 +1,6 @@
 ---
 title: "Comparing AutoTech in Germany and the US&#58; An Interview with Kerry Wu, CB Insights."
-subtitle:
+subtitle: "In this interview, Kerry Wu, a Senior Tech Industry Analyst at CB Insights, talks to Honeypot about the state of AutoTech in America and Germany and what strategies large automakers are employing to attract software developers."
 date: 2017-05-24 07:54:05
 layout: post
 author: frederik_bohn
