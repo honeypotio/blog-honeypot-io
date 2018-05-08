@@ -10,7 +10,7 @@ permalink:  product-update-hello-boolean-search/
 importance: 2
 ---
 
-# Honeypot Advanced Search
+## Honeypot Advanced Search
 
 Today we are releasing Advanced Search functionality on Honeypot Search to help you find developers, data scientists and other tech talent quickly and efficiently. 
 
