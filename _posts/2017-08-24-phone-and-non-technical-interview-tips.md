@@ -1,6 +1,6 @@
 ---
 title:   Phone and Non-Technical Interview Tips For Developers
-subtitle:
+subtitle: "How can you prepare for a phone interview? To what extent should you highlight your past achievements? The following is a guide aimed at helping developers succed at both phone and non-technical interviews."
 date:    2017-08-23 18:16:51
 layout:  post
 author:  sviatlana_dzenisevich
