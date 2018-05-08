@@ -1,6 +1,6 @@
 ---
 title:   The Best HR Events in the Netherlands in 2018
-subtitle:
+subtitle: "What are the best HR events in the Netherlands to learn the latest industry trends, hear from industry thought leaders, and network with your peers? This article summarizes our top picks for HR and Talent Acquisiton events in the Netherlands in 2018."
 date:    2018-1-21 09:31:53
 layout:  post
 author:  hunter_wright
