@@ -1,6 +1,6 @@
 ---
 title:   Developer Salaries in Cologne, Stuttgart, and Düsseldorf
-subtitle:
+subtitle: "What are the highest paid programming languages in Germany? What is the median salary for developers in Germany? And what are the average salaries for programmers based in Cologne, Stuttgart and Düsseldorf?"
 date:    2017-08-17 12:36:51
 layout:  post
 author:  hunter_wright
