@@ -1,6 +1,6 @@
 ---
 title: How to Integrate Honeypot and Greenhouse
-subtitle:
+subtitle: "We are happy to announce that Greenhouse users can now automatically upload candidates directly from Honeypot to Greenhouse. Here's a step-by-step guide to help you set up the Honeypot-Greenhouse integration!"
 date:    2017-10-23 13:11:07
 layout:  post
 author:  emma_tracey
