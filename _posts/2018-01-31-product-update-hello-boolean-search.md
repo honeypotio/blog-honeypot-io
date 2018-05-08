@@ -1,6 +1,6 @@
 ---
 title:  Boolean Search 
-subtitle:
+subtitle: "Today we are releasing Advanced Search functionality on Honeypot Search to help you find developers, data scientists and other tech talent quickly and efficiently, and become one heck of a bad ass tech recruiter!"
 date:    2018-02-21 11:31:19
 layout:  post
 author:  emma_tracey
