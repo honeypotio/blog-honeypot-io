@@ -1,6 +1,6 @@
 ---
-title:  Are More American Software Developers Moving to Europe post-Trump? 
-subtitle:
+title:  Why are so many American software developers moving to Europe? 
+subtitle: "What opportunities exist for American software developers in Europe? What's the best location in Europe for software developers? Today we'll be asking ourselves why more and more American developers are moving to Europe to get a job in tech."
 date:    2017-09-12 15:42:26
 layout:  post
 author:  hunter_wright
