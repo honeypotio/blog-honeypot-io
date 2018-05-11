@@ -79,7 +79,7 @@ Arnaud is a French software engineer who’s specialized in crafting quality app
 
 
 <p align="left"><img alt="Daniel Woelfel" src="/assets/images/daniel-woelfel.jpeg" style="width:60% !important;"></p><br>
-*“GraphQL is designed to be easy to use, but newcomers to GraphQL are often tripped up by common problems and misconceptions. I'll cover how to teach GraphQL in a way that gets newbies excited ands helps them overcome the mental hurdles that prevent them from being productive with GraphQL.”*
+*“GraphQL is designed to be easy to use, but newcomers to GraphQL are often tripped up by common problems and misconceptions. I'll cover how to teach GraphQL in a way that gets newbies excited and helps them overcome the mental hurdles that prevent them from being productive with GraphQL.”*
 
 Daniel has been a software engineer at Facebook for almost 3 years and founded his own prototyping app back in 2014. He’s on [Twitter](https://twitter.com/danielwoelfel) and [Github](https://github.com/dwwoelfel) and has previously given talks at [React Vienna](https://www.youtube.com/watch?v=PUY8mcLvXnQ) and [ReactiveConf](https://www.youtube.com/watch?v=cgJyI1BKmHQ).
 
@@ -103,7 +103,7 @@ As part of his role at Coursera, Jon works on frontend infrastructure and specia
 <p align="left"><img alt="Mike Solomon" src="/assets/images/mike-solomon.jpg" style="width:40% !important;"></p><br>
 *“GraphQL specifies what data and response shape we need and not how to get and reshape that data. At Twitter, we automatically translate GraphQL queries into code that efficiently specifies the how as well! See how we keep our API uniform and extend it without writing or deploying new code.”*
 
-Before joining Twitter, Mike was a software engineer and backend server lead at Elevate (previously MindSnacks). He’s on [Twitter](https://twitter.com/msol) and has even released his own [indie mobile game](https://playroadtripadventures.com/).
+Before joining Twitter, Mike was a software engineer and backend server lead at Elevate (previously MindSnacks). He’s on [Twitter](https://twitter.com/msol) and [Github](https://github.com/msolomon) and has even released his own [indie mobile game](https://playroadtripadventures.com/).
 
 <br />
 
