@@ -150,6 +150,6 @@ Oh, and if you’re conflicted or confused and have somehow managed to resist th
 
 <br />
 
-**Finally convinced?** Check out the [GraphQL Europe 2018 website](https://www.graphql-europe.org/) to get your tickets and make sure you join the official [GraphQL Europe Slack channel](https://slack.graph.cool/)! 
+**Finally convinced?** Check out the [GraphQL Europe 2018 website](https://www.graphql-europe.org/) for more info, head over to [Eventbrite](https://www.eventbrite.com/e/graphql-europe-2018-tickets-39184180940) to get your tickets and make sure you join the official [GraphQL Europe Slack channel](https://slack.graph.cool/)! 
 
 **We’ll see you on June 15th at the nHow Hotel in Berlin!**
