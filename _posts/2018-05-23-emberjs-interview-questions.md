@@ -37,7 +37,7 @@ Batching similar actions allows for **better pipelining, less rendering time and
 
 <br />
 
-## 2. What is Ember data and how does it work?
+## 2. What is Ember Data and how does it work?
 
 <br />
 
@@ -125,7 +125,7 @@ Serializers therefore communicate with models in order to ensure data is consist
 
 <br />
 
-## 8. Templates, models and components are key concepts in Ember. Describe them.
+## 8. Templates, Models and Components are key concepts in Ember. Describe them.
 
 <br />
 
