@@ -92,7 +92,7 @@ While **routes are responsible for setting up application state, displaying temp
 
 When a new URL is set (the user loads the app for the first time, changes the URL manually or clicks on a link within the app), the Ember router then maps that new URL to one or more route handlers that are in turn capable of either rendering a template, loading a model that is then available to the template or redirecting to a new route.
 
-In other words, routes are responsible for defining the data that is sent to the template, but they would be nothing, *(nothing!)* without a router. *(Or a girl.)*
+In other words, routes are responsible for defining the data that is sent to the template, but they wouldn't function without a router.
 
 <br />
 
