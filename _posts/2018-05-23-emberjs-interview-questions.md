@@ -71,13 +71,14 @@ And finally, **EmberJS is going strong!** Plenty of big names are regularly usin
 
 <br />
 
-A controller is basically **a file where you can define URL Query Parameters (the part of a URL that comes after a question mark), actions and attributes that need to be shared with child components**. A controller is usually paired with an individual route and is what responds to user interactions happening on the user interface.
+A controller is basically **a file that is used to manipulate data before passing it down to views**. A controller is usually paired with an individual route and is what responds to user interactions happening on the user interface.
 
 The manner in which you create controllers depends which files you want to be able to communicate with each other, how [DRY](http://deviq.com/don-t-repeat-yourself/) (“Don’t repeat yourself” ) you want your code to be and how you will save state, but it’s generally good practice to create a controller when:
 
-  * You need to use query parameters in the URL that the user sees.
   * You want to share actions or variables with child components.
   * You have a computed property that’s determined by the results of the model hook.
+ 
+That being said, you don’t necessarily need to use a controller, especially when your data is self sufficient and you don’t need to add any additional logic. 
 
 <br />
 
