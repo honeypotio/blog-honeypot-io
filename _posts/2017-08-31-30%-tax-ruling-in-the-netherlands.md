@@ -24,7 +24,7 @@ More specifically you qualify for the exemption if you make over €37,000 after
  
  For example, assume the gross annual salary of a developer is €100,000 before the 30% rule is applied. The employee and employer can agree to pay 30% of this amount as a tax free allowance, €30,000, meaning the taxable gross salary remaining is €70,000. As long as the remaining taxable gross salary is above the required €37,000, you're eligible. 
  
-**3.** If approved, the ruling has a term of 8 years. There are some [conditions](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/individuals/living_and_working/working_in_another_country_temporarily/you_are_coming_to_work_in_the_netherlands/30_facility_for_incoming_employees/the_decision_issued_to_you_has_a_maximum_term_of_8_years). 
+**3.** If approved, the ruling has a term of 5 years. There are some [conditions](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/individuals/living_and_working/working_in_another_country_temporarily/you_are_coming_to_work_in_the_netherlands/30_facility_for_incoming_employees/the_decision_issued_to_you_has_a_maximum_term_of_8_years). 
 
 **4.** If you are already working in the Netherlands and fulfil the criteria for eligibility but have not applied for the ruling, **it is possible to retroactively apply**. You can get back payments for up to four months after you start working. If you have been in your position longer, the ruling will become effective the following month after your successful application. 
 
