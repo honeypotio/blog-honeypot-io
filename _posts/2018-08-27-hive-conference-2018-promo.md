@@ -41,11 +41,11 @@ Hive by Honeypot is an excellent opportunity to learn from the world's top Talen
 
 A seasoned HR leader with 30 years of experience, including in HR leadership positions at Levi Strauss, Gap Inc. and Airbnb, Mark Levy **pioneered the shift from HR to Employee Experience at Airbnb** which has since created significant changes in the way organizations globally organize, reward and treat their people. He now consults companies worldwide on how to create a greater connection between themselves and their employees.
 
-Mark will explain how the shift started and what Employee Experience is all about based on his experience at Airbnb. Mark will be our opening keynote speaker, but even more excitingly, he will also host an intimate workshop. 
+Mark will explain how the shift started and what Employee Experience is all about based on his experience at Airbnb. Mark will be our opening keynote speaker, but even more excitingly, **he will also host an intimate workshop**. 
 
 During the workshop, *"participants will analyze their own organization, how they work with their employees and start to consider what it will take to create more two way dialog, to co-create with their employees, and to help the entire company shift towards a new way of working where you set your employees up for success by helping them understand the business needs and treat them the way you want the employees to treat your customer."* 
 
-There are just **35 tickets** for this workshop. 
+There are just **35 tickets** for this workshop. [Get one while you still can!](https://www.eventbrite.ie/e/hive-conference-tickets-47850052796)
 
 <br />
 
