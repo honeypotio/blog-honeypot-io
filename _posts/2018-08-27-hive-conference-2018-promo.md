@@ -122,7 +122,7 @@ We expect to confirm many more speakers in the run up to the conference, so be s
 
 <br />
 
-Community is part of our DNA and guides the way we move forward. While this may be the very first edition of Hive, we regularly organize [Tech Talks](https://www.meetup.com/Honeypot_Berlin/) and [HR in Tech meetups](https://www.eventbrite.ie/e/hrintech-candidate-experience-tickets-48688461499) in Germany and the Netherlands and have been co-organizing [GraphQL Europe](https://www.graphql-europe.org/) since 2017.
+Community is part of our DNA and guides the way we move forward. While this may be the very first edition of Hive, we regularly organize [Tech Talks](https://www.meetup.com/Honeypot_Berlin/) and [HR in Tech meetups](https://www.eventbrite.ie/e/hrintech-candidate-experience-tickets-48688461499) in Germany and the Netherlands and are co-organizers of [GraphQL Europe](https://www.graphql-europe.org/)!
 
 Not only is #HiveConf18 the ideal place to network with industry peers and local leaders who are facing similar challenges, it's also a great opportunity to learn how to build strong engineering organizations from **the world's top talent acquisition and engineering leaders!**
 
