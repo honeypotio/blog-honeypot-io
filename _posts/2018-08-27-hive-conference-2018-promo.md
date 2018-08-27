@@ -132,7 +132,7 @@ Oh and it goes without saying that we'll be sure to spoil you with snacks and dr
 
 <br />
 
-## Get your tickets for #HiveConf2018!
+## Get your tickets for #HiveConf18!
 
 <br />
 
