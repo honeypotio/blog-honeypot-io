@@ -136,6 +136,8 @@ Oh and it goes without saying that we'll be sure to spoil you with snacks and dr
 
 <br />
 
-Sold on the idea of attending Hive by Honeypot and eager to purchase a ticket? [Head over to eventbrite](https://www.eventbrite.ie/e/hive-conference-tickets-47850052796) or click on the Facebook event below and get yourself an early bird ticket before they run out! 
+Sold on the idea of attending Hive by Honeypot and eager to purchase a ticket? Check out the Facebook event below or [head over to eventbrite](https://www.eventbrite.ie/e/hive-conference-tickets-47850052796) and get yourself an early bird ticket before they run out! 
+
+<br />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FHoneypotio%2Fposts%2F2161674370775190&width=500" width="500" height="655" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
