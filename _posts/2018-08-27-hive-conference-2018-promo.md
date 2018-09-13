@@ -101,7 +101,7 @@ Aleksandra Gavrilovska is an Engineering Manager at SoundCloud and Director at W
 
 <br />
 
-### Amir Friedman: VPE @ kloeckner.io
+### Amir Friedman: VPE @ kloeckner.i
 *Case Study: How we Recruit and Retain Developers at Kloeckner.io*
 
 <br />
