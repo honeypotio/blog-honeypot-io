@@ -67,7 +67,11 @@ So here’s how it works:
 
 <br />
 
-**Step Three:** Enter the Description “Honeypot - Harvest” and choose Type Harvest![greenhouse-honeypot](/assets/images/greenhouse6.png)
+**Step Three:** Enter the Description “Honeypot - Harvest” and choose Type Harvest!
+
+<br />
+
+[greenhouse-honeypot](/assets/images/greenhouse6.png)
 
 <br />
 
@@ -132,8 +136,6 @@ Click “Update” to save the key’s permissions!
 <br />
 
 **Step Four:** Find the “Honeypot - Job Board” key you created and click “Copy.” Navigate back to Honeypot and paste into the “Job Board API” box. 
-
-<br />
 
 **YES! You are killing it.** 
 
