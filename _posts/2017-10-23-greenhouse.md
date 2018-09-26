@@ -71,7 +71,7 @@ So here’s how it works:
 
 <br />
 
-[greenhouse-honeypot](/assets/images/greenhouse6.png)
+![greenhouse-honeypot](/assets/images/greenhouse6.png)
 
 <br />
 
@@ -102,7 +102,7 @@ Click “Update” to save the key’s permissions!
 
 <br />
 
-[greenhouse-honeypot](/assets/images/greenhouse8.png)
+![greenhouse-honeypot](/assets/images/greenhouse8.png)
 
 <br />
 
