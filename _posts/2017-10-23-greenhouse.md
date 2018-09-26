@@ -94,7 +94,11 @@ So here’s how it works:
 	* GET: List Users
 
 
-Click “Update” to save the key’s permissions![greenhouse-honeypot](/assets/images/greenhouse8.png)
+Click “Update” to save the key’s permissions!
+
+<br />
+
+[greenhouse-honeypot](/assets/images/greenhouse8.png)
 
 <br />
 
