@@ -79,10 +79,10 @@ So here’s how it works:
 
 
 * **Applications:**
-	* GET: List Applications
-	* PATCH: Update Application
+	* **GET: List Applications**
+	* **PATCH: Update Application**
 * **Candidates:**
-	* GET: List Candidates
+	* **GET: List Candidates**
 	
 <br />
 
@@ -91,11 +91,11 @@ So here’s how it works:
 <br />
 
 * **Sources:**
-	* Sources
-	* GET: List Sources
+	* **Sources**
+	* **GET: List Sources**
 * **Users:**
-	* GET: Retrieve User
-	* GET: List Users
+	* **GET: Retrieve User**
+	* **GET: List Users**
 
 
 Click “Update” to save the key’s permissions!
