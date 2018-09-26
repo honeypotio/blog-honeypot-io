@@ -83,13 +83,6 @@ So here’s how it works:
 	* **PATCH: Update Application**
 * **Candidates:**
 	* **GET: List Candidates**
-	
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse7.png)
-
-<br />
-
 * **Sources:**
 	* **Sources**
 	* **GET: List Sources**
@@ -99,8 +92,10 @@ So here’s how it works:
 
 
 Click “Update” to save the key’s permissions!
-
+	
 <br />
+
+![greenhouse-honeypot](/assets/images/greenhouse7.png)
 
 ![greenhouse-honeypot](/assets/images/greenhouse8.png)
 
