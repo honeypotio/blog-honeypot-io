@@ -95,15 +95,19 @@ According to the 2017 State of European Tech report, the **Netherlands was ranke
 
 <br />
 
-## The future of Rotterdam as an innovation hub
+## What does the future hold for Rotterdam?
 
 <br />
+
+### Dutch innovation hub
 
 Erik van Aalzum of Jedlix explains that *“Amsterdam is the international hub in the Netherlands and Eindhoven has already been established as the ‘tech-area’ for a long time, but **Rotterdam is becoming more innovation-minded**.”* Tech and startup hubs are popping up everywhere, and the city and province are working together to put Rotterdam on the map and exploit all its strengths. Birgit Vene from Offcourse.io agrees that *“The municipality is really doing a lot of things, education wise as well, as they want to get more technically focused. If you are doing something together with the municipality, you are doing very well for yourself. **Rotterdam wants to be the city of the future** with complete neighbourhoods of smart houses for example.”*
 
 Organizations like **WeTechRotterdam are trying to establish government-backed initiatives** to improve the tech scene as well. As Fred Bartels from WeTechRotterdam explains, *“Established tech companies in Rotterdam can use a platform to come forward and speak up about the need for collaboration, investment, help, and support. With some collaboration, PR, and exposure, the untapped potential of Rotterdam can be fulfilled. It’s all about sharing knowledge, resources, and effort to push Rotterdam to the top as a tech city.”*
 
 <br />
+
+### Economic development
 
 With all the ongoing hard work and development, it’s easy to get excited about the future of Rotterdam. We can get a sense of optimism and positivity for the future from everyone we interviewed for this project. 
 
@@ -115,6 +119,8 @@ Fred Bartels of WeTechRotterdam also believes Rotterdam has a bright future and 
 
 <br />
 
+### Attracting entrepreneurs
+
 Based on the growing demand for tech talent, initiatives and investments, **Rotterdam holds a promising future and is becoming increasingly attractive for entrepreneurs**. Innovation Quarter, an organization aiming to enhance the economy and employment rates in West Holland, shares, 
 
 *“In 2017, some 115 foreign companies opened an office or expanded their business in West Holland. **These firms are expected to create in excess of 2,300 new jobs and to invest more than half a billion euros in the region.** Since 2014, The Hague Business Agency, Rotterdam Partners and Innovation Quarter have been actively collaborating to place the region in the global spotlight and to attract and support foreign companies. This has paid off: **over 30% of international companies that set up business in the Netherlands last year chose West Holland, compared to 20% in 2014.**”*
@@ -123,16 +129,18 @@ The continual growth of the region thus indicates the potential for startups to 
 
 **Much gratitude to everyone who so graciously spent their time to sit down with us and talk about Rotterdam.** You can learn more about them and their companies below.
 
+<br />
+
 Birgit Vene (Business Developer) - Offcourse.io  
-Jeroen van Rossum (Recruitment manager) - Coolblue  
-Erik van Aalzum (Chief of Product) Adriaan Mutter (IT Architect) - Jedlix  
-Fred Bartels - Program Manager, WeTechRotterdam  
-Giuseppe Maggiori - CTO, Hoppinger  
+Jeroen van Rossum (Recruitment Manager) - Coolblue  
+Erik van Aalzum (Chief of Product), Adriaan Mutter (IT Architect) - Jedlix  
+Fred Bartels (Program Manager) - WeTechRotterdam  
+Giuseppe Maggiori (CTO) - Hoppinger  
 Frits Klok - TiledMedia  
-Fred Bartels - Program Manager - WeTechRotterdam  
-YES!Delft - Marketing Manager - Kartika  
-Lisette - Cambridge Innovation Centre - Senior Relationships Manager  
-Maaike & Vincent - Lunatech Labs - HR/Tech recruitment & COO  
-Martin - Director - Erasmus Centre of Entrepreneurship  
-HelloPrint - Michael - CTO  
-Tim Nooteboom - Creative Director & Managing Partner at YipYip  
+Fred Bartels (Program Manager) - WeTechRotterdam  
+Kartika (Marketing Manager) - YES!Delft  
+Lisette (Senior Relationships Manager ) - Cambridge Innovation Centre 
+Maaike & Vincent (HR/Tech recruitment & COO) - Lunatech Labs 
+Martin (Director) - Erasmus Centre of Entrepreneurship  
+Michael (CTO) - HelloPrint
+Tim Nooteboom (Creative Director & Managing Partner) - YipYip  
