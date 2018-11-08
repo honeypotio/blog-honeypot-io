@@ -113,7 +113,7 @@ With all the ongoing hard work and development, it’s easy to get excited about
 
 Lisette Braakenburg, the Senior Relationships Manager from the Cambridge Innovation Centre, tells us *“Rotterdam is definitely evolving as a city. You see it in the capital and investments. **The municipality itself and foreign influences are getting involved in pretty much every level**.”* Giuseppe from Hoppinger continues,  *“Rotterdam is a city of makers and doers. The perfect compliment to Rotterdam is to be the city of engineers and technology, where real stuff is made. In combination with the maritime and port industry, Rotterdam can make real waves. **More and more competition is coming to Rotterdam, bringing substantial content and solutions to the city**.”*
 
-Erik van Aazlum of Jedlix feels the same way, *“20 years ago, nobody wanted to come and live in Rotterdam because it was seen differently. Nowadays due to the initiatives and the effort the city of Rotterdam has put it in, Rotterdam is gaining momentum. Now students, expats, and nationals want to come to Rotterdam because of its personality, architecture, facilities, and events. There are loads of opportunities in the port and maritime industry. **Due to a traditional lack of innovation and disruption in those industries, there are significant opportunities to innovate and improve the fields**.”* 
+Erik van Aazlum of Jedlix feels the same way, *“20 years ago, nobody wanted to come and live in Rotterdam because it was seen differently. Nowadays, due to the initiatives and the effort the city of Rotterdam has put in, Rotterdam is gaining momentum. Now students, expats, and nationals want to come to Rotterdam because of its personality, architecture, facilities, and events. There are loads of opportunities in the port and maritime industry. **Due to a traditional lack of innovation and disruption in those industries, there are significant opportunities to innovate and improve the fields**.”* 
 
 Fred Bartels of WeTechRotterdam also believes Rotterdam has a bright future and hopes to contribute to the city’s economic development. *“With the help of the municipality and city, **Rotterdam can be significant in Europe.** An initiative like WeTechRotterdam is not trying to compete with other organisations and initiatives, but rather trying to create an umbrella that helps Rotterdam develop further.”*
 
@@ -131,16 +131,16 @@ The continual growth of the region thus indicates the potential for startups to 
 
 <br />
 
-**Birgit Vene (Business Developer) - Offcourse.io:** The open source platform for crowdsourced learning and knowledge sharing.  
-**Jeroen van Rossum (Former Recruitment Manager) - Coolblue:** One of the largest online shops in the Benelux.  
-**Erik van Aalzum (Chief of Product), Adriaan Mutter (IT Architect) - Jedlix:** A smart charging application for electric vehicles.  
-**Fred Bartels (Program Manager) - WeTechRotterdam:** A non-profit initiative aiming to boost Rotterdam’s tech ecosystem.  
-**Jorrit Glastra (CTO) - Quantib:** A Rotterdam based scale-up that provides machine learning radiology software.   
-**Giuseppe Maggiori (CTO) - Hoppinger:** A digital agency based in Rotterdam specialising in e-business portals, e-commerce solutions and complete digital transformations.  
-**Frits Klok - TiledMedia:** A global frontrunner in flexible, low-latency delivery of extremely high-resolution video content to consumer devices.  
-**Kartika Sidabutar (Marketing Manager) - YES!Delft:** A tech incubator that helps entrepreneurs to build and grow leading technology companies.  
-**Lisette Braakenburg (Senior Relationships Manager ) - Cambridge Innovation Centre:** Acting as a gateway to Europe, CIC Rotterdam expands the existing community of entrepreneurs, investors and established businesses.  
-**Maaike Burgeat (Corporate Recruiter), Vincent Grente (Operations Director) - Lunatech Labs:** A Rotterdam-based IT consulting, product research and development company founded in 1993.  
-**Martin Luxemburg (Director) - Erasmus Centre of Entrepreneurship:** The leading centre for entrepreneurship in Europe.  
-**Michael Heerkens (CTO) - HelloPrint:** Europe's fastest growing online print platform with activities in over 10 European countries.  
-**Tim Nooteboom (Creative Director & Managing Partner) - YipYip:** A mobile design and development studio based in Rotterdam.    
+**Birgit Vene (Business Developer) - [Offcourse.io](https://www.offcourse.io/):** The open source platform for crowdsourced learning and knowledge sharing.  
+**Jeroen van Rossum (Former Recruitment Manager) - [Coolblue](https://www.coolblue.nl/):** One of the largest online shops in the Benelux.  
+**Erik van Aalzum (Chief of Product), Adriaan Mutter (IT Architect) - [Jedlix](https://jedlix.com/en/):** A smart charging application for electric vehicles.  
+**Fred Bartels (Program Manager) - [WeTechRotterdam](https://www.wetechrotterdam.com/):** A non-profit initiative aiming to boost Rotterdam’s tech ecosystem.  
+**Jorrit Glastra (CTO) - [Quantib](https://www.quantib.com/):** A Rotterdam based scale-up that provides machine learning radiology software.   
+**Giuseppe Maggiori (CTO) - [Hoppinger](https://www.hoppinger.com/):** A digital agency based in Rotterdam specialising in e-business portals, e-commerce solutions and complete digital transformations.  
+**Frits Klok - [TiledMedia](https://www.tiledmedia.com/):** A global frontrunner in flexible, low-latency delivery of extremely high-resolution video content to consumer devices.  
+**Kartika Sidabutar (Marketing Manager) - [YES!Delft](https://www.yesdelft.com/):** A tech incubator that helps entrepreneurs to build and grow leading technology companies.  
+**Lisette Braakenburg (Senior Relationships Manager) - [Cambridge Innovation Centre](https://cic.com/rotterdam/):** Acting as a gateway to Europe, CIC Rotterdam expands the existing community of entrepreneurs, investors and established businesses.  
+**Maaike Burgeat (Corporate Recruiter), Vincent Grente (Operations Director) - [Lunatech Labs](https://lunatech.com/):** A Rotterdam-based IT consulting, product research and development company founded in 1993.  
+**Martin Luxemburg (Director) - [Erasmus Centre of Entrepreneurship](https://ece.nl/):** The leading centre for entrepreneurship in Europe.  
+**Michael Heerkens (CTO) - [HelloPrint](https://www.helloprint.nl/):** Europe's fastest growing online print platform with activities in over 10 European countries.  
+**Tim Nooteboom (Creative Director & Managing Partner) - [YipYip](https://www.yipyip.nl/):** A mobile design and development studio based in Rotterdam.    
