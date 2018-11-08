@@ -31,7 +31,7 @@ Consequently, in an effort to fill the gap between the supply and demand for tec
 
 But that’s not to say Dutch developers aren’t in demand. Far from it. Erik van Aalzum of Jedix chimes in *“We see that more companies are looking towards changing to English as the main language **as a result of the shortage of Dutch developers in the market…** It is easy, cheap, and accessible to relocate to Rotterdam.”*
 
-And seeing as Jeroen van Rossum of Coolblue believes that *“there is no challenge in luring international developers to Rotterdam”*, you can understand why more and **more companies have switched their focus to expat workers** in the face of this local talent shortage.
+And seeing as Martijn van Citteren of Coolblue believes that *“there is no challenge in luring international developers to Rotterdam”*, you can understand why more and **more companies have switched their focus to expat workers** in the face of this local talent shortage.
 
 <br />
 
@@ -55,7 +55,7 @@ Access to tech talent in Rotterdam is scarce, but in spite of these difficulties
 
 <br />
 
-To help attract developers, companies in Rotterdam are increasingly looking to provide **attractive working environments with nice perks and fun company culture**. Jeroen van Rossum of Coolblue states, *“Company culture has a very central role in our organization. From the moment Coolblue started, we have been nurturing several core values: open surroundings, flexibility, communication, and motivation through responsibilities and empowerment.”* Michael Heerkens, the CTO of HelloPrint, chimes in, *“Culture for developers is significant nowadays. We offer freedom, responsibility, and empowerment while avoiding restrictions: **work when you want as long as you achieve the desired results. Performance is key. Results are what counts**.”*
+To help attract developers, companies in Rotterdam are increasingly looking to provide **attractive working environments with nice perks and fun company culture**. Martijn van Citteren of Coolblue states, *“Company culture has a very central role in our organization. From the moment Coolblue started, we have been nurturing several core values: open surroundings, flexibility, communication, and motivation through responsibilities and empowerment.”* Michael Heerkens, the CTO of HelloPrint, chimes in, *“Culture for developers is significant nowadays. We offer freedom, responsibility, and empowerment while avoiding restrictions: **work when you want as long as you achieve the desired results. Performance is key. Results are what counts**.”*
 
 Lunatech are taking things even further by supporting the professional development of their tech workers through **further training and education and offering extra incentives** such as salary top-ups based on company performance as well as free tickets to attend local tech conferences and meetups.
 
@@ -132,7 +132,7 @@ The continual growth of the region thus indicates the potential for startups to 
 <br />
 
 **Birgit Vene (Business Developer) - [Offcourse.io](https://www.offcourse.io/):** The open source platform for crowdsourced learning and knowledge sharing.  
-**Jeroen van Rossum (Former Recruitment Manager) - [Coolblue](https://www.coolblue.nl/):** One of the largest online shops in the Benelux.  
+**Martijn van Citteren (Tech Recruiter) - [Coolblue](https://www.coolblue.nl/):** One of the largest online shops in the Benelux.  
 **Erik van Aalzum (Chief of Product), Adriaan Mutter (IT Architect) - [Jedlix](https://jedlix.com/en/):** A smart charging application for electric vehicles.  
 **Fred Bartels (Program Manager) - [WeTechRotterdam](https://www.wetechrotterdam.com/):** A non-profit initiative aiming to boost Rotterdam’s tech ecosystem.  
 **Jorrit Glastra (CTO) - [Quantib](https://www.quantib.com/):** A Rotterdam based scale-up that provides machine learning radiology software.   
