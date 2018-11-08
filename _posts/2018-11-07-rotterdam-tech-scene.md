@@ -45,7 +45,7 @@ Kartika Sidabutar, the Marketing Manager at YES!Delft, elaborates, *“Loads of 
 
 Erik van Aalzum and Adriaan Mutter of Jedix think there is access to international talent in Rotterdam, but lament the lack of local candidates. *“What I think is missing in Rotterdam is a technical university as they have in Delft or Eindhoven. **There is no pipeline of young, high potential students in Rotterdam**.”* But while that would provide Rotterdam with a larger pool of local tech talent, it wouldn’t necessarily stop bigger companies from being first in line and having their pick of the top talent. 
 
-Maaike & Vincent, who respectively work in Tech recruitment and as the COO of Lunatech Labs, are all too familiar with this dilemma. *“Lunatech is having difficulties at the moment. We’re in contact with schools to provide us with internships and part-time/summer work students, but **many of these students are snatched away by bigger firms as soon as they graduate**.”*
+Maaike Burgeat & Vincent Grente, who respectively work in Tech recruitment and as the COO of Lunatech Labs, are all too familiar with this dilemma. *“Lunatech is having difficulties at the moment. We’re in contact with schools to provide us with internships and part-time/summer work students, but **many of these students are snatched away by bigger firms as soon as they graduate**.”*
 
 Access to tech talent in Rotterdam is scarce, but in spite of these difficulties, Rotterdam-based companies continue to make substantial efforts to attract the developers they so desperately seek.
 
@@ -55,7 +55,7 @@ Access to tech talent in Rotterdam is scarce, but in spite of these difficulties
 
 <br />
 
-To help attract developers, companies in Rotterdam are increasingly looking to provide **attractive working environments with nice perks and fun company culture**. Jeroen van Rossum of Coolblue states, *“Company culture has a very central role in our organization. From the moment Coolblue started, we have been nurturing several core values: open surroundings, flexibility, communication, and motivation through responsibilities and empowerment.”* Michael, the CTO of HelloPrint, chimes in, *“Culture for developers is significant nowadays. We offer freedom, responsibility, and empowerment while avoiding restrictions: **work when you want as long as you achieve the desired results. Performance is key. Results are what counts**.”*
+To help attract developers, companies in Rotterdam are increasingly looking to provide **attractive working environments with nice perks and fun company culture**. Jeroen van Rossum of Coolblue states, *“Company culture has a very central role in our organization. From the moment Coolblue started, we have been nurturing several core values: open surroundings, flexibility, communication, and motivation through responsibilities and empowerment.”* Michael Heerkens, the CTO of HelloPrint, chimes in, *“Culture for developers is significant nowadays. We offer freedom, responsibility, and empowerment while avoiding restrictions: **work when you want as long as you achieve the desired results. Performance is key. Results are what counts**.”*
 
 Lunatech are taking things even further by supporting the professional development of their tech workers through **further training and education and offering extra incentives** such as salary top-ups based on company performance as well as free tickets to attend local tech conferences and meetups.
 
@@ -111,7 +111,7 @@ Organizations like **WeTechRotterdam are trying to establish government-backed i
 
 With all the ongoing hard work and development, it’s easy to get excited about the future of Rotterdam. We can get a sense of optimism and positivity for the future from everyone we interviewed for this project. 
 
-Lisette, the Senior Relationships Manager from the Cambridge Innovation Centre, tells us *“Rotterdam is definitely evolving as a city. You see it in the capital and investments. **The municipality itself and foreign influences are getting involved in pretty much every level**.”* Giuseppe from Hoppinger continues,  *“Rotterdam is a city of makers and doers. The perfect compliment to Rotterdam is to be the city of engineers and technology, where real stuff is made. In combination with the maritime and port industry, Rotterdam can make real waves. **More and more competition is coming to Rotterdam, bringing substantial content and solutions to the city**.”*
+Lisette Braakenburg, the Senior Relationships Manager from the Cambridge Innovation Centre, tells us *“Rotterdam is definitely evolving as a city. You see it in the capital and investments. **The municipality itself and foreign influences are getting involved in pretty much every level**.”* Giuseppe from Hoppinger continues,  *“Rotterdam is a city of makers and doers. The perfect compliment to Rotterdam is to be the city of engineers and technology, where real stuff is made. In combination with the maritime and port industry, Rotterdam can make real waves. **More and more competition is coming to Rotterdam, bringing substantial content and solutions to the city**.”*
 
 Erik van Aazlum of Jedlix feels the same way, *“20 years ago, nobody wanted to come and live in Rotterdam because it was seen differently. Nowadays due to the initiatives and the effort the city of Rotterdam has put it in, Rotterdam is gaining momentum. Now students, expats, and nationals want to come to Rotterdam because of its personality, architecture, facilities, and events. There are loads of opportunities in the port and maritime industry. **Due to a traditional lack of innovation and disruption in those industries, there are significant opportunities to innovate and improve the fields**.”* 
 
@@ -131,16 +131,16 @@ The continual growth of the region thus indicates the potential for startups to 
 
 <br />
 
-Birgit Vene (Business Developer) - Offcourse.io  
-Jeroen van Rossum (Recruitment Manager) - Coolblue  
-Erik van Aalzum (Chief of Product), Adriaan Mutter (IT Architect) - Jedlix  
-Fred Bartels (Program Manager) - WeTechRotterdam  
-Giuseppe Maggiori (CTO) - Hoppinger  
-Frits Klok - TiledMedia  
-Fred Bartels (Program Manager) - WeTechRotterdam  
-Kartika (Marketing Manager) - YES!Delft  
-Lisette (Senior Relationships Manager ) - Cambridge Innovation Centre 
-Maaike & Vincent (HR/Tech recruitment & COO) - Lunatech Labs 
-Martin (Director) - Erasmus Centre of Entrepreneurship  
-Michael (CTO) - HelloPrint
-Tim Nooteboom (Creative Director & Managing Partner) - YipYip  
+**Birgit Vene (Business Developer) - Offcourse.io:** The open source platform for crowdsourced learning and knowledge sharing.  
+**Jeroen van Rossum (Former Recruitment Manager) - Coolblue:** One of the largest online shops in the Benelux.  
+**Erik van Aalzum (Chief of Product), Adriaan Mutter (IT Architect) - Jedlix:** A smart charging application for electric vehicles.  
+**Fred Bartels (Program Manager) - WeTechRotterdam:** A non-profit initiative aiming to boost Rotterdam’s tech ecosystem.  
+**Jorrit Glastra (CTO) - Quantib:** A Rotterdam based scale-up that provides machine learning radiology software.   
+**Giuseppe Maggiori (CTO) - Hoppinger:** A digital agency based in Rotterdam specialising in e-business portals, e-commerce solutions and complete digital transformations.  
+**Frits Klok - TiledMedia:** A global frontrunner in flexible, low-latency delivery of extremely high-resolution video content to consumer devices.  
+**Kartika Sidabutar (Marketing Manager) - YES!Delft:** A tech incubator that helps entrepreneurs to build and grow leading technology companies.  
+**Lisette Braakenburg (Senior Relationships Manager ) - Cambridge Innovation Centre:** Acting as a gateway to Europe, CIC Rotterdam expands the existing community of entrepreneurs, investors and established businesses.  
+**Maaike Burgeat (Corporate Recruiter), Vincent Grente (Operations Director) - Lunatech Labs:** A Rotterdam-based IT consulting, product research and development company founded in 1993.  
+**Martin Luxemburg (Director) - Erasmus Centre of Entrepreneurship:** The leading centre for entrepreneurship in Europe.  
+**Michael Heerkens (CTO) - HelloPrint:** Europe's fastest growing online print platform with activities in over 10 European countries.  
+**Tim Nooteboom (Creative Director & Managing Partner) - YipYip:** A mobile design and development studio based in Rotterdam.    
