@@ -57,7 +57,7 @@ Kartika Sidabutar, the Marketing Manager at YES!Delft, elaborates, *“Loads of 
 
 Erik van Aalzum and Adriaan Mutter of Jedlix think there is access to international talent in Rotterdam, but lament the lack of local candidates. *“What I think is missing in Rotterdam is a technical university as they have in Delft or Eindhoven. **There is no pipeline of young, high potential students in Rotterdam**.”* But while that would provide Rotterdam with a larger pool of local tech talent, it wouldn’t necessarily stop bigger companies from being first in line and having their pick of the top talent. 
 
-Maaike Burgeat & Vincent Grente, who respectively work in Tech recruitment and as the COO of Lunatech Labs, are all too familiar with this dilemma. *“Lunatech is having difficulties at the moment. We’re in contact with schools to provide us with internships and part-time/summer work students, but **many of these students are snatched away by bigger firms as soon as they graduate**.”*
+Maaike Burgeat & Vincent Grente, who respectively work in tech recruitment and as the COO of Lunatech Labs, are all too familiar with this dilemma. *“Lunatech is having difficulties at the moment. We’re in contact with schools to provide us with internships and part-time/summer work students, but **many of these students are snatched away by bigger firms as soon as they graduate**.”*
 
 Access to tech talent in Rotterdam is scarce, but in spite of these difficulties, Rotterdam-based companies continue to make substantial efforts to attract the developers they so desperately seek.
 
@@ -74,6 +74,7 @@ Lunatech are taking things even further by supporting the professional developme
 <br />
 
 ![View of Rotterdam](/assets/images/rotterdam22.jpg)
+*Rotterdam - Source: www.itinari.com*
 
 <br />
 
@@ -115,8 +116,8 @@ Giuseppe from Hoppinger keeps busy, *“We host at least 1 Tech Talk each month 
 
 <br />
 
-![Pixelbar.nl](/assets/images/pixelbar.jpg)
-*Pixelbar.nl - Source: Pixelbar.nl Facebook*
+![Pixelbar.nl](/assets/images/pixelbar22.png)
+*Pixelbar.nl - Source: @pixelbar010*
 
 <br />
 
