@@ -53,7 +53,7 @@ Tech talent is needed in the city, it is difficult to find tech talent here. Dev
   quote="I used to work for an annual conference in Germany called Tech Open Air, so I was able to make a lot of connections here. For people considering starting a tech career, one thing to keep in mind is that there are many different sides to working in tech. These include the business side (marketing and sales) and even graphic design. You don't need to know how to program or code. There is probably a space for you in this field and you shouldn't be intimidated if you don't have a tech background. " %}
 
 {% include quote-author.html
-  author-name="Salvatore Vacanti"
+  author-name="Salvatore Vacante"
   description="Co-Founder at Shoppi, London"
   author-image="salvatore_vacanti.jpg"
   quote="I love the spirit of Pirate Summit. This is a great venue, a cool conference. Crazy, but cool. You can create a lot of connections, with other startups and investors. I think this is a unique thing they are doing here. The ecosystem in Cologne is interesting and open, you can make a lot of connections very quickly. I think Cologne is definitely growing in technology, because of the potential for B2B startups." %}
