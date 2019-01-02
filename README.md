@@ -20,7 +20,7 @@ $ git branch my-branch-name
 $ git checkout my-branch-name
 ```
 
-3. Place your new images in the [_assets](./_assets) directory.
+3. Place your new images in the [_assets](./_assets) directory!!
 ```
 .
 ├── _assets
