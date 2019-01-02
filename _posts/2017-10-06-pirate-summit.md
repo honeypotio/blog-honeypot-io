@@ -34,7 +34,7 @@ But don’t just take my word for it. Some of the top founders of the region and
 
 
 {% include quote-author.html
-  author-name="Martin Riegel"
+  author-name="Martin Riedel"
   description="Co-Founder at Rise Technologies, based in Cologne"
   author-image="Martin_Riedel.jpg"
   quote='The Cologne tech scene is rapidly evolving and offers a more professional work experience than is found in other German tech cities. There are all kinds of smaller companies here; ranging from bio-tech to startups focused on helping corporations digitalize. There are numerous niche companies designed to fulfill one specific role or problem and a lot of investors in the ecosystem, which means a ton of potential to find support for startups. Cologne is very centralized. The state borders both the Netherlands and Belgium and offers quick access to both northern and southern Germany. 
