@@ -26,7 +26,7 @@ Sign in to Honeypot and navigate to your profile on the top right of the header.
 
 <br>
 
-![Connect to ATS](/assets/images/Personio-screenshot-1.png)
+![Connect to ATS](/assets/images/personio-22.png)
 
 <br>
 
