@@ -11,7 +11,7 @@ importance: 2
 ---
 
 
-Every developer on Honeypot is prescreened before he is accepted onto a batch. This is beneficial for both sides: for devs, passing the challenge grants access to a platform with high quality companies and job offers, and for companies,
+Every developer on Honeypot is prescreened before being accepted into a batch. This is beneficial for both sides: for devs, passing the challenge grants access to a platform with high quality companies and job offers, and for companies,
 pre-screening simplifies their work. Here's how it all works...
 
 <!--more--> 
