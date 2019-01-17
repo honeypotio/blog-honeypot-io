@@ -80,7 +80,7 @@ Software developers are in high demand. In your interview invite, you want to pi
 
 <br />
 
-## 6. Be personal! 
+## 7. Be personal! 
 
 <br />
 
