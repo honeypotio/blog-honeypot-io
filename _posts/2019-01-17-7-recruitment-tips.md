@@ -50,6 +50,8 @@ You increase your chances of finding great developers massively if you include t
 
 ![Discover talents to Honeypot](/assets/images/recruitment1.png)
 
+<br />
+
 ## 4. Be Fast
 
 <br />
@@ -145,10 +147,4 @@ I would like to invite you to our remote programming test.When would be a good t
 The test should take about 3 hours. Please let me know if you would like to continue the process. 
 Best, ”*
 
-<br />
-
-Ultimately, interview invites are meant to be simple and informative. By following these seven tips, your invites can attract more eyes and even lead to your next hire. 
-
-<br />
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHoneypotio%2Fvideos%2F2206716332934470%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+Ultimately, interview invites are meant to be **simple and informative.** By following these seven tips, your invites can attract more eyes and even lead to your next hire. 
