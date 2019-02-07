@@ -12,6 +12,8 @@ importance: 2
 
 **The EU Blue Card** is an EU-wide work permit which allows highly-skilled non-EU citizens to live and work in the EU. Besides that, it offers many other benefits to potential card holders that might be attractive to you - **Let´s explore what is in for you once you land your dream job!**
 
+<!--more-->
+
 In general, the Blue Card is valid in all EU-member states, **except Denmark, Ireland, and the UK.** Initially, it is issued for a limited period of four years at most. If the employment contract has a term of fewer than four years, the Blue Card is issued for the duration of the employment contract plus three months.
 
 <br />
