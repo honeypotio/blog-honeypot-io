@@ -16,7 +16,7 @@ Dubbed as one of the most inventive cities in the world and the birthplace of Ph
 
 <br />
 
-![Brainport Eindhoven](/assets/images/eindhoven1.png)
+![Brainport Eindhoven](/assets/images/eindhoven4.png)
 *Source: https://innovationorigins.com - Technology student ambassadors from India, Egypt, Brazil, Hungary and more visit Brainport Eindhoven for an extensive tour of high-tech companies the city.*
 
 <br />
@@ -42,7 +42,7 @@ Likewise, Danny Peeters, the Lead Back-End Developer at [Studyportals](https://w
 <br /> 
 
 ![TU Eindhoven](/assets/images/eindhoven2.jpeg)
-*source: https://thisiseindhoven.com - TU Eindhoven consist of 7,300 students, 250 professors, 600 Ph.D. students, 200 postdoctoral researchers and 2047 employees. Source: Thissieindhoven.com*
+*Source: https://thisiseindhoven.com - TU Eindhoven consist of 7,300 students, 250 professors, 600 Ph.D. students, 200 postdoctoral researchers and 2047 employees. Source: Thissieindhoven.com*
 
 <br />
 
@@ -57,7 +57,7 @@ In addition to technology and sciences, design is also another big focus in Eind
 <br />
 
 ![Eindhoven design community](/assets/images/eindhoven3.jpg)
-*source: https://agne-k.com*
+*Source: https://agne-k.com*
 
 <br />
 
@@ -71,7 +71,7 @@ Since 2014, **unemployment in Eindhoven has also fallen dramatically.** This dro
 
 Tech talents in Eindhoven will be a central focus of Brainport Eindhoven in the coming years. During our interview with Yvonne van Hest, the Program Director of Brainport Development, she shares,
 
-	“More companies within the region continue to have vacant positions due to shortage of personnel. Lack of tech talents in Eindhoven is expected to be a major challenge in the coming years. Brainport aims to tackle this shortage by investing in the technology and IT community through not only educational events but also by pushing initiatives to hire from the international community. Working together with local and international talents is vital for the growth of Eindhoven's tech community.”
+“More companies within the region continue to have vacant positions due to shortage of personnel. Lack of tech talents in Eindhoven is expected to be a major challenge in the coming years. Brainport aims to tackle this shortage by investing in the technology and IT community through not only educational events but also by pushing initiatives to hire from the international community. Working together with local and international talents is vital for the growth of Eindhoven's tech community.”
 
 <br />
 
@@ -83,11 +83,11 @@ With Honeypot’s mission to match tech talents with great companies, we launche
 
 As mentioned, academic institutions have supplied many of the employers for local startups and companies. However, there's also an emphasis on the international aspects of the talent pool. A community member comments,
 
-	“Small and  medium-sized companies are  starting to shift towards non-Dutch candidates as well. Big companies such as ASML and Philips are the main catalysts for expats to come here, who welcome hundreds a month. After an X amount of time, they will start looking for other jobs. We want to make sure they do that in our region.” 
+“Small and  medium-sized companies are  starting to shift towards non-Dutch candidates as well. Big companies such as ASML and Philips are the main catalysts for expats to come here, who welcome hundreds a month. After an X amount of time, they will start looking for other jobs. We want to make sure they do that in our region.” 
 
 Rutger Peeters, the CEO of [Gamehouse](http://talent.gamehouse.com/) also shares with us that **Eindhoven is appealing to developers and other international candidates because of the number of high-tech opportunities.** He continues,
 
-	“Gamehouse pretty much only recruits across borders. There is not a big pool of suitable developers for Gamehouse, so we search for international talent. Eindhoven is attractive to expats because it is a city where you can build your life. As mentioned, Amsterdam is too expensive, busy, and too touristy. . There is a more relaxed work-life balance. Developers come here after having lived in Amsterdam for some time because it is more relaxed and in-depth.”
+“Gamehouse pretty much only recruits across borders. There is not a big pool of suitable developers for Gamehouse, so we search for international talent. Eindhoven is attractive to expats because it is a city where you can build your life. As mentioned, Amsterdam is too expensive, busy, and too touristy. . There is a more relaxed work-life balance. Developers come here after having lived in Amsterdam for some time because it is more relaxed and in-depth.”
 
 Danny Peeters, Lead BE Dev at Studyportals, also comments that “Studyportals has the advantage of being a very internationally minded company. We have 35+ nationalities at our office.” And Tim Drijvers, CTO of [SendCloud](https://www.sendcloud.nl/) additionally adds, “there are  15+ nationalities in our team of 75. Daily work becomes more interesting when we have different backgrounds and perspectives.” The global tech hub has thus trickled into the diverse range of backgrounds found throughout the city.
 
@@ -103,7 +103,7 @@ This visa process consists of a residence permit program that allows founders to
 
 From a community perspective, Roy Schreurs from Expat Mortgages also adds that “It’s a very welcoming and familiar city for expats. As one-third of the city’s population is foreign, it’s very common to hear English spoken on the streets. Jeroen Buskens, General Manager at Districs, comments, 
 
-	“There is a nice climate for developers here, especially international developers, quite coherent. Expats tend to get close to each other because it is a smaller city. Places such as Brainport XL, Stripe S, Seed Street make the tech hubs even more relevant.” 
+“There is a nice climate for developers here, especially international developers, quite coherent. Expats tend to get close to each other because it is a smaller city. Places such as Brainport XL, Stripe S, Seed Street make the tech hubs even more relevant.” 
 
 <br />
 
