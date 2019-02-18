@@ -1,7 +1,7 @@
 ---
 title:   Eindhoven Tech Scene: University influence, hiring developers and the startup community"
 subtitle: "Dubbed as one of the most inventive cities in the world and the birthplace of Philips electronics, Eindhoven sits south of the Dutch capital. With over 22.6 patents produced per 100,000 residents, this innovative city is gaining attention from tech talents and international entrepreneurs."
-date:    2019-2-18 10:10:16
+date:    2019-02-18 10:10:16
 layout:  post
 author:  priscilla_tenggara
 categories: [Developer Careers]
