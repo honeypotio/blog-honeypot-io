@@ -85,7 +85,7 @@ As mentioned, academic institutions have supplied many of the employers for loca
 
 “Small and  medium-sized companies are  starting to shift towards non-Dutch candidates as well. Big companies such as ASML and Philips are the main catalysts for expats to come here, who welcome hundreds a month. After an X amount of time, they will start looking for other jobs. We want to make sure they do that in our region.” 
 
-Rutger Peeters, the CEO of [Gamehouse](http://talent.gamehouse.com/) also shares with us that **Eindhoven is appealing to developers and other international candidates because of the number of high-tech opportunities.** He continues,
+Rutger Peters, the CEO of [Gamehouse](http://talent.gamehouse.com/) also shares with us that **Eindhoven is appealing to developers and other international candidates because of the number of high-tech opportunities.** He continues,
 
 “Gamehouse pretty much only recruits across borders. There is not a big pool of suitable developers for Gamehouse, so we search for international talent. Eindhoven is attractive to expats because it is a city where you can build your life. As mentioned, Amsterdam is too expensive, busy, and too touristy. . There is a more relaxed work-life balance. Developers come here after having lived in Amsterdam for some time because it is more relaxed and in-depth.”
 
@@ -159,12 +159,12 @@ In all, influence from top level institutions, new tech initiatives and the glob
 ---
 **Much gratitude to everyone who sat with us and shared about the Eindhoven tech scene. You can learn more about them and their companies below:**
 
-**Bartosz Kuzmicki (CTO) - [Withlocals](https://www.withlocals.com/nl/):** Connecting locals and travellers through food and experiences.  
+**Bartosz Kuzmicki (CTO) - [Withlocals](https://www.withlocals.com/):** Connecting locals and travellers through food and experiences.  
 **Danny Peeters (Lead Backend Developer) - [Studyportals](https://www.studyportals.com/):** Europe’s biggest online platform for education choice.  
 **Hans Aerts (VP of Software Development) - [TomTom](https://www.tomtom.com/):** Leading independent location, navigation and map technology specialist.  
 **Jeroen Buskens (General Manager) - [Districs](http://www.districs.nl/):** Supporting distribution companies with software solutions specializing in mathematical engineering.  
 **Natasja Eerens (Senior Advisor Marketing & Communication Labour Market) - [Brainport Development](https://www.brainport.nl/):** Economic development organisation for the Brainport region.  
 **Olivier Giraud (Marketing Manager) - [Valid](https://www.valid.nl/):** Cloud solutions and outsourcing service provider.    
 **Ruben van Vreeland (CEO) - [BitSensor](https://bitsensor.io/):** Advanced application security and insights, winner of "Startup of the Year 2017" by Computable.  
-**Rutger Peeters (CEO) - [Gamehouse](http://www.gamehouse.com/):** Provider of high-quality free games and pioneers of story games.  
+**Rutger Peters (CEO) - [Gamehouse](http://www.gamehouse.com/):** Provider of high-quality free games and pioneers of story games.  
 **Tim Drijvers (CTO) - [SendCloud](https://www.sendcloud.nl/):** Smart shipping solution for E-Commerce.  
