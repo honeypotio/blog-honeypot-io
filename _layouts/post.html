@@ -89,7 +89,7 @@ layout: default
           linkedin=author.social.linkedin
         %}
 
-        {% include sign-up.html %}
+        {% include sign-up.html cta=cta %}
       </div><!-- ./post -->
     </div><!-- ./col-md-9 -->
 
@@ -105,14 +105,5 @@ layout: default
     </div>
   </div>
 </div>
-
-{% if cta %}
-  {% include post-cta.html
-    title=cta.title
-    subtitle=cta.subtitle
-    cta_link=cta.cta_link
-    cta_text=cta.cta_text
-  %}
-{% endif %}
 
 {% include footer.html bluefooter=true %}
