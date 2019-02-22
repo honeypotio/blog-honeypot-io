@@ -1,5 +1,18 @@
 talent:
-  title: 'Ready for a new job as a developer?'
-  subtitle: 'On Honeypot companies apply to you'
-  cta_link: http://honeypot.io
-  cta_text: 'Sign up >'
+  headline: 'Searching for a Tech Job? Join Honeypot!'
+  tagline: 'Let companies in Europe Apply to You!'
+  form_action: https://app.honeypot.io/users/sign_up
+  button_text: 'Join Honeypot'
+  text_input_varname: user[firstname]
+  text_input_placeholder: 'First Name'
+  email_input_varname: user[email]
+  email_input_placeholder: 'Your Email'
+recruiter:
+  headline: 'Looking for tech talents? Join Honeypot!'
+  tagline: 'Over 1,000 candidates sign up weekly and over 1,500 companies hiring with us.'
+  form_action: https://app.honeypot.io/invite_requests/new
+  button_text: 'Join Honeypot'
+  text_input_varname: invite_request[name]
+  text_input_placeholder: 'Company Name'
+  email_input_varname: invite_request[contact_email]
+  email_input_placeholder: 'Your Email'

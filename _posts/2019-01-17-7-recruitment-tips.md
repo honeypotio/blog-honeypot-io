@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: recruitment-tips.png
 permalink:  7-recruitment-tips-to-get-your-invite-accepted/
 importance: 2
+cta: recruiter
 ---
 
 Tech recruitment can be tough, for employers and developers alike. Employers often have to send hundreds of messages and get few responses, while developers have to read through dozens of generic messages. Here at Honeypot, we want to change tech recruitment, for the better, and make sure companies can easily connect with the best tech talents from around the globe. 

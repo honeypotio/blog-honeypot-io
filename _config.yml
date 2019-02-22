@@ -40,3 +40,4 @@ defaults:
       path: ""
     values:
       excerpt_separator: <!--more-->
+      cta: talent
