@@ -8,6 +8,7 @@ categories: [Developer Careers]
 cover_image: eindhoven-tech-scene.png
 permalink: eindhoven-tech-scene/
 importance: 2
+cta: recruiter
 ---
 
 Dubbed as one of the most inventive cities in the world and the birthplace of Philips electronics, Eindhoven sits south of the Dutch capital. With [over 22.6 patents produced per 100,000 residents](https://www.tue.nl/en/tue-campus/news/20-03-2018-patents-remain-key-indicator-for-state-of-innovation/), this innovative city is gaining attention from tech talents and international entrepreneurs. The growing startup community in Eindhoven is spearheaded by [Brainport Eindhoven](https://brainporteindhoven.com/), a space created by the municipality to stimulate tech and design collaborations. 
