@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: employer-branding.png
 permalink:  benefits-of-employer-branding/
 importance: 2
+cta: recruiter
 ---
 
 Back in 2004, a Google search of the term "employer branding" would have yielded 3000 hits. **Today that number is well over 2 million.**
