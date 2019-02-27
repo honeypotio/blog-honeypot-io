@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: startup_hamburg.png
 permalink:  hamburg-startup-map/
 importance: 2
+cta: recruiter
 ---
 
 When you think of startups in Germany, the first thing that comes to mind is Berlin. What is often forgotten is Hamburg, the leafy, fiercely proud port city in Germany’s north west. A city with a vibrant history of trade and media is slowly and silently developing as a tech hub in its own right. More understated than Munich, a lot friendlier than Berlin, and with a strong regional character of its own, Hamburg has a lot to offer entrepreneurs.
