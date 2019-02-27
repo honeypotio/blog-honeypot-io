@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: wbso-grant.png
 permalink:  WBSO-grant-hiring-developers-netherlands/
 importance: 2
+cta: recruiter
 ---
 
 Building a great team can be expensive, particularly in the field of engineering where seasoned developers with over 8 years of experience can [earn upwards of 58k per year](http://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/). 
