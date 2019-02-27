@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: theather-software.png
 permalink:  behind-the-curtains-of-software-development-and-how-it-resembles-theatre/
 importance: 2
+cta: recruiter
 ---
 
 Have you ever wondered how software is built? Here is an attempt to explain software development by using an analogy with theatre. Let’s imagine we have a theatre production to stage and a software product to launch. The theatre art has some surprising similarities with software development.
