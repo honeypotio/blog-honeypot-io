@@ -37,7 +37,7 @@ We understand that especially the salary range can be tricky since it depends on
 
 <br />
 
-Talents on Honeypot don’t know which companies are on the platform and which vacancies they have. That means that unless you reach out to candidates they will never know that you might be looking for someone with exactly their skills and knowledge. Don’t hesitate to reach out to talents even when they don’t match your requirements by 100% or you have questions on their CV. The talent has had many jobs in a relatively short period of time? Or indicates to speak advanced German and you don’t know if that is good enough? Simply send them an invite and discuss everything in a quick introductory call - always keep in mind that an interview invite is only a first point of contact with the talent and does not necessarily have to lead to a full-fledged onsite interview. 
+Talents on Honeypot don’t know which companies are on the platform and which vacancies they have. That means that unless you reach out to the candidates they will never know that you might be looking for someone with exactly their skills and knowledge. Don’t hesitate to reach out to talents even when they don’t match your requirements by 100% or you have questions on their CV. The talent has had many jobs in a relatively short period of time? Or indicates to speak advanced German and you don’t know if that is good enough? Simply send them an invite and discuss everything in a quick introductory call - always keep in mind that an interview invite is only a first point of contact with the talent and does not necessarily have to lead to a full-fledged onsite interview. 
 
 <br />
 
