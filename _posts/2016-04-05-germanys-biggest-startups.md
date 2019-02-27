@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: biggest-german-startups.png
 permalink:  germanys-biggest-startups/
 importance: 2
+cta: recruiter
 ---
 
 Berlin is home to 19 of Germany’s largest startups. Combined those startups secured $3,272 million in funding from January to September 2015. Following Berlin, the most successful startup cities, in terms of funding, are the northerly port city of Hamburg ($852 million) and the southerly Bavarian capital of Munich ($427 million). 
