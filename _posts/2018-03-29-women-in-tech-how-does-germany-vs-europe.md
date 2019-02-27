@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: women-in-tech-germany.png
 permalink:  women-in-tech-germany/
 importance: 2
+gta: recruiter
 ---
 
 2017 was a landmark year for women in the fight for gender equality, with the #MeToo and Time’s Up movements inspiring more women than ever before to speak up, but there’s still tremendous work to be done when it comes to the economic empowerment of women. **Particularly in tech.**
