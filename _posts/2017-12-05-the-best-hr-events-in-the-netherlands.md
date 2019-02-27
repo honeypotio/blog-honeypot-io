@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: hr-netherlands.png
 permalink:  the-best-hr-events-in-the-netherlands/
 importance: 2
+cta: recruiter
 ---
 We've put together a curated list of the best HR events in the Netherlands in 2018. Without further ado, here they are:   
 
