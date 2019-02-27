@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: munich-tech-map-cover.png
 permalink:  munich-tech-map/
 importance: 2
+cta: recruiter
 ---
 
 While Berlin is the capital of Germany, Munich is its economic heartland. The Bavarian capital has the highest purchasing power of any German city and many of large German companies are headquartered here, including global corporations such as Allianz, BMW, MAN, Munich Re, and Siemens. 
