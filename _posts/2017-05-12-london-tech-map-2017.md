@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: london-tech-map-cover.png
 permalink: london-tech-map/
 importance: 2
+cta: recruiter
 ---
 
 # London Tech Map 2017
