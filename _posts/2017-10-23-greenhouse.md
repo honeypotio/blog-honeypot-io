@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: prduct-update-greenhouse.png
 permalink:  greenhouse/
 importance: 2
+cta: recruiter
 ---
 
 We are happy to announce our first **Applicant Tracking System Integration**  - [Greenhouse](https://www.greenhouse.io/). 
