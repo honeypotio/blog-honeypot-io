@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: dutch-visa.png
 permalink:  2017-02-21-visa-developers-netherlands/
 importance: 2
+cta: recruiter
 ---
 
 Right now, many cities in the EU have exciting tech scenes. While London and Berlin may be the most prominent destinations for developers looking to work with startups, the Netherlands is fast becoming an attractive destination. Understanding the Dutch visa process for developers is important for those looking to work in the city. 
