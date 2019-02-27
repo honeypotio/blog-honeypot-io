@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: recruiting-startup-award.png
 permalink:  recruiting-startup-of-the-year-hiring-success-18/
 importance: 2
+cta: recruiter
 ---
 
 Honeypot was up against some tough competition with the likes of Recruitsy, Talent Savant, Job Pal and Recruiterly also competing for the award and we’re absolutely thrilled, chuffed, stoked / whatever-other-word-you-want-to-use-for-excited to say that we won **Recruiting Startup of the Year** at [Hiring Success 18](http://hire18.com/) in San Francisco!
