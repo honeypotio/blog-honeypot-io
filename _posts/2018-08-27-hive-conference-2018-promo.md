@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: hive-promo.png
 permalink:  hive-conference-for-HR-and-engineering-leaders/
 importance: 2
+cta: recruiter
 ---
 
 Are you a HR professional looking to **recruit the best tech talent** or a CTO wondering how to **scale up your engineering team to greatness**? Whether you're yearning to learn more about employer branding, employee experience, organizational design or reward systems, you won't want to miss our very first [Hive conference](https://hive.honeypot.io/hive-conference-2018/)!
