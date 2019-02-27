@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: frontend.png
 permalink:  interview-questions-for-a-frontend-developer/
 importance: 2
+cta: recruiter
 ---
 
 I talk to a lot of frontend developers (and backend and mobile too!) and have begun to get a feeling for the types of questions which open up conversation, allowing frontend engineers a chance to express their ideas. I want to share 7 of my favourites questions, which could form the basis of a good bank of non-technical interview questions for a frontend developer.
