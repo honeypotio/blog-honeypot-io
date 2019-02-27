@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: hello_hamburg.png
 permalink:  honeypot-launches-in-hamburg/
 importance: 2
+cta: recruiter
 ---
 
 Moin Moin Hamburg! Honeypot's here!  
