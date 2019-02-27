@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: hr-germany.png
 permalink:  best-hr-events-germany-austria-2018/
 importance: 2
+cta: recruiter
 ---
 
 The start of the year is the perfect time to plan your events schedule for 2018. Learning from experts and networking with peers is the best way to keep up to date on all areas of Human Resources and Talent Acquisition, from sourcing, staffing and recruiting to onboarding, analytics, performance management, employer branding and everything in between. This article summarizes our top picks for HR and Talent Acquisiton events in Germany in 2018.   
