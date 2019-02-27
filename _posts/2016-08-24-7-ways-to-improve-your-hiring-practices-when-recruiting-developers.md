@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: hiring-hacks.png
 permalink:  7-ways-to-improve-your-hiring-practices-when-recruiting-developers/
 importance: 2
+cta: recruiter
 ---
 
 At Honeypot, we want to make tech recruitment better for both companies and developers. We receive constructive feedback from developers about various recruiting process on a daily basis. We have picked our seven most frequently occurring points, which can help you improve your tech recruitment, today!
