@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: hr-cheatsheet.png
 permalink:  hr-cheatsheet/
 importance: 2
+cta: recruiter
 ---
 
 Hiring developers is tough. Especially for HR people coming from non-technical backgrounds. Getting up to speed on all the frameworks, programming languages and tools that developers use can take months. But knowing key developer terminology and associating it with the skillset of the developer is a huge advantage and will speed up the hiring process. That’s why we created this concise technical HR cheat sheet with a  list of backend and frontend languages and their respective frameworks and testing tools.
