@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: boolean-search.png
 permalink:  product-update-hello-boolean-search/
 importance: 2
+cta: recruiter
 ---
 
 ## Honeypot Advanced Search
