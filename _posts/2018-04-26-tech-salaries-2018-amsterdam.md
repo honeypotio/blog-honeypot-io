@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: tech-salaries-amsterdam.png
 permalink:  how-much-do-developers-earn-in-amsterdam-2018/
 importance: 2
+cta: recruiter
 ---
 
 Did you know Amsterdam boasted Europe’s fastest broadband speeds, is ranked fourth globally in app invention and development and was named [Europe’s best tech city to work in by Hubspot?](https://www.hubspot.com/european-tech-scene/cities?name=amsterdam) 
