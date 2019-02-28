@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: interview-questions-for-devops.png
 permalink:  5-interview-questions-for-devops/
 importance: 2
+cta: recruiter
 ---
 DevOps is a pretty new term, which makes hiring DevOps engineers a little challenging. The term “DevOps” first appeared in 2008, as part of a movement to bring greater collaboration between developers and IT professionals while improving software delivery. 
 
