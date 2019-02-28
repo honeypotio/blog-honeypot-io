@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: batch.png
 permalink:  company-profile-edit/
 importance: 2
+cta: recruiter
 ---
 
 Today, we are announcing a new way to take control over your company's profile on Honeypot. We recently launched an all new Company Profile Page where your organization can present itself to developers. Before this update, these pages were curated by Honeypot's Customer Success team based on your feedback. Now, we are opening them to be directly managed by you.
