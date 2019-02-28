@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: personio-update.png
 permalink:  how-to-integrate-personio-and-honeypot/
 importance: 2
+cta: recruiter
 ---
 
 One of Germany’s largest **Applicant Tracking Systems** and Germany’s largest **Developer Job Platform** have joined forces to make recruiters' lives easier. As of today, Personio users can automatically upload candidates directly from Honeypot to Personio. 
