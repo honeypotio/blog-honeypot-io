@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: account-manager.png
 permalink:  5-inspirational-books-for-hr-in-startups/
 importance: 2
+cta: recruiter
 ---
 
 Summer is a great time to catch up on some reading.  Why not spend your time reading something inspirational that will help you shape a productive and positive work environment? We compiled a list of books that we believe every modern HR professional should read. 

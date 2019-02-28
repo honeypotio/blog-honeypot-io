@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: ibb_program.png
 permalink:  hiring-junior-developers/
 importance: 2
+cta: recruiter
 ---
 
 

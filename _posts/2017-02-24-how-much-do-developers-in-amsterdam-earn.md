@@ -8,6 +8,7 @@ categories: [Developer Careers]
 cover_image: dev-salaries-netherlands.png
 permalink: how-much-do-developers-in-amsterdam-earn/
 importance: 2
+cta: recruiter
 ---
 
 There are between [1,900 and 2,600 tech startups](http://blog.honeypot.io/amsterdam-tech-map/) in the Amsterdam-Startup Delta, the geographical triangle, which covers Amsterdam, the Hague and Eindhoven. Whatsmore, large tech companies such as Uber, Tesla, Avazu, Elastic and Atlassian, have major offices in the Dutch Capital. That means a lot of demand for developers. But how does this demand translate into the average salary of a developer in Amsterdam? 

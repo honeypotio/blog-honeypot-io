@@ -10,6 +10,7 @@ featured: true
 featured_weight: 5
 permalink:  berlin-startup-map
 importance: 2
+cta: recruiter
 ---
 
 Did you know there are over 1800 active startup companies operating in Berlin? To discover more about them, we took a 10% sample sorted them by industry and mapped them by U-bahn station. The following post details our findings.

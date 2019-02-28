@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: cto.png
 permalink:  this-is-what-it-takes-to-become-a-berlin-cto/
 importance: 2
+cta: recruiter
 ---
 
 We researched 58 CTOs from Berlin’s biggest startups to reveal what it takes to be a CTO in this city. Combined our sample companies have raised more than  $3.06 billion in funding and span 26 industries. The research reveals the nationalities, educational and work background, years of experience and skills of Berlin's CTOs.

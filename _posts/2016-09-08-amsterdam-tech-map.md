@@ -10,6 +10,7 @@ categories: [Research]
 cover_image: amsterdam-tech-map.png
 permalink:  amsterdam-tech-map/
 importance: 2
+cta: recruiter
 ---
 
 Amsterdam’s lifestyle is world famous. But how are the Dutch when it comes to building and scaling tech companies? And what is life like for software developers in Amsterdam? 

@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: embedded.png
 permalink:  what-is-an-embedded-engineer/
 importance: 2
+cta: recruiter
 ---
 
 With the rise of the Internet of things (IoT), autonomous driving, and robotics, low level firmware and embedded engineering skills are becoming more and more relevant, particularly in Germany. Writing embedded software requires very different skills from enterprise or application software development. To celebrate the new filter for embedded engineers on Honeypot, we prepared six questions you always wanted to know about embedded engineers, but were too afraid to ask. 

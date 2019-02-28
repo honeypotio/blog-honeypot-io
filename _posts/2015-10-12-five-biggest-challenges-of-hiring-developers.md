@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: challenge.png
 permalink:  2015-10-12-five-biggest-challenges-of-hiring-developers/
 importance: 2
+cta: recruiter
 ---
 
 Hiring developers is hard. Really hard.  And it's hard for many reasons. It's not just  the scarcity of good developers that's challenging, it's also the difficulty of understanding their skills, judging their code, measuring cultural fit, and on and on it goes.

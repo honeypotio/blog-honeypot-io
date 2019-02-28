@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: what-is-devops-cover.png
 permalink:  what-is-devops/
 importance: 2
+cta: recruiter
 ---
 
 Type “what is DevOps” into Google and a staggering amount of results show. Considering DevOps is a relatively new term and job function in IT, there still seems to be some confusion among non-technical professionals as to what the role involves. This blog post gives a history of DevOps, provides a short comparison to System Admin, and finishes off with a glossary of DevOps terms.

@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: where.png
 permalink:  where-do-developers-on-honeypot-come-from/
 importance: 2
+cta: recruiter
 ---
 
 Ever wondered where the developers using Honeypot come from?

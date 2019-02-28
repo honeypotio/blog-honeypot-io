@@ -8,6 +8,7 @@ categories: [Research]
 cover_image: tech-salaries-germany-1.png
 permalink:  how-much-do-developers-earn-in-germany/
 importance: 2
+cta: recruiter
 ---
 
 Home to a host of startup hubs, angel investors and seasoned tech companies, Germany’s tech scene has grown considerably over the last few years to become one of the most prominent in Europe.
