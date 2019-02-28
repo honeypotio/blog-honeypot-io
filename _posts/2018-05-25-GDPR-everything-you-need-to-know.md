@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: gdpr.png
 permalink:  gdpr-everything-you-need-to-know/
 importance: 2
+cta: recruiter
 ---
 
 **18...** That’s the number of emails I’ve received so far today from companies updating their **privacy policy and terms of service**. For what it’s worth though, I’m not complaining. I mean, all these privacy updates are in our best interests as consumers and web users, right? Plus we sent out our own GDPR email last night so we’d hate to be hypocrites! 😂
