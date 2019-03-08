@@ -26,7 +26,7 @@ Over to you, Isabel..
 
 <br />
 
-<p align="center"><img alt="Isabel Hübner" src="/assets/images/isabel-h.jpg.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Isabel Hübner" src="/assets/images/isabel-h.jpg" style="width:100% !important;"></p><br>
 
 
 *"My daughter is my biggest motivation. I want to be someone she can be proud of, someone who lives independently, someone who earns enough money to build a life. I love learning new things, playing with numbers and helping people - that’s probably the perfect description of my role!*
