@@ -14,7 +14,7 @@ Here at Honeypot, we're truly blessed to have some amazing women on the team. We
 
 <!--more-->
 
-Honeypot is no exception to that rule and our beloved ladies play an enormous role in shaping the company's culture, vision and future. Be it in Talent or Customer Management, Marketing, Product or Data (and the list goes on), we empower our women to do great things and make a lasting impact, something we see happen time and time again!
+Honeypot is no exception to that rule and our beloved ladies play an enormous role in shaping the company's culture, vision and future. Be it in Talent or Customer Management, Marketing, Product or Data (and the list goes on), we empower our women to do great things and make a lasting impact, something we see happen time and time again.
 
 To celebrate **Interational Women's Day** and the amazing women in the company, we want to shed some light on some of the women who make Honeypot.. Well, Honeypot!
 
