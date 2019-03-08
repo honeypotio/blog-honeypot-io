@@ -142,7 +142,7 @@ Over to you, Isabel..
 
 <br />
 
-As you can see, our women are driving the company forward, leading teams and defining the vision we want to create. But know that we sadly couldn't showcase each and every amazing woman contributing to our success, there are just too many to mention! As you can see below...
+As you can see, our women are driving the company forward, leading teams and shaping our future. Know that we sadly couldn't showcase each and every amazing woman contributing to our success, there are just too many to mention! As you can see below...
 
 <br />
 
