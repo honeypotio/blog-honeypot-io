@@ -10,7 +10,7 @@ permalink:  women-of-honeypot/
 importance: 2
 ---
 
-At Honeypot, we are committed to actively promoting women in tech. Our 2018 [Women in Tech research report](https://www.honeypot.io/women-in-tech-2018/)) revealed how far we, as an industry, still have to go. But small, consistent steps lead to big change. To celebrate International Women's Day we asked several of members of our team to tell their personal story. Be it in Talent or Customer Management, Marketing, Product or Data, the women featured here are creating impact and showing the power of a diverse workforce. 
+At Honeypot, we are committed to actively promoting women in tech. Our 2018 [Women in Tech Research Report](https://www.honeypot.io/women-in-tech-2018/) revealed how far we, as an industry, still have to go. But small, consistent steps lead to big change. To celebrate International Women's Day we asked several of members of our team to tell their personal story. Be it in Talent or Customer Management, Marketing, Product or Data, the women featured here are creating impact and showing the power of a diverse workforce. 
 
 
 <!--more-->
