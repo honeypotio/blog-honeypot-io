@@ -78,7 +78,7 @@ Over to you, Isabel..
 
 *Sure there are also days when I have the feeling I am not mastering my tasks and they just keep piling up: I know this will also change with new tools we will implement, new processes we will agree on and the things we will learn while testing and trying. I like the challenge, the exchange of ideas, the support everyone offers and the freedom of seeing failure as learning.*
 
-*Besides taking care of my clients I also reach out to potential clients. I do enjoy this sales side, too - client outreach, pitching and going to events, for example. But I don’t 100% see myself in a sales role in the future. I don’t believe sales is one of my true strengths and I want to focus on what I can do best. As I deeply care for people I want to be the social glue in a team that works close together. I see myself as a driver, mediator and connector. Working rather on few topics I can focus on and put all my heart into then handling many many different tasks and staying in lose contact. My strength lies in my drive for quality and detail.*"
+*Besides taking care of my clients I also reach out to potential clients. I do enjoy this sales side, too - client outreach, pitching and going to events, for example. But I don’t 100% see myself in a sales role in the future. I don’t believe sales is one of my true strengths and I want to focus on what I can do best. As I deeply care for people I want to be the social glue in a team that works close together. I see myself as a driver, mediator and connector. My strength lies in my drive for quality and detail.*"
 
 <br />
 
