@@ -10,13 +10,11 @@ permalink:  women-of-honeypot/
 importance: 2
 ---
 
-Here at Honeypot, we're truly blessed to have some amazing women on the team. We're very strong believers in **gender equality and the importance of empowering women** to thrive (as illustrated by our [Women in Tech research](https://www.honeypot.io/women-in-tech-2018/)) and recognize just how important women - as mothers, sisters, community leaders - are in shaping society.
+At Honeypot, we are committed to actively promoting women in tech. Our 2018 [Women in Tech research report](https://www.honeypot.io/women-in-tech-2018/)) revealed how far we, as an industry, still have to go. But small, consistent steps lead to big change. To celebrate International Women's Day we asked several of members of our team to tell their personal story. Be it in Talent or Customer Management, Marketing, Product or Data, the women featured here are creating impact and showing the power of a diverse workforce. 
+
 
 <!--more-->
 
-Honeypot is no exception to that rule and our beloved ladies play an enormous role in shaping the company's culture, vision and future. Be it in Talent or Customer Management, Marketing, Product or Data (and the list goes on), we empower our women to do great things and make a lasting impact, something we see happen time and time again.
-
-To celebrate **Interational Women's Day** and the amazing women in the company, we want to shed some light on some of the women who make Honeypot.. Well, Honeypot!
 
 Over to you, Isabel..
 
