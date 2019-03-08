@@ -101,7 +101,7 @@ Over to you, Isabel..
 
 <br />
 
-<p align="center"><img alt="aura Schukkink" src="/assets/images/laura-s.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Laura Schukkink" src="/assets/images/laura-s.jpg" style="width:100% !important;"></p><br>
 
 
 *"When I was a kid I dreamt of becoming a musical star, on Wednesdays and Fridays I attended a musical club where I danced, acted and sang. Although I loved it, it turned out my talent for singing wasn't my strongest suite. My colleagues can back that up after hearing me sing at our Christmas party. Looking back it was clear from a very young age that I wanted to work with people and end up in some kind of position in which I could lead. During my bachelor studies I loved being in debate teams and also enjoyed taking the lead in group projects.*
