@@ -17,7 +17,7 @@ Hello! Welcome to our first Honeypot blog post. We launched the platform last Th
 <!--more-->
 
 
-So now that we have launched it's time to ask what is Honeypot all about?
+So now that we have launched, it's time to ask what is Honeypot all about?
 
 ### We believe IT recruitment isn’t working for anyone
 We started Honeypot because IT recruitment in its current state is broken. Companies spend countless, frustrated hours reaching out to developers. Developers, on the other hand, are overloaded with mismatched offers – wrong technology, incorrect location, boring product...the list is endless.
