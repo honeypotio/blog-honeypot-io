@@ -17,7 +17,7 @@ In this post, we will provide you with 13 tips to assist you in your search for 
 <br>
 Before you start...
 <br>
-##Three things to consider
+## Three things to consider
 <br>
 1. Where in [Berlin](https://www.visitberlin.de/en/neighbourhoods-berlin) do you want to live?
 2. Do you want to live in a WG (shared flat) or in your own apartment? 
