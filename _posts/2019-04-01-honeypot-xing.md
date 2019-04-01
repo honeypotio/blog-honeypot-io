@@ -1,7 +1,7 @@
 ---
 title:   "Honeypot is joining the Xing family!"
-subtitle: "We are very excited to announce XING’s acquisition of Honeypot. Together, the two companies will work towards Honeypot’s vision of creating the world’s largest worklife community for technical candidates while empowering developers and other technical candidates to find jobs they love."
-date:    2019-04-01 08:10:16
+subtitle: "We are very excited to announce XING’s acquisition of Honeypot. Together, the two companies will work towards Honeypot’s vision of creating the world’s largest worklife community for technical candidates."
+date:    2019-03-31 08:10:16
 layout:  post
 author:  emma_tracey
 categories: [Product]
