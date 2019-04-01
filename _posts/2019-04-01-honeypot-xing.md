@@ -152,4 +152,4 @@ To keep up to date with all our future activities, follow us on:
 
 <br />
 
-<p align="center"><img alt="Honeypot stickers" src="/assets/images/kaya-emma.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Honeypot stickers" src="/assets/images/hp-stickers.jpg" style="width:100% !important;"></p><br>
