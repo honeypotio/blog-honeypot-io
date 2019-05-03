@@ -42,11 +42,19 @@ We gathered data from our platform to make the following infographic. The data i
 
 <br />
 
+<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://blog.honeypot.io/amsterdam-developer-salaries-2019/'&gt;&lt;img src='https://blog.honeypot.io/assets/images/amsoverview.png' alt='Honeypot - Overview of tech salaries in Amsterdam' title='Honeypot - Overview of tech salaries in Amsterdam' /&gt;&lt;/a&gt;</textarea></div>
+
+<br />
+
 ## Frontend developer salaries in Amsterdam
 
 <br />
 
 <p align="center"><img alt="Frontend developer salaries in Amsterdam" src="/assets/images/amsfrontend.png" style="width:100% !important;"></p><br>
+
+<br />
+
+<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://blog.honeypot.io/amsterdam-developer-salaries-2019/'&gt;&lt;img src='https://blog.honeypot.io/assets/images/amsfrontend.png' alt='Honeypot - Frontend developer salaries in Amsterdam' title='Honeypot - Frontend developer salaries in Amsterdam' /&gt;&lt;/a&gt;</textarea></div>
 
 <br />
 
@@ -58,6 +66,10 @@ We gathered data from our platform to make the following infographic. The data i
 
 <br />
 
+<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://blog.honeypot.io/amsterdam-developer-salaries-2019/'&gt;&lt;img src='https://blog.honeypot.io/assets/images/amsbackend.png' alt='Honeypot - Backend developer salaries in Amsterdam' title='Honeypot - Backend developer salaries in Amsterdam' /&gt;&lt;/a&gt;</textarea></div>
+
+<br />
+
 ## Full-stack developer salaries in Amsterdam
 
 <br />
@@ -66,10 +78,18 @@ We gathered data from our platform to make the following infographic. The data i
 
 <br />
 
+<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://blog.honeypot.io/amsterdam-developer-salaries-2019/'&gt;&lt;img src='https://blog.honeypot.io/assets/images/amsfullstack.png' alt='Honeypot - Full-stack developer salaries in Amsterdam' title='Honeypot - Full-stack developer salaries in Amsterdam' /&gt;&lt;/a&gt;</textarea></div>
+
+<br />
+
 ## Engineering manager salaries in Amsterdam
 
 <br />
 
 <p align="center"><img alt="Engineering manager salaries in Amsterdam" src="/assets/images/amsengmanager.png" style="width:100% !important;"></p><br>
+
+<br />
+
+<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://blog.honeypot.io/amsterdam-developer-salaries-2019/'&gt;&lt;img src='https://blog.honeypot.io/assets/images/amsengmanager.png' alt='Honeypot - Engineering manager salaries in Amsterdam' title='Honeypot - Engineering manager salaries in Amsterdam' /&gt;&lt;/a&gt;</textarea></div>
 
 <br />
