@@ -61,7 +61,7 @@ How should you get the word out? Use your social media presence such as Facebook
 - “*Mietschuldenfreiheitsbescheinigung*” - Certificate of Rent Paid 
 - You may also need an assurance signed by a guarantor (for example: your parents) and proof of their payslips from the past 3 months if you cannot provide a confirmation of your own income yet. Depending on the landlord, your contract of employment could also be enough proof. 
 
-<p align="center"><img alt="Honeypot mascot, Bearpot, holding a clipboard." src="/assets/images/clipboard-bearpot.png" style="width:50% !important;"></p><br> 
+<p align="center"><img alt="Honeypot mascot, Bearpot, holding a clipboard." src="/assets/images/clipboard-bearpot.png" style="width:25% !important;"></p><br> 
 
 11. **Let the viewing marathon begin:** This stage can be exhausting and frustrating for many flat hunters. The good news is that once you have conquered the apartment obstacle, you will feel as though you have finally arrived in Berlin – what a relief! Here are some important things to keep in mind to make it through your apartment viewings: 
 
