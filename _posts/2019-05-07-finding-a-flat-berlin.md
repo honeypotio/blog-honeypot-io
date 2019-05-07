@@ -20,9 +20,9 @@ In this post, you’ll find 15 tips to assist you in your search for the perfect
 
 There are three important things to consider: 
 
-1\. Where in [Berlin](https://visitberlin.de/en/neighbourhoods-berlin) do you want to live?
-2\. Do you want to live in a shared flat or in your own apartment? *(Pro Tip: A shared flat in Germany is typically referred to as a WG - short for Wohngemeinschaft.)*
-3\. What features should your new home have? 
+1. Where in [Berlin](https://visitberlin.de/en/neighbourhoods-berlin) do you want to live?
+2. Do you want to live in a shared flat or in your own apartment? *(Pro Tip: A shared flat in Germany is typically referred to as a WG - short for Wohngemeinschaft.)*
+3. What features should your new home have? 
 
 You can also use tools such as this [interactive chart](https://interaktiv.morgenpost.de/mietkarte-berlin/) to help determine where you can afford to live. 
 
