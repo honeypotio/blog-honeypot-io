@@ -16,7 +16,11 @@ In this post, you’ll find 15 tips to assist you in your search for the perfect
 
 <!--more-->
 
+<br />
+
 ## Before you start
+
+<br />
 
 There are three important things to consider: 
 
@@ -26,7 +30,11 @@ There are three important things to consider:
 
 3\. **What features should your new home have?** It's important to consider factors such as the number of rooms, which amenities are included, and on which floor you'd like to live. Features such as a balcony can be nice, but keep in mind they can also limit your available options! 
 
+<br />
+
 ## Finding your new home fast
+
+<br />
 
 4\. **Keep an open mind, and be flexible:** It’s tough, but true. Although it is important to know what you want in a new home, your chances will ultimately increase if you are also willing to make compromises! It’s also important to be patient. This process takes time, and it is normal to go through several viewings before finding the right place. (Think of it like job hunting: you’ll send applications, have multiple interviews, and finally the right offer will be on the table!)
 
@@ -70,7 +78,11 @@ How should you get the word out? Use your social media presence such as Facebook
 - After the viewing, send a second copy of your documents to the agency or landlord as quickly as possible via email.
 - In your email, thank the landlord or property agent for the tour and let them know how much you enjoyed the viewing. 
 
-## An important note about scams! 
+<br />
+
+## An important note about scams!
+
+<br />
 
 Given Berlin’s competitive housing market, it’s natural for renters to feel pressure to find a flat. Because of this, people may sometimes try to take advantage and attempt to trick you -- especially in cases when there are many people applying for the same flat. 
 
