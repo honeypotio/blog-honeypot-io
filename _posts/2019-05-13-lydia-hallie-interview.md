@@ -24,7 +24,7 @@ I’m a software developer who mainly works with JavaScript and web development.
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia1.png" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia1.jpg" style="width:100% !important;"></p><br>
 
 <br />
 
@@ -126,7 +126,7 @@ I basically have one-hour Skype calls or sometimes screen shares with people and
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia2.png" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia2.jpg" style="width:100% !important;"></p><br>
 
 <br />
 
@@ -198,7 +198,7 @@ I almost had a heart attack.  It was incredibly fast and then I started receivin
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia3.png" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia3.jpg" style="width:100% !important;"></p><br>
 
 <br />
 
