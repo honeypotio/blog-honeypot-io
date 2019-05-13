@@ -1,7 +1,7 @@
 ---
 title:   "People of Tech: Interview with Lydia Hallie"
-subtitle: "We recently caught up with the talented, young Dutch developer Lydia Hallie for a quick chat about starting to program, important coding languages, and how her 2017 Medium article ‘Advice from a 19 Year Old Girl & Software Developer’ helped her to create a nexus with the developer community."
-date:    2018-05-13 10:10:16
+subtitle: We recently caught up with the talented, young Dutch developer Lydia Hallie for a quick chat about starting to program, important coding languages, and how her 2017 Medium article ‘Advice from a 19 Year Old Girl & Software Developer’ helped her to create a nexus with the developer community.
+date:    2019-05-12 10:10:16
 layout:  post
 author:  mia_bijman
 categories: [Developer Careers]
