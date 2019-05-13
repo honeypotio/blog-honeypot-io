@@ -24,8 +24,8 @@ I’m a software developer who mainly works with JavaScript and web development.
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia1.jpg" style="width:100% !important;"></p><br>
-*Source: @theavocoder*
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia1.jpg" style="width:100% !important;"></p>
+<p align="center">*Source: @theavocoder*</p>
 
 <br />
 
@@ -79,8 +79,8 @@ I think the working environment in the U.S. is so much better than Europe. Well,
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia60.jpg" style="width:100% !important;"></p><br>
-*Source: @theavocoder*
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia60.jpg" style="width:100% !important;"></p>
+<p align="center">*Source: @theavocoder*</p>
 
 <br />
 
@@ -132,8 +132,8 @@ I basically have one-hour Skype calls or sometimes screen shares with people and
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia2.jpg" style="width:100% !important;"></p><br>
-*Source: @theavocoder*
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia2.jpg" style="width:100% !important;"></p>
+<p align="center">*Source: @theavocoder*</p>
 
 <br />
 
@@ -177,8 +177,8 @@ When my articles first started to blow up, it was definitely hard to deal with b
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia5.jpg" style="width:100% !important;"></p><br>
-*Source: @theavocoder*
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia5.jpg" style="width:100% !important;"></p>
+<p align="center">*Source: @theavocoder*</p>
 
 <br />
 
@@ -210,8 +210,8 @@ I almost had a heart attack.  It was incredibly fast and then I started receivin
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia3.jpg" style="width:100% !important;"></p><br>
-*Source: @theavocoder*
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia3.jpg" style="width:100% !important;"></p>
+<p align="center">*Source: @theavocoder*</p>
 
 <br />
 
@@ -255,8 +255,8 @@ We all use Slack. I tell them things to do, have trial reports, and work togethe
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia4.jpg" style="width:100% !important;"></p><br>
-*Source: @theavocoder*
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia4.jpg" style="width:100% !important;"></p>
+<p align="center">*Source: @theavocoder*</p>
 
 <br />
 
