@@ -16,7 +16,7 @@ We recently caught up with the talented, young Dutch developer Lydia Hallie for 
 
 <br />
 
-## How would you describe yourself?
+### How would you describe yourself?
 
 <br />
 
@@ -28,7 +28,7 @@ I’m a software developer who mainly works with JavaScript and web development.
 
 <br />
 
-## Which programming languages do you mainly work with?
+### Which programming languages do you mainly work with?
 
 <br />
 
@@ -36,7 +36,7 @@ I work a lot with JavaScript, both front and backend, but I really try to play a
 
 <br />
 
-## Why the interest in all the different coding languages?
+### Why the interest in all the different coding languages?
 
 <br />
 
@@ -44,7 +44,7 @@ I think it’s good to know multiple coding languages because the more languages
 
 <br />
 
-## Do you get excited when you start learning a new coding language?
+### Do you get excited when you start learning a new coding language?
 
 <br />
 
@@ -52,7 +52,7 @@ Definitely! I really like to study and get out of my comfort zone. Whenever I’
 
 <br />
 
-## How did you initially get into web development?
+### How did you initially get into web development?
 
 <br />
 
@@ -60,7 +60,7 @@ Initially I had a blog on Tumblr. I was all into yoga and healthy lifestyles, an
 
 <br />
 
-## Wow, so you started coding at 15 years old?
+### Wow, so you started coding at 15 years old?
 
 <br />
 
@@ -68,7 +68,7 @@ Yea, I was 15 when I started to really build things myself, however I had no ide
 
 <br />
 
-## You went to The Iron Yard coding school in Florida. Could you tell us more about that and take us through the career path that got you here today?
+### You went to The Iron Yard coding school in Florida. Could you tell us more about that and take us through the career path that got you here today?
 
 <br />
 
@@ -78,7 +78,11 @@ I think the working environment in the U.S. is so much better than Europe. Well,
 
 <br />
 
-## Is the working culture different in America compared to Europe?
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia6.jpg" style="width:100% !important;"></p><br>
+
+<br />
+
+### Is the working culture different in America compared to Europe?
 
 <br />
 
@@ -86,7 +90,7 @@ Yes, definitely. I think that it’s generally easier in America to pursue a cod
 
 <br />
 
-## Do you go to meetups yourself as well?
+### Do you go to meetups yourself as well?
 
 <br />
 
@@ -94,7 +98,7 @@ I really try to! I’m always kind of traveling around though so that makes it h
 
 <br />
 
-## What are you working on nowadays?
+### What are you working on nowadays?
 
 <br />
 
@@ -102,7 +106,7 @@ Besides my regular job, I’m basically always making tutorials, mentoring peopl
 
 <br />
 
-## Do you learn new languages to be able to mentor others or for your own development?
+### Do you learn new languages to be able to mentor others or for your own development?
 
 <br />
 
@@ -110,7 +114,7 @@ I learn them for my own development or whenever I need to use them in my persona
 
 <br />
 
-## So, you mostly teach people about technical skills, technology, or more than that?
+### So, you mostly teach people about technical skills, technology, or more than that?
 
 <br />
 
@@ -118,7 +122,7 @@ It varies from person to person. Everyone is different. Sometimes people just do
 
 <br />
 
-## Do you schedule calls with them?
+### Do you schedule calls with them?
 
 <br />
 
@@ -130,7 +134,7 @@ I basically have one-hour Skype calls or sometimes screen shares with people and
 
 <br />
 
-## Do you make your own coding challenges as well?
+### Do you make your own coding challenges as well?
 
 <br />
 
@@ -138,7 +142,7 @@ Haha, yes! It’s really fun to do. Sometimes I don't even know the answer. I’
 
 <br />
 
-## How many people do you coach right now?
+### How many people do you coach right now?
 
 <br />
 
@@ -146,7 +150,7 @@ I’ve tried to cut back a little bit recently, so probably around 10 people rig
 
 <br />
 
-## Is this to make a living or something you do voluntarily?
+### Is this to make a living or something you do voluntarily?
 
 <br />
 
@@ -154,7 +158,7 @@ This is something that I do on the side. Of course, I’ve made some money from 
 
 <br /> 
 
-## Let’s jump into your Medium articles for a bit. One of your articles was about advice for teenage developers. What advice would you give them?
+### Let’s jump into your Medium articles for a bit. One of your articles was about advice for teenage developers. What advice would you give them?
 
 <br />
 
@@ -162,7 +166,7 @@ Hmm, well this piece of advice isn’t necessarily just for teenagers, but it’
 
 <br />
 
-## How do you deal with that yourself?
+### How do you deal with that yourself?
 
 <br />
 
@@ -170,7 +174,11 @@ When my articles first started to blow up, it was definitely hard to deal with b
 
 <br />
 
-## What new technologies or languages do you think new developers should focus on?
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia5.jpg" style="width:100% !important;"></p><br>
+
+<br />
+
+### What new technologies or languages do you think new developers should focus on?
 
 <br />
 
@@ -178,7 +186,7 @@ It depends what you want to get out of it. If you just want to make money fast, 
 
 <br />
 
-## Why did you first start sharing on social media and when did it really take off?
+### Why did you first start sharing on social media and when did it really take off?
 
 <br />
 
@@ -188,7 +196,7 @@ I started sharing my pictures and got into contact with so many developers, and 
 
 <br />
 
-## What was the timespan for that rise in readership?
+### What was the timespan for that rise in readership?
 
 <br />
 
@@ -202,7 +210,7 @@ I almost had a heart attack.  It was incredibly fast and then I started receivin
 
 <br />
 
-## Moving back to web development and open source, do you enjoy being a web developer? And if so, what do you like about it?
+### Moving back to web development and open source, do you enjoy being a web developer? And if so, what do you like about it?
 
 <br />
 
@@ -210,7 +218,7 @@ Well, I really enjoy doing this right now, but it’s not something I want to do
 
 <br />
 
-## Are you an open source contributor?
+### Are you an open-source contributor?
 
 <br />
 
@@ -218,7 +226,7 @@ No, not right now. I’m working on my own projects that are open source, but I 
 
 <br />
 
-## What projects are you working on then?
+### What projects are you working on then?
 
 <br />
 
@@ -226,7 +234,7 @@ I have several. I’m working on platforms that will make it easier for develope
 
 <br />
 
-## Are things working out in general for you?
+### Are things working out in general for you?
 
 <br />
 
@@ -234,7 +242,7 @@ Yea! The projects I’m building with other people, my juniors, are really fun. 
 
 <br />
 
-## How do they give you feedback and communicate with you?
+### How do they give you feedback and communicate with you?
 
 <br />
 
@@ -242,7 +250,11 @@ We all use Slack. I tell them things to do, have trial reports, and work togethe
 
 <br />
 
-## In your opinion, what is Europe’s tech capital and why?
+<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia4.jpg" style="width:100% !important;"></p><br>
+
+<br />
+
+### In your opinion, what is Europe’s tech capital and why?
 
 <br />
 
@@ -250,7 +262,7 @@ Wow, that’s hard. I think that Berlin is pretty great. I didn’t realize just
 
 <br />
 
-## What aspects are important for a city to have a good environment for developers?
+### What aspects are important for a city to have a good environment for developers?
 
 <br />
 
@@ -258,7 +270,7 @@ Having a lot of meetups and possibilities to reach out to other developers, at l
 
 <br />
 
-## How do you see JavaScript and the web in general in the next five to ten years?
+### How do you see JavaScript and the web in general in the next five to ten years?
 
 <br />
 
@@ -266,7 +278,7 @@ That’s so difficult to say. Even just five years ago it was so different.  We 
 
 <br />
 
-## In what fields do you see jobs being available in?
+### In what fields do you see jobs being available in?
 
 <br />
 
@@ -274,7 +286,7 @@ Again, it’s very hard to say due to the speed of technological advances, but I
 
 <br />
 
-## If our followers want to get to know you better, where can they find you?
+### If our followers want to get to know you better, where can they find you?
 
 <br />
 
