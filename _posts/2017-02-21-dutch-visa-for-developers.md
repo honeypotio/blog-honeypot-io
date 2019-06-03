@@ -27,9 +27,9 @@ Citizens of EU / EEA countries and Switzerland do not need a residence permit to
 
 * **Meet Required Conditions:** To become a recognised sponsor you must first make sure that your organisation meets the required conditions, which can be found on [the IND website](https://ind.nl/en/work/Pages/Recognition_as_a_sponsor.aspx). All prospective sponsors must be registered in the trade register, have no issues with bankruptcy or debt payment, and anyone involved with the organisation must be deemed trustworthy. Further specific requirements may apply depending the nature of your organisation. 
 
-* **Fill in the form and pay a fee:** On the same website you will find the application form which you must complete and send to the IND, along with the required fee. The IND will begin the process once the fee has been paid. The [fee](https://ind.nl/en/Pages/Costs.aspx) for this process is €2,638 for startups and small businesses with no more than 50 employees, and €5,276 for larger companies. 
+* **Fill in the form and pay a fee:** On the same website you will find the application form which you must complete and send to the IND, along with the required fee. The IND will begin the process once the fee has been paid. The [fee](https://ind.nl/en/Pages/Costs.aspx) for this process is €1,963 for startups and small businesses with no more than 50 employees, and €3,927 for larger companies. 
 
-* **Include VOG:** The IND may request a VOG (Certificate of Good Conduct). Companies must apply for a VOG RP (Certificate of Good Conduct for Legal Entities), via the [Ministry of Security and Justice](https://www.justis.nl/producten/vog/vog-aanvragen/vog-rp-aanvragen/index.aspx). This certificate examines your company’s corporate compliance with criminal law. The fee for this process is €207.
+* **Include VOG:** The IND may request a VOG (Certificate of Good Conduct). Companies must apply for a VOG RP (Certificate of Good Conduct for Legal Entities), via the [Ministry of Security and Justice](https://www.justis.nl/producten/vog/vog-aanvragen/vog-rp-aanvragen/index.aspx). This certificate examines your company’s corporate compliance with criminal law. The fee for this process is €41,35.
 
 * **Receive confirmation from IND:** Once the IND has made a decision you will receive written notice. This usually happens within four weeks of your application.
 
@@ -56,11 +56,11 @@ Citizens of EU / EEA countries and Switzerland do not need a residence permit to
 #### 3. Submit forms & fees
 
 * Most times, developers fall into the highly-skilled migrant category. To be eligible for this, developers must meet certain income requirements:
-	* Highly skilled migrants from the age of 30: €4,324 gross per month excluding holiday allowance
-	* Highly skilled migrants younger than 30: €3,170 gross per month excluding holiday allowance
-	* International graduates who started working as a highly skilled migrant during their orientation year: €2,272 gross per month excluding holiday allowance
+	* Highly skilled migrants from the age of 30: €4,500 gross per month excluding holiday allowance
+	* Highly skilled migrants younger than 30: €3,299 gross per month excluding holiday allowance
+	* International graduates who started working as a highly skilled migrant during their orientation year: €2,364 gross per month excluding holiday allowance
 
-* The processing fee is €926. This fee is covered by Honeypot if you hire a developer over the platform. 
+* The processing fee is €285. This fee is covered by Honeypot if you hire a developer over the platform. 
 
 * The IND will send a letter confirming the receipt of the application and state the time period within which it will make a decision (The IND must make a decision on the application within 90 days).
 
@@ -71,7 +71,7 @@ Citizens of EU / EEA countries and Switzerland do not need a residence permit to
 
 ### Checklist for developers for the Dutch Highly Skilled Migrant Visa
 
-As a developer, you are eligible for the fast-track [highly skilled migrants programme](http://www.expatica.com/nl/visas-and-permits/Dutch-residence-permit-for-highly-skilled-migrants_104381.html). To  qualify as a highly skilled migrant, you must earn over a certain level of income and your employer must also be an IND recognised sponsor. For those under 30 years old, the minimum salary for qualification  is  €3,170; for those older than 30, it's €4,324.
+As a developer, you are eligible for the fast-track [highly skilled migrants programme](http://www.expatica.com/nl/visas-and-permits/Dutch-residence-permit-for-highly-skilled-migrants_104381.html). To  qualify as a highly skilled migrant, you must earn over a certain level of income and your employer must also be an IND recognised sponsor. For those under 30 years old, the minimum salary for qualification  is  €3,299; for those older than 30, it's €4,500.
 
 1. Send the required documents and [application form](http://www.the-netherlands.org/binaries/content/assets/postenweb/shared/bijlagen-schengen-carribische-visum/mvv-issue-form.pdf) to your employer. Documents must be translated to either Dutch, English, French, or German. Your employer will then begin the entry permit (MVV)  and residence permit application process with the IND. The MVV is not necessary if you are a national of Australia, Canada, Japan, Monaco, New Zealand, South Korea, the USA or Vatican City.
 
