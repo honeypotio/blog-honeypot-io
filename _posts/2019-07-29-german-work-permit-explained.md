@@ -10,8 +10,6 @@ permalink:  german-work-permit-explained/
 importance: 2
 ---
 
-# The German Work Permit Explained
-
 <br />
 
 To succeed in today’s fast-paced and hyper-connected world, it is critically important for companies to find and retain the very best technical talent to propel growth. Across Germany, companies are adapting their sourcing, hiring, and onboarding processes to attract talent-- and the growing shortage of technical talent across Europe means candidates are increasingly coming from abroad. 
