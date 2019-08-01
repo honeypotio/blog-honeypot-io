@@ -125,4 +125,6 @@ Permanent residency is possible after living in Germany for 5 years with an unin
 
 ## Ready, set, go! 
 
+<br />
+
 All told, the German work permit certainly gets the job done. Hopefully this post has helped you to feel confident in your understanding of the necessary steps and requirements for this German working visa. Of course, if you are still feeling overwhelmed by German bureaucracy you can always count on **Honeypot’s Talent Relocation Team** - whether you are a developer or a recruiter, we’re here to help and support you throughout your journey!
