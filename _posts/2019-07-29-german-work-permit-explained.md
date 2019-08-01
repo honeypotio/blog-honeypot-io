@@ -10,19 +10,19 @@ permalink:  german-work-permit-explained/
 importance: 2
 ---
 
-<br />
-
-To succeed in today’s fast-paced and hyper-connected world, it is critically important for companies to find and retain the very best technical talent to propel growth. Across Germany, companies are adapting their sourcing, hiring, and onboarding processes to attract talent-- and the growing shortage of technical talent across Europe means candidates are increasingly coming from abroad. 
+To succeed in today’s fast-paced and hyper-connected world, **it is critically important for companies to find and retain the very best technical talent to propel growth.** Across Germany, companies are adapting their sourcing, hiring, and onboarding processes to attract talent-- and the growing shortage of technical talent across Europe means **candidates are increasingly coming from abroad.** 
 
 Whether you are a company looking to hire international talent or a developer trying to figure out how to move to Germany, it’s important to understand both the process and the options available to you.
 
 <!--more-->
 
+## What are my options?
+
 You may already be aware of the EU Blue Card, a specialized work visa with strict education and salary requirements (if not, you can read more about it [here](http://blog.honeypot.io/ultimate-guide-EU-blue-card/)-- but what about developers who don’t have the required university degree, or who hold a degree in an unrelated subject? 
 
 Both the [tech landscape](https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/) and the [attitudes of hiring managers](https://www.fastcompany.com/3069259/why-more-tech-companies-are-hiring-people-without-degrees) have changed in recent years. With the proliferation of self-directed programs such as coding bootcamps and [self-directed tutorials](https://twitter.com/leeb/status/1142757659248123904), it is becoming increasingly common for developers to forgo the traditional university degree. This shift is good news for hiring managers looking for new sources of talent and for developers without a traditional degree, and whether you’re a hiring manager or a developer, the German work permit is your ticket to a happy and productive working life in Germany!  
 
-The German work permit provides the same working rights as a Blue Card without the requirement of a university degree. As a developer, if your salary is within the average range for your role and your employer can justify their choice to hire you over a local applicant, you are likely eligible for this working visa. 
+The German work permit provides the **same working rights as a Blue Card** without the requirement of a university degree. As a developer, if your salary is within the average range for your role and your employer can justify their choice to hire you over a local applicant, you are likely eligible for this working visa. 
 
 Read on to discover everything you need to know about the German work permit and its requirements. 
 
@@ -34,9 +34,7 @@ Read on to discover everything you need to know about the German work permit and
 
 <p align="center"><img alt="Bearpot parachuting down from above." src="/assets/images/parachute.png" style="width:25% !important;"></p><br>
 
-<br />
-
-For tech professionals from most countries\*, the first step of the process will be the entry visa (or D-type visa). This is typically issued by the German embassy in your current country of residence, and allows you to begin working as soon as you arrive in Germany. In most cases, the D-type visa is issued for 3-6 months and can be converted into a more permanent work permit within that time frame. 
+For tech professionals from most countries\*, the first step of the process will be the **entry visa (or D-type visa)**. This is typically issued by the German embassy in your current country of residence, and allows you to begin working as soon as you arrive in Germany. In most cases, the D-type visa is issued for 3-6 months and can be converted into a more permanent work permit within that time frame. 
 
 According to the [German Chamber of Commerce](https://www.ihk-berlin.de/English/en/Working_in_Berlin/Visa/Employees_from_third_countries/2260070), there are several prerequisites in order to qualify for a D-type visa: 
 
@@ -57,11 +55,9 @@ According to the [German Chamber of Commerce](https://www.ihk-berlin.de/English/
 
 <p align="center"><img alt="Bearpot holding a clipboard." src="/assets/images/clipboard.png" style="width:25% !important;"></p><br>
 
-<br /> 
+The office of **International Placement Services** (Zentrale Auslands- und Fachvermittlung, or ZAV for short) is responsible for granting work permits and approving residence permits. The ZAV is a division of the [German Federal Employment Agency](https://www.arbeitsagentur.de/en/welcome) that helps employers all over Germany to find employees for their vacancies and helps employees integrate into the German labor market.
 
-The office of International Placement Services (Zentrale Auslands- und Fachvermittlung, or ZAV for short) is responsible for granting work permits and approving residence permits. The ZAV is a division of the [German Federal Employment Agency](https://www.arbeitsagentur.de/en/welcome) that helps employers all over Germany to find employees for their vacancies and helps employees integrate into the German labor market.
-
-You will most likely encounter this agency during the pre-approval process in advance of your embassy appointment. Pre-approval is not always required by the embassy, but is helpful in most cases. In order to request pre-approval from the ZAV, there are several important documents you will need: 
+You will most likely encounter this agency during the **pre-approval** process in advance of your embassy appointment. Pre-approval is not always required by the embassy, but is helpful in most cases. In order to request pre-approval from the ZAV, there are several important documents you will need: 
 
 - Work contract, signed by the company
 - Job description form, “[Stellenbeschreibung](https://con.arbeitsagentur.de/prod/apok/ct/dam/download/documents/dok_ba015716.pdf)” 
@@ -79,13 +75,11 @@ No worries - whether you are a developer or a company hiring from abroad, Honeyp
 
 <p align="center"><img alt="Bearpot wearing an apron and an oven mit." src="/assets/images/apron.png" style="width:25% !important;"></p><br>
 
-<br />
-
 Once you have arrived in Germany, the first thing you’ll want to do (if you haven’t already) is [find a flat](http://blog.honeypot.io/15-tips-finding-a-flat-berlin/) and register your new address with the local authorities. You’ll also want to set up German health insurance. You will need proof of both in order to apply for a residence and work permit before your D-type visa expires. 
 
 In comparison to the temporary D-type visa, the [residence permit](https://www.germany-visa.org/german-residence-permit/) is issued for the duration of your work contract. If the work contract is unlimited, the permit will typically be valid for 4 years.
 
-The right to work in Germany (and to what extent you can work) will be detailed on your residence permit. Your permit will usually be linked to your employer, which means that if you want to change jobs you will need to get approval from the Federal Employment Agency. 
+**The right to work in Germany (and to what extent you can work) will be detailed on your residence permit.** Your permit will usually be linked to your employer, which means that if you want to change jobs you will need to get approval from the Federal Employment Agency. 
 
 <br />
 
@@ -94,8 +88,6 @@ The right to work in Germany (and to what extent you can work) will be detailed 
 <br />
 
 <p align="center"><img alt="Bearpot with a concerned look on his face." src="/assets/images/questions.png" style="width:25% !important;"></p><br>
-
-<br />
 
 ### What about my family?
 
@@ -131,4 +123,6 @@ Permanent residency is possible after living in Germany for 5 years with an unin
 
 <br />
 
-All told, the German work permit may not be the same as a Blue Card, but it certainly gets the job done. Hopefully this post has helped you to feel confident in your understanding of the necessary steps and requirements for this German working visa. Of course, if you are still feeling overwhelmed by German bureaucracy you can always count on Honeypot’s Talent Relocation Team - whether you are a developer or a recruiter, we’re here to help and support you throughout your journey!
+## Ready, set, go! 
+
+All told, the German work permit certainly gets the job done. Hopefully this post has helped you to feel confident in your understanding of the necessary steps and requirements for this German working visa. Of course, if you are still feeling overwhelmed by German bureaucracy you can always count on **Honeypot’s Talent Relocation Team** - whether you are a developer or a recruiter, we’re here to help and support you throughout your journey!
