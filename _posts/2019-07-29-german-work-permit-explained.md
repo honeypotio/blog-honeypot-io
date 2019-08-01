@@ -16,7 +16,11 @@ Whether you are a company looking to hire international talent or a developer tr
 
 <!--more-->
 
+<br />
+
 ## What are my options?
+
+<br />
 
 You may already be aware of the EU Blue Card, a specialized work visa with strict education and salary requirements (if not, you can read more about it [here](http://blog.honeypot.io/ultimate-guide-EU-blue-card/)-- but what about developers who don’t have the required university degree, or who hold a degree in an unrelated subject? 
 
