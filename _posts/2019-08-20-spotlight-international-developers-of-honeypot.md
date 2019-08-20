@@ -180,4 +180,6 @@ Last week we reached the one month mark of living in Germany, and we couldn’t 
 
 Hamburg is an amazing city, with great and helpful people and we are really looking forward to discover what’s next.
 
-This is just my experience. It could be similar or not to many other experiences out there, but one thing that’s always the same: try for yourself, don’t be afraid of the change and to meet new people. *The world is becoming a global village, and we all have the same opportunities.*
+This is just my experience. It could be similar or not to many other experiences out there, but one thing that’s always the same: try for yourself, don’t be afraid of the change and to meet new people. 
+
+*The world is becoming a global village, and we all have the same opportunities.*
