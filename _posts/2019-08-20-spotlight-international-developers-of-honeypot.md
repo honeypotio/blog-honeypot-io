@@ -30,9 +30,9 @@ Read on to learn about four developers who’ve recently relocated to Europe!
 
 <br />
 
-<p align="center"><img alt="Female software developer sitting in the grass in front of the famous Berliner Dom in her new home city." src="/assets/images/Erlinis_spotlight.png" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Female software developer sitting in the grass in front of the famous Berliner Dom in her new home city." src="/assets/images/Erlinis_spotlight.png" style="width:25% !important;"></p><br>
 
-Backend Developer at **Tourlane GmbH**
+Backend Developer at **Tourlane GmbH**  
 Soledad, Colombia &rightarrow; Berlin, Germany
 
 <br />
@@ -65,9 +65,9 @@ The support I received from the Honeypot team was excellent. They wrote very cle
 
 <br /> 
 
-<p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:25% !important;"></p><br>
 
-Software Developer at **Tipico**
+Software Developer at **Tipico**  
 Recife, Brazil &rightarrow; Budapest, Hungary &rightarrow; Karlsruhe, Germany
 
 <br />
@@ -104,9 +104,9 @@ I think this is a nice place to grow old in. I can see myself settling down here
 
 <br /> 
 
-<p align="center"><img alt="Male software developer enjoying a boat ride on the canal in his new home in the Netherlands." src="/assets/images/Serdar_spotlight.png" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Male software developer enjoying a boat ride on the canal in his new home in the Netherlands." src="/assets/images/Serdar_spotlight.png" style="width:25% !important;"></p><br>
 
-Software Engineer at **Kramp Hub**
+Software Engineer at **Kramp Hub**  
 Istanbul, Turkey &rightarrow; Utrecht, the Netherlands
 
 <br />
@@ -149,9 +149,9 @@ If you think you are suitable enough with your personal life, your family life, 
 
 <br /> 
 
-<p align="center"><img alt="Male software developer holding a bag of treats from Honeypot in front of the water in his new home in Hamburg." src="/assets/images/Emiliano_spotlight.png" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Male software developer holding a bag of treats from Honeypot in front of the water in his new home in Hamburg." src="/assets/images/Emiliano_spotlight.png" style="width:25% !important;"></p><br>
 
-Senior Frontend Developer at **Car2Go GmbH**
+Senior Frontend Developer at **Car2Go GmbH**  
 Buenos Aires, Argentina &rightarrow; Hamburg, Germany
 
 <br /> 
