@@ -35,8 +35,6 @@ Read on to learn about four developers who’ve recently relocated to Europe!
 Backend Developer at **Tourlane GmbH**  
 Soledad, Colombia &rightarrow; Berlin, Germany
 
-<br />
-
 ### Interviewing with German companies... 
 
 Interviewing with German companies was an interesting experience, finding interview hours that could work for both sides and listening to what companies were about. It was surprising that they were not only interested in my professional skills but also were curious about my motivation for moving to Berlin. 
@@ -65,12 +63,10 @@ The support I received from the Honeypot team was excellent. They wrote very cle
 
 <br /> 
 
-<p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:25% !important;"></p><br>
+<p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:100% !important;"></p><br>
 
 Software Developer at **Tipico**  
 Recife, Brazil &rightarrow; Budapest, Hungary &rightarrow; Karlsruhe, Germany
-
-<br />
 
 ### Trying Honeypot... 
 
@@ -108,8 +104,6 @@ I think this is a nice place to grow old in. I can see myself settling down here
 
 Software Engineer at **Kramp Hub**  
 Istanbul, Turkey &rightarrow; Utrecht, the Netherlands
-
-<br />
 
 ### Interviewing with Dutch companies... 
 
@@ -149,12 +143,10 @@ If you think you are suitable enough with your personal life, your family life, 
 
 <br /> 
 
-<p align="center"><img alt="Male software developer holding a bag of treats from Honeypot in front of the water in his new home in Hamburg." src="/assets/images/Emiliano_spotlight.png" style="width:25% !important;"></p><br>
+<p align="center"><img alt="Male software developer holding a bag of treats from Honeypot in front of the water in his new home in Hamburg." src="/assets/images/Emiliano_spotlight.png" style="width:10% !important;"></p><br>
 
 Senior Frontend Developer at **Car2Go GmbH**  
 Buenos Aires, Argentina &rightarrow; Hamburg, Germany
-
-<br /> 
 
 ### Deciding to come to Germany... 
 
