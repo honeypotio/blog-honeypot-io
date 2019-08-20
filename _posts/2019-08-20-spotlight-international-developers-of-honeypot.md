@@ -66,7 +66,7 @@ The support I received from the Honeypot team was excellent. They wrote very cle
 <p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:100% !important;"></p><br>
 
 Software Developer at **Tipico**  
-Recife, Brazil &#x2192; Budapest, Hungary &rightarrow; Karlsruhe, Germany
+Recife, Brazil &#x2192; Budapest, Hungary &#x2192; Karlsruhe, Germany
 
 ### Trying Honeypot... 
 
