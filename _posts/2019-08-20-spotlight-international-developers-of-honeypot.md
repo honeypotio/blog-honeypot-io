@@ -100,7 +100,7 @@ I think this is a nice place to grow old in. I can see myself settling down here
 
 <br /> 
 
-<p align="center"><img alt="Male software developer enjoying a boat ride on the canal in his new home in the Netherlands." src="/assets/images/Serdar_spotlight.png" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Male software developer enjoying a boat ride on the canal in his new home in the Netherlands." src="/assets/images/Serdar_spotlight.png" style="width:75% !important;"></p><br>
 
 Software Engineer at **Kramp Hub**  
 Istanbul, Turkey &#x2192; Utrecht, the Netherlands
