@@ -143,7 +143,7 @@ If you think you are suitable enough with your personal life, your family life, 
 
 <br /> 
 
-<p align="center"><img alt="Male software developer holding a bag of treats from Honeypot in front of the water in his new home in Hamburg." src="/assets/images/Emiliano_spotlight.png" style="width:10% !important;"></p><br>
+<p align="center"><img alt="Male software developer smiling in front of the water in his new home in Hamburg." src="/assets/images/Emiliano_spotlight.png" style="width:50% !important;"></p><br>
 
 Senior Frontend Developer at **Car2Go GmbH**  
 Buenos Aires, Argentina &rightarrow; Hamburg, Germany
