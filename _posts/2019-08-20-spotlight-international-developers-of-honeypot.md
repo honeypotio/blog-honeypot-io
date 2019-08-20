@@ -30,7 +30,7 @@ Read on to learn about four developers who’ve recently relocated to Europe!
 
 <br />
 
-<p align="center"><img alt="Female software developer sitting in the grass in front of the famous Berliner Dom in her new home city." src="/assets/images/Erlinis_spotlight.png" style="width:25% !important;"></p><br>
+<p align="center"><img alt="Female software developer sitting in the grass in front of the famous Berliner Dom in her new home city." src="/assets/images/Erlinis_spotlight.png" style="width:50% !important;"></p><br>
 
 Backend Developer at **Tourlane GmbH**  
 Soledad, Colombia &#x2192; Berlin, Germany
@@ -63,7 +63,7 @@ The support I received from the Honeypot team was excellent. They wrote very cle
 
 <br /> 
 
-<p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:50% !important;"></p><br>
 
 Software Developer at **Tipico**  
 Recife, Brazil &#x2192; Budapest, Hungary &#x2192; Karlsruhe, Germany
@@ -100,7 +100,7 @@ I think this is a nice place to grow old in. I can see myself settling down here
 
 <br /> 
 
-<p align="center"><img alt="Male software developer enjoying a boat ride on the canal in his new home in the Netherlands." src="/assets/images/Serdar_spotlight.png" style="width:25% !important;"></p><br>
+<p align="center"><img alt="Male software developer enjoying a boat ride on the canal in his new home in the Netherlands." src="/assets/images/Serdar_spotlight.png" style="width:50% !important;"></p><br>
 
 Software Engineer at **Kramp Hub**  
 Istanbul, Turkey &#x2192; Utrecht, the Netherlands
