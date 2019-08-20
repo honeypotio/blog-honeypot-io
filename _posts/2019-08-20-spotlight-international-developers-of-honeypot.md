@@ -33,7 +33,7 @@ Read on to learn about four developers who’ve recently relocated to Europe!
 <p align="center"><img alt="Female software developer sitting in the grass in front of the famous Berliner Dom in her new home city." src="/assets/images/Erlinis_spotlight.png" style="width:25% !important;"></p><br>
 
 Backend Developer at **Tourlane GmbH**  
-Soledad, Colombia &rightarrow; Berlin, Germany
+Soledad, Colombia &#x2192; Berlin, Germany
 
 ### Interviewing with German companies... 
 
@@ -66,7 +66,7 @@ The support I received from the Honeypot team was excellent. They wrote very cle
 <p align="center"><img alt="Male software developer smiling and holding a sign that reads 'I am Tipico,' his new company." src="/assets/images/Paulo_spotlight.png" style="width:100% !important;"></p><br>
 
 Software Developer at **Tipico**  
-Recife, Brazil &rightarrow; Budapest, Hungary &rightarrow; Karlsruhe, Germany
+Recife, Brazil &#x2192; Budapest, Hungary &rightarrow; Karlsruhe, Germany
 
 ### Trying Honeypot... 
 
@@ -103,7 +103,7 @@ I think this is a nice place to grow old in. I can see myself settling down here
 <p align="center"><img alt="Male software developer enjoying a boat ride on the canal in his new home in the Netherlands." src="/assets/images/Serdar_spotlight.png" style="width:25% !important;"></p><br>
 
 Software Engineer at **Kramp Hub**  
-Istanbul, Turkey &rightarrow; Utrecht, the Netherlands
+Istanbul, Turkey &#x2192; Utrecht, the Netherlands
 
 ### Interviewing with Dutch companies... 
 
@@ -146,7 +146,7 @@ If you think you are suitable enough with your personal life, your family life, 
 <p align="center"><img alt="Male software developer smiling in front of the water in his new home in Hamburg." src="/assets/images/Emiliano_spotlight.png" style="width:50% !important;"></p><br>
 
 Senior Frontend Developer at **Car2Go GmbH**  
-Buenos Aires, Argentina &rightarrow; Hamburg, Germany
+Buenos Aires, Argentina &#x2192; Hamburg, Germany
 
 ### Deciding to come to Germany... 
 
