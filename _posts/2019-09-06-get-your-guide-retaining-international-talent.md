@@ -10,7 +10,7 @@ permalink:  international-developers-of-honeypot/
 importance: 2
 ---
 
-For the European tech industry, finding and retaining talent from abroad has become one of the most pressing issues of our time. I sat down with the relocation team at **Get Your Guide**, named one of 2018’s Most Innovative Companies by Fast Company, to chat about **retention strategies for international talent**.
+For the European tech industry, finding and retaining talent from abroad has become one of the most pressing issues of the day. I sat down with the relocation team at **Get Your Guide**, named one of 2018’s Most Innovative Companies by Fast Company, to chat about **retention strategies for international talent**.
 
 As the leading booking platform in Europe for incredible travel experiences, Get Your Guide relies heavily on international talent to fuel their success. **In total, [92 percent](https://www.tagesspiegel.de/berlin/seltener-seltener-software-entwickler-berlins-start-ups-leiden-unter-fachkraeftemangel/24676546.html) of the IT employees in the Berlin office (and 88 percent of total employees) come from outside of Germany**. According to the relocation team, this diversity is the key to a culture of innovation. 
 
