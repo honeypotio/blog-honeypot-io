@@ -47,6 +47,8 @@ The relocation team is sure to check each of these details in advance. These are
 
 <br>
 
+![Get Your Guide employees work in a bright and open office.](/assets/images/PhasenschieberhaleMockup2.jpg)
+
 <p align="center"><img alt="Get Your Guide employees work in a bright and open office." src="/assets/images/Interior_PhasenschieberhaleMockup2.jpg" style="width:100% !important;"></p><br>
 
 ## Housing
