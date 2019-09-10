@@ -69,7 +69,7 @@ They also take care to provide information on resources such as [eBay Kleinanzei
 
 <br>
 
-<p align="center"><img alt="Get Your Guide employees prepare for an upcoming All Hands presentation." src="/assets/images/Interior_Interior_AllHands.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Get Your Guide employees prepare for an upcoming All Hands presentation." src="/assets/images/Interior_AllHands.jpg" style="width:100% !important;"></p><br>
 
 ## The Partner
 
