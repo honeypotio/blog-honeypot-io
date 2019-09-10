@@ -6,7 +6,7 @@ layout:  post
 author:  geneva_brooks
 categories: [HR Tips]
 cover_image: GetYourGuide.png
-permalink:  international-developers-of-honeypot/
+permalink:  get-your-guide-retaining-international-talent/
 importance: 2
 ---
 
