@@ -20,7 +20,7 @@ This year, the team at Get Your Guide have already successfully relocated over 3
 
 <br>
 
-<p align="center"><img alt="Get Your Guide's customer service team at work in their Berlin office." src="/assets/images/Interior_CustomerService.jpg" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Get Your Guide's customer service team at work in their Berlin office." src="/assets/images/Interior_CustomerService.jpg" style="width:100% !important;"></p><br>
 
 
 ## Fly Them In! 
@@ -47,7 +47,7 @@ The relocation team is sure to check each of these details in advance. These are
 
 <br>
 
-<p align="center"><img alt="Get Your Guide employees work in a bright and open office." src="/assets/images/Interior_PhasenschieberhaleMockup2.jpg" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Get Your Guide employees work in a bright and open office." src="/assets/images/Interior_PhasenschieberhaleMockup2.jpg" style="width:100% !important;"></p><br>
 
 ## Housing
 
@@ -69,7 +69,7 @@ They also take care to provide information on resources such as [eBay Kleinanzei
 
 <br>
 
-<p align="center"><img alt="Get Your Guide employees prepare for an upcoming All Hands presentation." src="/assets/images/Interior_Interior_AllHands.jpg" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Get Your Guide employees prepare for an upcoming All Hands presentation." src="/assets/images/Interior_Interior_AllHands.jpg" style="width:100% !important;"></p><br>
 
 ## The Partner
 
@@ -113,7 +113,7 @@ Throughout the process of relocating new employees, the team at Get Your Guide h
 
 <br>
 
-<p align="center"><img alt="Members of Get Your Guide's engineering team work in a bright and colorful open-plan office." src="/assets/images/Interior_Engineering.jpg" style="width:50% !important;"></p><br>
+<p align="center"><img alt="Members of Get Your Guide's engineering team work in a bright and colorful open-plan office." src="/assets/images/Interior_Engineering.jpg" style="width:100% !important;"></p><br>
 
 ## Go the Extra Mile 
 
