@@ -143,8 +143,8 @@ One of the best ways that you can support an international talent’s move to Ge
 
 <br>
 
-Clearly Get Your GUide has invested a lot of time and energy into making sure the talent they hire from abroad sticks around long-term. Even before an offer has been made, they are hard at work ensuring that their potential new employee will be happy in their new city, and that the entire family is onboard with the move. From the travel plans to the first days in Germany, GetYourGuide’s relocation team anticipates their new hire’s potential needs and does everything they can to make the move smooth and painless. Once they’re settled in Germany, the integration process kicks into high gear as GetYourGuide does their best to make sure the entire family (including pets) is taken care of. 
+Clearly GetYourGuide has invested a lot of time and energy into making sure the talent they hire from abroad sticks around long-term. Even before an offer has been made, they are hard at work ensuring that their potential new employee will be happy in their new city, and that the entire family is onboard with the move. From the travel plans to the first days in Germany, GetYourGuide’s relocation team anticipates their new hire’s potential needs and does everything they can to make the move smooth and painless. Once they’re settled in Germany, the integration process kicks into high gear as GetYourGuide does their best to make sure the entire family (including pets) is taken care of. 
 
 As German tech companies prepare to welcome international developers in ever-increasing numbers, we hope these tips will help you to create a lasting impression for your next hires. 
 
-As always, happy hiring! 
+*As always, happy hiring!*
