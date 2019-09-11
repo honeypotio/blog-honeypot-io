@@ -1,6 +1,6 @@
 ---
-title:   "Get Your Guide: Retaining International Talent"
-subtitle: "The relocation team at Get Your Guide shares their secrets for ensuring that international talent sticks around long-term."
+title:   "GetYourGuide: Retaining International Talent"
+subtitle: "The relocation team at GetYourGuide shares their secrets for ensuring that international talent sticks around long-term."
 date:    2019-09-06 10:10:16
 layout:  post
 author:  geneva_brooks
@@ -10,26 +10,26 @@ permalink:  get-your-guide-retaining-international-talent/
 importance: 2
 ---
 
-For the European tech industry, finding and retaining talent from abroad has become one of the most pressing issues of the day. I sat down with the relocation team at **Get Your Guide**, named one of 2018’s Most Innovative Companies by Fast Company, to chat about **retention strategies for international talent**.
+For the European tech industry, finding and retaining talent from abroad has become one of the most pressing issues of the day. I sat down with the relocation team at **GetYourGuide**, named one of 2018’s Most Innovative Companies by Fast Company, to chat about **retention strategies for international talent**.
 
-As the leading booking platform in Europe for incredible travel experiences, Get Your Guide relies heavily on international talent to fuel their success. **In total, [92 percent](https://www.tagesspiegel.de/berlin/seltener-seltener-software-entwickler-berlins-start-ups-leiden-unter-fachkraeftemangel/24676546.html) of the IT employees in the Berlin office (and 88 percent of total employees) come from outside of Germany**. According to the relocation team, this diversity is the key to a culture of innovation. 
+As the leading booking platform in Europe for incredible travel experiences, GetYourGuide relies heavily on international talent to fuel their success. **In total, [92 percent](https://www.tagesspiegel.de/berlin/seltener-seltener-software-entwickler-berlins-start-ups-leiden-unter-fachkraeftemangel/24676546.html) of the IT employees in the Berlin office (and 88 percent of total employees) come from outside of Germany**. According to the relocation team, this diversity is the key to a culture of innovation. 
 
 <!--more-->
 
-This year, the team at Get Your Guide have already successfully relocated over 35 new employees, and plan to relocate an additional 100 in the coming months. So how do they make sure that the candidates they have put time and effort into hiring actually stick around? 
+This year, the team at GetYourGuide have already successfully relocated over 35 new employees, and plan to relocate an additional 100 in the coming months. So how do they make sure that the candidates they have put time and effort into hiring actually stick around? 
 
 <br>
 
-<p align="center"><img alt="Get Your Guide's customer service team at work in their Berlin office." src="/assets/images/Interior_CustomerService.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="GetYourGuide's customer service team at work in their Berlin office." src="/assets/images/Interior_CustomerService.jpg" style="width:100% !important;"></p><br>
 
 
 ## Fly Them In! 
 
 <br>
 
-Get Your Guide’s talent retention strategy starts even before an offer has been made. One of the best ways to ensure that your new hire will be happy in their new city is to bring them there! Flying a candidate in for an in-person interview allows them the chance to experience not only your company culture in person, but also life in their potential new home. It’s important to make sure they are going to love it before making the final commitment. 
+GetYourGuide’s talent retention strategy starts even before an offer has been made. One of the best ways to ensure that your new hire will be happy in their new city is to bring them there! Flying a candidate in for an in-person interview allows them the chance to experience not only your company culture in person, but also life in their potential new home. It’s important to make sure they are going to love it before making the final commitment. 
 
-The relocation team at Get Your Guide recommends flying in not only the candidate but *the whole family* whenever possible. As you’ll see below, buy-in from the family is critically important in ensuring that your new hire sticks around. The investment you make in bringing them in - especially for high level positions - will pay off when your new hire not only accepts your offer, but contributes to your success for years to come.
+The relocation team at GetYourGuide recommends flying in not only the candidate but *the whole family* whenever possible. As you’ll see below, buy-in from the family is critically important in ensuring that your new hire sticks around. The investment you make in bringing them in - especially for high level positions - will pay off when your new hire not only accepts your offer, but contributes to your success for years to come.
 
 Once you’ve made your decision and extended an offer, what barriers do relocated employees commonly face? 
 
@@ -39,15 +39,15 @@ Once you’ve made your decision and extended an offer, what barriers do relocat
 
 <br>
 
-The number one thing that new hires at Get Your Guide always appreciate is travel help. The team at Get Your Guide allows new hires to choose their own flight, and then handles the booking on their behalf. 
+The number one thing that new hires at GetYourGuide always appreciate is travel help. The team at GetYourGuide allows new hires to choose their own flight, and then handles the booking on their behalf. 
 
 Something as simple as checking details about the flight can ease so much of the stress related to moving. Are they travelling with family and need seats together? How much baggage do they need to check in? What about dietary restrictions, or extra leg room? 
 
-The relocation team is sure to check each of these details in advance. These are things new hires are often too busy to think of, but appreciate immensely. It can also remove some of the financial pressure of relocation (and if you ask Get Your Guide, the upfront cost is well worth it to create a great first experience for new hires). 
+The relocation team is sure to check each of these details in advance. These are things new hires are often too busy to think of, but appreciate immensely. It can also remove some of the financial pressure of relocation (and if you ask GetYourGuide, the upfront cost is well worth it to create a great first experience for new hires). 
 
 <br>
 
-<p align="center"><img alt="Get Your Guide employees work in a bright and open office." src="/assets/images/Interior_PhasenschieberhaleMockup2.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="GetYourGuide employees work in a bright and open office." src="/assets/images/Interior_PhasenschieberhaleMockup2.jpg" style="width:100% !important;"></p><br>
 
 ## Housing
 
@@ -57,19 +57,19 @@ The [housing situation in Berlin](http://blog.honeypot.io/15-tips-finding-a-flat
 
 For tech talents relocating to Germany, the difficulty of finding an apartment in the first place is compounded by the fact that many available apartments are offered unfurnished. This is especially tough for those coming to Germany with a limited number of belongings. 
 
-Get Your Guide has taken a multi-pronged approach to tackling this issue. It’s important to take into account each employee’s individual needs to find the best initial housing solution: 
+GetYourGuide has taken a multi-pronged approach to tackling this issue. It’s important to take into account each employee’s individual needs to find the best initial housing solution: 
 
 * Is it a single person, or a family? 
 * Are they shipping furniture, or arriving with only a suitcase? 
 * Will there be children or pets accompanying them? 
 
-For newly arrived talents, Get Your Guide has set up an apartment building owned by the company that can house several new employees for a short period. For those not able to use this housing option, Get Your Guide also partners with local realtors to find furnished short-term accommodations. This allows the new employee to settle in to their new city for a month or two while looking for a more permanent flat. 
+For newly arrived talents, GetYourGuide has set up an apartment building owned by the company that can house several new employees for a short period. For those not able to use this housing option, GetYourGuide also partners with local realtors to find furnished short-term accommodations. This allows the new employee to settle in to their new city for a month or two while looking for a more permanent flat. 
 
 They also take care to provide information on resources such as [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/) where newly arrived employees can find discounted furniture to fill a new apartment.
 
 <br>
 
-<p align="center"><img alt="Get Your Guide employees prepare for an upcoming All Hands presentation." src="/assets/images/Interior_AllHands.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="GetYourGuide employees prepare for an upcoming All Hands presentation." src="/assets/images/Interior_AllHands.jpg" style="width:100% !important;"></p><br>
 
 ## The Partner
 
@@ -95,7 +95,7 @@ Finding a daycare for little ones presents yet another challenge for recently re
 
 In Berlin in particular, and in many other German cities, Kita can be nearly as competitive as finding a university! In fact, many families begin their Kita search as soon as they learn they are expecting. The situation varies from district to district, but in Berlin it is especially difficult in trendy and young districts such as Prenzlauer Berg and Mitte. 
 
-Companies can go a long way in supporting newly arrived families by assisting with Kita search and providing guidance on options. At Get Your Guide, the relocation team works to find suitable housing for young families that will allow them better access to Kita programs in their neighborhood. They also make sure that families are aware of their legal rights and options when it comes to Kita. 
+Companies can go a long way in supporting newly arrived families by assisting with Kita search and providing guidance on options. At GetYourGuide, the relocation team works to find suitable housing for young families that will allow them better access to Kita programs in their neighborhood. They also make sure that families are aware of their legal rights and options when it comes to Kita. 
 
 <br>
 
@@ -105,7 +105,7 @@ Companies can go a long way in supporting newly arrived families by assisting wi
 
 Although less common than travelling with a partner and children, many relocated talents also bring beloved pets to their new city. In these cases, it’s helpful to provide as much information as possible in advance to make sure this transition is a smooth one. 
 
-Throughout the process of relocating new employees, the team at Get Your Guide has encountered many surprises - including an employee who wished to move with 8 cats! (As it turns out, there is a limit to how many animals you can fly with before the airline considers you an animal trafficker… that number is 6.) In general, employers can take the following steps to ensure new arrivals and their fur-babies are prepared: 
+Throughout the process of relocating new employees, the team at GetYourGuide has encountered many surprises - including an employee who wished to move with 8 cats! (As it turns out, there is a limit to how many animals you can fly with before the airline considers you an animal trafficker… that number is 6.) In general, employers can take the following steps to ensure new arrivals and their fur-babies are prepared: 
 
 * **Candidates should be aware in advance of [how animals travel on planes](https://www.humanesociety.org/resources/travel-safely-your-pet-car-airplane-ship-or-train), as well as the risk they are taking by transporting their pets this way.** (It’s not uncommon for animals to have traumatic experiences flying, and some unfortunately do not survive the journey at all.) 
 
@@ -113,7 +113,7 @@ Throughout the process of relocating new employees, the team at Get Your Guide h
 
 <br>
 
-<p align="center"><img alt="Members of Get Your Guide's engineering team work in a bright and colorful open-plan office." src="/assets/images/Interior_Engineering.jpg" style="width:100% !important;"></p><br>
+<p align="center"><img alt="Members of GetYourGuide's engineering team work in a bright and colorful open-plan office." src="/assets/images/Interior_Engineering.jpg" style="width:100% !important;"></p><br>
 
 ## Go the Extra Mile 
 
@@ -143,8 +143,8 @@ One of the best ways that you can support an international talent’s move to Ge
 
 <br>
 
-Clearly Get Your GUide has invested a lot of time and energy into making sure the talent they hire from abroad sticks around long-term. Even before an offer has been made, they are hard at work ensuring that their potential new employee will be happy in their new city, and that the entire family is onboard with the move. From the travel plans to the first days in Germany, Get Your Guide’s relocation team anticipates their new hire’s potential needs and does everything they can to make the move smooth and painless. Once they’re settled in Germany, the integration process kicks into high gear as Get Your Guide does their best to make sure the entire family (including pets) is taken care of. 
+Clearly GetYourGuide has invested a lot of time and energy into making sure the talent they hire from abroad sticks around long-term. Even before an offer has been made, they are hard at work ensuring that their potential new employee will be happy in their new city, and that the entire family is onboard with the move. From the travel plans to the first days in Germany, GetYourGuide’s relocation team anticipates their new hire’s potential needs and does everything they can to make the move smooth and painless. Once they’re settled in Germany, the integration process kicks into high gear as GetYourGuide does their best to make sure the entire family (including pets) is taken care of. 
 
 As German tech companies prepare to welcome international developers in ever-increasing numbers, we hope these tips will help you to create a lasting impression for your next hires. 
 
-As always, happy hiring! 
+*As always, happy hiring!*
