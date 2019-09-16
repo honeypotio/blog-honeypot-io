@@ -1,7 +1,7 @@
 ---
 title:   "Honeypot is launching in Vienna!"
 subtitle: "To celebrate Honeypot’s launch in Vienna, we decided to take a deep dive into life as a developer in the Austrian capital."
-date:    2019-09-16 10:10:16
+date:    2019-09-16 06:10:16
 layout:  post
 author:  emma_tracey
 categories: [Product]
@@ -26,9 +26,9 @@ To celebrate Honeypot’s launch in Vienna, we decided to take a deep dive into 
 
 Vienna’s startup scene burst into life over the last seven years. High profile exits, such as Runtastic, the fitness app acquired by Adidas in 2015 for [$240 million](https://thenextweb.com/insider/2015/08/05/adidas-has-acquired-fitness-app-runtastic/), and MySugr, diabetes app acquired by Roche for [€74 million](https://www.reuters.com/article/us-roche-diabetes-acquisition-idUSKBN19L0H9?feedType=RSS&feedName=technologyNews), have spurred confidence in the region. 
 
-Vienna’s central location in Europe, great quality of life and robust startup infrastructure have earned it a place at the top of this year’s [Startup Cities Index](https://www.peopleperhour.com/startup-cities/index.html) and governmental initiatives such as the [Vienna Startup Package](https://viennabusinessagency.at/startup-city-vienna/vienna-startup-package/), a two-month all expenses paid trip to the city for international startups, have led to startups popping up all over town. Our favourite? Robo Wunderkind, a company that’s created a kit of interchangeable building blocks that can be built into programmable robots in an effort to get kids interested in engineering and coding. 😍
-
-VC still plays a relatively small role in the startup scene in Vienna in comparison to other cities: currently the three most important financing sources are the **founder’s own savings (81%), public subsidies and allowances (55%), and business angels (33%).**
+Vienna’s central location in Europe, great quality of life and robust startup infrastructure have earned it a place at the top of this year’s [Startup Cities Index](https://www.peopleperhour.com/startup-cities/index.html).  VC still plays a relatively small role in the startup scene in Vienna in comparison to other cities. Currently the three most important financing sources are the **founder’s own savings, public subsidies and allowances, and business angels.**
+  
+Governmental initiatives such as the [Vienna Startup Package](https://viennabusinessagency.at/startup-city-vienna/vienna-startup-package/), a two-month all expenses paid trip to the city for international startups, have led to startups popping up all over town.  Our favourite? Robo Wunderkind, a company that’s created a kit of interchangeable building blocks that can be built into programmable robots in an effort to get kids interested in engineering and coding. 😍
 
 <br />
 
@@ -158,3 +158,8 @@ The city is also home to many non-EU developers, who can apply for two different
 Honeypot’s launch in Vienna marks a major milestone in our growth. **We aim to launch ten new markets within the next three years**, and our step into Vienna is supported by a committed local team who will bring the Honeypot ethos to a local audience. Come meet us in person at our upcoming Tech Movie Night and our soon-to-be-announced launch event. 
 
 Watch this space, Vienna! :)
+
+*P.S Want to read what the Austrian press have to say about us?* 
+
+Der Standard, [“Honeypot: Umgedrehte Jobsuche für IT-Fachkräfte startet in Wien”](https://www.derstandard.de/story/2000108677087/honeypot-umgedrehte-jobsuche-fuer-it-fachkraefte-startet-in-wien)
+Der Brutkasten, [“Nach dem 57-Millionen-Euro-Exit an Xing: Jobplattform Honeypot startet in Österreich”](https://www.derbrutkasten.com/honeypot-exit-jobs/)
