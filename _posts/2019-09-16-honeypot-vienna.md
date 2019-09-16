@@ -24,7 +24,7 @@ To celebrate Honeypot’s launch in Vienna, we decided to take a deep dive into 
 
 <br />
 
-Vienna’s startup scene burst into life over the last seven years. High profile exits, such as Runtastic, the fitness app acquired by Adidas in 2015 for [$240 million](https://thenextweb.com/insider/2015/08/05/adidas-has-acquired-fitness-app-runtastic/), and MySugr, diabetes app acquired by Roche for [€74 million](https://www.reuters.com/article/us-roche-diabetes-acquisition-idUSKBN19L0H9?feedType=RSS&feedName=technologyNews), have spurred confidence in the region. 
+Vienna’s startup scene burst into life over the last seven years. High profile exits, such as Runtastic, the fitness app acquired by Adidas in 2015 for [$240 million](https://thenextweb.com/insider/2015/08/05/adidas-has-acquired-fitness-app-runtastic/), and MySugr, a diabetes app acquired by Roche for [€74 million](https://www.reuters.com/article/us-roche-diabetes-acquisition-idUSKBN19L0H9?feedType=RSS&feedName=technologyNews), have spurred confidence in the region. 
 
 Vienna’s central location in Europe, great quality of life and robust startup infrastructure have earned it a place at the top of this year’s [Startup Cities Index](https://www.peopleperhour.com/startup-cities/index.html).  VC still plays a relatively small role in the startup scene in Vienna in comparison to other cities. Currently the three most important financing sources are the **founder’s own savings, public subsidies and allowances, and business angels.**
   
@@ -44,7 +44,7 @@ And it’s not just local companies who see the appeal of setting up in Vienna. 
 
 <br />
 
-Despite exciting career prospects and high income opportunities, there has been a significant shortage of skilled workers over the last five years. According to Honeypot research, in **2019 there were roughly 8,000 unfilled tech positions in Vienna and 10,000 in Austria more broadly.** Likewise, in 2019 over [30% of Viennese companies reported difficulties filling software engineering roles](https://2018.stateofeuropeantech.com/chapter/europes-got-talent/article/competing-compensating-talent/). [According to EU research](https://skillspanorama.cedefop.europa.eu/en/analytical_highlights/austria-mismatch-priority-occupations), the sho rtfall is due to insufficient skills supply, increasing demand for tech workers in other professions (such as medicine), and the increasing need for data skills--particularly in large enterprises.
+Despite exciting career prospects and high income opportunities, there has been a significant shortage of skilled workers over the last five years. According to Honeypot research, in **2019 there were roughly 8,000 unfilled tech positions in Vienna and 10,000 in Austria more broadly.** Likewise, in 2019 over [30% of Viennese companies reported difficulties filling software engineering roles](https://2018.stateofeuropeantech.com/chapter/europes-got-talent/article/competing-compensating-talent/). [According to EU research](https://skillspanorama.cedefop.europa.eu/en/analytical_highlights/austria-mismatch-priority-occupations), the shortfall is due to insufficient skills supply, increasing demand for tech workers in other professions (such as medicine), and the increasing need for data skills--particularly in large enterprises.
 
 <br />
 
@@ -72,7 +72,7 @@ Despite exciting career prospects and high income opportunities, there has been 
 
 <br />
 
-To understand what the average developer in Vienna looks like, we took the raw data from (Stackoverflow’s 2019 Developer Survey)(https://insights.stackoverflow.com/survey) and isolated Austrian respondents. 839 Austrian developers replied to the survey, and 30% of them had between five and nine years of experience.  While the sample represents less than 0.01% of Austria’s total developers, it is the most complete dataset currently available and reveals interesting insights into their experience and preferences.
+To understand what the average developer in Vienna looks like, we took the raw data from [Stackoverflow’s 2019 Developer Survey](https://insights.stackoverflow.com/survey) and isolated Austrian respondents. 839 Austrian developers replied to the survey, and 30% of them had between five and nine years of experience.  While the sample represents less than 0.01% of Austria’s total developers, **it is the most complete dataset currently available** and reveals interesting insights into their experience and preferences.
 
 <br />
 
@@ -118,7 +118,7 @@ Austrian developers agreed that the biggest obstacle to their productivity is a 
 
 Vienna is an undeniably attractive place to live. In 2018 and 2019, the Austrian capital topped [The Global Liveability Index](https://www.eiu.com/topic/liveability), an annual report by The Economist Intelligence Unit. Likewise, the city has earned the top place on the [Mercer Quality of Living City Ranking](https://mobilityexchange.mercer.com/quality-of-living) for ten consecutive years.
 
-These reports look at various qualitative and quantitative factors across categories such as stability, crime, healthcare, personal freedom, housing, recreation, culture, environment, education, public transport, and infrastructure. Out of a possible 100 points on the Economist’s report, Vienna scored 99.1.
+These reports look at various qualitative and quantitative factors across categories such as stability, crime, healthcare, personal freedom, housing, recreation, culture, environment, education, public transport, and infrastructure. Out of a possible 100 points on the Economist’s report, **Vienna scored 99.1.**
 
 <br />
 
@@ -143,7 +143,9 @@ With its location at the center of Europe, Vienna is cosmopolitan: [27% of wage 
 
 <br />
 
-The city is also home to many non-EU developers, who can apply for two different types of visas: **the Rot-Weiß-Rot (RWR) Card or the EU Blue Card.** Both cover skilled workers for shortage occupations, into which software development falls. The difference between the two visas depends on the salary and educational background of the applicant. To qualify for the Blue Card, it is important that you earn a gross annual income of at least one and a half times the average gross annual income of a full-time employee (in 2019: at least € 62,265). **Honeypot’s Talent Relocation team covers both the visa cost and process for all developers hired on the platform** and moving to any of our markets, including Vienna.
+The city is also home to many non-EU developers, who can apply for two different types of visas: **the Rot-Weiß-Rot (RWR) Card or the EU Blue Card.** Both cover skilled workers for shortage occupations, into which software development falls. The difference between the two visas depends on the salary and educational background of the applicant. 
+
+To qualify for the Blue Card, it is important that you earn a gross annual income of at least one and a half times the average gross annual income of a full-time employee (in 2019: at least € 62,265). **Honeypot’s Talent Relocation team covers both the visa cost and process for all developers hired on the platform** and moving to any of our markets, including Vienna.
 
 <br />
 
