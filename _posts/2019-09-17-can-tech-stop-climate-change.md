@@ -1,5 +1,5 @@
 ---
-title:   "Can Tech Stop Climate Change? (A Conversation with tado° and Lana Labs"
+title:   "Can Tech Stop Climate Change? (A Conversation with tado° and Lana Labs)"
 subtitle: "A conversation on tech and climate change with tado° and Lana Labs."
 date:    2019-09-17 10:10:16
 layout:  post
