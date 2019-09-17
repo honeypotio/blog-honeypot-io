@@ -16,6 +16,8 @@ In preparation for the strike, we spoke with two Honeypot clients, **tado°** an
 
 <!--more-->
 
+<br> 
+
 ## Home Climate Management
 
 <br>
