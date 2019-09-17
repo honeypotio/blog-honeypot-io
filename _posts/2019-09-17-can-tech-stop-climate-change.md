@@ -10,7 +10,7 @@ permalink:  can-tech-stop-climate-change/
 importance: 2
 ---
 
-**On Friday, September 20th, Honeypot is joining Greta Thurnberg’s [global climate strike](https://globalclimatestrike.net).** As a developer-focused job platform, we are keenly aware of the role that technology plays in our lives and in our world. When it comes to climate change, tech (and more specifically the developer community) provides some of our [greatest hopes](https://singularityhub.com/2019/05/13/12-ways-big-tech-can-take-big-action-on-climate-change/) for lessening humanity’s overall impact. 
+**On Friday, September 20th, Honeypot is joining Greta Thunberg’s [global climate strike](https://globalclimatestrike.net).** As a developer-focused job platform, we are keenly aware of the role that technology plays in our lives and in our world. When it comes to climate change, tech (and more specifically the developer community) provides some of our [greatest hopes](https://singularityhub.com/2019/05/13/12-ways-big-tech-can-take-big-action-on-climate-change/) for lessening humanity’s overall impact. 
 
 In preparation for the strike, we spoke with two Honeypot clients, **tado°** and **Lana Labs**, about their thoughts on tech and climate change. Environmental activism may not be the first thing that jumps to mind when you hear home heating or process mining--but perhaps it should be. These two forward-thinking companies show that there are many ways to use our modern tools to make a positive difference. Read on to find out how they do it! 
 
