@@ -16,6 +16,8 @@ Thinking of moving to Vienna yourself? Check out the infographic below to discov
 
 <!--more-->
 
+<br />
+
 <p align="center"><img alt="Moving to Vienna infographic." src="/assets/images/infographic_vienna.png" style="width:100% !important;"></p><br>
 
 <p align="center"><strong>Like this infographic? Paste the embed code below to share it!</strong></p>
@@ -26,4 +28,4 @@ Thinking of moving to Vienna yourself? Check out the infographic below to discov
 
 <br />
 
-[Join Honeypot](https://app.honeypot.io/users/sign_up) today to find a job you'll love in Vienna!
+**[Join Honeypot](https://app.honeypot.io/users/sign_up) today to find a job you'll love in Vienna!**
