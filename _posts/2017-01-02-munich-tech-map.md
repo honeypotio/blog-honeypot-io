@@ -1,5 +1,5 @@
 ---
-title:   The Ultimate Guide to Munich's Tech Scene - Munich Tech Map 
+title:   Tech Companies in Munich: The Guide to Munich’s Tech Scene 
 subtitle: "Which tech startups are based in Munich? What programming languages are most in demand in Munich? What are the city's most popular industries? What's life like for a developer in Munich? All this and more in our ultimate guide to Munich's tech scene!"
 date:    2017-01-02 09:54:05
 layout:  post
