@@ -1,5 +1,5 @@
 ---
-title: 8-steps to finding a job and getting a visa in Germany
+title: "8-steps to finding a job and getting a visa in Germany"
 subtitle: "Planning on moving to Germany? Unsure as to how to find a job and get a visa? Check out this practical step-by-step guide in which we detail how to successfully complete the visa process and get the job you're looking for in Germany."
 date: 2015-11-09 11:27:15
 layout: post
