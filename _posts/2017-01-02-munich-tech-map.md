@@ -23,7 +23,6 @@ Some notable tech companies in Munich include:
 
 * Adobe
 * BMW
-* Celonis
 * Cisco
 * Google
 * IBM
