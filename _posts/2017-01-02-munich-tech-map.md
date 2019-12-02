@@ -19,9 +19,25 @@ But what does Munich have to offer software developers?
 
 To figure that out, we created the Munich Tech Map, a guide to jobs and companies in the city for software developers. We mapped 200 tech companies (both startups and corporates) based in Munich, classified them by industry and further divided them by their programming languages. We also talked to some locals in Munich’s developer scene and soon discovered the city has a lot to offer software developers.
 
+Some notable tech companies in Munich include:
+
+* Adobe
+* BMW
+* Celonis
+* Cisco
+* Google
+* IBM
+* Microsoft
+* Siemens
+* Tripodo
+* Yahoo
+* Amazon
+* ZEISS
+* mymuesli
+
 [![Munich tech map](/assets/images/munich-map-small.png)](/assets/images/munich-big-map.png)
 
-### Munich’s Economic Dominance
+## Munich’s Economic Dominance
 
 According to [Deutsche Startup Monitor]( http://deutscherstartupmonitor.de/fileadmin/dsm/dsm-15/studie_dsm_2015.pdf), 31% of startups in Germany are located in Berlin, compared to 11% in Munich. If you take Bavaria, the state to which Munich is the capital, as a whole, that number jumps to 16%. 
 
@@ -35,7 +51,7 @@ For software developers interested in working in Munich, Bavaria’s dominant ec
 
 Despite fewer startups, Bavarian automotive, finance, and media giants based in Munich are eager to cement Germany’s reputation not just as a traditional engineering powerhouse, but also as a world leader in software engineering, which makes Munich a rather exciting place  for software developers to be. 
 
-### Mobility in Munich
+## Mobility in Munich
 
 ![Mobility-tech-Munich](/assets/images/munich-Mobility.png)
 
@@ -56,7 +72,7 @@ Daimler is also investing in startups in Munich. [Daimler Mobility](https://www.
 ![IoT-tech-Munich](/assets/images/munich-security.png)
 
 
-### That thing, that thing, that Internet of Things
+## That thing, that thing, that Internet of Things
 
 Munich’s combination of high-tech industries, knowledge-intensive services and traditional production make the city a fertile breeding ground for emerging Internet of Things companies. While the phrase IoT [irks many developers](https://blog.bolt.io/the-internet-of-dumb-things-49d102018e16#.qidse9250)  for its overly generalized and somewhat inexplicable applications, the term is useful as a catch-all phrase to describe the connection of everyday objects to the internet, allowing them to send and receive data.
 
@@ -91,7 +107,7 @@ The city is home to [Technische Universität München](https://www.tum.de/), whe
 
 According to Dirk Schart, co-organizer of the VR and Mixed Reality Meetups, companies like Google are also supporting the local scene by sponsoring meetups.  This confluence of community, corporate support and technical skills have given rise to a number of AR/VR companies in Munich. [RE’FLEKT](https://www.re-flekt.com/), for example, was founded in 2012, and creates AR and VR technologies, such as face tracking, which they are developing for the augmented windows of Elon Musk’s [Hyperloop](https://www.youtube.com/watch?v=7A7GsAPR3J0).  Other startups and agenices include [Innoactive](http://www.innoactive.de/en/), [Dexperio](http://www.dexperio.net/), and [CoSpaces](https://cospaces.io/). 
 
-### Media and Finance in Munich
+## Media and Finance in Munich
 
 ![internet-of-things-Munich](/assets/images/munich-marketing.png)
 
@@ -136,7 +152,7 @@ Gabriele Böhmer, editor of [Munich Startup](http://en.munich-startup.de/), expl
 
 The question for software developers in Munich then should be how to choose between startups and corporates? For David Drews, Product Manager at [Aboalarm](https://www.aboalarm.de/), it comes down to preference: “Working for a startup is a cultural question that talents have to ask themselves. At Aboalarm, we are a super young team, the average age is in the mid-20s, which keeps the workplace dynamic and agile.”
 
-### What programming languages are most in demand in Munich? 
+## What programming languages are most in demand in Munich? 
 
 Of the 200 companies we featured on the Munich Tech Map, 165 of those had publicly available information about their tech stack. We used data from the careers websites of the companies featured, from GitHub, from Angel.co and from company profiles on Honeypot. 
 
@@ -152,7 +168,7 @@ We did a similar calculation for the most popular frontend frameworks. Fewer com
 
 ![frameworks-munich](/assets/images/munich-Frontend-frameworks.png)
 
-### Moving from developer to founder in Munich  
+## Moving from developer to founder in Munich  
 
 If you are a developer looking to become a founder, Munich is a great place to base yourself. The city is dotted with corporate-backed incubators offering generous incentives to start tech companies. 
 
@@ -167,7 +183,7 @@ The Bavarian government has a number of initiatives supporting local talent. [Ba
 ![VC-munich](/assets/images/munich-vc-inc-accel.png)
  
 
-### Life in Munich 
+## Life in Munich 
 
 
 Munich’s location - close to Italy and Austria - makes it a great location for outdoor enthusiasts.  Toby Martin, Head of Software Engineering at Bragi, said Munich is a great place for developers to be: "What we find is when we recruit from other countries, we find that is easy to attract people to Munich because of the place that it is. Munich can be a difficult place to move to because it’s expensive. One-person flats are very expensive and hard to find. But once people have settled in they enjoy the vibe.” 
