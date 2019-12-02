@@ -23,7 +23,7 @@ So now that we have launched, it's time to ask what is Honeypot all about?
 We started Honeypot because IT recruitment in its current state is broken. Companies spend countless, frustrated hours reaching out to developers. Developers, on the other hand, are overloaded with mismatched offers – wrong technology, incorrect location, boring product...the list is endless.
 
 ### So, first we bring the right people together...
-In building Honeypot we created a place to connect developers and companies. All developers on the platform are accepted after a code review or code challenge. Companies are also screened for quantitative and qualitative criteria, such as funding, company culture, and location, before they are allowed to use Honeypot. So, developers and companies together,  good start.
+In building Honeypot we created a place to connect developers and companies. All developers on the platform are accepted after a code review or code challenge. Companies are also screened for quantitative and qualitative criteria, such as funding, company culture, and location, before they are allowed to use Honeypot. So, developers and companies together, good start.
 
 ### ....and then we ask them to tell each other what they want
 Next step was to increase transparency. On Honeypot developers build a profile to specify their ideal position. Companies filter for talent through location and tech requirements and then send job offers with all this information upfront. Before accepting an interview, developers can explore the product, the tech stack and the team through company profiles.
