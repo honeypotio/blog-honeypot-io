@@ -1,5 +1,5 @@
 ---
-title:   "What are the benefits of employer branding?"
+title:   "What are the Benefits of Employer Branding (Recruitment, Cost-savings, Performance, and more)"
 subtitle: "Why should you care about employer branding? To what extent can it have an impact on your company's ability to attract top talent and lower your hiring costs? And what are the dangers of ignoring employer branding?"
 date:    2018-05-04 10:10:16
 layout:  post
@@ -45,7 +45,7 @@ Your employer branding strategy can be the difference between hiring the develop
 
 <br />
 
-## How can employer branding help you save money on recruitment?
+## Save money on recruitment
 
 <br />
 
@@ -55,15 +55,15 @@ But while investing in employer branding may seem like an excessive time commitm
 
 <br />
 
-### Lower Cost-Per-Hire
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1. Lower Cost-Per-Hire**
 
 A strong employer brand fosters a great work environment and makes your brand more attractive to potential candidates. This in turn means that your employees will be **more inclined to refer your organization to other professionals** and that you may have a **ready-made talent community** from which to draw from.
 
-Look at it this way. If you've worked on developing a strong brand image and job seekers are naturally attracted to your company, you'll most probably spend less money creating awareness for your job openings. Instead, you might just post your job opportunities across your company's social media channels.
+Look at it this way: if you've worked on developing a strong brand image and job seekers are naturally attracted to your company, you'll most probably spend less money creating awareness for your job openings. Instead, you might just post your job opportunities across your company's social media channels.
 
 And if you can count on your employees to convey a positive image of the company and refer you to job seekers, you're bound to spend way less on advertising and the such.
 
-In actual fact, candidates generated through **referalls are the 2nd cheapest means of sourcing** and more and more job seekers admit they use social media platforms to gather information about employer brands and open positions.
+In actual fact, candidates generated through **referrals are the 2nd cheapest means of sourcing** and more and more job seekers admit they use social media platforms to gather information about employer brands and open positions.
 
 <br />
 
@@ -76,7 +76,7 @@ In actual fact, candidates generated through **referalls are the 2nd cheapest me
 
 <br />
 
-### Faster Time To Hire
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Faster Time To Hire
 
 By investing in employer branding, you're able to attract more talent. And companies that can attract more talent can also **hire that talent faster.**
 
@@ -88,7 +88,7 @@ Think about it from a sales perspective. It's a well known fact that inbound lea
 
 <br />
 
-### Lower Employee Turnover
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Lower Employee Turnover
 
 Alright so there are two ways this works.
 
@@ -102,7 +102,7 @@ And as we all know, more engaged staff means increased productivity, higher comp
 
 <br />
 
-### Savings on Salaries
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Savings on Salaries
 
 While it's certainly a very important factor, top talent candidates seek more than just an attractive salary.
 
@@ -132,15 +132,15 @@ Here are some interesting insights from the US to back up this argument:
 
 <br />  
 
-## How can employer branding have a positive impact on candidate attraction?
+## Help attract qualified candidates
 
 <br />
 
-As significant as the financial benefits of employer branding may be, the underlining purpose of improving your organization's reputation as an employer is to be seen by more candidates and **attract the top talent on the market.** This in turn leads to increased productivity and reduced hiring costs of course, but it all starts with making your organization as attractive as possible to job seekers.
+As significant as the financial benefits of employer branding may be, the underlying purpose of improving your organization's reputation as an employer is to be seen by more candidates and **attract the top talent on the market.** This in turn leads to increased productivity and reduced hiring costs of course, but it all starts with making your organization as attractive as possible to job seekers.
 
 <br />
 
-### Attract Passive Candidates
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Attract Passive Candidates
 
 Before we ask ourselves to what extent employer branding can help you to attract passive candidates, let's make sure we all agree on what a passive candidate actually is.
 
@@ -163,7 +163,7 @@ Passive candidates could be just as tempted by a company that offers better **gr
 
 <br />
 
-### Visibility = Trust
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Visibility = Trust
 
 Did you know that **75% of job seekers consider an employer's brand before even applying for a job?**
 
@@ -177,7 +177,7 @@ Candidates tend to trust a company's employees **3 times more** than the company
 
 <br />
 
-### Talent Retention
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Talent Retention
 
 It's important to keep in mind that a strong employer brand is good for attracting potential candidates, but also for retaining your best assets.
 
@@ -185,7 +185,7 @@ As previously explained, leveraging employer branding to create a bond with pros
 
 <br />
 
-## To what extent can employer branding impact company performance?
+## Improve company performance
 
 <br />
 
