@@ -1,5 +1,5 @@
 ---
-title:   "WBSO Grant: Save money when hiring developers in the Netherlands"
+title:   "WBSO Grants: Get government support and save money hiring developers in the Netherlands"
 subtitle: "What is the WBSO and why should you apply for it? Who's eligible for the WBSO grant and what's the application process like? Everything you need to know about the Dutch WBSO grant and the manner in which it can help you save on hiring costs."
 date:    2018-08-03 10:10:16
 layout:  post
