@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/honeypotio/blog-honeypot-io/issues"
   },
-  "homepage": "https://github.com/honeypotio/blog-honeypot-io#readme"
+  "homepage": "https://github.com/honeypotio/blog-honeypot-io#readme",
+  "engines" : { 
+    "node" : ">=6.9.5" 
+  }
 }

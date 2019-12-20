@@ -57,7 +57,7 @@ $ git push origin my-branch-name
 # required for image optimization
 $ brew install imagemagick
 $ brew install graphicsmagick
-
+$ rbenv install 
 $ bundle install
 $ npm install
 ```
