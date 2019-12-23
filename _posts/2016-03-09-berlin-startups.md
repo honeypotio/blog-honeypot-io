@@ -1,5 +1,5 @@
 ---
-title:   The Ultimate Guide to Berlin's Startup Scene - Berlin Tech Map
+title:   "Berlin Startup Map: The Ultimate Guide to Berlin’s Tech Scene"
 subtitle: "Which tech startups are based in Berlin? What are Berlin's most popular industries? What are Berlin's most famous e-commerce companies? How much funds have been raised in recent years? All this and more in our ultimate guide to Berlin's startup scene!"
 date:    2016-03-09 16:01:14
 layout:  post
@@ -20,19 +20,19 @@ Did you know there are over 1800 active startup companies operating in Berlin? T
 
 [![berlin's startups](/assets/images/startupsmall2.png)](/assets/images/startup2.png)
 
-## East Side verus West Side
+## East Side versus West Side
 
-According to EY, in 2015 [growth in Germany][9]{:target="_blank"}  outpaced other European tech regions such as the UK, Sweden or France. With Berlin centered at the beating heart of this growth and home to roughly [1,800 active tech startups][1]{:target="_blank"}, analysts estimate that the city's startups could create between [40,000][1]{:target="_blank"} and [100,000][30]{:target="_blank"} new jobs by 2020.
+According to EY, in 2015 [growth in Germany][9]{:target="_blank"}  outpaced other European tech regions such as the UK, Sweden or France. With Berlin centered at the beating heart of this growth and home to roughly [1,800 active tech startups][1]{:target="_blank"}, analysts estimate that the city's startup scene could create between [40,000][1]{:target="_blank"} and [100,000][30]{:target="_blank"} new jobs by 2020.
 
 Our research reveals 56% of Berlin’s startups are in the former east of the city, clustered around the famous Torstrasse, otherwise known as Silicon Allee.
 
 Pockets of startups can also be found huddled in hubs around Prenzlauer Berg (former East Berlin) and Kreuzberg (former west Berlin). Both of these neighbourhoods once bordered the Berlin wall making loft space in desinstrualized buildings affordable and attractive.
 
-Berlin's startups are largely heterogeneous and many escape easy classification. Our sample showed that eCommerce and AdTech dominate, while FinTech, retail technology and marketing solutions also have significant representation.
+Berlin's startup ecosystem is largely heterogeneous and many escape easy classification. Our sample showed that eCommerce and AdTech dominate, while FinTech, retail technology and marketing solutions also have significant representation.
 
 ![berlin's industries](/assets/images/industries.png)
 
-# eCommerce
+## eCommerce
 
 17% of our sample are eCommerce companies. Zalando, Berlin’s most famous eCommerce startup, was founded in 2008 by Robert Gentz and David Schneider. In Autumn 2014, Zalando IPO’d to the tune of €5.3 billion.
 
@@ -46,7 +46,7 @@ Companies are also playing with the business model, trying out new forms of owne
 
 Following on from eCommerce, AdTech startups had the second biggest representation amongst our sample (11%).
 
-2014 was a breakthrough year for Berlin’s AdTech firms, with a number of players, such as [Adjust][15]{:target="_blank"}, [Remerge][16]{:target="_blank"}, [AdSquare][18]{:target="_blank"} and [Fyber][17]{:target="_blank"}, successfully exiting or securing funding.
+2014 was a breakthrough year for Berlin’s AdTech service providers, with a number of players, such as [Adjust][15]{:target="_blank"}, [Remerge][16]{:target="_blank"}, [AdSquare][18]{:target="_blank"} and [Fyber][17]{:target="_blank"}, successfully exiting or securing funding.
 
 Many point to the legacy of [HitFox Group][8]{:target="_blank"}, the company builder focused on AdTech and big data, which acquired or helped to launch companies like [AppLift][33]{:target="_blank"} and [ad2games][34]{:target="_blank"}, to explain the high concentration of AdTech startups in the city.
 
@@ -125,7 +125,7 @@ Some other notable examples of incubators and accelerators include Factory, whic
 
 Berlin’s low cost of living and creative culture has attracted national and international tech talent but more recent increases in the cost of living and the demand for apartments generally means securing your spot in the right location can be quite a battle. This begs the question where is the best place to live in Berlin if you want to work in a startup?
 
-Well, the answer is anywhere along the U2 U-bahn line. A whopping 38% of Berlin's startups are along this line which runs from west to east across the city. At Rosa Luxemburg Platz alone, which lies close to the famous Silicon Allee, we counted 13 startups.
+Well, the answer is anywhere along the U2 U-bahn line. A whopping 38% of Berlin's startups are along this line which runs from west to east across the city, and you can find excellent coworking spaces along the U-bahn as well. At Rosa Luxemburg Platz alone, which lies close to the famous Silicon Allee, we counted 13 startups.
 
 ![ubahn](/assets/images/busyu.png)
 
