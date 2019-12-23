@@ -30,24 +30,20 @@ function _optimizeCovers() {
       dest: 'xs',
       options: {
         width: 480,
-        crop: true
       }
     },
     {
       glob: 'thumbnail_*',
       dest: 'sm',
       options: {
-        width: 737,
-        height: 143,
-        crop: true
+        width: 737
       }
     },
     {
       glob: 'thumbnail_*',
       dest: 'md',
       options: {
-        width: 720,
-        crop: true
+        width: 720
       }
     }
   ];
