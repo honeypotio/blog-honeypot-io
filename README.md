@@ -64,7 +64,7 @@ $ npm install
 
 ## Starting in development
 
-`jekyll serve`
+`bundle exec jekyll serve`
 
 ### Want to double test your change before putting live?
 
