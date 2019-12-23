@@ -1,5 +1,5 @@
 ---
-title:   "The German Work Permit Explained"
+title:   "German Work Permits: Explained"
 subtitle: "The ultimate guide to understanding the German work permit for developers and recruiters."
 date:    2019-07-29 10:10:16
 layout:  post
@@ -18,9 +18,13 @@ Whether you are a company looking to hire international talent or a developer tr
 
 <br />
 
-## What are my options?
+## German work permits: the basics
+
+To work in Germany as a non-German citizen, you will need a work permit and a residency permit. EU nationals can enter the country and search for work without a permit, but non-EU citizens will likely require a job offer and work permit before entering the country, and must apply for a residency permit immediately. 
 
 <br />
+
+## Am I eligible for a German work permit?
 
 You may already be aware of the EU Blue Card, a specialized work visa with strict education and salary requirements (if not, you can read more about it [here](http://blog.honeypot.io/ultimate-guide-EU-blue-card/)-- but what about developers who don’t have the required university degree, or who hold a degree in an unrelated subject? 
 
@@ -124,6 +128,19 @@ If you did not qualify for a Blue Card previously, but have since increased your
 ### What if I want to become a permanent resident?
 
 Permanent residency is possible after living in Germany for 5 years with an uninterrupted residence permit (including a work permit). In specific cases, it is possible earlier, for example if you hold a German university degree or an EU Blue Card. 
+
+### How long does it take to get a work permit in Germany? 
+
+Typically, the office of International Placement Services (ZAV) will process a work permit in 1-3 months after the application has been submitted. 
+
+### How much is a German work visa?
+
+Submitting an application for a short-stay German work visa costs €60 Euro, while an application for a long-stay visa is €75. However, applicants under the age of 18 can submit an application for only €37.50. 
+
+### How long can you stay in Germany with a work visa?
+
+Typically, a work visa is granted for the same length of time as the applicant’s work contract: so, if your contract is for two years, then the work visa will last two years. 
+
 
 <br />
 
