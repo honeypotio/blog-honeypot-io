@@ -1,5 +1,5 @@
 ---
-title:  The Ultimate Guide to Amsterdam's Tech Scene - Amsterdam Tech Map
+title:  "Amsterdam Tech Map: A Guide to Tech Companies in Amsterdam"
 subtitle: "Which tech startups are based in Amsterdam? What are the city's most common industries? Why is the sharing economy so popular in Amsterdam? How much funds have been raised in recent years? All this and more in our ultimate guide to Amsterdam's tech scene!"
 date:    2016-09-08 05:09:38
 layout:  post
@@ -24,11 +24,13 @@ To answer this question we gathered a sample of over 170 tech companies, classif
 ##### Click on map to enlarge
 
 
-### Kroes Kontrol 
+## Tech companies in Amsterdam: an overview 
 
-Over the last two years, the startup ecosystem has taken centre stage in Amsterdam, with mammoth efforts being made to coordinate public and private resources. 
+According to [Compass][1], there are ***between 1,900 and 2,600 tech startups*** in the Amsterdam-Startup Delta, the geographical triangle, which covers Amsterdam, the Hague and Eindhoven, including startup darlings like WeTransfer, TravelBird, and DoubleDutch. In addition, a number of international tech giants have made Amsterdam the centerpiece of their European strategy: Tesla, Facebook, and Google are just a few of the major tech companies in Amsterdam. 
 
-According to [Compass][1], there are ***between 1,900 and 2,600 tech startups*** in the Amsterdam-Startup Delta, the geographical triangle, which covers Amsterdam, the Hague and Eindhoven. 
+Over the last two years, the startup ecosystem has taken centre stage in Amsterdam, with mammoth efforts being made to coordinate public and private resources.
+ 
+## Kroes Kontrol
 
 In 2014, Amsterdam brought in the big guns, appointing Neelie Kroes, the former European Commissioner for the Digital Agenda, as Special Envoy for Startups. 
 
@@ -44,7 +46,7 @@ Things seem to be going according to plan, as 2015 was the first year that Amste
 Alongside Kroes, Kajsa Ollongren, Amsterdam’s deputy mayor of Economic Affairs, is an active supporter of both the tech community and the local arts scene.  This dual emphasis mirrors Berlin’s enigmatic former mayor, Klaus Wowereit, who once declared "Berlin ist arm, aber sexy."  Ollongren rolled out [StartupAmsterdam][39] in 2015, to attract IT talent and venture capital to Amsterdam. 
 
 
-### The Soft Power 
+## The Soft Power 
 
 While Berlin has recently become the star of Europe’s startup scene, it is Amsterdam who has the stronger history of tech innovation. Long before startups became the focus, the Netherlands was renowned for digital innovation, producing multiple technological innovations which have changed the world, everything from the CD and DVD to WIFI and Bluetooth. 
 
@@ -61,7 +63,7 @@ The Netherlands’ infrastructure, combined with it the country’s excellent En
 ![amsterdam tech map](/assets/images/amsterdam9.png)
 
 
-### Where the Startups Started
+## Where the Startups Started
 
 While technology has always been a strong point of the Dutch, Amsterdam’s modern startup scene started, arguably, with [Booking.com][21] in the late nineties. 
 
@@ -70,7 +72,7 @@ Founded in 1996, Booking was one of the earliest internet based startups to find
 
 The company was acquired by the Priceline Group for a mere $135 million in cash in 2005. For comparison, [Priceline bought Kayak][22], a travel search engine, for $1.8 billion in 2012. The sale has been touted as one of the most profitable acquisitions in the digital travel industry in the 2000s, and points to one of Amsterdam’s less developed areas - financing.
 
-### Amsterdam’s Unicorns and Startup Darlings
+## Amsterdam’s Unicorns and Startup Darlings
 
 Following Booking, the second generation of startups began to emerge in the late 2000s. Startups such as [Adyen][42], [CataWiki][223] and [WeTransfer][23], began to demonstrate the innovative spirit of the Dutch startup scene.  
 
@@ -84,7 +86,7 @@ WeTransfer, founded in 2009, is a large file-sharing tool and one of Amsterdam�
 
 More recent successes from the city include [TravelBird][301] , a travel platform which raised $33.15M Series B in November, 2014,  [DoubleDutch][113], an event marketing software which claimed 2 million users by 2015,  [Treatwell][27], a hair and beauty bookings marketplace, which was acquired in 2015 by Japan’s Recruit Holdings for [$117 million][46] and [Silk][197], a data visualization tool, which was purchased by big data provider Palantir in August 2016. One of the most exciting projects in the city is online supermarket,[Picnic](https://www.picnic.nl/), which is taking a revolutionary approach to grocery delivery. The company has planned ambitious growth for it operations over the coming years. 
 
-### 3D Printing and the Sharing Economy
+## 3D Printing and the Sharing Economy
 
 Amsterdam is known for its liberal and often brave experiments with new ways of living. It should come as no surprise then that it is pioneering new ways of sharing economy.  [84% of Amsterdamers][35] said they would be willing to participate in the sharing economy. Following from the launch of the Startup Delta, in February 2015, Amsterdam launched its [Sharing City initiative][34], connecting startups with corporates via city facilities. 
 
@@ -92,7 +94,7 @@ Amsterdam-based local borrowing platform [Peerby][57] showed the power of the sh
 
 Another highly innovative industry which is taking root in the city is 3D printing. [3D Hubs][38], for example, are aiming to create the largest and fastest network of 3D printers.  [Shapeways ][188], an Eindhoven-founded, New York-based 3D printing marketplace claims to be the largest of its kind in the world. 3D Hubs have raised $11.5M in three rounds, with $7M being raised in the most recent Series B round, while the larger Shapeways has raised $76.3M in 5 Rounds from 7 Investors. 
 
-### Amsterdam’s Startup Community & its Neighbours 
+## Amsterdam’s Startup Community & its Neighbours 
 
 Amsterdam has seen a spurt of self-organized initiatives which are driving the city forward. Irene Perk, a tech recruiter at [Usabilla][47], explains that the startup community is already very strong, “Amsterdam is a tech startup city, it's full of creative entrepreneurs that are eager to help each other.”
 
@@ -108,7 +110,7 @@ Co-working spaces and accelerator programs are popping up across the region. [St
 The startup ecosystem of the Netherlands is covered by some excellent media organizations. [The Next Web][11] , which launched in 2006 as a conference, has grown into a fully-blown media organization, pivotal in the European tech scene. [Startup Juncture][44] is well-regarded for its insight reports, while [Founded in Holland][12], [Silicon Canals][202], [Sprout][203], [Fd.nl][204] and the [Dutch Startup Database][45] provide excellent resources for those looking to understand the scene. 
 
 
-### Challenges remain
+## Challenges remain
 
 For all the success Amsterdam has seen over the last four years, it still has some way to go in two key areas: financing and talent. The Netherlands raised only about [$793 million in venture capital][198] in 2014, while Germany and the UK raised $2.85 billion and $2.7 billion, respectively.
 
@@ -123,7 +125,7 @@ In the [FT’s analysis][199] of Amsterdam’s startup scene, it commented, “G
 
 However, Roel de Hoop, a partner at Prime Ventures, a Dutch VC disagrees, noting that not only are London-based funds gaining interest, but the local scene is also developing, “There are a lot of new growth stage funds so there is more money available for later stage start-ups. Amsterdam has been investing for a long time in creating an attractive international start-up scene.” 
 
-### Developers Needed
+## Developers Needed
 
 While an increasing number of  talented junior developers  are graduating from the likes of [Delft][31], the largest technological university in the Netherlands, the tech shortage for senior positions remains a big challenge. 
 
@@ -146,14 +148,14 @@ Average salaries for developers in Amsterdam are pretty much on par with Europea
 
 With Holland’s excellent reputation for innovation, a passionate local startup scene and  some extra support from local authorities, Amsterdam seems well-placed to rival Berlin as Europe’s startup hub. Getting to that position will require a bigger injection of VC funding and a greater supply of talent. Nonetheless, Berlin should watch its back!  
 
-### Full List of Startups and Technology Companies in Amsterdam and the Startup Delta
+## Full List of Startups and Technology Companies in Amsterdam and the Startup Delta
 
 ![amsterdam tech map](/assets/images/amsterdam1.png)
 
 ***Percentages are taken for the Startup Delta region*** 
 
 
-**eCommerce in Amsterdam (16%)**
+### eCommerce in Amsterdam (16%) 
 
 1: [CrowdyHouse][36]{:target="_blank"}: Furniture and fashion direct from designers 
 
@@ -209,7 +211,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 [Amsterdam Locals](http://www.amsterdamlocals.amsterdam/nl/service/about/): Amsterdam apparel
 
-**MarTech in Amsterdam (14%)**
+### MarTech in Amsterdam (14%)
 
 7: [SO WIFI][98]: free WiFi, and in return get Social Media likes, powerful insights, analytics, and marketing tools
 
@@ -255,7 +257,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 161: [Notificare][116]: Mobile marketing
 
 
-**Apps in Amsterdam (9%)** 
+### Apps in Amsterdam (9%)
 
 
 2: [favoroute][48]{:target="_blank"}: Travel guide app
@@ -290,7 +292,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-**FinTech companies in Amsterdam (8%)**
+### FinTech companies in Amsterdam (8%)
 
 
 53: [Nxchange][67]{:target="_blank"}: Investor marketplace
@@ -316,7 +318,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 174: [One Planet Crowd][79]{:target="_blank"}: Crowdfunding platform
 
 
-**Booking Platforms in Amsterdam (7%)** 
+### Booking Platforms in Amsterdam (7%)
 
 
 14: [TravelBird][301]{:target="_blank"}: Travel platform 	
@@ -344,7 +346,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 179: [Booking.com][207]{:target="_blank"}: Hotel and accomodation booking 
 
 
-**Security Software Companies in Amsterdam (5%)**
+### Security Software Companies in Amsterdam (5%)
 
 
 6: [EclecticIQ](https://www.eclecticiq.com/): Threat Management  
@@ -358,7 +360,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 180: [Gemalto][125]: Banking security solutions
 
 
-**Software Development Companies in Amsterdam (4%)**
+### Software Development Companies in Amsterdam (4%)
 
 
 26: [Atlassian][150]:  software development, project management, collaboration, and code quality tools, such as JIRA and BitBucket. HQ in Sydney. 	
@@ -377,7 +379,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-**AdTech companies in Amsterdam (3%)**
+### AdTech companies in Amsterdam (3%)
 
 
 36: [Avazu][81]{:target="_blank"}: cross-device advertising and mobile game publishing  [HQ in Japan]
@@ -391,7 +393,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 171: [PlotProjects][85]{:target="_blank"}: geofencing messaging
 
 
-**Retail Tech Startups in Amsterdam (3%)**
+### Retail Tech Startups in Amsterdam (3%)
 
  
 15: [lightspeedHQ][31]: Point of sale products for retail stores and restaurants
@@ -405,7 +407,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 46: [Roamler][147]: In-store analytics 
 
 
-**Customer Management Systems (3%)**
+### Customer Management Systems (3%)
 
 
 34: [Wonderflow][243]: Consumer feedback software
@@ -419,7 +421,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 92: [Usabilla][47]: User feedback software
 
 
-**Transport companies in Amsterdam (2%)**
+### Transport companies in Amsterdam (2%)
 
 
 59: [Uber Europe][171]: Taxi app (HQ in San Francisco) 
@@ -431,7 +433,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 178: [Tom Tom][173]: Navigation and mapping products
 
 
-**3D printing startups in Amsterdam (2%)** 
+### 3D printing startups in Amsterdam (2%)
 
 
 22: [3D Hubs][186]: Online 3D printing service platform.
@@ -441,7 +443,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 119: [Printr][187]: 3D printing education platform
 
 
-**MedTech startups in Amsterdam (2%)**
+### MedTech startups in Amsterdam (2%)
 
 
 8: [Earlydoc][139]: Health Complaint and Symptom Check
@@ -450,7 +452,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-**EduTech (2%)**
+### EduTech (2%)
 
 
 13: [Studocu][65]{:target="_blank"}: Study platform
@@ -464,7 +466,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-**Music Startups in Amsterdam (2%)** 
+### Music Startups in Amsterdam (2%) 
 
 
 28: [Kollekt.fm][130]: Music sharing platform
@@ -474,7 +476,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 86: [Songflow][132]: Digital music distribution
 
 
-**Games companies based in Amsterdam and the Startup Delta (2%)** 
+### Games companies based in Amsterdam and the Startup Delta (2%)
 
 
 21: [Amiquo](http://www.rockstart.com/startups/amiquo)
@@ -482,7 +484,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 162: [Radical Graphics Studios][193]
 
 
-**Food Delivery Startups in Amsterdam (1%)**
+### Food Delivery Startups in Amsterdam (1%)
 
 
 63: [Directlyfrom.nl][133]: Ingredient delivery directly from producers
@@ -490,7 +492,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 82: [Takeaway.com][134]: Food delivery 	
 
 
-**Other (8%)**
+### Other (8%) 
 
 
 9: [PastBook][163]: Photos
@@ -521,10 +523,10 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-### Amsterdam’s Startup Ecosystem 
+## Amsterdam’s Startup Ecosystem 
 
 
-**VCs in Amsterdam**
+### VCs in Amsterdam
 
 37: [HenQ][175]
 	
@@ -547,7 +549,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 176: [Prime Ventures](www.primeventures.com)
 
 
-**Co-working Spaces in Amsterdam** 
+### Co-working Spaces in Amsterdam 
 
 
 
@@ -562,7 +564,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 70: [WeWork][242]{:target="_blank"} 
 
 
-**Accelerators in Amsterdam**
+### Accelerators in Amsterdam
 
 
 25: [Rockstart][189]
@@ -575,7 +577,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 [StartupBootcamp](https://www.startupbootcamp.org/)
 
 
-**Incubators in Amsterdam**
+### Incubators in Amsterdam
 
 
 122: Starthub Incubator
@@ -584,11 +586,11 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-### Startups and Tech Companies based in the Startup Delta
+## Startups and Tech Companies based in the Startup Delta
 
 
 	
-**Amsterdam Metropolitan Area**
+### Amsterdam Metropolitan Area
 
 
 [Bookerator][208]{:target="_blank"}: Online platform for holiday rental owners (Booking Platforms)
@@ -605,7 +607,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-**Utrecht**
+### Utrecht
 
 
 [ForCare ][141]: Software for health information exchanges, image sharing and care coordination (MedTech)
@@ -617,7 +619,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 
 
-**The Hague**
+### The Hague
 
 [OneGini](https://www.onegini.com/) Mobile app security platform integrates security to consumer applications (Secruity Software)
 
@@ -626,21 +628,21 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 [Mobbr](https://mobbr.com): Crowd Payments (FinTech)
 
-**Amersfoort**
+### Amersfoort
 
 [iwelcome)][126]: Identity and Access Management (Security Software)
 
-**Haarleem**
+### Haarleem
 
 [Haarlem Valley](http://haarlemvalley.com/): Incubator 
 
 
 
-**Delft**
+### Delft
  
 [Yes! Delft][138]: Incubator
 
-**Eindhoven**
+### Eindhoven
 
 [AddMyWindow][86]{:target="_blank"}: Offline ad platform (AdTech)
 
@@ -648,11 +650,11 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 
 [Shapeways][188]: 3D Printing Platform (3D Printing)
 
-**Rotterdam**
+### Rotterdam
 
 [Coolblue][201]{:target="_blank"}: eCommerce
 
-**Hilversum**
+### Hilversum
  
 [Xebialabs][157]: DevOps and continuous integration tools (Software) 
 
