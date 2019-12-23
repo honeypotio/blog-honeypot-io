@@ -1,5 +1,5 @@
 ---
-title:   The ultimate guide to developer terms for tech recruiters
+title:   "Technical Recruiting Cheat Sheet: All The Terms You Need to Know"
 subtitle: "So you're looking to hire a developer but you're not sure about tech lingo? Confused about the difference between a language and a framework? Unable to differentiate frontend and backend terms? The following is a guide to some of the common terms and tools in frontend and backend development."
 date:    2017-07-20 08:30:13
 layout:  post
@@ -11,11 +11,22 @@ importance: 2
 cta: recruiter
 ---
 
-Hiring developers is tough. Especially for HR people coming from non-technical backgrounds. Getting up to speed on all the frameworks, programming languages and tools that developers use can take months. But knowing key developer terminology and associating it with the skillset of the developer is a huge advantage and will speed up the hiring process. That’s why we created this concise technical HR cheat sheet with a  list of backend and frontend languages and their respective frameworks and testing tools.
+Hiring developers is tough, especially for HR people coming from non-technical backgrounds. Getting up to speed on all the frameworks, programming languages and tools that developers use can take months. But knowing key developer terminology and associating it with the skillset of the developer is a huge advantage and will speed up the hiring process. That’s why we created this concise technical HR cheat sheet with a  list of backend and frontend languages and their respective frameworks and testing tools.
 
 <!--more-->
 
+## Do I need a technical recruiting cheat sheet?
+
+If you’re a developer with in-depth knowledge of the latest technical programming languages, tools, and terminology used by developers, then maybe you can do without. But for everyone else, the maze of complex terms can make you feel like developers are speaking a different language. 
+
+When you’re recruiting, you need to be able to gauge how knowledgeable and adept a candidate is, and communicate freely with them. This is where the cheat sheet comes in.
+
 If you have ever been confused about where Sinatra and Laravel belong, and if Scala is a Java framework (hint: it’s not), have a look at our cheatsheet. Refer to it anytime during screening and interviewing developers!
+
+## How to use our cheat sheet
+
+To keep things simple and understandable, we divided our cheat sheet into three sections: one covering basic development terms, one covering frontend terms (CSS and Javascript), and one covering backend terms (C and C++). We give you the frameworks and libraries these languages use, naming conventions and methodologies, and more. 
+
 
 {% include svg.html
   svg_path="/assets/images/cheat-sheet-glossary.svg"
