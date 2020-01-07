@@ -40,7 +40,7 @@ The information below will guide you through all the perks the EU Blue Card coul
 
 <br />
 
-![EU Blue Card guide infographic](/assets/images/blue-card-infographic22.png)
+![EU Blue Card guide infographic](/assets/images/BlueCardUPDATE.png)
 
 <br />
 
