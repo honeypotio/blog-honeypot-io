@@ -1,12 +1,12 @@
 ---
-title:   "The Ultimate Guide to the EU Blue Card"
-subtitle: "Our EU Blue Card infographic will guide you through all the perks the EU Blue Card could offer to you and your family once the requirements are fulfilled and the application process is successful"
-date:    2019-2-07 10:10:16
+title:   "10 tips for improving developer productivity"
+subtitle: "10 tips for improving developer productivity, Josiah is cool."
+date:    2020-1-15 10:00:00
 layout:  post
 author:  oliwia_schildt
 categories: [Developer Careers]
 cover_image: blue-card-guide.png
-permalink:  ultimate-guide-EU-blue-card/
+permalink:  10-tips-for-improving-developer-productivity/
 importance: 2
 ---
 
