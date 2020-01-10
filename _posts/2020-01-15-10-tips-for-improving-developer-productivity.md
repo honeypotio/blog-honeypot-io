@@ -1,7 +1,7 @@
 ---
 title:   "10 tips for improving developer productivity"
 subtitle: "10 tips for improving developer productivity, Josiah is cool."
-date:    2020-1-15 10:00:00
+date:    2020-1-10 10:00:00
 layout:  post
 author:  oliwia_schildt
 categories: [Developer Careers]
