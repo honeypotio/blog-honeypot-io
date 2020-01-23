@@ -1,5 +1,5 @@
 ---
-title:  The Ultimate Guide to Hamburg's Startup Scene - Hamburg Tech Map
+title:  "Hamburg Startup Map: The Ultimate Guide to Tech Companies & Startups in Hamburg"
 subtitle: "Which tech startups are based in Hamburg? Do you need to speak German to work in Hamburg? What are Hamburg's most famous gaming companies? How much funds have been raised in recent years? All this and more in our ultimate guide to Hamburg's tech scene!"
 date:    2016-05-31 09:58
 layout:  post
@@ -20,9 +20,18 @@ When you think of startups in Germany, the first thing that comes to mind is Ber
 
 According to the Hamburg Startup Monitor, there were [500 innovative digital startups][1]{:target="_blank"} in 2014 in Hamburg. To celebrate [Honeypot’s launch in the Hansestadt][2]{:target="_blank"} we mapped 157 startups onto Hamburg’s train system and categorised them by industry. Our findings reveal a burgeoning FinTech industry, an emerging eCommerce play set to challenge Berlin’s dominance and vibrant Games and AdTech startups thriving with support from the city's more traditional industries.
 
+## Tech Companies in Hamburg: an Overview
 
+Hamburg’s thriving tech scene is home to a mosaic of startups, big tech, venture capital, and more. Along with Frankfurt, Munich, and Berlin, Hamburg’s reputation as a tech haven has played a major role in Germany’s emergence at the forefront of global tech. Here are some top Hamburg tech companies in a variety of sectors:
 
-### Big Tech in Hamburg
+* **Gaming:** Goodgames, Bigpoint, Innogames
+* **Marketing** & advertising: Smaato, Akanoo, Channel Pilot
+* **Finance:** Deposit Solutions, Kreditech, Billing Engine
+* **Ecommerce:** About You, Style Lounge, Avocado Store
+* **Transport:** DreamLines, BorderGuru, ShipCloud
+* **International** tech companies: Facebook, Google, Microsoft, Twitter, Yelp
+
+## Big Tech in Hamburg
 
 In 2005, when Stephan Uhrenbacher founded [Qype][3]{:target="_blank"} in Hamburg, Europe’s largest local review website, the German startup scene was small, very small.  In Berlin, the Samwer brothers were just “emerging from the woods near Potsdam." In southern Germany there were some larger, corporate tech companies. And in Hamburg there was dating site [Parship][5]{:target="_blank"} and careers network [Xing][4]{:target="_blank"}, and little else.
 
@@ -43,7 +52,7 @@ Hamburg has felt the spillover effects of skilled professionals moving from big 
 
 So what are the startup industries that people are flocking to in Hamburg? No report of Hamburg would be complete without looking at the city’s games industry.
 
-### Games in Hamburg
+## Games in Hamburg
 
 While big budget, console game development has been the focus of the British game industry, Germany - and in particular Hamburg - has grown to become Europe’s leader in free-to-play and browser game development. Gaming companies are the largest represented among our sample.
 
@@ -62,7 +71,7 @@ Aside from big game developers, the city is populated by independent studios, br
 
 Given the density of Hamburg’s games developers, the city naturally also has many thriving games publishers. [Gamigo][19], is of the most established, releasing the first German language MMOG (massively multiplayer online game) in 2000. Today Gamigo has 100 employees in Hamburg, Berlin,  Münster and Chicago and since 2015 has expanded into platform services, through the acquisition of various smaller companies, including Piraya GmbH, GameSpree GmbH, Infernum Games GmbH and Looki Publishing GmbH. Gamigo’s revenues hit €21.6 million in 2015.  Other publishers have decided to focused on more niche areas: [Intenium][20] , for example, concentrate on female gamers. Many such as [XYRALITY][21], combine publishing and development.
 
-### AdTech and MarTech in Hamburg
+## AdTech and MarTech in Hamburg
 
 It should come as no surprise that AdTech and MarTech startups play a dominant role amongst our sample. Hamburg has long been a centre for media and advertising: 3000 press and broadcasting companies operate in the city, including Spiegel and ZEIT as well as Gruner + Jahr. On top of that, almost [three quarters of Germany’s top 25 printed publications][22] are produced in Hamburg and the city is home to about [6,000 journalists][23].
 
@@ -79,7 +88,7 @@ AdTech and MarTech tend to be complementary but target slightly different audien
 While not strictly marketing technology, [Jimdo][25] is one of Hamburg’s biggest successes and a great example of sustainable startup growth. The company, an easy-to-use website builder,  was founded in 2007. Fuelled largely by organic growth, the company took on its first large investment in 2015, in the form of a [€25 million minority investment][26] from Spectrum Equity. Previous to that, Jimdo had successfully launched in eight languages and enabled the creation of over 15 million websites.
 
 
-### eCommerce & Retail in Hamburg
+## eCommerce & Retail in Hamburg
 
 Hamburg has a rich history of entrepreneurship in commerce, not just because of the city’s famous port which trades 132.2 million tonnes of cargo each year, but also because of the legacy of legendary entrepreneur Werner Otto.
 
@@ -91,7 +100,7 @@ Most other eCommerce startups  in the city remain rather small. Nevertheless int
 
 ![retail startups in Hamburg](/assets/images/retail-hamburg.png)
 
-### FinTech in Hamburg
+## FinTech in Hamburg
 
 FinTech in Hamburg has grabbed the attention of Peter Thiel.  And that is quite the endorsement of the Hanseatic city’s startups. Thiel is known as a straight-talking, serial investor with an eye for an early opportunity: he was co-founder of PayPal and Palantir, an early backer of Facebook.
 
@@ -105,14 +114,14 @@ In 2016, Thiel [invested €1 million][32] in [Deposit Solutions][33], as part o
 
 Aside from Thiel’s investments, a number of other interesting FinTech plays are emerging. [FinanzCheck][34], an online consumer loan marketplace founded in 2012, raised €33 million in Series C funding in 2016. The round was led by growth-investor HarbourVest, with participation by Acton Capital Partners, and existing backer Highland Europe. Since 2012, the company has brokered close to €1.3 billion in consumer loans.
 
-### Transportation, Travel Shipping and Logistics Startups in Hamburg
+## Transportation, Travel Shipping and Logistics Startups in Hamburg
 
 Shipping and trade have moulded the physical space and spiritual life of Hamburg. It seems natural then that [Dreamlines][35], Europe’s biggest online portal for cruises, is headquartered in Hamburg. Since its founding in 2012, the company has raised $37.7M in three rounds from ten investors, including Altpoint Ventures, Target Global and European Founders Fund. Dreamlines were one of [Germany’s biggest startups][36] based on funding in 2015.
 
 ![apps in Hamburg](/assets/images/app-hamburg.png)
 
 
-In the same vain, logistics startups, inspired by Hamburg’s trading past, are popping up across the city. [BorderGuru][37]
+In the same vein, logistics startups, inspired by Hamburg’s trading past, are popping up across the city. [BorderGuru][37]
 , backed by the Hermes Group, helps online retailers to deliver internationally from their web-shop or via marketplaces. [Shipcloud][38] are taking a cloud-based service for sending packages.
 
 [mytaxi][39] and [Wunder][40] are two prominent transporation apps, popular in the city.  mytaxi, founded in 2009, is a taxi booking app which also allows you to make payments and rate taxis. Wunder, founded in 2013, connects drivers with passengers who need a lift.
@@ -122,10 +131,10 @@ In the same vain, logistics startups, inspired by Hamburg’s trading past, are 
 
 Stephan Uhrenbacher’s latest project, [FLIO][41], an airport app, aims to make life in the world’s airports a little nicer. On the app, you can find free Wi-Fi, discount on food and shopping, and everything from power sockets to train booking. Operating in the same building as Flio, [TripRebel][42] lets you book hotel rooms and refunds you the difference when the price drops.
 
-### Working and Living in Hamburg
+## Working and Living in Hamburg
 
 
-The Free and Hanseatic City of Hamburg has a long tradition of self-government and particularism and, as a city state, maintains a sort of medieval independence, breathing individuality into many spheres of public and private life. Outside of major industries such as Games, AdTech and FinTech, smaller startups are exploring innovative ideas in various other areas, including smart home and hardware startups, like [BrightUp][51] and [Roccat][52], meeting tools, like [Mindflow][53],  fraud detection and security startups, such as [Risk Ident][54], [TeamDrive][55] and [Secucloud][56], and many more creative innovations.
+The Free and Hanseatic City of Hamburg has a long tradition of self-government and particularism and, as a city state, maintains a sort of medieval independence, breathing individuality into many spheres of public and private life. Outside of major industries such as Games, AdTech and FinTech, smaller startups are exploring innovative ideas in various other areas, including smart home and hardware startups, like [BrightUp][51] and [Roccat][52], meeting tools, like [Mindflow][53],  fraud detection and security startups, such as [Risk Ident][54], [TeamDrive][55] and [Secucloud][56], and many more creative innovations covering everything from healthcare to machine learning.
 
 
 ![startups in Hamburg](/assets/images/other-hamburg.png)
@@ -140,7 +149,7 @@ A sense of community pervades across Hamburg’s startup scene. Given its size, 
 ![food in Hamburg](/assets/images/food-hamburg.png)
 
 
-### Is Deutsch necessary in Hamburg?
+## Is Deutsch necessary in Hamburg?
 
 One worry for people moving to Hamburg is German. While certainly not as multicultural as Berlin, Hamburg still offers many opportunities in English. Stephan Uhrenbacher explained to us, “in my companies during the past 10 years, traditionally, more than 50% have spoken no German. And nobody ever complained about not getting by in Hamburg, which has a long international history due to it being a harbour. That's a stereotype and I think it has to do with the lack of awareness internationally of how great Hamburg is as a city.”
 
@@ -155,19 +164,19 @@ For developers moving to the city, Hamburg has strong Javascript and Ruby commun
 
 ![edutech  in Hamburg](/assets/images/edutech-hamburg.png)
 
-### Venture Capital in Hamburg
+## Venture Capital in Hamburg
 
 2015 was an important year for funding in Hamburg. In May, Gruner + Jahr announced [the establishment of a 50-million-euro investment fund][58] focused on living, food and family and advertising technology. In the same month, nextmedia accelerator, an initiative of the German press agency dpa with the support of the mayor’s office of the city of Hamburg, launched to support media-focused startups. Otto Group also [invested][59] over €50 million in startups in the city in 2015.
 
 [Hanse Ventures][60]is one of the more established VCs on the Hamburg scene.  Led by Jochen Maaß, the firm was founded in 2010, together with two heavyweights of German media - former CEO of Gruner + Jahr, Dr Bernd Kundrun and the former CEO of Sony BMG, Rolf Schmidt-Holtz. Hanse’s investments include REBELLE, Geschenke.de and Vitraum.  They also host [eBizz talk ][61], a regular lecture series for entrepreneurs.
 
-While Hamburg's local VCs continue to grow, international investment is also playing an important role in the development of the city's startups. According to [EY][50], startups in Hamburg increased their materially funding from $540 million in 2014 to $852 million in 2015. Let's see what 2016 has in store for the Hanseatic city...
+While Hamburg's local VCs continue to grow, international investment is also playing an important role in the development of the city's tech startups. According to [EY][50], startups in Hamburg increased their materially funding from $540 million in 2014 to $852 million in 2015. Let's see what 2016 has in store for the Hanseatic city...
 
 
 ![vc  in Hamburg](/assets/images/vc-hamburg.png)
 
 
-**UPDATE July 2016**
+**UPDATE**
 
 Some lovely Hamburg startups reached out to us to remind us to include them! They will have full inclusion next edition, but for now, don't forget to check out:
 

@@ -1,5 +1,5 @@
 ---
-title:   If Hemingway Wrote JavaScript
+title:   "If Hemingway Wrote Javascript by Angus Croll — Excerpt"
 subtitle: "We sat down with Angus Croll, the creator of Javascript Javascript, to discuss his book entitled 'If Hemingway Wrote Javascript', a creation in which he imagines 25 famous novelists, poets and playwrights solving simple problems in Javascript."
 date:    2016-10-17 09:54:05
 layout:  post
@@ -14,6 +14,7 @@ JavaScript is both bizarre and beautiful. It is a language in which 0.1 + 0.2 is
 
 <!--more-->
 
+## Prose, Poetry, and Programming: A Synopsis of If Hemingway Wrote Javascript
 
 Croll spoke to us about his lovingly-crafted book and commented, "This book is for anyone who loves language. JavaScript is this unconventional language that computer scientists tend to look down on and disparage.” 
 
@@ -25,8 +26,18 @@ The book should appeal to lovers of all languages - computer and non-computer al
 
 JavaScript is the most popular programming language on [Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161003&utm_campaign=dev-no), with developers in Berlin earning [between €30,000 - €60,000](https://blog.honeypot.io/how-much-does-a-developer-earn-in-berlin/) depending on experience. 
 
-Angus has been kind enough to share some excerpts from the book below: 
+## Reviews of If Hemingway Wrote Javascript
 
+“While If Hemingway Wrote JavaScript will likely appeal most to those acquainted with coding and Kerouac, programmers who wish to approach JavaScript more creatively should find inspiration here, and even the non-programmer can likely appreciate Croll’s enthusiasm and literary humor”
+-Kayley Thomas, PopMatters
+
+“Wild experiments are what moves a genre forward. And this is a format of programming book that's certainly never been tried before.”
+-Marjin Haverbeke
+
+You should have this book at hand at all times...so whenever you start feeling disheartened, unmotivated or simply bored with what you are doing...you'll look at it's chapters and remember that programming can be fun. That, beyond good and bad parts, beyond best practices and the professional fences with which we surround ourselves, those LEGO sets that we call programming languages, can and should be played with."
+—Javier Alba, JavaScript developer
+
+## If Hemingway wrote Javascript: Excerpts
 
 
 ![jane-austen-javascript](/assets/images/jane-austen-1.png)

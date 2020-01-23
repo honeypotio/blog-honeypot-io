@@ -1,5 +1,5 @@
 ---
-title:   "Tech Salaries 2019: How much do developers earn in Amsterdam?"
+title:   "Average Software Developer Salaries in Amsterdam by Role & Experience"
 subtitle: "We gathered data from our platform to provide you with an overview of developer salaries in Amsterdam in 2019 depending on experience and role."
 date:    2019-05-03 10:10:16
 layout:  post
@@ -18,7 +18,26 @@ Being home to so many growing tech companies, the **demand for tech candidates i
 
 So, let’s dive into the specifics! How much do engineering managers and frontend, backend and full-stack developers make in Amsterdam on average?
 
-We gathered data from our platform to make the following infographic. The data is taken from offers which have been sent to our talents since January 2018 and gives some insight into average salaries for developers in Amsterdam.
+## What is the Average Amsterdam Developer Salary? 
+
+The average salary for a software developer in Amsterdam is between €45-50,000/year for a developer with 2-6 years of experience. The most experienced developers earn an average of €55,000 (though this can reach as high as over €70,000), while starting salary for a developer in Amsterdam averages €36,000. 
+
+## What is the Average Amsterdam Developer Salary by Job Title? 
+
+Engineering Managers have the highest-earning developer role in Amsterdam, with a moderately experienced Manager earning €62,500/year. Backend Engineers are the next highest-earning, with a median salary of €50-55,000 for moderately experienced engineers. Frontend and Full-Stack average slightly lower salaries, between €45-50,000 with moderate experience. 
+
+## Software Developer in Amsterdam: Job Description & Roles
+
+To work as a software engineer in Amsterdam, you will likely need a Bachelor’s degree or higher in Computer Science or a related field. Typical duties of a software developer include:
+
+* Developing and implementing software
+* Testing systems and validating procedures
+* Carrying out maintenance and security procedures on existing applications
+* Identifying and fixing software errors
+* Developing specifications and performance requirements
+
+We gathered data from our platform to make the following infographic. The data is taken from offers which have been sent to our talents and gives some insight into average salaries for developers in Amsterdam.
+
 
 <br />
 
