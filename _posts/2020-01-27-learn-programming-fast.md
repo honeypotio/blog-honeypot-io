@@ -1,7 +1,7 @@
 ---
 title:   "5 Critical Tips to Learn Programming Faster"
 subtitle: "If you've just taken up programming and you're looking to land a job ASAP, follow these five tips to learn programming faster."
-date:    2019-01-27 10:10:16
+date:    2020-01-27 10:10:16
 layout:  post
 author:  george_foster
 categories: [Developer Careers]
