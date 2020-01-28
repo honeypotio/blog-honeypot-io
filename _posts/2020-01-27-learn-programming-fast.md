@@ -12,7 +12,8 @@ importance: 2
 
 A computer science degree is no longer a prerequisite for establishing a programming career these days. In fact, **most of today’s successful programmers are self-taught** while others participated in a coding boot camp that fast-tracked their learning process. 
 
-<!—more—>
+<!--more--> 
+
 
 Programming and coding change rapidly – new programming languages and coding tricks emerge almost every day. The programming tricks you’re learning now will perhaps be slightly different before you even start practising your craft. For this reason, speed is an important factor when it comes to becoming a successful developer. **Here are five tips to help you learn programming faster** and start your career as soon as possible. 
 
