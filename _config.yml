@@ -3,7 +3,7 @@ title: Honeypot Blog
 email: team@honeypot.io
 description: > # this means to ignore newlines until "baseurl:"
   Blog of awesome Honeypot
-url: "http://blog.honeypot.io"
+url: "https://blog.honeypot.io"
 twitter_username: honeypotio
 github_username:  honeypotio
 

@@ -56,4 +56,4 @@ Data science is still a young and growing industry. With the amount of data gene
 
 * * *
 
-**[Join Honeypot](http://blog.honeypot.io/data-science-data-engineering/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161102&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
+**[Join Honeypot](https://blog.honeypot.io/data-science-data-engineering/?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=161102&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**

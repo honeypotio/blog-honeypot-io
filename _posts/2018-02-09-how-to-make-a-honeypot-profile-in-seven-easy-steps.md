@@ -65,7 +65,7 @@ What did you love about your previous job? What didn't you like? Including these
 
 ### Conclusion:
 
-To finish off your profile, be sure to include if you are a European citizen or not. Likewise, we are here to answer any work Visa related questions, or you can check out our blog post related to [EU work permit](http://blog.honeypot.io/EU-Bluecard-for-software-developers/) assistance! Be sure to include if you have an EU work permit or not on the first line of your profile.
+To finish off your profile, be sure to include if you are a European citizen or not. Likewise, we are here to answer any work Visa related questions, or you can check out our blog post related to [EU work permit](https://blog.honeypot.io/EU-Bluecard-for-software-developers/) assistance! Be sure to include if you have an EU work permit or not on the first line of your profile.
 
 ![EU Work Permit Question](/assets/images/eu_visa.png)
 

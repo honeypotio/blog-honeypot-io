@@ -86,4 +86,4 @@ Sourcing excellence is the focus of **#SOSU EUROPE** with professionals and orga
 
 ### Conclusion
 
-The Netherlands has several great opportunities to both network within the HR world and to learn more about how it works. Take the time to visit one or two of these conferences in order to learn how to become more efficient within your own HR department. For more information on HR events in Europe be sure to check out the [Best HR events in Germany 2018 edition](http://blog.honeypot.io/best-hr-events-germany-austria-2018/).
+The Netherlands has several great opportunities to both network within the HR world and to learn more about how it works. Take the time to visit one or two of these conferences in order to learn how to become more efficient within your own HR department. For more information on HR events in Europe be sure to check out the [Best HR events in Germany 2018 edition](https://blog.honeypot.io/best-hr-events-germany-austria-2018/).

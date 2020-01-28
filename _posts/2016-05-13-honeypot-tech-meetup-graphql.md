@@ -74,7 +74,7 @@ GitHub: [https://github.com/schickling][8]
 [6]: https://github.com/OlegIlyenko
 [7]: https://github.com/yanns
 [8]: https://github.com/schickling
-[9]: http://blog.honeypot.io/berlin-scala-community/
+[9]: https://blog.honeypot.io/berlin-scala-community/
 [10]: https://twitter.com/easyangel
 [11]: https://twitter.com/simon_yann
 [12]: https://twitter.com/_schickling

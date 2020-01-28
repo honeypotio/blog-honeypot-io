@@ -131,7 +131,7 @@ While an increasing number of  talented junior developers  are graduating from t
 
 According to [Compass][1], the proportion of developers with prior experience is lower than in other European startup hubs. Compeititon is fierce among employers for those developers with previous expereince,  especially given the resources of large tech companies such as Booking.com and TomTom. 
 
-For experienced developers, Amsterdam is loaded with opportunities. In an [interview with Honeypot](http://blog.honeypot.io/whats-it-like-to-work-at-tomtom/), Cees van Dok, Head of UX Design at TomTom,  noted "There are many options for developers in Amsterdam. Companies like TomTom give a good alternative to startups." 
+For experienced developers, Amsterdam is loaded with opportunities. In an [interview with Honeypot](https://blog.honeypot.io/whats-it-like-to-work-at-tomtom/), Cees van Dok, Head of UX Design at TomTom,  noted "There are many options for developers in Amsterdam. Companies like TomTom give a good alternative to startups." 
 
 ![amsterdam tech map](/assets/images/amsterdam8.png)
 
@@ -667,7 +667,7 @@ With Holland’s excellent reputation for innovation, a passionate local startup
 **[Join Honeypot](https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160902&utm_campaign=com-no) Join Honeypot and make your next hire within 28 days.**
 
 [1]: http://startup-ecosystem.compass.co/ser2015/ 
-[3]: http://blog.honeypot.io/berlin-startup-map 
+[3]: https://blog.honeypot.io/berlin-startup-map 
 [5]: http://www.wired.co.uk/article/100-hottest-european-startups-2015-amsterdam 
 [6]: http://diginomica.com/2016/03/23/salesforce-driving-into-europe-on-kroes-control/ 
 [7]: https://www.startupdelta.org/ 

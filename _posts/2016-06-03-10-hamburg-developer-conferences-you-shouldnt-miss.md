@@ -130,10 +130,10 @@ The Chaos Communication Congress is an annual conference organized by the Chaos 
 
 
 
-[1]: http://blog.honeypot.io/hamburg-startup-map/
+[1]: https://blog.honeypot.io/hamburg-startup-map/
 [2]: http://www.meetup.com/womentechmakershamburg/events/228068329/ 
 [3]: http://www.meetup.com/hamburg-js/events/231160176/ 
-[4]: http://blog.honeypot.io/the-hamburg-entrepreneur/
+[4]: https://blog.honeypot.io/the-hamburg-entrepreneur/
 [5]: http://www.containerdays.de/
 [6]: http://www.uxcamphh.org/
 [7]: http://www.pyunconf.de/

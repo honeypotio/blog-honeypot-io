@@ -19,7 +19,7 @@ Germany is a great location for developers to find jobs. A developer survey done
 
 ![Highest paid IT positions in Germany](/assets/images/by-position-salary.png)
 
-According to [PayScale](http://www.payscale.com/research/DE/Job=Software_Developer/Salary), the median salary for a software developer in Germany in 2017 is €46,163 a year. For a more detailed breakdown of developer salaries in Berlin, check out one of our [previous posts](http://blog.honeypot.io/how-much-does-a-developer-earn-in-berlin/). 
+According to [PayScale](http://www.payscale.com/research/DE/Job=Software_Developer/Salary), the median salary for a software developer in Germany in 2017 is €46,163 a year. For a more detailed breakdown of developer salaries in Berlin, check out one of our [previous posts](https://blog.honeypot.io/how-much-does-a-developer-earn-in-berlin/). 
 
 ![Developer Salaries in Germany](/assets/images/dev-germany-median-salary.png)
 

@@ -52,5 +52,5 @@ So, overall, there are many perks of living in Berlin: it’s an international a
 [9]: https://www.facebook.com/groups/ukrainiansinberlin/ "Ukrainians in Berlin"
 [10]: https://www.facebook.com/groups/590905587627980/ "Russians in Berlin"
 [11]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151107&utm_campaign=dev-no
-[12]: http://blog.honeypot.io/moving-to-berlin-infographic/ "Moving to Berlin Infographic"
-[13]: http://blog.honeypot.io/EU-Bluecard-for-software-developers/ "Blue Card Infographic"
+[12]: https://blog.honeypot.io/moving-to-berlin-infographic/ "Moving to Berlin Infographic"
+[13]: https://blog.honeypot.io/EU-Bluecard-for-software-developers/ "Blue Card Infographic"

@@ -26,7 +26,7 @@ To work in Germany as a non-German citizen, you will need a work permit and a re
 
 ## Am I eligible for a German work permit?
 
-You may already be aware of the EU Blue Card, a specialized work visa with strict education and salary requirements (if not, you can read more about it [here](http://blog.honeypot.io/ultimate-guide-EU-blue-card/)-- but what about developers who don’t have the required university degree, or who hold a degree in an unrelated subject? 
+You may already be aware of the EU Blue Card, a specialized work visa with strict education and salary requirements (if not, you can read more about it [here](https://blog.honeypot.io/ultimate-guide-EU-blue-card/)-- but what about developers who don’t have the required university degree, or who hold a degree in an unrelated subject? 
 
 Both the [tech landscape](https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/) and the [attitudes of hiring managers](https://www.fastcompany.com/3069259/why-more-tech-companies-are-hiring-people-without-degrees) have changed in recent years. With the proliferation of self-directed programs such as coding bootcamps and [self-directed tutorials](https://twitter.com/leeb/status/1142757659248123904), it is becoming increasingly common for developers to forgo the traditional university degree. This shift is good news for hiring managers looking for new sources of talent and for developers without a traditional degree, and whether you’re a hiring manager or a developer, the German work permit is your ticket to a happy and productive working life in Germany!  
 
@@ -83,7 +83,7 @@ No worries - whether you are a developer or a company hiring from abroad, Honeyp
 
 <p align="center"><img alt="Bearpot wearing an apron and an oven mit." src="/assets/images/apron.png" style="width:25% !important;"></p><br>
 
-Once you have arrived in Germany, the first thing you’ll want to do (if you haven’t already) is [find a flat](http://blog.honeypot.io/15-tips-finding-a-flat-berlin/) and register your new address with the local authorities. You’ll also want to set up German health insurance. You will need proof of both in order to apply for a residence and work permit before your D-type visa expires. 
+Once you have arrived in Germany, the first thing you’ll want to do (if you haven’t already) is [find a flat](https://blog.honeypot.io/15-tips-finding-a-flat-berlin/) and register your new address with the local authorities. You’ll also want to set up German health insurance. You will need proof of both in order to apply for a residence and work permit before your D-type visa expires. 
 
 In comparison to the temporary D-type visa, the [residence permit](https://www.germany-visa.org/german-residence-permit/) is issued for the duration of your work contract. If the work contract is unlimited, the permit will typically be valid for 4 years.
 
