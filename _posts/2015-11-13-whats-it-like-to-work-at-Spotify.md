@@ -1,13 +1,11 @@
 ---
-title: Spotify Culture: We Ask Spotify’s VP of Engineering What It’s Like to Work There
+title: "Spotify Culture: We Ask Spotify’s VP of Engineering What It’s Like to Work There"
 subtitle: "Interested in the prospect of joining Spotify? Excited by the idea of being part of Spotify's IT department? Raring to know more about the company's culture and organizational structure? We interviewed Kevin Goldsmith, Spotify's VP of Engineering, to find the answers to your questions!"
 date: 2015-11-13 15:30:15
 layout: post
 author: emma_tracey
 categories: [Interviews]
 cover_image: kevin.png
-featured: true
-featured_weight: 4
 permalink:  2015-11-13-what's-it-like-to-work-at-Spotify/
 importance: 2
 ---
