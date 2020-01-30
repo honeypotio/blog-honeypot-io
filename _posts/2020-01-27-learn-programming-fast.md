@@ -52,7 +52,7 @@ Introducing a little bit of fun into the process of learning programming is a sm
 
 Get a professional programmer who is active in the industry to guide you in charting your way as the go-to programmer. A competent coding expert will help you when you get stuck or you’re having difficulty understanding a certain concept. 
 
-### A step at a time
+## A step at a time
 
 Learning programming is not an overnight thing. It takes time, effort, and most importantly, willingness to learn. **To speed up the learning process, you need to remain motivated and positive**. Mistakes are bound to happen, but that doesn’t mean you give up. Instead, it means you learn from them and work towards becoming a better programmer. 
 
