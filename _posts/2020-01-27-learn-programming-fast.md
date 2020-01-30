@@ -17,19 +17,19 @@ A computer science degree is no longer a prerequisite for establishing a program
 
 Programming and coding change rapidly – new programming languages and coding tricks emerge almost every day. The programming tricks you’re learning now will perhaps be slightly different before you even start practising your craft. For this reason, speed is an important factor when it comes to becoming a successful developer. **Here are five tips to help you learn programming faster** and start your career as soon as possible. 
 
-## 1.	Define your purpose 
+### 1.	Define your purpose 
 
 Before you embark on the process of learning programming, you must come up with a clear reason for why you want to master this craft. Are you looking to develop apps in the future? Do you want to sharpen your current skills to get a promotion or land a better-paying job? **Once you define your purpose, it’ll be easier for you to pick a good strategy for learning how to code**. 
 
 If you want to develop apps or games once you become confident in your skills, then you should find out which programming languages are widely used in these sectors. While on this road, make sure to [secure your privacy][1]{:target="_blank"} because as a newbie you may be a target for malicious attacks. Once you do this, you can identify areas that you need to focus on to achieve your goals. 
 
-## 2.	Mine the gold in free online courses 
+### 2.	Mine the gold in free online courses 
 
 You don’t have to spend all your savings on learning programming. Although there are many online college courses tailored for new programmers, there are tons of free beginner-friendly tools and tutorials as well. Sites like [Programming Hub][2]{:target="_blank"} and [Udemy][3]{:target="_blank"} offer many easy-to-understand lessons that can help you learn the basics of programming. 
 
 **Raspberry Pi has become the most widely used micro-computer among beginner programmers and expert programmers alike**. Getting your hands on this affordable and powerful micro-computer will help you learn programming quickly because it provides tons of learning opportunities. Who needs Alexa when you can program your own smart TV device or a tool that starts brewing your coffee in the morning? A great deal of [Raspberry Pi][4]{:target="_blank"} operating systems feature excellent development tools that you can use to learn and sharpen your programming skills. 
 
-## 3.	Start with the basics 
+### 3.	Start with the basics 
 
 Even if you already have some basic knowledge of programming under your belt, don’t fall into the trap of skipping the basic steps and diving straight to the advanced concepts. Instead, start with the elementary steps so that you can build a strong foundation for your programming knowledge. Some of these steps include an understanding of: 
 
@@ -40,13 +40,13 @@ Even if you already have some basic knowledge of programming under your belt, do
 
 You should always keep on [reviewing these basics][5]{:target="_blank"} even as you keep learning. If you bypass the first stages of these, there are high chances that you’ll struggle or even get stuck when you start learning the more complex concepts. 
 
-## 4.	Look for coding games to play 
+### 4.	Look for coding games to play 
 
 Introducing a little bit of fun into the process of learning programming is a smart move. If all you do every day is look at a coding book, you’re likely to get bored. Fortunately, there are many online sites like [Codecademy][6]{:target="_blank"} that provide fun-packed games designed for programmers.
 
 **By injecting some fun in the learning process, you can master more coding skills faster without getting bored**. With so many coding games out there, you’ll need to do some research to identify those that’ll suit your needs. Remember, these games come in different levels, so be sure to choose games that match your skills. 
 
-## 5.	Keep practising and ask for help when necessary 
+### 5.	Keep practising and ask for help when necessary 
 
 **If you want to learn to code faster and become an excellent programmer, then you must be willing to invest countless hours and lots of effort into it**. Ensure you have enough software and the correct coding tools so that you can write error-free code. 
 
