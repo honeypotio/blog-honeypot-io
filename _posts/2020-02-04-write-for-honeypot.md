@@ -10,9 +10,7 @@ permalink:  write-for-honeypot/
 importance: 2
 ---
 
-# Write for us!
-
-Hey, developer! You might have heard that we’re looking for authors who can share their secrets with our community - well, it’s true. We need experts who are in the biz and want to share their advice and knowledge with other developers in the community. If you’ve got some killer stories to tell or some ideas about growth and career development, we’d love to hear about it. 
+Hey, developer! You might have heard that **we’re looking for authors** who can share their secrets with our community - well, it’s true. We need experts who are in the biz and want to share their advice and knowledge with other developers in the community. If you’ve got some killer stories to tell or some ideas about growth and career development, we’d love to hear about it. 
 
 <!--more-->
 
@@ -22,7 +20,7 @@ While we care about helping developers find their dream jobs, we care equally ab
 
 ## What’s in it for you?
 
-Once published, thousands of developers from around the globe will have access to your work. You'll be able to share your thoughts with the rest of Europe - among them your friends, colleagues, employers, potential clients and everyone in between. You’ll also be able to impact the lives of those in your community of developers, programmers and engineers.
+Once published, thousands of developers from around the globe will have access to your work. You'll be able to share your thoughts with the rest of Europe and beyond - among them your friends, colleagues, employers, potential clients and everyone in between. You’ll also be able to impact the lives of those in your community of developers, programmers and engineers.
 
 And yes, if your work is really good, we will pay you for it. But please don’t be offended if we choose not to offer you compensation. To make the decision super clear please link us to your blog or work, and then pitch us an idea. We will get back to you straight away with an answer. 
 
@@ -36,7 +34,7 @@ We want to hear all of you ideas, but first, make sure of the following:
 - You have something original to share - from personal experience or well-researched.
 - It’s not just a list of tips and tricks - this ain’t Buzzf**d.
 - Your claims are fact-checked - cite where appropriate.
-- You adhere to our [style guide.](https://medium.com/@Honeypot/how-to-submit-an-article-to-honeypot-4e2138659b8f)
+- You adhere to our [style guide.](https://medium.com/@Honeypot/how-to-submit-an-article-to-honeypot-4e2138659b8f) You can find some potential topics there. 
 - That the work is written for developers (software engineers, CTO’s, web developers etc.,)  We don’t care about anyone else (just kidding).
 
 
@@ -85,6 +83,7 @@ Everything submitted will be reviewed by our editors. If we change something ple
 Cross posting is okay, but we do have a few rules. 
 If posting on your personal site or blog, please use a canonical so that there is no double up in the eyes of Google
 Please link back to us. A sentence like “Originally posted on Honeypot.io [link]” - something like this is fine. 
+
 One final thing. Please wait at least three weeks before posting on your blog or elsewhere after we publish it ourselves. This is really important. It will make us pretty sad if this happens. 
 
 
@@ -92,6 +91,7 @@ One final thing. Please wait at least three weeks before posting on your blog or
 
 
 **P.S.** If you have some previous great work which you think will fit well with our new platform, let us know and we can discuss hosting it there too. 
+
 
 
 Best, 
