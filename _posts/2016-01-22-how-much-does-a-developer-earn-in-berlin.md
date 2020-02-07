@@ -14,7 +14,7 @@ Interested in working as a developer in Berlin? Want to know how much you can ea
 
 <!--more--> 
 
-The following infographic has since been updated. [Click here](http://blog.honeypot.io/how-much-do-developers-earn-in-germany/) to get a more accurate overview of tech salaries in Berlin in 2018.
+The following infographic has since been updated. [Click here](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/) to get a more accurate overview of tech salaries in Berlin in 2018.
 
 ![developer-salaries-berlin](/assets/images/salary-matrix-2.png "Berlin developer salary matrix")
 

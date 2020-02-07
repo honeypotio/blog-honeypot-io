@@ -11,7 +11,7 @@ importance: 2
 cta: recruiter
 ---
 
-Building a great team can be expensive, particularly in the field of engineering where seasoned developers with over 8 years of experience can [earn upwards of 58k per year](http://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/). 
+Building a great team can be expensive, particularly in the field of engineering where seasoned developers with over 8 years of experience can [earn upwards of 58k per year](https://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/). 
 
 But before you whip out your bank statements and start questioning the financial viability of your business, know that the **Dutch government regularly supports local organizations** and offers various grants and incentives to companies in the tech sector.
 

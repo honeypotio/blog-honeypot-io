@@ -26,13 +26,13 @@ For your convenience, Honeypot has created this handy infographic displaying a n
 If you’d like to dig a bit deeper and learn more about women in computer science, what resources are available for female developers in Berlin or simply why hiring female developers is a smart move you can check out these blog posts by Honeypot:
 
 
-[What happened to women in computer science?](http://blog.honeypot.io/what-happened-to-women-in-computer-science-infographic)
+[What happened to women in computer science?](https://blog.honeypot.io/what-happened-to-women-in-computer-science-infographic)
 
 
-[Resources for female developers in Berlin](http://blog.honeypot.io/resources-for-female-developers-in-berlin/)
+[Resources for female developers in Berlin](https://blog.honeypot.io/resources-for-female-developers-in-berlin/)
 
 	
-[Why you should hire more female developers](http://blog.honeypot.io/why-you-should-hire-more-female-developers/)
+[Why you should hire more female developers](https://blog.honeypot.io/why-you-should-hire-more-female-developers/)
 
 
 If you’re keen to learn more about the inspiring ladies mentioned in the infographic, we’ve created this list of convenient resources for you below: 

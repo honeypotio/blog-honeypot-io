@@ -20,7 +20,7 @@ According to [Startup Genome](https://startupgenome.com/), five out of the top 1
 
 ![Top Ten Cities For Startups](/assets/images/top-ten-cities-metric-2017.png)
 
-London moved up three places from its ranking last year, and Berlin advanced two places. Both cities offer great market reach along with reliable funding sources. With growing tech ecosystems, [Europe is looking increasingly more attractive to American developers.](https://thenextweb.com/insider/2017/05/01/global-startup-ecosystem-report-2017/#.tnw_w5T4slht) European cities offer exciting new career opportunities and many startups and tech companies operate in English. Check out our [startup map of Berlin](http://blog.honeypot.io/berlin-startup-map) and [London](http://blog.honeypot.io/london-tech-map/) to see where startups are concentrated within each city.
+London moved up three places from its ranking last year, and Berlin advanced two places. Both cities offer great market reach along with reliable funding sources. With growing tech ecosystems, [Europe is looking increasingly more attractive to American developers.](https://thenextweb.com/insider/2017/05/01/global-startup-ecosystem-report-2017/#.tnw_w5T4slht) European cities offer exciting new career opportunities and many startups and tech companies operate in English. Check out our [startup map of Berlin](https://blog.honeypot.io/berlin-startup-map) and [London](https://blog.honeypot.io/london-tech-map/) to see where startups are concentrated within each city.
 
 ### London
 
@@ -32,7 +32,7 @@ The size of the city means there are plenty of opportunities to keep up-to-date 
 
 The city of canals has a ton to offer: Amsterdam itself is famous for great bars and nightlife while corporations such as Uber, Tesla, Elastic and Atlassian have major offices here. 
 
-Amsterdam also boasts a history of tech innovation. Home grown, well established software and security companies, such as Gemalto, Xebia, AVG Technologies, Schuberg Philis and TomTom are a testament to that culture of innovation. In 2015, the Netherlands ranked 4th on the Global Innovation Index. More recent editions to Amsterdam’s portfolio include Bright Computing, Pyramid Analytics and Wercker. Our [Amsterdam Tech Map](http://blog.honeypot.io/amsterdam-tech-map/) demonstrates more of the advantages Amsterdam has for international developers, such as the 2nd highest non-native English proficiency globally. 
+Amsterdam also boasts a history of tech innovation. Home grown, well established software and security companies, such as Gemalto, Xebia, AVG Technologies, Schuberg Philis and TomTom are a testament to that culture of innovation. In 2015, the Netherlands ranked 4th on the Global Innovation Index. More recent editions to Amsterdam’s portfolio include Bright Computing, Pyramid Analytics and Wercker. Our [Amsterdam Tech Map](https://blog.honeypot.io/amsterdam-tech-map/) demonstrates more of the advantages Amsterdam has for international developers, such as the 2nd highest non-native English proficiency globally. 
 
 ### Berlin 
 
@@ -43,7 +43,7 @@ Once nicknamed the 'poorest capital of Europe' Berlin is now a European heaven f
 
 According to [Dan Hynes](https://medium.com/@danhynes/there-s-no-tech-talent-shortage-in-europe-there-s-a-smart-hiring-shortage-f9fab43a761e), Europe is primed for tech professionals to find new positions in their industry.  European companies hope to take advantage of the tech talent increase by adding new individuals with tech skills their teams may have been missing.
 
-European countries offer incentives for technology specialists to come into the workforce. In the Netherlands, highly trained and skilled expats qualify for a tax reduction of 30% thanks to a [Dutch tax ruling](http://blog.honeypot.io/30-percent-tax-dutch-ruling/). The [Blue Card](http://blog.honeypot.io/EU-Bluecard-for-software-developers/) is an easy way for non-EU nationals to live and work in Europe, with many European Union countries adopting the visa. Germany is leading the way issuing 85% of the total number of Blue Cards between 2012-2014.
+European countries offer incentives for technology specialists to come into the workforce. In the Netherlands, highly trained and skilled expats qualify for a tax reduction of 30% thanks to a [Dutch tax ruling](https://blog.honeypot.io/30-percent-tax-dutch-ruling/). The [Blue Card](https://blog.honeypot.io/EU-Bluecard-for-software-developers/) is an easy way for non-EU nationals to live and work in Europe, with many European Union countries adopting the visa. Germany is leading the way issuing 85% of the total number of Blue Cards between 2012-2014.
 
 A study by [Statista.com](https://www.statista.com/chart/7246/the-countries-with-the-fastest-internet/) even showed Europe with five of the top 10 fastest internet connections by country in 2017. In contrast, the U.S. was ranked number 10.   
 

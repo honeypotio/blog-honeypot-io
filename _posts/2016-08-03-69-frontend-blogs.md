@@ -1,5 +1,5 @@
 ---
-title:   55 Best Frontend Blogs to Follow in 2020: Javascript, CSS, HTML, and more
+title:   "55 Best Frontend Blogs to Follow in 2020: Javascript, CSS, HTML, and more"
 subtitle: "Are you an avid follower of tech blogs? Looking to read up on the latest news and trends in general web development, HTML, CSS and frontend frameworks? We've put together a list of our favourite frontend blogs to celebrate the diverse world of frontend development!"
 date:    2016-08-02 13:01:26
 layout:  post

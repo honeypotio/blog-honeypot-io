@@ -11,7 +11,7 @@ importance: 2
 cta: recruiter
 ---
 
-There are between [1,900 and 2,600 tech startups](http://blog.honeypot.io/amsterdam-tech-map/) in the Amsterdam-Startup Delta, the geographical triangle, which covers Amsterdam, the Hague and Eindhoven. Whatsmore, large tech companies such as Uber, Tesla, Avazu, Elastic and Atlassian, have major offices in the Dutch Capital. That means a lot of demand for developers. But how does this demand translate into the average salary of a developer in Amsterdam? 
+There are between [1,900 and 2,600 tech startups](https://blog.honeypot.io/amsterdam-tech-map/) in the Amsterdam-Startup Delta, the geographical triangle, which covers Amsterdam, the Hague and Eindhoven. Whatsmore, large tech companies such as Uber, Tesla, Avazu, Elastic and Atlassian, have major offices in the Dutch Capital. That means a lot of demand for developers. But how does this demand translate into the average salary of a developer in Amsterdam? 
 
 <!--more-->
 
@@ -19,7 +19,7 @@ We gathered data from our platform to see the average salaries offered by compan
 
 Nonetheless, these figures give some insight into average salaries for developers in Amsterdam. The results of our findings are outlined below:
 
-*The following infographic has since been updated. [Click here](http://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/) to get a more accurate overview of tech salaries in Amsterdam in 2018. 
+*The following infographic has since been updated. [Click here](https://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/) to get a more accurate overview of tech salaries in Amsterdam in 2018. 
 
 
 ![developer-in-amsterdam-salary](/assets/images/by-experience-netherlands-eng.png)

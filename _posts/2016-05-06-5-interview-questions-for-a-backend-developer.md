@@ -48,4 +48,4 @@ Backend development is an immense topic and the list of relevant interview quest
 [3]: https://www.youtube.com/watch?v=njZ48YVkei0
 [4]: https://www.youtube.com/watch?v=u6pkAWCewLs
 [5]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=160502&utm_campaign=hr-no
-[6]: http://blog.honeypot.io/interview-questions-for-a-frontend-developer/
+[6]: https://blog.honeypot.io/interview-questions-for-a-frontend-developer/

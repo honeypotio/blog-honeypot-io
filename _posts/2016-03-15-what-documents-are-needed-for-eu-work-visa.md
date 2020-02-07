@@ -80,8 +80,8 @@ Company has to apply for the developer’s work permit in Germany
 
 [1]: https://www.kmk.org/themen/anerkennung-auslaendischer-abschluesse.html
 [2]: http://anabin.kmk.org/
-[3]: http://blog.honeypot.io/EU-Bluecard-for-software-developers/
+[3]: https://blog.honeypot.io/EU-Bluecard-for-software-developers/
 [4]: http://svcip.com/
 [5]: http://startup-ecosystem.compass.co/ser2015/
 [6]: https://www.honeypot.io/pages/how_it_works?utm_source=blogvisa
-[7]: http://blog.honeypot.io/EU-Bluecard-for-software-developers/
+[7]: https://blog.honeypot.io/EU-Bluecard-for-software-developers/

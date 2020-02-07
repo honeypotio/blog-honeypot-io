@@ -56,7 +56,7 @@ When you qualify for the 30% exception, you are **entitled to exchange existing 
 
 ### Summary 
 
-For developers looking for exciting new challenges in a fresh environment, few places can entice talent with such appealing perks as the Netherlands. Companies like Uber, Netflix, and [TomTom](http://blog.honeypot.io/whats-it-like-to-work-at-tomtom/) already call the Netherlands their european home. This strong eco-system and infrastructure has also helped turn many homegrown startups into success stories by attracting many new startups to the Netherlands. As such, developers are in [high demand](http://www.computerweekly.com/news/4500269840/Fears-of-software-skills-shortage-in-Germany-and-the-Netherlands). 
+For developers looking for exciting new challenges in a fresh environment, few places can entice talent with such appealing perks as the Netherlands. Companies like Uber, Netflix, and [TomTom](https://blog.honeypot.io/whats-it-like-to-work-at-tomtom/) already call the Netherlands their european home. This strong eco-system and infrastructure has also helped turn many homegrown startups into success stories by attracting many new startups to the Netherlands. As such, developers are in [high demand](http://www.computerweekly.com/news/4500269840/Fears-of-software-skills-shortage-in-Germany-and-the-Netherlands). 
 
 
 

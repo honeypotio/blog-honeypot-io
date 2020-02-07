@@ -226,14 +226,14 @@ Some lovely Hamburg startups reached out to us to remind us to include them! The
 [33]: http://www.deposit-solutions.de/index.html
 [34]: https://www.finanzcheck.de/
 [35]: https://www.dreamlines.de
-[36]: http://blog.honeypot.io/germanys-biggest-startups/
+[36]: https://blog.honeypot.io/germanys-biggest-startups/
 [37]: http://www.borderguru.com/
 [38]: https://www.shipcloud.io/
 [39]: https://de.mytaxi.com/index.html
 [40]: http://www.wunder.org/en/
 [41]: http://www.flio.com/
 [42]: https://www.triprebel.com
-[43]: http://blog.honeypot.io/working-as-a-developer-at-ubilabs/
+[43]: https://blog.honeypot.io/working-as-a-developer-at-ubilabs/
 [44]: http://www.shhared.de/
 [45]: http://www.betahaus.com/hamburg/
 [46]: http://mindspace.me/hamburg/
