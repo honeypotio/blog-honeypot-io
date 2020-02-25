@@ -1,7 +1,7 @@
 ---
-title:  ZAB Blue Card: A Step-by-Step Guide to the German Visa for Developers 
+title:  "ZAB Blue Card: A Step-by-Step Guide to the German Visa for Developers"
 subtitle: "Are you a non-EU developer looking to move to Germany? Perhaps you've just been hired but don't yet have a visa? Fear not! We've put together this useful step-by-step guide to inform you what requirements you'll need to meet and help you successfully apply for a visa in Germany."
-date:    2016-03-15 12:03:24
+date:    2020-02-25 12:03:24
 layout:  post
 author:  ewe_grajko
 categories: [HR Tips]
