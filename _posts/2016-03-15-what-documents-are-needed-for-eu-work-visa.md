@@ -1,5 +1,5 @@
 ---
-title:  Step-by-Step Guide to the German Visa for Developers
+title:  ZAB Blue Card: A Step-by-Step Guide to the German Visa for Developers 
 subtitle: "Are you a non-EU developer looking to move to Germany? Perhaps you've just been hired but don't yet have a visa? Fear not! We've put together this useful step-by-step guide to inform you what requirements you'll need to meet and help you successfully apply for a visa in Germany."
 date:    2016-03-15 12:03:24
 layout:  post
@@ -11,7 +11,7 @@ importance: 2
 cta: recruiter
 ---
 
-Honeypot [offers free visa support][6] for all non-EU developers hired in Germany through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the visa process here in Germany.
+Honeypot [offers free visa support][6] for all non-EU developers hired in Germany through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the work visa process here in Germany.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ boast a less impressive trail of statistics when it comes to hiring from abroad:
   - On average it takes 7 days longer (47 days in total) to hire a software engineer in Europe than in San Francisco (40 days in total)
   - In Berlin it takes [50 days on average to hire a software developer and 54 days  in Paris][5].
 
-Below we detail the process of getting the visa in Germany. If you want more information about the Blue Card you can read [this post][7].
+Below we detail the process of getting the ZAB blue card visa in Germany. If you want more information about the Blue Card you can read [this post][7].
 
 [![visa](/assets/images/visa.png)](/assets/images/visa2.png)
 
@@ -33,7 +33,7 @@ Company has to apply for the developer’s work permit in Germany
 
 1. **Send the original signed contract to the developer.** He/she will need it for the embassy appointment.
 
-2. **Send the developer a screenshot of his/her degree found in the Anabin database:** Anabin is a database listing foreign higher education qualifications and academic degrees in relation to German diplomas and degrees. If the developer brings the Anabin database screenshot to the embassy, it may speed up the process. If it's not in the database, the Zentralstelle für ausländisches Bildungswesen (ZAB) will be in charge of certifying the degree (the developer will have to cover a 200 EUR fee) - if this is necessary, both sides will be informed.
+2. **Send the developer a screenshot of his/her degree found in the Anabin database:** Anabin is a database listing foreign higher education qualifications and academic degrees in relation to German degrees and diplomas. If the developer brings the Anabin database screenshot to the embassy, it may speed up the process. If it's not in the database, the Zentralstelle für ausländisches Bildungswesen (ZAB) will be in charge of certifying the foreign degree (the developer will have to cover a 200 EUR fee) - if this is necessary, both sides will be informed.
 
 3. **Fill out the following necessary forms**:
 	- the Erlaubnis einer Beschäftigung form, a formal letter stating why the company wants to hire this specific developer
@@ -51,7 +51,7 @@ Company has to apply for the developer’s work permit in Germany
 7. **The developer arrives to Germany**!
 
 
-## Developer To-Dos
+## Developer To-Dos: How to apply for a ZAB blue card
 
 1. **The developer applies for their residence permit in the German embassy**
 
@@ -64,6 +64,20 @@ Company has to apply for the developer’s work permit in Germany
 5. **Pick up your permit:** once the work permit is granted in Germany, it will be sent to the embassy and usually also to the company. You will be informed accordingly. Pick up the documents and a passport "stamp" at the embassy.
 
 6. **Time to go to Germany!** The process continues here, requiring registration in Berlin (Bürgerämt) and a visit to the Ausländerbehörde with all the necessary documents. From now on your company’s HR will lead you through the upcoming steps, but our infographic might be of help too.
+
+## ZAB Blue Card Eligibility Requirements
+
+To be eligible for a Blue Card in Germany through the ZAB office, you must meet the following requirements:
+
+- Have the German equivalent of a degree from an institution of higher education (college or higher).
+- For job offers that currently have a shortage of qualified professionals in Germany, such as doctors, engineers, mathematicians, and IT jobs,, you must be offered a minimum of €40,650.
+- For individuals in all other fields, your job must offer you a minimum salary of €52,000.
+
+## What is a Statement of Comparability?
+
+Though getting a Statement of Comparability is not formally required to obtain an EU Blue Card from the ZAB, it can facilitate the process of earning a visa. 
+
+The Statement of Comparability describes the German equivalent of the highest university degree a non-German citizen has. This is used by the ZAB to determine if Blue Card visa applicants have the necessary qualifications (see: the first point in the eligibility requirements section above). 
 
 * * *
 
