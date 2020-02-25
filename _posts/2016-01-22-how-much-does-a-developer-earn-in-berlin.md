@@ -1,5 +1,5 @@
 ---
-title:   Berlin Developer Salary: How Much Do Developers Make in Berlin? By Experience & Job Title
+title:   "Berlin Developer Salary: How Much Do Developers Make in Berlin? By Experience & Job Title"
 subtitle: "Interested in working as a developer in Berlin? Want to know how much you can earn? Here's a handy infographic to get a better idea of tech salaries in Berlin for frontend and backend developers as well as fullstack, devOps and mobile engineers."
 date:    2020-02-25 17:40:15
 layout:  post
