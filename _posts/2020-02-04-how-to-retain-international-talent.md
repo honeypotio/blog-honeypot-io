@@ -1,12 +1,12 @@
 ---
-title:   "How to retain international talents"
+title:   "How to Retain International Talent"
 subtitle: "For the European tech industry, finding and retaining talent from abroad has become one of the most pressing issues of the day. How do we, as companies, make sure that the candidates we put time and effort into hiring actually stick around?"
 date:    2020-02-26 15:13:23
 layout:  post
 author:  geneva_brooks
 categories: [HR Tips]
 cover_image: retain-international-talent.png
-permalink:  how-to-retain-international-talents/
+permalink:  how-to-retain-international-talent/
 importance: 2
 cta: recruiter
 ---
@@ -19,7 +19,7 @@ For the European tech industry, finding and retaining talent from abroad has bec
 
 Honeypot helps companies connect with software developers from all over the world looking for their dream job in Europe, and this year the Honeypot Relocation team has helped to relocate over 60 developers. So how do we, as companies, make sure that the candidates we put time and effort into hiring actually stick around? 
 
-## 1. Fly them in! 
+## 1. Fly them in
 
 It’s important to start your retention strategy even before an offer has been made. One of the best ways to ensure that your new hire will be happy in their new city is to bring them there! Flying a candidate in for an in-person interview allows them the chance to not only experience your company culture in person, but also to experience life in their potential new home. It’s a great way to make sure they love it before making the final commitment. 
 
@@ -51,7 +51,7 @@ You may choose to set up an apartment building (owned by the company) that can h
 
 Bonus tip: Provide your new employees with information on resources such as [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/) where newly arrived employees can find discounted furniture to fill a new apartment.
 
-## 4. Think of ways to make the partner comfortable
+## 4. Support their partner
 
 The single biggest issue that international talents cite as a reason for leaving a new job (and sometimes leaving the country entirely) is an unhappy partner. The partner with a new job has somewhere exciting to go to every day, is constantly meeting new colleagues, and has a chance to get to know the new city. Meanwhile, the partner on a family reunification visa may be sitting at home feeling isolated in an unfamiliar new country where they don’t speak the language.  
 
@@ -79,7 +79,7 @@ Although less common than travelling with a partner and children, many people mo
 
 * **Candidates should also be well informed of what life will be like [owning a pet in Germany](https://www.settle-in-berlin.com/life-with-pets-in-germany-what-you-need-to-know/).** What are the regulations for registering a pet? Where is the closest emergency veterinarian? In many cities there is also a pet tax for certain breeds. As an employer, informing your new hire about these regulations in advance can help avoid unwanted surprises later on. 
 
-## 7. Go the Extra Mile 
+## 7. Go the extra mile 
 
 There are a few areas where you can really go above and beyond to make your new hire feel at home in their new city.
 
@@ -89,7 +89,7 @@ There are a few areas where you can really go above and beyond to make your new 
 
 * **Designate a German-speaking colleague to help out when small things come up.** This is often as simple as helping your new hire to read a letter they’ve received from their health insurance or landlord, or helping to book an appointment over the phone. 
 
-## 8. The Buddy System 
+## 8. Use the Buddy System 
 
 One of the best ways that you can support an international talent’s move to Germany is to put them in contact with another employee who has moved from abroad. They can share stories and support each other in their adventures. At Honeypot, we use the “buddy system,” assigning each new Honeypotter a “buddy” who is responsible for showing them around the office, introducing them to their new colleagues, answering questions, and checking in periodically to make sure they are happy.
 
