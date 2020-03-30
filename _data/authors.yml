@@ -118,3 +118,11 @@ george_foster:
   name: George Foster
   desc: George is a lead programmer at Day Translations and a regular writer on topics related to programming languages and software development.
   avatar: george.jpg
+hayley_kuhl:
+  name: Hayley Kuhl
+  desc: Hayley is Honeypot's Content Lead. She spends a lot of time reading, editing and writing dev-related content, and spends the rest of her time dreaming about Berlin summers by the lake.
+  avatar: hayley.JPG
+eli_mcgarvie:
+  name: Eli McGarvie
+  desc: Eli is a content writer at Honeypot. 
+  
