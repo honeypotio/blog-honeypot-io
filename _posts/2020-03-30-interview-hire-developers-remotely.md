@@ -43,20 +43,33 @@ Snooze your Slack notifications and pause your email alerts as they’re distrac
 
 Since you’ll likely be conducting the interview from home too, then this point is especially important.
 
-Basically, ![don’t be this guy](https://media.giphy.com/media/LKdAp1wmmceJy/giphy-downsized-large.gif).
+Basically, [don’t be this guy](https://www.youtube.com/watch?v=Mh4f9AYRCZY).
+
+<br />
+
+<p align="center"><img alt="Interrupted Interview" src="/assets/images/interview-interrupt.png" style="width:100% !important;"></p><br>
+
+<br />
 
 ### 4. Set-up your video frame
 
 One common mistake that a lot of people make is putting light directly behind them during video calls, like sitting with their back towards a window. This blows out the background and turns you into a silhouette. No one can see you! So make sure you light from in front, not from behind. Do this with the natural light through a window or a lamp.
 
-![Here's what not to do](Caleb-backlit.png)
+<br />
+
+<p align="center"><img alt="Don't do this" src="/assets/images/Caleb-backlit.png" style="width:100% !important;"></p><br>
+
+<br />
 
 Also be sure to position yourself correctly too - your head and shoulders should be showing; you don’t want any full-face, seeing-up-your-nose action. 
 
-![Set up your space like this](cameratips.jpg)
+<br />
+
+<p align="center"><img alt="Set it up like this" src="/assets/images/cameratips.jpg" style="width:100% !important;"></p><br>
 
 Source: [Wired](https://www.wired.com/story/how-to-videoconference-how-to-use-a-standing-desk/)
 
+<br />
 
 ### 5. Prepare your script
 
