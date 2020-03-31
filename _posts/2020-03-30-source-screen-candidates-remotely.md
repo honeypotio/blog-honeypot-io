@@ -292,7 +292,7 @@ One great way to improve the experience of your hiring process is to ask for fee
 
 ### 8. Moving candidates on to the next stage
 
-Finally, you will be moving the successful candidates to the next stage of the hiring process which will be interviewing and eventually resulting in a hire or hires depending on your needs. For more information on interviewing and hiring developers remotely, [read here](https://blog.honeypot.io/interview-hire-developers-remotely/. 
+Finally, you will be moving the successful candidates to the next stage of the hiring process which will be interviewing and eventually resulting in a hire or hires depending on your needs. For more information on interviewing and hiring developers remotely, [read here](https://blog.honeypot.io/interview-hire-developers-remotely/). 
 
 
 
