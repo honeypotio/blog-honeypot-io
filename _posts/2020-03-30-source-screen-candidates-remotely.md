@@ -19,9 +19,9 @@ We’ve created this handy guide to amplify your strategies to remotely source a
 
 ## 1.1  Sourcing software engineer candidates 
 
-As a recruiter, you will spend the majority of your time sourcing, screening and interviewing candidates. It’s important that your process is streamlined since it’ll likely be the first experience a candidate has with your company. How you handle the candidates in these processes could have a direct impact on your brand’s public perception - you should always assume the experience you create will end up on an employer review website such as [Glassdoor](http://www.glassdoor.de) or [Kununu](https://www.kununu.com/). 
+As a recruiter, you will spend the majority of your time sourcing, screening and interviewing candidates. It’s important that your process is streamlined since it’ll likely be the first experience a candidate has with your company. **How you handle the candidates in these processes could have a direct impact on your brand’s public perception** - you should always assume the experience you create will end up on an employer review website such as [Glassdoor](http://www.glassdoor.de) or [Kununu](https://www.kununu.com/). 
 
-Aside from building brand reputation, your sourcing strategy should help you reduce the time spent filling an open position in your company. The average time of an open IT position within a company is five-and-a-half months. Openings which drag on like this have been estimated to cost the average business a net loss of around [€450 per day](https://insights.dice.com/employer-resource-center/calculating-the-cost-of-vacant-tech-positions/). You can see why it’s important to fill these positions as quickly as possible. And a few more reasons why sourcing is crucial (if you’re still not convinced).  
+Aside from building brand reputation, your sourcing strategy should help you reduce the time spent filling an open position in your company. **The average time of an open IT position within a company is five-and-a-half months**. Openings which drag on like this have been estimated to cost the average business a net loss of around [€450 per day](https://insights.dice.com/employer-resource-center/calculating-the-cost-of-vacant-tech-positions/). You can see why it’s important to fill these positions as quickly as possible. And a few more reasons why sourcing is crucial (if you’re still not convinced).  
 
 #### Benefits of proper sourcing techniques:
 
@@ -31,12 +31,12 @@ Aside from building brand reputation, your sourcing strategy should help you red
 - Faster hires
 - Lower cost-per-hire
 
-Here are some steps you can take as a recruiter to properly source software engineers for an open position:
 
+## Here are some steps you can take as a recruiter to properly source software engineers for an open position:
 
 ### 1 . Create a candidate profile
 
-The problem a lot of companies face when sourcing software engineers is that they fail to specify exactly what they are looking for in the candidate, and so either aim too small or too big. There are a number of reasons for this; it could be that the engineering team lead has failed to communicate exactly what they are looking for in a candidate, or the recruiter lacks the specific technical knowledge to grasp the nuances of the position. This mistake is easily avoided by creating a strong and clear candidate profile before the search even begins. This will help target your position to the right group of job seekers, and equip you with a standard to measure applicants against. 
+The problem a lot of companies face when sourcing software engineers is that **they fail to specify exactly what they are looking for in the candidate**, and so either aim too small or too big. There are a number of reasons for this; it could be that the engineering team lead has failed to communicate exactly what they are looking for in a candidate, or the recruiter lacks the specific technical knowledge to grasp the nuances of the position. **This mistake is easily avoided by creating a strong and clear candidate profile before the search even begins**. This will help target your position to the right group of job seekers, and equip you with a standard to measure applicants against. 
 
 #### How to build a software engineer candidate profile: 
 
@@ -53,7 +53,7 @@ A job posting is likely to get 100+ applicants, and you don’t have time to wad
 
 ### 2. Post a job advertisement 
 
-Whether you are posting a job advertisement on job boards or talking to candidates directly on Honeypot, it’s important to be specific and clear about what you are looking for. The job description is going to be the first introduction to potential candidates, so put your best foot forward. 
+Whether you are posting a job advertisement on job boards or talking to candidates directly on Honeypot, it’s important to be specific and clear about what you are looking for. **The job description is going to be the first introduction to potential candidates**, so put your best foot forward. 
 
 Ideally, you want to present your company in an honest and positive way. We often see companies trying to break the mould with confusing titles like ‘full-stack ninja’ or ‘front-end wizard’. Please don’t do that. People can see through it and it’ll only turn away your most qualified professionals and make you look out-of-touch. Also, titles with ‘wizard or rockstar’ in them are not easily searchable on the web, which means less people are likely to spot them. 
 
@@ -76,7 +76,7 @@ If you don’t know how to write a proper job post, there are a bunch of resourc
 
 ### 3. Utilise your personal network 
 
-Another way to source potential candidates remotely is through your company’s network. Inbound interest will most probably reveal your strongest leads. The applicants who are responding directly through your website will be familiar with your brand and have a high interest in working for you. So make sure you are posting to your website and local channels (Twitter, LinkedIn, Xing, Facebook, etc.).
+Another way to source potential candidates remotely is through your company’s network. Inbound interest will most probably reveal your strongest leads. **The applicants who are responding directly through your website will be familiar with your brand and have a high interest in working for you**. So make sure you are posting to your website and local channels (Twitter, LinkedIn, Xing, Facebook, etc.).
 
 Many recruiters also use LinkedIn and Xing to source potential candidates - it’s a great way to connect with talents already in your ecosystem. You can easily check profiles and see if they have the relevant skills and if they are open to new opportunities.
 
@@ -87,18 +87,18 @@ Software engineers and tech professionals get bombarded daily with invitations a
 
 Working from home or in another city means you won’t be able to connect with local talent at events and meetups. Thankfully, there are a bunch of places online where you can network and source qualified talent without stepping foot outside your home. 
 
-Actually, without having to be there in person, you can get far more involved in the community then if you were travelling from event to event (and you’ll save a ton of time). There are online conferences with active chat rooms, online developer meetups, and plenty of active developer forums. These online spaces are going to be great for sourcing talent for hard to fill positions. 
+Actually, without having to be there in person, **you can get far more involved in the community then if you were travelling from event to event** (and you’ll save a ton of time). There are online conferences with active chat rooms, online developer meetups, and plenty of active developer forums. These online spaces are going to be great for sourcing talent for hard to fill positions. 
 
-Don’t barge into these spaces with guns ablazing, asking every user if they would like to interview at your company. Take a curious approach by asking questions and getting to know the people there. The more involved you are in these tech communities the more trusted you’ll be when asking for a qualified lead. 
+Don’t barge into these spaces with guns ablazing, asking every user if they would like to interview at your company. **Take a curious approach by asking questions and getting to know the people there**. The more involved you are in these tech communities the more trusted you’ll be when asking for a qualified lead. 
 
 
 ### 5. Use Honeypot
 
-Honeypot is a platform which allows you to quickly and easily source qualified tech professionals. With local and international candidates all in one place, you won’t have to scour the internet or send out a billion DMs to get a solid lead. Candidates on Honeypot are actively looking for new tech roles, meaning you won’t be wasting your time sending messages to passive opportunists. 
+Honeypot is a platform which allows you to quickly and easily source qualified tech professionals. With local and international candidates all in one place, you won’t have to scour the internet or send out a billion DMs to get a solid lead. **Candidates on Honeypot are actively looking for new tech roles**, meaning you won’t be wasting your time sending messages to passive opportunists. 
 
 The platform is a great way to source talent from across the globe; with boolean search, responsive filtering options, and 85% talent response rates, you can fill your pipeline with pre-screened candidates and build your team quicker compared with other channels. 80% of the companies searching on the platform hire within 4 weeks. 
 
-Candidates are verified through a code challenge and a call with our Talent Success team, meaning less time wasted for technical hiring managers. If you’re not familiar with the platform, here’s a quick rundown of how to use the Honeypot platform.
+Candidates are verified through a code challenge and a call with our Talent Success team, **meaning less time wasted for technical hiring managers**. If you’re not familiar with the platform, here’s a quick rundown of how to use the Honeypot platform.
 
 
 #### Steps for finding qualified talent using Honeypot:
@@ -122,13 +122,13 @@ That’s it! With a few simple steps you can quickly source qualified tech profe
 
 ## 1.2  Screening Candidates Remotely
 
-Screening is essentially filtering out applicants who do not meet the requirements of the role. It can be a lengthy process, though if sourcing was done effectively your time spent flicking through resumes (or profiles) will be cut in half. Assuming that you have already disqualified candidates who don’t meet the experience level or lack relevant skills, your time screening will be primarily focused on assessing the personality and cultural fit of candidates. And like we mentioned earlier, be serious about who you email or reach out to; careless screening methods can damage your brand, and cause a bad impression for future candidates and employees. 
+Screening is essentially filtering out applicants who do not meet the requirements of the role. It can be a lengthy process, though if sourcing was done effectively your time spent flicking through resumes (or profiles) will be cut in half. Assuming that you have already disqualified candidates who don’t meet the experience level or lack relevant skills, your time screening will be primarily focused on assessing the personality and cultural fit of candidates. And like we mentioned earlier, **be serious about who you email or reach out to; careless screening methods can damage your brand**, and cause a bad impression for future candidates and employees. 
 
 Below are 8 steps to help you properly screen candidates before moving them on to the next phase in your recruitment process. 
 
 ### 1. Consider what qualities you want in a candidate
 
-You probably already have a list of qualities that you would like in a potential employee. You want to see that they align with company values and that they mesh well into the engineering team. You obviously want them to be excited about the product or industry they would be working in, and a startup is going to require a very different personality than a large corporation. But there’s something else to consider: if you are hiring someone remotely, chances are they will be working remotely or find themselves doing so at some point. Remote work is not for everyone, and it requires some additional traits you may want to consider in a candidate. 
+You probably already have a list of qualities that you would like in a potential employee. You want to see that they align with company values and that they mesh well into the engineering team. You obviously want them to be excited about the product or industry they would be working in, and a startup is going to require a very different personality than a large corporation. But there’s something else to consider: **if you are hiring someone remotely, chances are they will be working remotely or find themselves doing so at some point**. Remote work is not for everyone, and it requires some additional traits you may want to consider in a candidate. 
 
 #### Traits needed for remote work: 
 
@@ -151,15 +151,15 @@ You probably already have a list of qualities that you would like in a potential
 
 #### Google them 
 
-It’s common practice to check a candidate’s Twitter, Facebook and LinkedIn profile. You will gain a clearer picture of who the candidate is, their interests, how they express themselves, and what others are saying about them. Twitter is a personal favourite; people really show their true colours there, and you can quickly tell if you’d like working with that person. 
+It’s common practice to check a candidate’s Twitter, Facebook and LinkedIn profile. **You will gain a clearer picture of who the candidate is**, their interests, how they express themselves, and what others are saying about them. Twitter is a personal favourite; people really show their true colours there, and you can quickly tell if you’d like working with that person. 
 
 Software engineers often have personal websites and blogs where they create and share personal projects. Their online portfolio will provide some valuable insight into how creative they are, what their passions are, and how knowledgeable they (actually) are. 
 
 #### Coding challenge 
 
-Some companies make candidates take a test when applying, others prefer to do it after a screening call - whatever the case, it’s a great way to find out if the talent is up for the job, easily measured by a pass or fail. Asking a candidate to solve a real world problem will tell you more than a resume ever could. 
+Some companies make candidates take a test when applying, others prefer to do it after a screening call - whatever the case, it’s a great way to find out if the talent is up for the job, easily measured by a pass or fail. **Asking a candidate to solve a real world problem will tell you more than a resume ever could**. 
 
-We recommend you make your coding challenges and skill tests as real to your business as possible. This could be a problem the team is currently facing, a ticket or a future issue. Given they are helping solve a real business problem and outside the hours of their regular job, we recommend that you pay them for their time. The gesture will show goodwill and go a long way for brand reputation. 
+We recommend you make your coding challenges and skill tests as real to your business as possible. This could be a problem the team is currently facing, a ticket or a future issue. **Given they are helping solve a real business problem and outside the hours of their regular job, we recommend that you pay them for their time**. The gesture will show goodwill and go a long way for brand reputation. 
 
 On the Honeypot platform, talents are pre-screened with an initial code challenge plus a follow up screening call with our Talent Management team. This ensures that the quality of candidates always remains at a high standard, meaning less time spent screening candidates and quicker technical hires. 
 
@@ -167,7 +167,7 @@ On the Honeypot platform, talents are pre-screened with an initial code challeng
 
 This is more or less the last stage of the screening process before you move on to skill tests and the interview stage. For a remote setting, the best way to conduct the call is via video conferencing. Yes, phone calls can be easily scheduled and are a little less intimidating, but we prefer video chat as it allows for a better and more personal interaction, which is important for building rapport in a remote setting. It also helps build trust and introduces the candidate to your company in a more personable way. 
 
-A qualified software engineer will most likely be pursuing multiple job offers at once, so the relationship you establish is key in motivating them to consider you company, and encourage them to take the skill test (a factor that causes high drop-off rates). Your conversation will likely be tailored to the candidate’s level of skill and how desperate you are to fill the position. Beyond that, there are a few things you will want to give and take from the call.
+A qualified software engineer will most likely be pursuing multiple job offers at once, so **the relationship you establish is key in motivating them to consider you company**, and encourage them to take the skill test (a factor that causes high drop-off rates). Your conversation will likely be tailored to the candidate’s level of skill and how desperate you are to fill the position. Beyond that, there are a few things you will want to give and take from the call.
 
 #### Here are the things you want to do in a screening call: 
 
@@ -261,7 +261,7 @@ The Honeypot team offers visa and relocation support for developers hired throug
 
 ### 7. How to turn down a candidate painlessly
 
-Once the developer is screened you’ll either be progressing them to the next stage or discontinuing with them. For the latter you will need to communicate the news in a gentle but honest way. Always provide constructive feedback and let them know why you won't be continuing their application. Feedback like this is appreciated, and if handled correctly, disqualified candidates will likely still view the company in a positive light.
+Once the developer is screened you’ll either be progressing them to the next stage or discontinuing with them. For the latter you will need to communicate the news in a gentle but honest way. Always provide constructive feedback and let them know why you won't be continuing their application. **Feedback like this is appreciated, and if handled correctly, disqualified candidates will likely still view the company in a positive light**.
 
 Here are some steps you can take to ensure a candidate is turned away painlessly:
  
@@ -287,7 +287,7 @@ Maybe the unsuccessful candidate was a great cultural fit yet not up to scratch 
 
 **Finally, ask THEM for feedback**
 
-One great way to improve the experience of your hiring process is to ask for feedback from applicants. Applicants will honestly point to the strengths and flaws in your process, helping you to improve for future hiring cycles. Requesting feedback also shows that you respect the opinions of the candidates, and asking for feedback from both successful and unsuccessful candidates will ensure your procedure is fair and transparent. 
+One great way to improve the experience of your hiring process is to ask for feedback from applicants. **Applicants will honestly point to the strengths and flaws in your process, helping you to improve for future hiring cycles**. Requesting feedback also shows that you respect the opinions of the candidates, and asking for feedback from both successful and unsuccessful candidates will ensure your procedure is fair and transparent. 
 
 
 ### 8. Moving candidates on to the next stage
