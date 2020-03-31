@@ -16,6 +16,7 @@ Corona has highlighted the need for better and more efficient remote working pra
 
 We’ve created this handy guide to amplify your strategies to remotely source and screen developers. Sourcing and screening largely happen remotely anyway, so take the time now to explore new channels and brush up on some best practices.  
 
+<br />
 
 ## 1.1  Sourcing software engineer candidates 
 
@@ -31,8 +32,9 @@ Aside from building brand reputation, your sourcing strategy should help you red
 - Faster hires
 - Lower cost-per-hire
 
+<br />
 
-## Here are some steps you can take as a recruiter to properly source software engineers for an open position:
+## 5 ways to effectively source software developers
 
 ### 1 . Create a candidate profile
 
@@ -119,12 +121,13 @@ Candidates are verified through a code challenge and a call with our Talent Succ
 
 That’s it! With a few simple steps you can quickly source qualified tech professionals from around the world. You can [read more about getting your invitation accepted here](https://blog.honeypot.io/7-recruitment-tips-to-get-your-invite-accepted/).
 
+<br />
 
 ## 1.2  Screening Candidates Remotely
 
 Screening is essentially filtering out applicants who do not meet the requirements of the role. It can be a lengthy process, though if sourcing was done effectively your time spent flicking through resumes (or profiles) will be cut in half. Assuming that you have already disqualified candidates who don’t meet the experience level or lack relevant skills, your time screening will be primarily focused on assessing the personality and cultural fit of candidates. And like we mentioned earlier, **be serious about who you email or reach out to; careless screening methods can damage your brand**, and cause a bad impression for future candidates and employees. 
 
-Below are 8 steps to help you properly screen candidates before moving them on to the next phase in your recruitment process. 
+## 8 steps to effectively screen candidates 
 
 ### 1. Consider what qualities you want in a candidate
 
@@ -200,6 +203,7 @@ In the screening call your goal is to determine if they will be a good fit for t
 - How often they will need to visit the office (will travel expenses be paid?) 
 - Remote working expectations (hours, responsibilities, rules, requirements, etc.)
 
+
 ### 5. Create an evaluation process 
 
 The next step is to create an evaluation process which you can use to measure candidates after the screening call so that you are not just going off of your gut feeling. If you had positive or negative feelings towards a candidate it’s best to be able to articulate them as you’ll likely be defending your decision later on or providing rejected candidates with feedback (highly recommended!).
@@ -210,6 +214,7 @@ The next step is to create an evaluation process which you can use to measure ca
 - Communication style
 - Technical knowledge 
 - Their interest in the role/company
+
 
 ### 6. Candidate screening tools 
 
@@ -229,6 +234,7 @@ There will likely be a lot of back and forth between team members. To avoid the 
 - [Slack](https://slack.com/) 
 - [Chanty](https://www.chanty.com/)
 
+
 **Average salary for locations**
 
 You may have to answer questions around salaries which might be tricky if they will be working from another country. These websites can help you get an idea of what an average salary would be in each country.
@@ -237,11 +243,13 @@ You may have to answer questions around salaries which might be tricky if they w
 - [Stackoverflow](https://stackoverflow.com/jobs/salary)
 - Honeypot ([Amsterdam](https://blog.honeypot.io/amsterdam-developer-salaries-2019/) and [Germany](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/))  
 
+
 **Video conferencing applications**
 
 - [Zoom](https://zoom.us/)
 - [Skype](https://www.skype.com/en/)
 - Google Hangouts (which is free!) 
+
 
 **Handy time zone converters for international scheduling**
 
@@ -249,10 +257,12 @@ You may have to answer questions around salaries which might be tricky if they w
 - [Worldtimebuddy](https://www.worldtimebuddy.com/)
 - [Timeanddate.com](https://www.timeanddate.com/worldclock/converter.html)
 
+
 **For questionnaires and feedback surveys**
 
 - [Google Forms](https://www.google.com/forms/about/)
 - [SurveyMonkey](https://de.surveymonkey.com/)
+
 
 **Visa processing and relocation**
 
@@ -294,5 +304,7 @@ One great way to improve the experience of your hiring process is to ask for fee
 
 Finally, you will be moving the successful candidates to the next stage of the hiring process which will be interviewing and eventually resulting in a hire or hires depending on your needs. For more information on interviewing and hiring developers remotely, [read here](https://blog.honeypot.io/interview-hire-developers-remotely/). 
 
+<br />
 
+[Read Part 2 of our Guide to Hiring Developers Remotely: **How to Interview and Hire Developers Remotely**](https://blog.honeypot.io/interview-hire-developers-remotely/)
 
