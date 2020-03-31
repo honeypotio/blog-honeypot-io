@@ -306,5 +306,5 @@ Finally, you will be moving the successful candidates to the next stage of the h
 
 <br />
 
-[Read Part 2 of our Guide to Hiring Developers Remotely: **How to Interview and Hire Developers Remotely**](https://blog.honeypot.io/interview-hire-developers-remotely/)
+Read Part 2 of our Guide to Hiring Developers Remotely: [**How to Interview and Hire Developers Remotely**](https://blog.honeypot.io/interview-hire-developers-remotely/)
 
