@@ -113,7 +113,7 @@ There are two types of communication: synchronous and asynchronous. You should p
 
 ### Synchronous Communication
 
-Synchronous communication is **communication which takes place in real-time** - so, conversations over the phone, in person, or through instant messaging apps. A person sends a message and expects a prompt response. During the onboarding process, synchronous communication with new hires should be encouraged. There should be a dedicated member of their team who can be on the receiving end of it. 
+Synchronous communication is **communication which takes place in real-time** - so, conversations over the phone, in person, or through instant messaging apps. A person sends a message and expects a prompt response. During the onboarding process, synchronous communication with new hires should be encouraged, and there should be a dedicated member of their team who can be on the receiving end of it. 
 
 Since this type of communication can be disruptive, it’s important the person you choose to be their buddy is willing to be contacted anytime, and the same goes for selecting a ‘contact-person’ from the team. Assure them that it won’t be forever, but highlight that **it’s important for the new employee to feel wholly supported during this process** (Remember, they might not have signed up for a remote gig!) Imagine how isolated they might feel. Being able to practise synchronous communication during this phase is setting them up for success, but it should not be for the long-term. 
 
