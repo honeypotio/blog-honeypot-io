@@ -31,7 +31,7 @@ There are few things worse than having your tech fail you during an interview. T
 - **Send contact details in advance**: Whether it’s a Skype username, a Hangout link or a Zoom conference room, make it clear in advance how the candidate should reach you.  
 - **Check your camera, audio and microphone**: you can usually test in the application, but if you want to be extra careful, test with a colleague.
 - **Battery Power**: Make sure you have sufficient battery! 
-- **Ask for the phone number**: before the interview, ask for the phone number of the candidate. If your tech really does fail, this is important to have! 
+- **Ask for a phone number**: before the interview, ask for the phone number of the candidate. If your tech really does fail, this is important to have! 
 
 Heck, if you want to be trip safe, just go ahead and restart your whole computer. All programs will reopen fresh, limiting chances of a crash during the call. Although a crash is unlikely anyway… you just never know. 
 
@@ -96,7 +96,7 @@ Most things will look quite similar to a face-to-face interview. You’ll ask th
 
 This is something that is much easier to do face-to-face, but **building trust and rapport with the interviewee is not impossible via video**! It does, however, take a little more work. 
 
-Start as you usually would by making sure the candidate is comfortable. Do they have water or a coffee? Then try a little bit of a conversation. Ask the candidate how they’re doing, be willing to be a little vulnerable about how you’re doing yourself. **It's your job to make them feel at ease**! 
+Start as you usually would by making sure the candidate is comfortable. Do they have water or a coffee? Then try a little bit of a conversation. Ask the candidate how they’re doing, be willing to be a little vulnerable about how you’re doing yourself. **It's your job to make them feel at ease!** 
 
 Finally, don’t forget to introduce yourself. Tell them who you are, where in the company you work and set expectations: what are you hoping to get out of this call? It’s a very simple step but one that can be overlooked when your mind is going in a million different directions. It also helps to ease the candidate into the call - **they’re probably feeling a little nervous**, too. 
 
@@ -156,7 +156,7 @@ This step is another one you would do on-site, but is easily forgotten when inte
 ## After the interview
 
 
-Write down your notes right away
+### Write down your notes right away
 
 This is a huge benefit of video interviews. During on-site interviews, you would usually have to say goodbye to the candidate and walk them out - maybe even show them through your office. Important details from the interview can slip your mind, but **with video interviews, you can hang up the call and input your feedback right away**. That’s ‘interview best practices’ 101!
 
