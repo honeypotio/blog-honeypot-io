@@ -1,7 +1,7 @@
 ---
 title:   "How to Interview and Hire Developers Remotely"
 subtitle: "In this new remote world, how can you maintain your recruiting standards while still providing a positive and friendly candidate experience for developers in your pipeline? "
-date:    2020-03-30 06:10:16
+date:    2020-03-30 11:10:16
 layout:  post
 author:  hayley_kuhl
 categories: [HR Tips]
@@ -18,8 +18,10 @@ In this new remote world, **how can you maintain your recruiting standards** whi
 
 The good news is many Honeypot clients are already happily doing full interview and selection processes with developers remotely. We gathered these 11 simple tips. 
 
+<br />
 
 ## Preparing for the interview:
+
 
 ### 1. Check your tech
 
@@ -49,7 +51,6 @@ Basically, [don’t be this guy](https://www.youtube.com/watch?v=Mh4f9AYRCZY).
 
 <p align="center"><img alt="Interrupted Interview" src="/assets/images/interview-interrupt.png" style="width:100% !important;"></p><br>
 
-<br />
 
 ### 4. Set-up your video frame
 
@@ -59,17 +60,14 @@ One common mistake that a lot of people make is putting light directly behind th
 
 <p align="center"><img alt="Don't do this" src="/assets/images/Caleb-backlit.png" style="width:100% !important;"></p><br>
 
-<br />
 
 Also be sure to position yourself correctly too - your head and shoulders should be showing; you don’t want any full-face, seeing-up-your-nose action. 
 
-<br />
 
 <p align="center"><img alt="Set it up like this" src="/assets/images/cameratips.jpg" style="width:100% !important;"></p><br>
 
 Source: [Wired](https://www.wired.com/story/how-to-videoconference-how-to-use-a-standing-desk/)
 
-<br />
 
 ### 5. Prepare your script
 
@@ -87,10 +85,12 @@ And for Mac:
 
 Your screen should be split now, and you can see the candidate and your questions at the same time. 
 
+<br />
 
 ## Conducting the interview
 
 Most things will look quite similar to a face-to-face interview. You’ll ask the same questions, and you’ll want the same outcomes, but the medium is different and **there are a couple of things that are essential to keep in mind while conducting a video interview**. 
+
 
 ### 1. Build trust with your candidate
 
@@ -100,13 +100,16 @@ Start as you usually would by making sure the candidate is comfortable. Do they 
 
 Finally, don’t forget to introduce yourself. Tell them who you are, where in the company you work and set expectations: what are you hoping to get out of this call? It’s a very simple step but one that can be overlooked when your mind is going in a million different directions. It also helps to ease the candidate into the call - **they’re probably feeling a little nervous**, too. 
 
+
 ### 2. Make your expressions clear
 
 The candidate can’t read your body language - this is why it’s especially important to **let the candidate know how you’re feeling through facial expressions**. Smile and nod, give a thumbs up here and there, and make these expressions a little bit bigger than you usually would if face-to-face. You don’t want the candidate to think your video has frozen, which can tend to happen when you’re listening intently. Be sure to listen actively, too. 
 
+
 ### 3. Give space and time for video lag
 
 This one is a common problem. How often have you been in a video conference call where you’ve been cut off by the other person, barely having finished your thought? What we often forget is that conversation can’t flow in the same way with video conferencing software; there can’t be the jousting of thoughts and words, interjecting isn’t so easy anymore, and it all feels quite unnatural. Keeping this in mind, **ensure that you wait a moment when you think the candidate has finished speaking**. This allows for the lag to catch up, and you can be assured that you won’t be cutting them off. Hopefully they’ve had the foresight to think about the same thing with you - you’ll know if they’re interrupting you or if it’s an honest mistake. 
+
 
 ### 4. Dealing with a poor connection
 
@@ -116,9 +119,11 @@ Maybe this is on their side, or maybe it’s on yours. Be prepared for the possi
 
 If it’s really unmanageable, offer to reschedule. Try to do so directly on the call or via a chat to make sure the candidate still has a clear and quick experience! 
 
+
 ### 5. Give the candidate breaks during back-to-back interviews
 
 Just as you would for on-site interviews, if you’ve allotted a couple of hours for a candidate to be interviewing in your office, you’ve probably allocated some time for them to have a drink or bathroom break. Allow them the same opportunity during back-to-back video interviews. **It’s equally important for the candidate to recharge their mind and come to each interview refreshed** and ready to continue. It’s also easy to forget in the virtual world. 
+
 
 ### 6. Prepare when interviewing with colleagues
 
@@ -141,21 +146,26 @@ Although they might not be a remote employee forever, they might be for the firs
 - How do you process information?
 - If you had a problem, but no one else on the team was online or available, how would you handle it?
 
+
 ### 8. Let them know next steps
 
 This step is another one you would do on-site, but is easily forgotten when interviewing online. Let the candidate know the next steps: who will be in touch, and when? Thank them for taking the time and let them ask any questions they might have! 
 
+<br />
 
 ## After the interview
 
-### 3. Write down your notes right away
+
+Write down your notes right away
 
 This is a huge benefit of video interviews. During on-site interviews, you would usually have to say goodbye to the candidate and walk them out - maybe even show them through your office. Important details from the interview can slip your mind, but **with video interviews, you can hang up the call and input your feedback right away**. That’s ‘interview best practices’ 101!
 
+<br />
 
 ## What about technical interviews?
 
 The technical interview for developers takes quite a different approach. Your average interview is very straightforward - have a chat, make some notes, make your decision - you’re done! Though when hiring developers, the process can often be lengthier and more… robust, let’s say. But it’s not too tricky to also conduct these remotely - their whole job is computer-based anyway.
+
 
 #### Consider limiting your technical interviews to the asynchronous kind. 
 
@@ -163,10 +173,14 @@ The technical interview for developers takes quite a different approach. Your av
 
 - **Pair programming**: this is another take-home challenge, except that they do it with another colleague - also in a given timeframe. This way the candidate can ask questions, both they and the current employee can assess how they would work together, and it can easily be done via a screen. Use some coding interview programs such as [Codepen](http://codepen.io) or [Codeshare](http://codeshare.io). We use Hackerrank’s [Codepair](https://www.hackerrank.com/products/codepair/) at Honeypot.
 
+<br />
+
 ## Takeaways
 
 Many Honeypot clients already conduct large chunks of the interview process remotely. In fact, many companies, particularly those hiring international talent, do everything online. **Applying common sense in preparing your work-area, looking after the applicant and communicating with your colleagues**, are often the small details which make the difference for the candidate. 
 
 Remote interviewing doesn’t have to feel like a burden or a stop-gap measure. **Developers love efficient processes, clear workflows and generally appreciate remote work**. So take the time to evaluate your remote candidate experience, make the changes necessary and get hiring. You could actually end up making a permanent change for the better! 
 
-Now that you've hired your developer, [find out here](https://blog.honeypot.io/onboard-developers-remotely/ how to best onboard them remotely.
+<br />
+
+Read Part 3 of our Guide to Hiring Developers Remotely: [**How to Onboard Developers Remotely**](https://blog.honeypot.io/onboard-developers-remotely/)
