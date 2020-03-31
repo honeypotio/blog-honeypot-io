@@ -6,7 +6,7 @@ layout:  post
 author:  hayley_kuhl
 categories: [HR Tips]
 cover_image: onboard-devs-remotely.png
-permalink:  onboard-developers-remotely/
+permalink:  onboard-devs-remotely/
 importance: 2
 ---
 
