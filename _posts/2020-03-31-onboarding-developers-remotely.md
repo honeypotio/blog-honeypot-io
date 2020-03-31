@@ -6,7 +6,7 @@ layout:  post
 author:  hayley_kuhl
 categories: [HR Tips]
 cover_image: onboard-devs-remotely.png
-permalink:  onboard-devs-remotely/
+permalink:  onboard-developers-remotely/
 importance: 2
 ---
 
@@ -57,6 +57,7 @@ Here’s an example of how you could structure your day:
 
 ### Welcome onboarding
 
+
 - **Share your screen**
 
 Your welcome onboarding will be similar to how it’s done in person. Maybe you have a powerpoint presentation about the company and culture, and you take the new hires through the different company tools - this can be easily done through screen-sharing.
@@ -72,6 +73,7 @@ Be clear about what they can expect over the next few weeks. Walk them through t
 Julie, [Head of People at Animalz](https://tettra.com/article/remote-employee-onboarding-checklist-building-structure-and-flexibility-for-an-async-team/), says “you can use your onboarding checklist to promote independent work and responsibility in new hires”. Give your employee a list of things they need to  complete in the first week, **trust that it will get done and check in on the progress at the end of it**. 
 This gives an opportunity for the employee to work at their own pace, and they can also work on whatever tasks they want to in the moment. They can truly be independent and take responsibility - these two attributes are what you hired them for. 
 
+
 ### Introduce them to their buddy
 
 You should have already set up a video call ahead of time so the new hire can meet their buddy; they don’t necessarily have to be a fellow developer. It might be wise to avoid assigning them to employees with a lot of responsibilities. 
@@ -80,10 +82,11 @@ The person you assign will be the point of contact for them through the entire o
 
 Being a remote employee takes adjustment - especially when you weren’t supposed to be one, so getting them connected with the right person is key. [Here’s a list](https://youteam.io/blog/onboarding-a-remote-developer-traps-to-avoid-and-tips-for-success/) of some responsibilities the buddy could take on. 
 
+
 ### Organise a team lunch
 
-
 The team lunch can still happen via video. Pop it in everyone’s calendar. You can always spice it up with some fun [team building activities](https://biz30.timedoctor.com/virtual-team-building/) to get the conversations rolling. 
+
 
 ### Team Onboarding
 
@@ -96,8 +99,6 @@ For a complete 4-week onboarding schedule, we’d recommend reading about Zapier
 <br />
 
 ## General Remote Onboarding
-
-<br />
 
 The biggest changes you will go through are with regards to how you communicate with your employee(s), and **how you can best set them up for success as they navigate this new role remotely**. Ultimately you want to give the right tools to them so they can be collaborative, communicative and productive in the way you need them to be. 
 
