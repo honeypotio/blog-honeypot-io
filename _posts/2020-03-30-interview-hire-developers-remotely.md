@@ -181,4 +181,6 @@ Many Honeypot clients already conduct large chunks of the interview process remo
 
 Remote interviewing doesn’t have to feel like a burden or a stop-gap measure. **Developers love efficient processes, clear workflows and generally appreciate remote work**. So take the time to evaluate your remote candidate experience, make the changes necessary and get hiring. You could actually end up making a permanent change for the better! 
 
-Now that you've hired your developer, [find out here](https://blog.honeypot.io/onboard-developers-remotely/ how to best onboard them remotely.
+<br />
+
+Read Part 3 of our Guide to Hiring Developers Remotely: [**How to Onboard Developers Remotely**](https://blog.honeypot.io/onboard-developers-remotely/)
