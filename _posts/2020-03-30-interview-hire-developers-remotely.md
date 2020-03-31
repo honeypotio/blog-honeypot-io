@@ -183,4 +183,4 @@ Remote interviewing doesn’t have to feel like a burden or a stop-gap measure. 
 
 <br />
 
-Read Part 3 of our Guide to Hiring Developers Remotely: [**How to Onboard Developers Remotely**](https://blog.honeypot.io/onboard-developers-remotely/)
+Read Part 3 of our Guide to Hiring Developers Remotely: [**How to Onboard Developers Remotely**](https://blog.honeypot.io/onboard-devs-remotely/)
