@@ -10,6 +10,10 @@ permalink:  source-screen-developers-remotely/
 importance: 2
 ---
 
+*This is part one of Honeypot's Remote Hiring Guide. Here's part two: [How to Interview Developers Remotely](https://blog.honeypot.io/interview-hire-developers-remotely/) and part three: [How to Onboard Developers Remotely](https://blog.honeypot.io/onboard-developers-remotely/)*
+
+<br />
+
 Corona has highlighted the need for better and more efficient remote working practices. Jumping into this new reality means rethinking recruiting practices to remain agile. When it comes to sourcing and screening for tech positions you’re going to want to be on your A-game. 
 
 <!--more-->
