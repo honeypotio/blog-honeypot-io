@@ -10,6 +10,10 @@ permalink:  interview-hire-developers-remotely/
 importance: 2
 ---
 
+*This is part two of Honeypot's Remote Hiring Guide. Here's part one: [How to Source and Screen Developers Remotely](https://blog.honeypot.io/source-screen-developers-remotely/) and part three: [How to Onboard Developers Remotely](https://blog.honeypot.io/onboard-developers-remotely/)*
+
+<br />
+
 You had your interview process down. Your candidate experience was stellar. Glassdoor was packed with positive reviews, your inbox overflowed with candidate emails thanking you for the smooth experience. **But then COVID-19 hit, and your company, like many others, adopted an indefinite work-from-home policy**.  No more face-to-face interviews, no more onsite days, no more get-to-know-the-team-lunches. 
 
 <!--more-->
