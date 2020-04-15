@@ -26,7 +26,7 @@ This would also be the perfect time to **invite new people to train for and join
 
 If you and your team have spent what feels like forever wishing your applicant tracking system would do more for you, had a better interface, or was simply cheaper, this is the right time to start scouting for a new one. With your recruiting process mostly moving to online interactions **your applicant tracking system can start to work as your personal assistant**, making sure that you are responsive to talents on time and that your data collection from your interview panels is seamless and as detailed as possible.
 
-Now is the time to sit down and talk to different client representatives and ask the right questions to see if their platform is the right one for you. You also have more time to reach out to your network and see what your peers recommend.  [The HR Technologist])https://www.hrtechnologist.com/articles/recruitment-onboarding/top-applicant-tracking-systems/) has compiled a list of the top 10 applicant tracking systems for 2020, but a few of our recommendations include: 
+Now is the time to sit down and talk to different client representatives and ask the right questions to see if their platform is the right one for you. You also have more time to reach out to your network and see what your peers recommend.  [The HR Technologist](https://www.hrtechnologist.com/articles/recruitment-onboarding/top-applicant-tracking-systems/) has compiled a list of the top 10 applicant tracking systems for 2020, but a few of our recommendations include: 
 
 
 - **[Jobvite](https://www.jobvite.com/)** - Great for busy teams that are looking to emphasise referrals and has a built in scheduler for interviews. 
