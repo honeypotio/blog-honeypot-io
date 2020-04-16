@@ -5,11 +5,15 @@ date:    2020-04-14 09:13:23
 layout:  post
 author:  eli_mcgarvie
 categories: [HR Tips]
-cover_image: managing-remote-teams.png
+cover_image: manage-remote-teams.png
 permalink:  managing-remote-teams/
 importance: 2
 cta: recruiter
 ---
+
+*This is part four of Honeypot's Remote Hiring Guide. Here's part one: [How to Source and Screen Developers Remotely](https://blog.honeypot.io/source-screen-developers-remotely/), part two: [How to Interview Developers Remotely](https://blog.honeypot.io/interview-hire-developers-remotely/) and part three: [How to Onboard Developer Teams Remotely](https://blog.honeypot.io/onboard-developers-remotely/).*
+
+<br />
 
 Though it’s been a standard practice of developer work for years, managers still get nervous about remote work - especially when it happens suddenly. The path to remote work can be bumpy, meaning managers need to rethink their leadership style - you’ll have to say goodbye to those quick coffee chats and spontaneous meetings! 
 
@@ -27,29 +31,29 @@ Below is an outline of this article so you can quickly find what’s relevant to
 
 <br />
 
-[Outline](##outline)
+<a href="## Outline">Outline</a> 
 
-&nbsp;&nbsp; [1.1 Communication](##1.1-communication)
+&nbsp;&nbsp; <a href="## 1-1 Communication">1.1 Communication</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Keys to successful remote communication](###keys-to-successful-remote-communication)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### keys-to-successful-remote-communication">Keys to succesful remote communication</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Best practices for remote communication](###best-practices-for-remote-communication)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### best-practices-for-remote-communication">Best practices for remote communication</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Managing conflict remotely](###managing-conflict-remotely)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### managing-conflict-remotely">Managing conflict remotely</a> 
 
-&nbsp;&nbsp; [1.2 Collaboration](##1.2-collaboration)
+&nbsp;&nbsp; <a href="## 1-2-collaboration">1.2 Collaboration</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Development practices](###development-practices)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### development-practices">Development practices</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Collaboration tools](###collaboration-tools)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### collaboration-tools">Collaboration tools</a> 
 
-&nbsp;&nbsp; [1.3 Productivity](##1.2-productivity)
+&nbsp;&nbsp; <a href="## 1-2-productivity">1.3 Productivity</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Best practices](###best-practices)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### best-practices">Best practices</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Common blockers and how to combat them](###common-blockers-and-how-to-combat-them)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### common-blockers-and-how-to-combat-them">Common blockers and how to combat them</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Managing developer teams remotely](##managing-developer-teams-remotely)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="## managing-developer-teams-remotely">Managing developer teams remotely</a>
 
 <br />
 
@@ -222,7 +226,7 @@ If you’re doing it right, 90% of your remote team’s communication will be te
 
 **Provide regular feedback** 
 
-Since it’s a transition period for many, you should be proactive in providing constant feedback to your team members. This will help them adjust to their new working environment and make them better remote workers. The way you share feedback is up to you; it might be through an HR tool, via call or direct message. Just make sure the serious feedback is done face-to-face (video call).  To learn more about sharing remote feedback, head to Part 5 of our remote series. 
+Since it’s a transition period for many, you should be proactive in providing constant feedback to your team members. This will help them adjust to their new working environment and make them better remote workers. The way you share feedback is up to you; it might be through an HR tool, via call or direct message. Just make sure the serious feedback is done face-to-face (video call).  
 
 <br />
 
