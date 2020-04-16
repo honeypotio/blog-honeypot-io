@@ -5,8 +5,8 @@ date:    2020-04-14 09:13:23
 layout:  post
 author:  eli_mcgarvie
 categories: [HR Tips]
-cover_image: manage-remote-teams.png
-permalink:  managing-remote-teams/
+cover_image: manage-teams-remotely.png
+permalink:  managing-teams-remotely/
 importance: 2
 cta: recruiter
 ---
