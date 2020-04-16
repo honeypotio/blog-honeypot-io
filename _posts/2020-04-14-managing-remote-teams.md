@@ -73,7 +73,7 @@ You might have felt a stab of anxiety as your team members relocated to their ho
 
 **Accountability**
 
-&nbsp; Accountability in a team is best established through written guidelines. This way, each member understands exactly what is expected of them throughout the day, week, month and year. You may have them recording hours, posting regularly, documenting their daily work - however it looks on paper, make sure to express it clearly and pin it as an accessible reference point. 
+Accountability in a team is best established through written guidelines. This way, each member understands exactly what is expected of them throughout the day, week, month and year. You may have them recording hours, posting regularly, documenting their daily work - however it looks on paper, make sure to express it clearly and pin it as an accessible reference point. 
 
 <br />
 
