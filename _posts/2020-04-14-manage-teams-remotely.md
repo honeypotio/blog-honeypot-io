@@ -35,9 +35,9 @@ Below is an outline of this article so you can quickly find what’s relevant to
 
 &nbsp;&nbsp; <a href="#11-communication">1.1 Communication</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-keys-to-successful-remote-communication">1. Keys to successful remote communication</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#keys-to-successful-remote-communication">Keys to successful remote communication</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-best-practices-for-remote-communication">2. Best practices for remote communication</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#best-practices-for-remote-communication">Best practices for remote communication</a> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#managing-conflict-remotely">Managing conflict remotely</a> 
 
@@ -65,7 +65,7 @@ Since you won’t be able to tap your colleague on the shoulder or gather the tr
 
 <br />
 
-### 1. Keys to successful remote communication
+### Keys to successful remote communication
 
 You might have felt a stab of anxiety as your team members relocated to their homes for quarantine. The concerns of limited project control and invisible staff can stir a minor panic. Like many, you weren’t prepared for a crisis - but don’t worry, by implementing the correct protocols and expectations for remote workers you’ll be up to scratch in no time!
 
@@ -101,7 +101,7 @@ This is no different from an office environment. How you conduct yourself in a r
 
 <br />
 
-### 2. Best practices for remote communication
+### Best practices for remote communication
 
 Here are a few points on how you can maximise the impact of your team’s communication tools, keep your team engaged, and ensure channels are clear and scrubbed clean of any pesky misunderstandings. 
 
