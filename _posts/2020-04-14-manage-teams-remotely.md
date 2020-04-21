@@ -31,29 +31,29 @@ Below is an outline of this article so you can quickly find what’s relevant to
 
 <br />
 
-<a href="## Outline">Outline</a> 
+<a href="#outline">Outline</a> 
 
-&nbsp;&nbsp; <a href="## 1-1 Communication">1.1 Communication</a>
+&nbsp;&nbsp; <a href="#11-communication">1.1 Communication</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### keys-to-successful-remote-communication">Keys to succesful remote communication</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-keys-to-successful-remote-communication">1. Keys to successful remote communication</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### best-practices-for-remote-communication">Best practices for remote communication</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-best-practices-for-remote-communication">2. Best practices for remote communication</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### managing-conflict-remotely">Managing conflict remotely</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#managing-conflict-remotely">Managing conflict remotely</a> 
 
-&nbsp;&nbsp; <a href="## 1-2-collaboration">1.2 Collaboration</a> 
+&nbsp;&nbsp; <a href="#12-collaboration">1.2 Collaboration</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### development-practices">Development practices</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#development-practices">Development practices</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### collaboration-tools">Collaboration tools</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#collaboration-tools">Collaboration tools</a> 
 
-&nbsp;&nbsp; <a href="## 1-2-productivity">1.3 Productivity</a> 
+&nbsp;&nbsp; <a href="#13-productivity">1.3 Productivity</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### best-practices">Best practices</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#best-practices">Best practices</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="### common-blockers-and-how-to-combat-them">Common blockers and how to combat them</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#common-blockers-and-how-to-combat-them">Common blockers and how to combat them</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="## managing-developer-teams-remotely">Managing developer teams remotely</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#managing-developer-teams-remotely">Managing developer teams remotely</a>
 
 <br />
 
@@ -191,7 +191,7 @@ Is someone throwing shade from afar? Sooner or later conflict will arise in the 
 
 <br />
 
-**Give emotional support **
+**Give emotional support**
 
 <br />
 
