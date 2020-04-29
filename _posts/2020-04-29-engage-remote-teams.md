@@ -37,7 +37,7 @@ We know you’re probably booting up Zoom for another ‘coffee break’ so we�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#encourage-remote-team-participation">Encourage remote team participation</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#honeypot-s-icebreakers-&-team-activities">Honeypot's icebreakers and team activities</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#honeypots-icebreakers-and-team-activities">Honeypot's icebreakers and team activities</a> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#deal-with-isolation">Deal with isolation</a> 
 
@@ -57,7 +57,7 @@ We know you’re probably booting up Zoom for another ‘coffee break’ so we�
 
 [Psychological distance](https://miro.com/guides/remote-work/collaboration-productivity-engagement) might be one of the biggest destroyers of teams and culture. **The strength, productivity and success of a team hinges on the connections its members have with one another**. When you take a team remote, it’s like driving a wedge through those pre-existing team connections (it’ll feel that way to them at least!). In the absence of office chit-chat, team building activities and collaboration opportunities, people will begin to [disengage and disconnect](https://blog.smarp.com/employee-engagement-8-statistics-you-need-to-know). To engage employees in effective and lasting ways we need to be focused on answering this core question: how can we continue to build relationships in our new online workplace? 
 
-
+<br />
 
 ## 1. Communication tips to engage remote teams
 
@@ -117,7 +117,7 @@ Keep the company culture strong by shipping your remote employees reminders of t
 
 <br />
 
-### Honeypot’s icebreakers & team activities
+### Honeypot’s icebreakers and team activities
 
 The old team lunch can quickly grow stale - the best way to reignite your team’s spark is to get them active - conversations are great but they only reach so far. Here’s a list of some creative team activities (inspired by Honeypot) which can engage the troops, boost spirits and get the conversations rolling again:
 
@@ -126,7 +126,7 @@ The old team lunch can quickly grow stale - the best way to reignite your team�
 
 With a bit more time to spend in the kitchen, some of the Honeypot folk have rolled up their sleeves and opened those dusty old cookbooks to experiment with new recipes. It’s organised as a weekly ‘challenge’ based around a weekly theme, and at the end of each week, the group gathers to share the pictures of their creations. Last week was Vegan week and this week is International week. Here’s a nice mouth-watering collage :)
 
-![cooking-challenge](cooking-challenge.png)
+<p align="center"><img alt="Honeypot's Cooking Challenge" src="/assets/images/cooking-challenge.png" style="width:100% !important;"></p><br>
 
 
 * **Meme groups**
