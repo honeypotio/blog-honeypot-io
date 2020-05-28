@@ -3,7 +3,6 @@
   "homepage": "https://github.com/teamhoneypot/blog-honeypot-io",
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
-    "jquery.cookiebar": "^1.2.1",
     "imagesloaded": "^4.1.1"
   }
 }
