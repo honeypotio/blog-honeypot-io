@@ -15,10 +15,11 @@ Congratulations! You’ve received an invitation to interview for your dream dev
 
 It may be more difficult for some of us to look at the camera and talk rather than communicate face-to-face; however, you will find that video interviews, independent of location and time, provide great convenience. Check out our recommendations to ace your video interview!
 
+<!--more--> 
 
 ## 1. Take care with preparation and set-up  
 
-Your **set-up affects your credibility**! Keep in mind that your set-up is a reflection of your personality, professionality, and will contribute significantly to your overall impression. You probably think “yes, of course, I know how to create a perfect set-up for the interview” but do you really? Some candidates receive rejections after their first video interview because of their set-ups. If you really want to have a hassle-free video interview, you should pay attention to these points below: 
+Your set-up affects your credibility! Keep in mind that **your set-up is a reflection of your personality, professionality, and will contribute significantly to your overall impression**. You probably think “yes, of course, I know how to create a perfect set-up for the interview,” but do you really? Some candidates receive rejections after their first video interview because of their set-ups. If you really want to have a hassle-free video interview, you should pay attention to these points below: 
 
 ### Use a laptop
 First things first; do not enter the interview platforms through your phone, since a horizontal video is usually preferred and holding your phone will inevitably lead to shaking. Use your laptop and **have a clean desk** without any distractions. 
