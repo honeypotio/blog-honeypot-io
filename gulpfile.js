@@ -2,6 +2,13 @@ const gulp = require('gulp');
 const imageResize = require('gulp-image-resize');
 const imagemin = require('gulp-imagemin');
 const changed = require('gulp-changed');
+const clean = require('gulp-clean');
+
+const optimizedFileLocations = ['xs', 'sm', 'md'].map(size => 'assets/cover-images/' + size)
+gulp.task('clear-thumbnails', function() {  
+  return gulp.src(optimizedFileLocations, {read: false})
+  .pipe(clean());
+})
 
 gulp.task('optimize-authors', function() {
   const src = '_assets/authors/*';
@@ -80,3 +87,4 @@ gulp.task('optimize-images', function() {
 });
 
 gulp.task('default', ['optimize-authors', 'optimize-covers', 'optimize-images']);
+gulp.task('rebuild-images', ['clear-thumbnails', 'optimize-authors', 'optimize-covers', 'optimize-images']);
