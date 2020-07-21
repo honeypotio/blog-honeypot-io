@@ -69,11 +69,11 @@ If you want to [calculate this more accurately](https://www.ere.net/cost-of-vaca
 
 We’ll do the math for you, see below:
 
-| Salary | Cost of open position per day | 
-| --- | --- |
-| €40,000 | €308 |   
-| €60,000 | €462 | 
-| €70,000 | €538 |
+Salary | Cost of open position per day  
+ --- | --- 
+ €40,000 | €308    
+ €60,000 | €462  
+ €70,000 | €538 
 
 These costs include a lack of productivity, the lack of business growth, possible overtime costs for other employees, and employee turnover based on increased work pressure. 
 These costs are not very visible on a financial sheet, but definitely have influence on your bottom line. 
@@ -88,7 +88,8 @@ Feel free to follow the steps with one of your open positions.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Step one:** 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imagine you’re hiring a developer with a salary of €50,000. Remember to **divide their salary** by the number of working days in a year: 260.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imagine you’re hiring a developer with a salary of €50,000. Remember to **divide 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;their salary** by the number of working days in a year: 260.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So, €50,000 ÷ 260 = 192
 
