@@ -68,12 +68,12 @@ The [average costs of an open position](https://insights.dice.com/employer-resou
 If you want to [calculate this more accurately](https://www.ere.net/cost-of-vacancy-formulas-for-recruiting-and-retention-managers/), you can do this by taking the salary for the position and divide this by 260 (the amount of working days in a year) and multiply by 2. 
 
 We’ll do the math for you, see below:
-
-Salary | Cost of open position per day  
- --- | --- 
- €40,000 | €308    
- €60,000 | €462  
- €70,000 | €538 
+ 
+| Salary | Cost of open position per day |   
+|---|---|
+| €40,000  | €308  |   
+| €60,000  | €462  |   
+| €70,000  | €538  |  
 
 These costs include a lack of productivity, the lack of business growth, possible overtime costs for other employees, and employee turnover based on increased work pressure. 
 These costs are not very visible on a financial sheet, but definitely have influence on your bottom line. 
