@@ -69,27 +69,12 @@ If you want to [calculate this more accurately](https://www.ere.net/cost-of-vaca
 
 We’ll do the math for you, see below:
 
-<table style="width:50%">
-  <tr>
-    <th>Salary</th>
-    <th>Cost of open position per day</th>
-  </tr>
-  <tr>
-    <td>€40,000</td>
-    <td>€308</td>
-  </tr>
-  <tr>
-    <td>€60,000</td>
-    <td>€462</td>
-  </tr>
-  <tr>
-    <td>€70,000</td>
-    <td>€538</td>
-  </tr>
-</table>
+- A **salary** of **€40,000** results in a **€308 cost per day.**
+- A **salary** of **€60,000** results in a **€462 cost per day.**
+- A **salary** of **€70,000** results in a **€538 cost per day.**
 
 These costs include a lack of productivity, the lack of business growth, possible overtime costs for other employees, and employee turnover based on increased work pressure. 
-These costs are not very visible on a financial sheet, but definitely have influence on your bottom line. 
+These aren't very visible on a financial sheet, but definitely have influence on your bottom line. 
 
 Let’s use this to calculate the costs for an open tech position. As mentioned above, **the average amount of time to fill a tech position is 62 days**. With a salary of €50,000 a year, the costs of this open position would be 384 x 62 = €23,808.
 
