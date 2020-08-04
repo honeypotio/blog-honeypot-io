@@ -170,7 +170,7 @@ Tech talent is super diverse. Besides being visible on relevant platforms such a
 
 ### 19. I'd like to see good examples from companies
 
-There are many good situational examples of employer branding during the COVID-19 pandemic. I personally liked how AirBnB handled the layoffs, or also how German retailers re-framed some of its brand narratives of ‘essential workers’ to ‘our heroes’. 
+There are many good situational examples of employer branding during the COVID-19 pandemic. I personally liked how AirBnB handled the layoffs, or also how German retailers [re-framed some of its brand narratives](https://www.linkedin.com/pulse/covid-19-crisis-communication-how-re-frame-your-employer-jarzak/) of ‘essential workers’ to ‘our heroes’. 
  
 A good example is also [Netflix]((https://jobs.netflix.com/culture)), because they describe – in a very detailed way – **the company culture and what they expect from future hires**. I also read a lot about [Yum Brand's recognition culture]((https://www.youtube.com/watch?v=SsbyE1Gk7x4)) where they encourage leaders to **implement their own signature awards** to recognize employee success. Moreover, they have special onboarding events celebrating new talents on a red carpet, and so much more. I think this is a great way to build and foster an employer brand from the inside. 
  
