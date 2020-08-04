@@ -21,7 +21,7 @@ We recently hosted a webinar around the topic of employer branding with experts 
 
 Below we’ve listed all the top questions with the answers our experts gave, from ‘what is employer branding’ to ‘employer branding in COVID-19 times.’ 
 
-Don’t feel like reading? In case you missed the webinar, [here’s a link to the recording](https://www.youtube.com/watch?v=NwD2tCkdWY8). 
+Don’t feel like reading? In case you missed the webinar, [here’s a link to the recording](https://youtu.be/NwD2tCkdWY8). 
 
 **TL;DR:**
 
