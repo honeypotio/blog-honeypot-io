@@ -53,7 +53,7 @@ To integrate, there are four simple fields to fill in:
 
 <br><br>
 
-3.) **Account Name**: This is the name which appears in your Personio customer url (e.g https://mycompany.personio.de/).
+3.) **Account Name**: This is the name which appears in the first part of your Personio customer url (e.g **mycompany** from https://mycompany.personio.de/).
 
 <br>
 
