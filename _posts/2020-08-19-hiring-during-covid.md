@@ -114,4 +114,4 @@ It’s not so easy to move people from one country to another anymore, so **plan
 
 However, this doesn’t mean that we can’t support our talents. Now is the time where it’s important to listen, check-in on their current situation and feelings, provide as much information and context as possible, and try to find the best solutions for unexpected problems. Through **showing your talents that you’re there to support them through difficult situations**, you are contributing to their overall happiness and likelihood of engagement. 
 
-If you have any further questions, or you are needing support in relocating your Honeypot talents, we have a dedicated Talent Relocation Team who would be happy to help. Reach out at hello@honeypot.io
+If you have any further questions, or you are needing support in relocating your Honeypot talents, we have a dedicated Talent Relocation Team who would be happy to help. Reach out at [hello@honeypot.io](mailto:hello@honeypot.io)
