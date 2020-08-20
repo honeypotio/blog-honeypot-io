@@ -95,7 +95,7 @@ We are seeing many immigration offices slowly opening and they’re starting to 
 
 ### Here is what you need to know:
 
-* Citizens whose national visa (D visa) is about to expire should **submit an application for an extension** to the relevant immigration office. Do this by email and before the visa expires. Until the decision of the immigration office has been made, the residence will remain legal. 
+* Citizens whose national visa (D visa) is about to expire should **submit an application for an extension** to the relevant immigration office. Do this by email and before the visa expires. Until the decision of the immigration office has been made, a probationary certificate called a *fiktionsbescheinigung* will be given. **This means the talent can legally stay in Germany until their appointment**. You should however always check how the relevant immigration office is handling this situation.
 
 It’s important to make sure that personal details (surname, maiden name, first name, spelling of the names, date of birth, place and district of birth, gender, nationality, passport number), type of title and any file number must be specified. 
 
