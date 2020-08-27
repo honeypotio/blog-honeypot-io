@@ -1,38 +1,74 @@
-#cookie-bar {
-  background: $very-light-gray-color;
-  color: $dark-gray-3-color;
-  line-height: 24px;
-  text-align: center;
-  padding: 3px 0;
+.CybotCookiebotDialogBodyButton {
+  border-radius: 4px;
+  padding: 10px !important;
+}
 
-  a {
-    margin-left: 3px;
-
-    &:hover {
-      color: $dark-color;
-      text-decoration: underline;
-    }
+#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelectionWrapper {
+  width: 100% !important;
+  @media #{$sm-down} {
+    display: flex !important;
+    flex-direction: column-reverse !important;
+    text-align: center;
   }
+}
 
-  a,
-  a:hover {
-    color: $dark-gray-3-color;
-    font-weight: $fw-bold;
+#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection {
+  background-color: transparent !important;
+  border-color: transparent !important;
+  color: #3685d6 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  @media #{$sm-down} {
+    margin: 16px auto 0 !important;
   }
+}
 
-  span {
-    margin-left: $fs-jumbo-2;
+#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+  @media #{$sm-down} {
+    margin: 0 auto !important;
   }
+}
 
-  p {
-    margin: 0;
-    padding: 0;
+#CybotCookiebotDialog a,
+#CybotCookiebotDialog div,
+#CybotCookiebotDialogBodyContentControls,
+#CybotCookiebotDialogBodyContentTitle {
+  font-family: 'Proxima-Nova', sans-serif !important;
+}
+
+#CybotCookiebotDialogBodyContent {
+  @media #{$sm-down} {
+    padding: 5px 20px 10px !important;
   }
+}
 
-  .cb-enable {
-    float: right;
-    font-size: $fs-13;
-    font-weight: $fw-semibold;
-    margin-right: $fs-jumbo-2;
+#CybotCookiebotDialogBodyContentTitle {
+  font-size: 2em !important;
+  font-weight: 400 !important;
+  margin-top: 20px !important;
+}
+
+#CybotCookiebotDialogBodyContentText {
+  color: #999999 !important;
+  font-size: 1.2em !important;
+  margin-top: 16px !important;
+}
+
+#CybotCookiebotDialogBodyContentText a {
+  color: inherit !important;
+}
+
+#CybotCookiebotDialogBodyLevelButtons {
+  margin-top: 16px !important;
+}
+
+#CybotCookiebotDialogBodyLevelButtonsSelectPane,
+#CybotCookiebotDialogBodyLevelDetailsWrapper {
+  border-color: #e8e8e8 !important;
+}
+
+#CybotCookiebotDialogBodyLevelButtonsTable {
+  @media #{$sm-down} {
+    width: 100% !important;
   }
 }
