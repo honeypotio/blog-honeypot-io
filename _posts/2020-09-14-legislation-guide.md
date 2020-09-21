@@ -15,7 +15,7 @@ The future of work is forever changed – and many say for the better. According
 
 <!--more--> 
 
-If your company hasn’t thought about how it’s going to tackle remote work in the future, now is the time; especially in such highly competitive markets. As [Bebanjo](https://bebanjo.com/) CTO, Miguel Arroyo, says, **“Remote allows you to access great talent since there are no regional boundaries.”**
+If your company hasn’t thought about how it’s going to tackle remote work in the future, now is the time; especially in such highly competitive markets. As [BeBanjo](https://bebanjo.com/) CTO, Miguel Arroyo, says, **“Remote allows you to access great talent since there are no regional boundaries.”**
 
 However, one of the main challenges for companies building remote teams is exactly that: having employees all over the world. With it, you must consider that **each country has its own legislation to abide by.** The process can seem overwhelming, but to remain competitive, it’s a worthy investment. And as Doist says in their [Remote Guide to Logistics](https://twist.com/remote-work-guides/remote-company-setup), you should “look at this process as innovating—you have a hand in architecting the economy of the future.”
 
@@ -83,7 +83,7 @@ This is by far the safest option to avoid compliance issues, and it’s ideal fo
 
 If you want to hire many long-term developers or have other business interests in the country, **setting up a business entity in the employee’s home country might be worth it**. Then, employees will be hired through those entities. But if your business is in its early stages, the complexity and cost of establishing many entities may be too high. 
 
-Lucía Etxabe, HR & Office Manager at Bebanjo, explains that they started from a small office to a scaled-up remote international business model. “We are headquartered in Madrid and also have an office in the UK, so we operate with local entities that manage our employee payslips.” Since a big part of their customer base are Hollywood studios, they also have an employee in Los Angeles and are planning to grow their team by setting up another entity in the city of stars. 
+Lucía Etxabe, HR & Office Manager at BeBanjo, explains that they started from a small office to a scaled-up remote international business model. "We are headquartered in Madrid but we have offices and entities in other countries, supporting local employees." Since a big part of their customer base are Hollywood studios, they have staff in Los Angeles and are planning to grow the team through their US entity.
 
 Entity selection and employee structures go hand-in-hand. In order to select the right entity to support your operations, you’ll need the help of lawyers and tax experts from the very beginning. But before calling them, Doist suggests you set up a vision of what you want to build: 
 
