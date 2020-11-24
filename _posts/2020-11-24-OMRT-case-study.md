@@ -5,7 +5,7 @@ date:    2020-11-24 11:10:16
 layout:  post
 author:  hayley_kuhl
 categories: [HR Tips]
-cover_image: OMRT_case-study.jpg
+cover_image: OMRT-case-study.jpg
 permalink:  OMRT-case-study/
 importance: 2
 ---
