@@ -30,11 +30,7 @@ Sourcing talent yourself can take up to (and sometimes exceed) two months, and c
 
 With Honeypot, Andreja is presented with new ‘batches’ of talents every week, many of which are matched to his specific preferences. He also **works closely with a dedicated Client Success Manager who sends him pre-screened potential candidate profiles** that match what he’s looking for.  
 
-
 <p align="center"><img alt="OMRT team photo" src="/assets/images/OMRT-team-photo.jpeg" style="width:50% !important;"></p><br>
-<p align="center">Pictured: The team at OMRT</p>
-
-<br />
 
 Andreja also added ‘walking through Honeypot’ to his weekly To Do list to see which talents are available in a given week. **“I spend about two hours per week on the platform and it’s way better than receiving 600 emails with random resumes,”** he says, and when he finds a candidate he likes, he sends them a pre-created template, inviting them to an interview. If the candidate finds the job interesting, they schedule a call right away. 
 
