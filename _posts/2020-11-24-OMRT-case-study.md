@@ -24,15 +24,19 @@ We spoke to Andreja about how Honeypot helps him find the right developers for h
 
 In general, finding job-seeking developers isn’t difficult. Finding talented developers who are highly specialised, or with less common expertise is a whole other mission. **With Honeypot, Andreja is able to save time and money spent sourcing on Linkedin and match with only the most relevant candidates** through selecting his preferences on the platform.
 
-“Our product consists of multiple engineering disciplines, and finding really good developers who have experience with Embedded Engineering, low level coding, and deep Machine Learning is difficult - especially on websites like LinkedIn,” says Andreja. But **he finds them on the Honeypot platform, often within a couple of days.** “Usually, we’re lucky finding even one candidate that fits the criteria on other channels.”
+“Our product consists of multiple engineering disciplines, and finding really good developers who have experience with Embedded Engineering, low level coding, and deep Machine Learning is difficult - especially on websites like LinkedIn,” says Andreja. But **he finds plenty of developers matching his criteria on the Honeypot platform, often within a couple of days.** “Usually, we’re lucky finding even one candidate that fits the criteria on other channels.”
 
-Sourcing talent yourself can take up to (and sometimes exceed) two months, and can cost thousands of euros. If, like Andreja, you’re looking to hire highly specialised developers, you need other options. For him, this means attracting talent through his work with the Delft University of Technology, although many candidates are junior. **“We rely on Honeypot to find developers with some more work experience.”** 
+Sourcing talent yourself can take up to (and sometimes exceed) two months, and can cost thousands of euros. If, like Andreja, you’re looking to hire highly specialised developers, you need other options. For him, this means attracting talent through his work with the Delft University of Technology, although many candidates are junior. **“We rely on Honeypot to find developers with some more work experience,”** Andreja explains.
 
-With Honeypot, Andreja is presented with new ‘batches’ of talents every week, many of which are matched to his specific preferences. He also **works closely with a dedicated Client Success Manager who sends him pre-screened potential candidate profiles** that match what he’s looking for. “Honeypot is focused on active matchmaking, so you know you’re potentially getting a great fit.” 
+With Honeypot, Andreja is presented with new ‘batches’ of talents every week, many of which are matched to his specific preferences. He also **works closely with a dedicated Client Success Manager who sends him pre-screened potential candidate profiles** that match what he’s looking for.  
+
 
 <p align="center"><img alt="OMRT team photo" src="/assets/images/OMRT-team-photo.jpeg" style="width:50% !important;"></p><br>
+<p align="center">Pictured: The team at OMRT</p>
 
-Andreja also added ‘walking through Honeypot’ to his weekly To Do list to see which talents are available in a given week. **“I spend about two hours per week on the platform and it’s way better than receiving 600 emails with random resumes.”** And when he finds a candidate he likes, he sends them a pre-created template, inviting them to an interview. If the candidate finds the job interesting, they schedule a call right away. 
+<br />
+
+Andreja also added ‘walking through Honeypot’ to his weekly To Do list to see which talents are available in a given week. **“I spend about two hours per week on the platform and it’s way better than receiving 600 emails with random resumes,”** he says, and when he finds a candidate he likes, he sends them a pre-created template, inviting them to an interview. If the candidate finds the job interesting, they schedule a call right away. 
 
 With time saved on sourcing, Andreja saves time on hiring overall. “Since Honeypot’s Talent Success Managers have already screened a talent for the qualities and capabilities they say they have,” he says, “I can see very clearly after the first interview if somebody fits on a technical level.” **The entire hiring process only takes two to three weeks.** 
 
