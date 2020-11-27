@@ -1,7 +1,7 @@
 ---
 title:   "5 Ways to Reinforce Your Company Purpose During Times of Change"
 subtitle: "here it is"
-date:    2020-11-27 11:10:16
+date:    2020-11-27 10:10:16
 layout:  post
 author:  eli_mcgarvie
 categories: [HR Tips]
