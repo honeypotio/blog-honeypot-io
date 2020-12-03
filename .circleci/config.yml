@@ -1,0 +1,25 @@
+version: 2.1
+
+jobs:
+  build:
+    working_directory: ~/honeypotio/blog-honeypot-io
+    parallelism: 1
+    shell: /bin/bash --login
+    docker:
+    - image: circleci/ruby:2.5.3
+    steps:
+      - checkout
+      - run:
+          name: Install missing bundler version
+          command: gem install bundler:1.15.1
+      - run:
+          name: Bundle install
+          command: bundle install
+      - run:
+          name: Build blog
+          command: bundle exec jekyll build
+
+workflows:
+  build:
+    jobs:
+      - build
