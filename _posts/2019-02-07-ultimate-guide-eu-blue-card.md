@@ -74,8 +74,6 @@ You’ll need to submit the following documents with your application:
 
 * A valid work contract of at least one year
 
-* Proof of salary (must be 1.5x the average salary in the hosting state)
-
 * A written declaration of intent from your employer
 
 * A valid passport
