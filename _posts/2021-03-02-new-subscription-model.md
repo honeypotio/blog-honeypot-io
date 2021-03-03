@@ -1,11 +1,11 @@
 ---
 title:   "Honeypots new subscription model leads to better results for companies and talents"
 subtitle: "Honeypots new subscription model leads to better results for companies and talents."
-date:    2021-03-04 11:10:16
+date:    2021-03-03 11:10:16
 layout:  post
 author:  eli_mcgarvie
 categories: [Product]
-cover_image: 
+cover_image: new-subscription-model.jpg
 permalink:  new-subscription-model-english/
 importance: 2
 ---
@@ -14,7 +14,7 @@ Our mission at Honeypot is to help companies and developers find each other. We 
 
 <!--more-->
 
-*<p align="center">--- Find the German version below ---</p><br>*
+<p align="center">--- Find the German version below ---</p><br>
 
 We started by investigating the hiring process itself and the pain points of our clients. We suspected that clients would be more successful if they were not constrained by the traditional commission-based hiring model.
 
@@ -39,7 +39,7 @@ On November 1st 2020, we officially announced that we would be changing from a c
 
 
 
-*<p align="center">--- Find the German version below ---</p><br>*
+<p align="center">--- Find the German version below ---</p><br>
 
 
 
