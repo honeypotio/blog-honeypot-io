@@ -19,6 +19,7 @@ Our mission at Honeypot is to help companies and developers find each other. We 
 We started by investigating the hiring process itself and the pain points of our clients. We suspected that clients would be more successful if they were not constrained by the traditional commission-based hiring model.
 
 **We started testing out a subscription model in 2020 and found that our clients hire 3 times more talent on average than in the old commission-based model.**
+
 ## Why did the subscription model lead to so many more hires?
 Commission-based hiring is built around short-term wins rather than long-term trust. It’s designed to solve one problem at a time. The focus of a commission based model is not a long-term relationship but rather ‘the next hire’. We know tech recruiting can be notoriously difficult and complicated, and the only way to master it is through reliable partners and processes.
 
@@ -32,7 +33,9 @@ With this new subscription model, we offer different packages, ranging from one 
 
 "Honeypot will always focus on the developers and nothing will change for our developer community. But now is a good time to put an additional focus on pricing for companies that need to hire tech talent on a large scale. So we are taking a new path away from a commission-based pricing and towards a subscription model. Companies will pay a monthly membership fee and then be able to hire developers free of additional charges via Honeypot. **This will enable us to build long-term partnerships with our customers and provide personal and individual help in building great tech teams.”**
 Philipp Goos, CEO at Honeypot
-The timeline and how to make the switch
+
+## The timeline and how to make the switch
+
 On November 1st 2020, we officially announced that we would be changing from a commission-based model to a membership-based model with dedicated assistance for all clients.
 
 **Starting April first, the Honeypot platform will only be available to subscription customers, for German and Austrian customers.** We would like to ask any customers based in these countries to be sure they have signed a new subscription-based contract in order to avoid any disruptions. Those who have not yet made the switch to reach out to their Client Success Manager, or email us at partners@honeypot.io. 
@@ -69,6 +72,7 @@ Im neuen Modell bieten wir verschiedene Pakete – die monatlichen Mitgliedschaf
 „Im Fokus von Honeypot werden immer die Entwickler stehen – für unsere Developer Community wird sich auch nichts ändern. Es ist aber ein guter Zeitpunkt, um einen zusätzlichen Schwerpunkt auf die Preisgestaltung für Unternehmen, die in großem Stil Tech-Talente einstellen müssen, zu legen. Wir gehen jetzt also einen neuen Weg: weg vom kommissionsbasierten Preismodell, hin zu einem Mitgliedschaftsmodell. Unternehmen zahlen einen monatlichen Mitgliedschaftsbeitrag und können dafür kostenfrei Developer über Honeypot einstellen. **Das ermöglicht uns, eine langfristige Partnerschaft mit unseren Kunden aufzubauen, und persönliche sowie individuelle Hilfe beim Aufbau des Tech-Teams und Tech-Recruitings zu geben.** Am Ende hilft das neue Modell uns, den Unternehmen und den Developern.”
 
 Philipp Goos, Honeypot CEO
+
 
 ## Wie der Wechsel für Unternehmen gelingt
 
