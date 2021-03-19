@@ -10,8 +10,9 @@ permalink:  new-subscription-model-de/
 importance: 2
 ---
 
-
 Unsere Mission bei Honeypot ist es, Unternehmen und Entwickler zu verbinden. Wir sind kontinuierlich darum bemüht, diesen Prozess zu verbessern. Deshalb haben wir in den letzten beiden Quartalen verschiedene Anpassungen getestet, um zu verstehen, was unseren Partnern zu mehr Erfolg beim Recruiting helfen könnte.
+
+<!--more-->
 
 Angefangen bei einer Analyse des Einstellungsprozesses und den damit verbundenen Pain Points. Wir vermuteten, dass unsere Partner erfolgreicher sind, wenn sie nicht durch das alte komissionsbasierte Modell eingeschränkt wären. 
 
