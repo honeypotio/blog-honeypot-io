@@ -70,9 +70,6 @@ Okay, so we’ve agreed to your article and have sent you an Agreement. The fina
 - Attach accompanying images (make sure they aren’t copyrighted, and give credit to author)
 - Attach a profile picture and a short bio about yourself (two sentences max)
 
-Send all of the above in an email to editorial@honeypot.io
-with the subject line: “Honeypot Submission”
-
 
 ## What happens next? 
 
