@@ -26,11 +26,17 @@ Wir wissen, dass Tech-Recruiting notorisch schwierig und kompliziert sein kann, 
 
 In den letzten Monaten wurden wir in unserer Entscheidung auf ein neues Modell zu wechseln bestätigt: Unternehmen im neuen Mitgliedschaftsmodell stellen im Schnitt dreimal mehr Tech-Talente ein und sind dabei noch schneller. Unternehmen können alle Vorteile unserer Plattform nutzen, eine echte Partnerschaft zu unseren Client Success-Teams aufbauen und von deren Expertise profitieren. Unsere Client Success-Manager sind Experten für Tech-Recruiting und helfen Unternehmen dabei: 
 
+* Ein wettbewerbsfähiges Gehalt zu bestimmen
+* Talente effizient einzuladen und zu screenen
+* Best Practices zur Verbesserung des Rekrutierungsprozesses umzusetzen
+* und bei allen anderen day-to-day Themen bezüglich Tech-Recruiting
+
+
 <p align="center"><img alt="Subscription model infomation" src="/assets/images/new-subscription-model-german.jpg" style="width:100% !important;"></p><br>
 
 Im Rahmen des neuen Modells haben wir bereits erlebt, dass Kunden in nur wenigen Wochen mehr als zehn IT-Fachkräfte eingestellt haben. Im alten komissionsbasierten Modell wäre das für die Unternehmen sehr teuer gewesen. Solche hohen Kosten können den Einstellungsprozess für viele Unternehmen verlangsamen oder sogar stoppen. Im neuen Modell aber, konnten diese Unternehmen weiterhin nach Kandidaten suchen und das Tech-Team noch weiter vergrößern. 
 
-Im neuen Modell bieten wir verschiedene Pakete – die monatlichen Mitgliedschaftsbeiträge variieren und sind dem Bedarf der Unternehmen angepasst: Es gibt Modelle, die eine Einstellung pro Jahr gratis inkludieren bis hin zu Paketen mit einer unbegrenzten Anzahl Einstellungen über die Plattform (zwischen 1.500 € und 2.500 € monatlich). Monatliche Beiträge bieten Unternehmen Planungssicherheit und einen Kostenüberblick beim Recruiting, den das alte Modell vermissen ließ. Für Start-ups bieten wir zudem als Einstieg ein Kommissionsmodell mit einem geringen Monatsbeitrag an.
+Im neuen Modell bieten wir verschiedene Pakete – die monatlichen Mitgliedschaftsbeiträge variieren und sind dem Bedarf der Unternehmen angepasst. Monatliche Beiträge bieten Unternehmen Planungssicherheit und einen Kostenüberblick beim Recruiting, den das alte Modell vermissen ließ. Für Start-ups bieten wir zudem als Einstieg ein Kommissionsmodell mit einem geringen Monatsbeitrag an.
 
 
 „Im Fokus von Honeypot werden immer die Entwickler stehen – für unsere Developer Community wird sich auch nichts ändern. Es ist aber ein guter Zeitpunkt, um einen zusätzlichen Schwerpunkt auf die Preisgestaltung für Unternehmen, die in großem Stil Tech-Talente einstellen müssen, zu legen. Wir gehen jetzt also einen neuen Weg: weg vom kommissionsbasierten Preismodell, hin zu einem Mitgliedschaftsmodell. Unternehmen zahlen einen monatlichen Mitgliedschaftsbeitrag und können dafür kostenfrei Developer über Honeypot einstellen. **Das ermöglicht uns, eine langfristige Partnerschaft mit unseren Kunden aufzubauen, und persönliche sowie individuelle Hilfe beim Aufbau des Tech-Teams und Tech-Recruitings zu geben.** Am Ende hilft das neue Modell uns, den Unternehmen und den Developern.”
