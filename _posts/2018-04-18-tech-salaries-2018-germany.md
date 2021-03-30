@@ -10,12 +10,20 @@ permalink:  how-much-do-developers-earn-in-germany/
 importance: 2
 cta: recruiter
 ---
+* * *
+
+
+**We recently analysed 13,000 data points to find out what developers are being paid across Germany today.
+[Find the latest research on developer salaries in Germany here](https://cult.honeypot.io/developer-salary-report-2021/developer-salaries-germany-2021).**
+
+* * *
+
 
 Home to a host of startup hubs, angel investors and seasoned tech companies, Germany’s tech scene has grown considerably over the last few years to become one of the most prominent in Europe.
 
 The way we do business is changing and more and more of the modern workforce is being made up of engineering talent, much to the delight of job-seeking programmers.
 
-**But what does that mean for tech salaries in Germany? How much can a software engineer earn in Germany in 2018?**
+But what does that mean for tech salaries in Germany? How much can a software engineer earn in Germany in 2018?
 
 <!--more-->
 
