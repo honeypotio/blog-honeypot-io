@@ -14,7 +14,7 @@ While it may get less attention than the capital city Amsterdam, Rotterdam shows
 
 <!--more-->
 
-The founders of local startups, including Helloprint, as well as coworking space 42workspace, **[recently created the “WeTechRotterdam” initiative](https://www.wetechrotterdam.com/news/rotterdam-entrepreneurs-launch-wetech-rotterdam) to further develop the local ecosystem** and organizations such as the Cambridge Innovation Center and the Erasmus Center for Entrepreneurship are **empowering local entrepreneurial talents to turn their ideas into actual businesses.**
+The founders of local startups, including Helloprint, as well as coworking space [42workspace](https://www.42workspace.com/guide/tech-ecosystem-rotterdam-region/), **[recently created the “WeTechRotterdam” initiative](https://www.wetechrotterdam.com/news/rotterdam-entrepreneurs-launch-wetech-rotterdam) to further develop the local ecosystem** and organizations such as the Cambridge Innovation Center and the Erasmus Center for Entrepreneurship are **empowering local entrepreneurial talents to turn their ideas into actual businesses.**
 
 Rotterdam is an increasingly attractive destination for Dutch and foreign developers (and other tech professionals) alike, so we sat down with a range of managers, recruiters and CTOs to **get a better understanding of the local tech market and determine what makes Rotterdam such an interesting option for developers.**
 
