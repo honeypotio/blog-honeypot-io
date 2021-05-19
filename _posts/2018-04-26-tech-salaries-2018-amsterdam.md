@@ -11,11 +11,17 @@ importance: 2
 cta: recruiter
 ---
 
-Did you know Amsterdam boasted Europe’s fastest broadband speeds, is ranked fourth globally in app invention and development and was named [Europe’s best tech city to work in by Hubspot?](https://www.hubspot.com/european-tech-scene/cities?name=amsterdam) 
+Update: We recently analysed 12,000 data points to find out what developers are being paid across the Netherlands today. We found that the average developer earns €56k.
+
+**[Find the rest of our report, including salaries by experience, role and more here.](https://cult.honeypot.io/developer-salary-report-2021/Developer-salaries-Netherlands-2021)**
+
+* * *
+
+Did you know Amsterdam boasted Europe’s fastest broadband speeds, is ranked fourth globally in app invention and development and was named [Europe’s best tech city to work in by Hubspot?](https://www.hubspot.com/european-tech-scene/cities?name=amsterdam)
 
 Now that’s one heck of a track record, but hardly surprising considering it’s home to a talent pool of over **250,000 tech professionals** and Silicon Valley companies themselves have set up shop in the city.
 
-With [so many innovative companies](https://blog.honeypot.io/amsterdam-tech-map/) on the prowl for tech talent, it’s fair to say the demand for developers in Amsterdam is higher than ever before, but **what does that mean for tech salaries in Amsterdam?** 
+With [so many innovative companies](https://blog.honeypot.io/amsterdam-tech-map/) on the prowl for tech talent, it’s fair to say the demand for developers in Amsterdam is higher than ever before, but **what does that mean for tech salaries in Amsterdam?**
 
 <!--more-->
 
@@ -31,4 +37,6 @@ We gathered data from our platform to make the following infographic. The data i
 
 <br />
 
-<div align="center"><textarea style="margin: 0px; width: 80%; height: 70px;">&lt;a target='_blank' href='https://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/'&gt;&lt;img src='https://blog.honeypot.io/assets/images/amsterdam-salaries-infographic.png' alt='Honeypot - Tech Salaries 2018 in Amsterdam' title='How much do developers earn in Amsterdam?' /&gt;&lt;/a&gt;</textarea></div>
+```html
+<textarea style="margin: 0px; width: 80%; height: 70px;"><a target='_blank' href='https://blog.honeypot.io/how-much-do-developers-earn-in-amsterdam-2018/'><img src='https://blog.honeypot.io/assets/images/amsterdam-salaries-infographic.png' alt='Honeypot - Tech Salaries 2018 in Amsterdam' title='How much do developers earn in Amsterdam?'></a></textarea>
+```
