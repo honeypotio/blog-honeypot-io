@@ -3,7 +3,7 @@ const imageResize = require('gulp-image-resize');
 const imagemin = require('gulp-imagemin');
 const changed = require('gulp-changed');
 
-gulp.task('optimize-authors', function() {
+gulp.task('optimize-authors', function(done) {
   const src = '_assets/authors/*';
   const dest = 'assets/authors';
   gulp.src(src)
@@ -16,11 +16,11 @@ gulp.task('optimize-authors', function() {
     }))
     .pipe(imagemin())
     .pipe(gulp.dest(dest));
+
+  done();
 });
 
-gulp.task('optimize-covers', _optimizeCovers());
-
-function _optimizeCovers() {
+gulp.task('optimize-covers', function(done) {
   const defaultOptions = {
     upscale: false
   };
@@ -55,28 +55,30 @@ function _optimizeCovers() {
     .pipe(gulp.dest('assets/cover-images'));
 
   // resize cover images
-  return files.map(function(file) {
+  files.map(function(file) {
     const src = `_assets/cover-images/${file.glob}`;
     const dest = `assets/cover-images/${file.dest}`;
     const taskName = `cover-resize-${file.dest}`;
-    gulp.task(taskName, function() {
-      return gulp.src(src)
-        .pipe(changed(dest))
-        .pipe(imageResize(Object.assign({}, defaultOptions, file.options)))
-        .pipe(imagemin())
-        .pipe(gulp.dest(dest));
-    });
-    return taskName;
-  });
-}
 
-gulp.task('optimize-images', function() {
+    gulp.src(src)
+      .pipe(changed(dest))
+      .pipe(imageResize(Object.assign({}, defaultOptions, file.options)))
+      .pipe(imagemin())
+      .pipe(gulp.dest(dest));
+  });
+
+  done();
+});
+
+gulp.task('optimize-images', function(done) {
   const src = '_assets/images/*';
   const dest = 'assets/images';
   return gulp.src(src)
     .pipe(changed(dest))
     .pipe(imagemin())
     .pipe(gulp.dest(dest));
+
+  done();
 });
 
-gulp.task('default', ['optimize-authors', 'optimize-covers', 'optimize-images']);
+gulp.task('default', gulp.series('optimize-authors', 'optimize-covers', 'optimize-images'));
