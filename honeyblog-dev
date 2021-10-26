@@ -1,0 +1,127 @@
+#!/usr/bin/env bash
+
+CURRENT_FILE=$(basename $BASH_SOURCE)
+CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+
+DOCKER_IMAGE="${DOCKER_IMAGE:-$CURRENT_FILE}"
+DOCKER_PORT="${DOCKER_PORT:-4000}"
+
+show_help() {
+  bold=$(tput bold)
+  normal=$(tput sgr0)
+  underscore=$(tput smul)
+
+cat <<EOF
+${bold}USAGE
+  ${normal}$CURRENT_FILE <options> [command]
+
+${bold}OPTIONS
+  ${normal}The following options are available:
+
+  -i <image>  Docker image name
+  -p <port>   Port
+
+${bold}COMMANDS
+  ${normal}The following commands are available:
+
+  help        Show this help screen
+  build       Build docker image
+  optimize    Run gulp to optimize images within ./_assets
+  run <cmd>   Run <cmd> within container
+  serve       Serve the blog
+  debug       Open interactive shell within container
+  prune       Remove docker image
+
+${bold}ENVIRONMENT VARIABLES:
+  ${normal}The following environment variables are available:
+
+    ${underscore}DOCKER_IMAGE${normal}                (overwritten by '-i' option) [optional]
+      Docker image name to use. (Default: "${CURRENT_FILE}")
+
+    ${underscore}DOCKER_PORT${normal}                 (overwritten by '-p' option) [optional]
+      Port to use. (Default: 4000)
+
+${bold}EXAMPLES
+  ${normal}# Build docker image
+  $CURRENT_FILE build
+
+  # Optimize images within ./_assets
+  $CURRENT_FILE optimize
+
+  # Start HTTP server and serve the blog
+  $CURRENT_FILE serve
+
+  # Debug: Open an interactive shell
+  $CURRENT_FILE debug
+
+  # Remove docker image
+  $CURRENT_FILE prune
+EOF
+}
+
+build() {
+  docker build --build-arg RUBY_VERSION="$(cat .ruby-version)" --tag $DOCKER_IMAGE .
+}
+
+run() {
+  docker run \
+    --interactive \
+    --tty \
+    --rm \
+    --volume "$(pwd)":/app \
+    --publish $DOCKER_PORT:$DOCKER_PORT \
+    $DOCKER_IMAGE "$@"
+}
+
+prune() {
+  docker image rm $DOCKER_IMAGE
+}
+
+while getopts ":h:i:p:" option; do
+  case $option in
+    h)
+      show_help
+      exit;;
+    i)
+      DOCKER_IMAGE=${OPTARG};;
+    p)
+      DOCKER_PORT=${OPTARG};;
+    \?) # Invalid option
+      echo "[ERROR] Invalid option: ${OPTARG}"
+      echo ""
+      show_help
+      exit;;
+  esac
+done
+
+shift $(($OPTIND - 1))
+CMD=$1
+shift
+
+case $CMD in
+  build)
+    build
+    ;;
+  serve)
+    run bundle exec jekyll serve --host=0.0.0.0 --port=$DOCKER_PORT
+    ;;
+  optimize)
+    run gulp
+    ;;
+  run)
+    run "$@"
+    ;;
+  debug)
+    run /bin/sh
+    ;;
+  prune)
+    prune
+    ;;
+  help)
+    show_help
+    ;;
+  *)
+    show_help
+    ;;
+esac
+
