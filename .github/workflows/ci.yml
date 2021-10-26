@@ -1,0 +1,74 @@
+name: CI
+
+on: [push]
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  build:
+    name: Build docker image
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      packages: write
+    outputs:
+      docker-tag: ${{ steps.meta.outputs.tags }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Log in to the Container registry
+        uses: docker/login-action@v1
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v3
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+
+      - name: Read .ruby-version file
+        id: getrubyversion
+        run: echo "::set-output name=rubyversion::$(cat .ruby-version)"
+
+      - name: Build and push
+        id: docker_build
+        uses: docker/build-push-action@v2
+        with:
+          push: true
+          file: Dockerfile
+          build-args: "RUBY_VERSION=${{ steps.getrubyversion.outputs.rubyversion }}"
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: |
+            type=registry,ref=${{ steps.meta.outputs.tags }}
+            type=registry,ref=${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:gh-pages
+          cache-to: type=inline
+
+  # Verify that GH can sucessfully build and serve static files using jekyll
+  verify_jekyll_build:
+    name: Verify jekyll build
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs: [build]
+
+    steps:
+    - name: Log in to the Container registry
+      uses: docker/login-action@v1
+      with:
+        registry: ${{ env.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: publish
+      env:
+        IMAGE: ${{ needs.build.outputs.docker-tag }}
+      run: |
+        docker run --rm $IMAGE bundle exec jekyll build
