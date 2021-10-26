@@ -34,7 +34,7 @@ $ git checkout my-branch-name
 └── ...
 ```
 
-4. Optimaze blog images
+4. Optimize blog images
 
 ```bash
 gulp
