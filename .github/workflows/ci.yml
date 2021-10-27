@@ -72,3 +72,23 @@ jobs:
         IMAGE: ${{ needs.build.outputs.docker-tag }}
       run: |
         docker run --rm $IMAGE bundle exec jekyll build
+
+  health_check:
+    name: Health check
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs: [build]
+
+    steps:
+    - name: Log in to the Container registry
+      uses: docker/login-action@v1
+      with:
+        registry: ${{ env.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Health check
+      env:
+        IMAGE: ${{ needs.build.outputs.docker-tag }}
+      run: |
+        docker run --rm $IMAGE bundle exec github-pages health-check

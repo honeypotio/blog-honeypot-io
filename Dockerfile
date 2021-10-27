@@ -25,6 +25,7 @@ RUN apk add --update --no-cache \
     graphicsmagick \
     imagemagick \
     libc6-compat \
+    libcurl \
     zlib-dev
 
 ## JS-Base
