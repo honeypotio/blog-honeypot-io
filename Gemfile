@@ -1,13 +1,6 @@
 source 'https://rubygems.org'
 
-ruby File.read(File.expand_path('../.ruby-version', __FILE__)).chop
+ruby File.read(File.expand_path('.ruby-version', __dir__)).chop
 
-gem 'jekyll'
+gem 'github-pages'
 gem 'rake'
-gem 'json', '2.0.2'
-gem 'liquid', '3.0.6'
-gem 'jekyll-paginate'
-gem 'github-pages', '140'
-
-## Heroku deplayment
-gem 'rack-jekyll'
