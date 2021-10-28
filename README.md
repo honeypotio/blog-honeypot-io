@@ -1,6 +1,5 @@
 # blog.honeypot.io
 
-
 ## Creating a new blog post
 
 `rake new['awesome new post title']`
@@ -37,7 +36,7 @@ $ git checkout my-branch-name
 4. Optimize blog images
 
 ```bash
-gulp
+$ gulp
 ```
 
 5. Add the new images to the repository
@@ -51,7 +50,11 @@ $ git push origin my-branch-name
 6. Create a pull request on [GitHub](https://github.com/honeypotio/blog-honeypot-io)
 ![screen shot 2016-11-03 at 11 05 49](https://cloud.githubusercontent.com/assets/464300/19962001/d26c3c7c-a1b5-11e6-987e-ebd550a16d4d.png)
 
-## Install dependencies
+## Development
+
+### Using local env
+
+#### Install dependencies
 
 ```bash
 # required for image optimization
@@ -62,19 +65,39 @@ $ bundle install
 $ npm install
 ```
 
-## Starting in development
+#### Preview
 
-`bundle exec jekyll serve`
+```bash
+$ bundle exec jekyll serve
+```
 
-### Want to double test your change before putting live?
+#### Optimize blog images
 
-Use the staging environment [staging-blog-honeypot.herokuapp.com][1]
+```bash
+$ gulp
+```
 
-all changes pushed to the `master` branch are automatically
-deployed to Heroku by Travis-CI and can be visible on [staging-blog-honeypot.herokuapp.com][1]
+### Using Docker
 
-After your changes have been QA tested merge them into default `gh-pages` branch
-for deployment to the live blog.
+```bash
+# List all available commands / tasks
+$ ./bin/honeyblog-dev help
+```
 
+#### Build docker image
 
-[1]: https://staging-blog-honeypot.herokuapp.com
+```bash
+$ ./bin/honeyblog-dev build
+```
+
+#### Preview
+
+```bash
+$ ./bin/honeyblog-dev serve
+```
+
+#### Optimize blog images
+
+```bash
+$ ./bin/honeyblog-dev optimize
+```
