@@ -3,7 +3,7 @@
 ## Base
 #
 ARG RUBY_VERSION
-FROM ruby:$RUBY_VERSION-alpine3.14 AS base
+FROM ruby:$RUBY_VERSION AS base
 
 ENV USER=honeyblog
 ENV UID=1000
@@ -21,36 +21,29 @@ RUN adduser \
     --uid "$UID" \
     "$USER"
 
-RUN apk add --update --no-cache \
+RUN apt-get update && apt-get install -y \
     graphicsmagick \
     imagemagick \
-    libc6-compat \
-    libcurl \
-    zlib-dev
+    && rm -rf /var/lib/apt/lists/*
 
 ## JS-Base
 #
 FROM base AS js-base
-RUN apk add --update --no-cache \
+RUN apt-get update && apt-get install -y \
     nodejs \
-    npm
+    npm \
+    && rm -rf /var/lib/apt/lists/*
 RUN npm install -g gulp
 
 ## JS-Deps
 #
 FROM js-base AS js-deps
-RUN apk add --update --no-cache \
-    build-base \
-    make
 COPY .npmrc package.json package-lock.json ./
 RUN npm install --production=false
 
 ## Ruby-Deps
 #
 FROM base as ruby-deps
-RUN apk add --update --no-cache \
-    build-base \
-    make
 COPY .ruby-version Gemfile Gemfile.lock ./
 RUN MAKE="make --jobs $(nproc)" bundle install --jobs $(nproc) --no-cache
 

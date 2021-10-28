@@ -112,7 +112,7 @@ case $CMD in
     run "$@"
     ;;
   shell)
-    run /bin/sh
+    run /bin/bash
     ;;
   prune)
     prune

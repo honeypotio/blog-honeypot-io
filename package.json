@@ -12,7 +12,7 @@
     "gulp-imagemin": "^7.0.0"
   },
   "engines": {
-    "node": ">=14.18.1"
+    "node": ">=v12.22.5"
   },
   "scripts": {
     "build": "gulp"
