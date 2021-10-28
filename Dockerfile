@@ -33,12 +33,14 @@ RUN apt-get update && apt-get install -y \
     nodejs \
     npm \
     && rm -rf /var/lib/apt/lists/*
-RUN npm install -g gulp
+RUN npm install -g gulp n
+COPY .nvmrc ./
+RUN n $(cat .nvmrc)
 
 ## JS-Deps
 #
 FROM js-base AS js-deps
-COPY .npmrc package.json package-lock.json ./
+COPY .nvmrc .npmrc package.json package-lock.json ./
 RUN npm install --production=false
 
 ## Ruby-Deps
