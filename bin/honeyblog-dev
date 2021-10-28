@@ -29,7 +29,7 @@ ${bold}COMMANDS
   optimize    Run gulp to optimize images within ./_assets
   run <cmd>   Run <cmd> within container
   serve       Serve the blog
-  debug       Open interactive shell within container
+  shell       Open interactive shell within container
   prune       Remove docker image
 
 ${bold}ENVIRONMENT VARIABLES:
@@ -52,7 +52,7 @@ ${bold}EXAMPLES
   $CURRENT_FILE serve
 
   # Debug: Open an interactive shell
-  $CURRENT_FILE debug
+  $CURRENT_FILE shell
 
   # Remove docker image
   $CURRENT_FILE prune
@@ -111,7 +111,7 @@ case $CMD in
   run)
     run "$@"
     ;;
-  debug)
+  shell)
     run /bin/sh
     ;;
   prune)
