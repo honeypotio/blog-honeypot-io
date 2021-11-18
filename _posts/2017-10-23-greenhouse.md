@@ -1,6 +1,6 @@
-
+---
 title: How to Integrate Honeypot and Greenhouse
-subtitle: "We are happy to announce that Greenhouse users can now automatically upload candidates directly from Honeypot to Greenhouse. Here's a step-by-step guide to help you set up the Honeypot-Greenhouse integration!"
+subtitle: "Here's a step-by-step guide on how to set up Honeypot-Greenhouse integration."
 date:    2017-10-23 13:11:07
 layout:  post
 author:  emma_tracey
@@ -9,50 +9,61 @@ cover_image: prduct-update-greenhouse.png
 permalink:  greenhouse/
 importance: 2
 cta: recruiter
+---
 
+Greenhouse is a popular talent acquisition software used by thousands of well-known companies including Cisco Meraki, Time Inc., Airbnb and more. Honeypot clients using Greenhouse can set up a handy connection between these platforms in order to save time and minimise manual processes.
 
-We are happy to announce our first **Applicant Tracking System Integration**  - [Greenhouse](https://www.greenhouse.io/). 
+<!--more--> 
 
-Once the Greenhouse integration is setup on your account,  **Honeypot candidates who accept your interview invite will be automatically uploaded to Greenhouse, including their email, CV and social links, and a link to their Honeypot profile**. Whether you reject or hire a candidate, we will be automatically notified and your Interview tab on Honeypot will be updated.  No more manual copying and pasting!  
+This integration enables the Honeypot platform to automatically send candidate details from the Honeypot platform to Greenhouse. Once the connection is established, every time a developer accepts one of your interview invites, their data will be automatically forwarded to Greenhouse with the source label ‘Honeypot’. Forwarded data will include the original message sent by the Honeypot user as well as the candidate's CV (saved as a PDF) and Honeypot profile.
 
-<!--more-->
+If you reject or hire a candidate, that information will also be passed to the Honeypot platform and your Interview tab will be updated.
+<b>Before you start the integration, there are three important things to note:</b>
 
-Before you start the integration, please make sure that you use the same email address on Honeypot as you do on Greenhouse. You must also be an admin on Greenhouse. 
+* Please make sure that you use the same email address on Honeypot as you do on Greenhouse.
+* You must also be an admin on Greenhouse in order to set up or utilise the integration.
+* If you would like to forward candidate details from the Honeypot platform to Greenhouse, you must ensure that the ‘Position’ created on the Honeypot platform matches the relevant job on Greenhouse. When done correctly, you will be able to select the relevant position from the dropdown menu in Greenhouse.
 
-The integration may seem long, but stick with it! It's worth the effort. Your Customer Success Manager is also on standby to guide you through the process!  
+![greenhouse-honeypot](/assets/images/greenhouse15.png)
 
+<em>If you need any help, your Customer Success Manager is on standby to help you through the process!</em>
 
-So here’s how it works: 
+Let's get started! Here’s how it works... 
+<br />
+
+## How to set up your Greenhouse integration on Honeypot
+
+1. Log into the Honeypot platform and click your name on the top right corner of the top navigation menu.
+
+![greenhouse-honeypot](/assets/images/Greenhouse1v2.png)
 
 <br />
 
-### 1. Login to Honeypot and click 'Company Profile' 
+2. Select ‘ATS Settings’ from the dropdown menu. This will redirect you to a new page with all Honeypot ATS connection options.
+
+3. Navigate to the Greenhouse section and click the associated button labelled ‘Connect’.
 
 <br />
-
-![greenhouse-honeypot](/assets/images/greenhouse1.png)
-
-<br />
-
-### 2.  Select 'Connect to ATS' and then click 'Connect', which is located beside the Greenhouse logo.
-
-<br />
-
 ![greenhouse-honeypot](/assets/images/greenhouse2.png)
 
 <br />
 
-### 3. To connect to Greenhouse you must provide the Harvest API token, a Job Board API token, Your Job Board Token and a Secret Key. The details of each is listed below:
+4. Enter the account details requested in the pop up. These are related to your Greenhouse account and can be found on the Greenhouse platform. Once this information is entered, click ‘Connect’, and you’re done!
 
 <br />
+<em>If you need help locating this data on Greenhouse, continue to the walkthrough below.</em>
 
-## **Harvest API**
+## How to locate required Greenhouse details
+To find your relevant Greenhouse account details, log into the Greenhouse platform using the account you would like to connect. Next, there are four specific pieces of information to copy and paste.
 
-**Step One:** Visit the Greenhouse Configure Page. Navigate to “Dev Center” and then “API Credentials.” 
+### Harvest API
 
-(**Important note**: You (or your Site Administrator) must have developer permissions for “Can manage ALL organization’s API Credentials” to generate a Harvest API key.
+<em> Note: You (or your site administrator) must have developer permissions for “Can manage ALL organization’s API Credentials” in order to generate a Harvest API key. Please reach out to your site administrator if you need help. If you have these permissions, continue to the next steps.</em>
 
-<br />
+1. Log into Greenhouse, using the same email that is used for the Honeypot platform.
+2. Click ‘Configure’ on the top navigation menu.
+3. Click ‘Dev Center’ on the left navigation menu and then ‘API Credential Management’.
+
 
 ![greenhouse-honeypot](/assets/images/greenhouse3.png)
 
@@ -60,7 +71,7 @@ So here’s how it works:
 
 <br />
 
-**Step Two:** Click “Create New API Key”
+4. Click ‘Create New API Key’.
 
 <br />
 
@@ -68,7 +79,9 @@ So here’s how it works:
 
 <br />
 
-**Step Three:** Enter the Description “Honeypot - Harvest” and choose Type Harvest!
+5. Enter the text ‘Honeypot - Harvest’ as the Description.
+
+6. Select the option ‘Harvest’ from the dropdown menu. This will direct you to the API Key Permissions page.
 
 <br />
 
@@ -76,8 +89,8 @@ So here’s how it works:
 
 <br />
 
-**Step Four:** On the Manage API Key Permissions page, ensure the following are checked: 
-
+7. On the API Key Permissions page, select each of the following permissions. Please ensure that they are marked with a checkmark. Do not select any of the other options.
+ 
 
 * **Applications:**
 	* **GET: List Applications**
@@ -91,9 +104,6 @@ So here’s how it works:
 	* **GET: Retrieve User**
 	* **GET: List Users**
 
-
-Click “Update” to save the key’s permissions!
-	
 <br />
 
 ![greenhouse-honeypot](/assets/images/greenhouse7.png)
@@ -102,11 +112,20 @@ Click “Update” to save the key’s permissions!
 
 <br />
 
-**Step Five:** Find the “Honeypot - Harvest” key you created and click “Copy.” Navigate back to Honeypot and paste into the “Harvest API” box. 
-
+8. Click ‘Update’ to save the key’s permissions.
 <br />
 
 ![greenhouse-honeypot](/assets/images/greenhouse9.png)
+
+<br />
+
+9. Locate the “Honeypot - Harvest” key you created and click ‘Copy’.
+	
+
+10. Navigate back to the Honeypot platform and paste the copied key into the box labelled ‘Harvest API’.
+
+<br />
+
 ![greenhouse-honeypot](/assets/images/greenhouse10.png)
 
 <br />
@@ -115,15 +134,13 @@ Click “Update” to save the key’s permissions!
 
 <br />
 
-### **Job Board API**
+### Job Board API
 
 <br />
 
-**Step One:** Visit the Greenhouse Configure Page. Navigate to “Dev Center” and then “API Credentials.” 
-
-**Step Two:** Click “Create New API Key”
-
-**Step Three:** Enter the Description “Honeypot - Job Board” and choose Type “Job Board.”
+1. Click ‘Configure’ on the top navigation menu.
+2. Navigate to the ‘Dev Center’ and then click ‘API Credential Management’.
+3. Click ‘Create New API Key’.
 
 <br />
 
@@ -131,20 +148,24 @@ Click “Update” to save the key’s permissions!
 
 <br />
 
-**Step Four:** Find the “Honeypot - Job Board” key you created and click “Copy.” Navigate back to Honeypot and paste into the “Job Board API” box. 
+4. Enter the text ‘Honeypot - Job Board’ as the Description.
+5. Select the option ‘Job Board’ as the ‘Type’ from the dropdown menu and click ‘Create’.
+6. Locate the ‘Honeypot - Job Board’ key you created and click ‘Copy’. Navigate back to the Honeypot platform and paste the copied key into the box labelled ‘Job Board API’.
+
+<br />
 
 **YES! You are killing it.** 
 
 <br />
 
-## **Job Board URL**
+## Job Board URL
 
 <br />
 
-**Step One:** Visit the Greenhouse Configure Page. Navigate to “Dev Center” and then to “API Credentials.”
-
-
-**Step Two:** Copy “Your Board Token.” Navigate back to Honeypot and paste it into the “Your Board Token” box.
+1. Click ‘Configure’ on the top navigation menu.
+2. Navigate to the ‘Dev Center’ and then click ‘API Credential Management’.
+3. Copy the number labelled ‘Your Board Token’.
+4. Navigate back to the Honeypot platform and paste the copied key into the box labelled ‘Your Board Token’.
 
 <br />
 
@@ -156,14 +177,15 @@ Easy-Peasy! Final step now…
 
 <br />
 
-## **Secret Key**
+## Secret Key
 
 <br />
 
-**Step One:** Visit the Greenhouse Configure Page. Navigate to “Dev Center” and then to “Web Hooks” and “Web Hooks” one more time. 
-
-**Step Two:** Create the first webhook which will automatically update Honeypot when you hire a talent. The details you need to fill in are as follows: 7
-
+To create a secret key, you’ll first need to make two web hooks. Here’s what to do.
+1. Click ‘Configure’ on the top navigation menu.
+2. Navigate to the ‘Dev Center’ and then click ‘Web Hooks’.
+3. Click ‘Web Hooks’ once more. 
+4. **Now you will create a web hook to forward candidates from the Honeypot platform to Greenhouse.** Enter the following information into Greenhouse exactly as written.
 
 * Name: Honeypot Hired 
 * When: Candidate has been hired
@@ -171,7 +193,7 @@ Easy-Peasy! Final step now…
 * Secret Key: Choose a secret key (this can be any combination of numbers). Don’t forget to take note of this number. You will need in the next steps. 
 * Error Recipient Email: admin@honeypot.io
 
-Click “Create Webhook”.
+5. Click ‘Create Web hook’ and the first web hook is done!
 
 <br />
 
@@ -179,8 +201,7 @@ Click “Create Webhook”.
 
 <br />
 
-**Step Three:** Create the second webhook which will automatically notify  Honeypot when you reject a talent. The details you need to fill in are as follows: 
-
+6. **Next, you will create a web hook to relay a candidate rejection from Greenhouse to the Honeypot platform.** Enter the following information into Greenhouse exactly as written.
 
 * Name: Honeypot Rejected 
 * When: Candidate has been rejected
@@ -188,9 +209,8 @@ Click “Create Webhook”.
 * Secret Key: Choose the same key as before 
 * Error Recipient Email: admin@honeypot.io
 
-Click “Create Webhook”. 
-
-**Step Four:** Navigate back to Honeypot and paste the secret key you created for your webhooks into the “Your Board Token” box. 
+7. Click ‘Create Web hook’.
+8. Navigate back to the Honeypot platform and enter the secret key created for your web hooks into the ‘Your Board Token’ box.
 
 <br />
 
@@ -198,14 +218,4 @@ Click “Create Webhook”.
 
 <br />
 
-Click “Connect!” You ATS is now connected to Honeypot! 
-
-Remember, for the ATS integration to work correctly, the Position you enter when sending an interview invite on Honeypot must match a job you have already created on Greenhouse. You can choose the Position you are recruiting for from the dropdown list. This way Greenhouse can recognize and process the candidate in the correct manner!   
-
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse15.png)
-
-<br />
-
-If you have any questions, feel free to reach out directly to your Customer Success Manager, who can guide you through the process.
+9. Click ‘Connect’ and your ATS is now connected to Honeypot!
