@@ -1,5 +1,5 @@
 ---
-title:  Announcing the Personio Honeypot Integration
+title:  Connect a Personio Account to Honeypot (and Save Time)
 subtitle: "We are happy to announce that Personio users can now automatically upload candidates directly from Honeypot to Personio. Here's a step-by-step guide to help you set up the Honeypot-Personio integration!"
 date:    2018-01-08 6:50:00
 layout:  post
@@ -11,55 +11,70 @@ importance: 2
 cta: recruiter
 ---
 
-One of Germany’s largest **Applicant Tracking Systems** and Germany’s largest **Developer Job Platform** have joined forces to make recruiters' lives easier. As of today, Personio users can automatically upload candidates directly from Honeypot to Personio.
+Personio is one of Germany’s largest Applicant Tracking Systems, serving over 3,000+ users—many of whom are also Honeypot customers! With a few easy clicks, Honeypot customers with a Personio subscription can set up a connection between the two platforms.
+<br>
 
-<!--more-->
+This integration enables recruiters to automatically send candidate details from the <b>Honeypot</b> platform to <b>Personio</b>. This reduces manual effort for recruiters and hiring managers, streamlining workflows so you can focus on follow-up rather than data entry.
+<br>
 
-### How it Works
+Once the connection between Honeypot and Personio is established, any developer who accepts an interview invite sent from your account will trigger the process. Once triggered, the developer’s data is automatically forwarded to Personio with the source label ‘Honeypot’. Forwarded data will include the original message sent by the Honeypot user as well as the candidate's CV (saved as a PDF) and Honeypot profile.
+<br>
 
-The integration enables recruiters to automatically upload candidates from **Honeypot** to **Personio**. As soon as a developer accepts your interview invite, they are automatically entered into your ATS, with the source “**Honeypot**”, together with the connecting message, the CV as a PDF, and a link to the candidate’s Honeypot profile.
+_If you need any help, your Customer Success Manager is on standby to help you through the process!_
 
-The integration reduces manual effort for recruiters and hiring managers, streamlining workflow, allowing you to focus on candidate follow-up.
+## How to set up your Personio integration on Honeypot
 
-### Set-up
-
-Sign in to Honeypot and navigate to your profile on the top right of the header. Click **“Company Profile”**. From the menu, select **“Connect to ATS”**. You'll find Personio in our list of integrations.
+1.) Log in to the Honeypot platform and click your name on the top right corner of the top navigation menu.
 
 <br>
 
-![Connect to ATS](/assets/images/personio-22.png)
+![Connect to ATS](/assets/images/Greenhouse1v2.png)
 
 <br>
 
-### How to Integrate
+2.) Select ‘ATS Settings’ from the dropdown menu. This will redirect you to a new page with all Honeypot ATS connection options.
 
-To integrate, there are four simple fields to fill in:
+![Recruiting API Access Token](/assets/images/select_personio.png)
+
+3.) Navigate to the ‘Personio’ section and click the associated button labelled ‘Connect’.
+
+![Recruiting API Access Token](/assets/images/connect_ATS_personio.png)
+
+
+4.) Enter the account details requested in the pop up. These are related to your Personio account and can be found on the Personio platform. Once this information is entered, click ‘Connect’, and you’re done!
+
 
 <br>
+<em>If you need help locating this data on Personio, continue to the walkthrough below.</em>
 
-1.) **Recruiting API Access Token**: Personio > “Settings” > “API”. Copy the token and paste it into the first field of our form.
+## How to locate required Personio account details
 
-<br>
+To find the relevant Personio account details, log into the Personio platform using the account you would like to connect. Next, there are four specific pieces of information to copy and paste.
+
+### 1.) API Access Token
+Click ‘Settings’ on the left navigation menu and then ‘API’. This will reveal the account’s API credentials. Copy the supplied token next to ‘Recruiting API access token’ and paste it into the form on the Honeypot platform, next to the text ‘Recruiting API access token’.
+
 
 ![Recruiting API Access Token](/assets/images/Personio-screenshot-22.png)
 
-<br><br>
+### 2.) Company ID
 
-2.) **Company ID**:  Personio > “Settings” > “API”. Copy and paste the supplied company ID into the second field of our form.
+If you have not already done so, click ‘Settings’ on the left hand navigation menu and then ‘API’ (as you did in the previous step). Copy the supplied token next to ‘Company ID’ and paste it into the form on the Honeypot platform, next to the text ‘Company ID’.
 
 <br>
+3.) Account Name
+Locate the URL bar in your browser. The text before ‘.personio’ is your company’s account name. For example, if the URL is https://mycompany.personio.de/, the account name is ‘mycompany’. While using the Personio platform, copy the text between ‘https://’ and ‘.personio’ and paste it into the Honeypot platform, next to the text ‘Account name’.
 
 ![Company ID](/assets/images/Personio-screenshot-4.png)
-
-<br><br>
-
-3.) **Account Name**: This is the name which appears in the first part of your Personio customer url (e.g **mycompany** from https://mycompany.personio.de/).
-
 <br>
 
-4.) **Channel ID**: The channel first has to be created. Navigate into "Settings" > "Recruiting" > "Channels", e.g. https://mycompany.personio.de/configuration/recruiting/channels.
+### 4.) Channel ID
+Click ‘Settings’ on the left hand navigation menu and then ‘Recruiting. This will reveal several options related to your account. For reference, the URL might look like: https://mycompany.personio.de/configuration/recruiting/channels
 
-You should now create a channel for Honeypot. When you click on the newly created channel you can see an associated ID. Copy the ID into this box. If the channel has already been created, you can just copy the ID directly.
+Select ‘Channels’ from the top navigation menu.
+If someone in your organisation has already created a channel for Honeypot, this will appear as an option. Simply click the channel name and then copy the supplied Channel ID. Paste this number into the form on the Honeypot platform, next to the text ‘Channel ID’.
+If your Channels list does not yet include an option for Honeypot, you will need to create this channel. Select the option ‘Add new channel…’ and follow the steps. Once this is completed, click on the newly created channel and then copy the supplied Channel ID. Paste this number into the form on the Honeypot platform, next to the text ‘Channel ID’
+
 
 <br>
 
@@ -67,4 +82,4 @@ You should now create a channel for Honeypot. When you click on the newly create
 
 <br>
 
-Once all the fields have been filled in,  click on the **“Connect”** button and you are done!
+5.) Once all the fields have been filled in, click on the “Connect” button and you're done!
