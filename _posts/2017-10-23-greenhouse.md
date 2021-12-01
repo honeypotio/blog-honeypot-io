@@ -35,18 +35,13 @@ Let's get started! Here’s how it works...
 
 1. Log into the Honeypot platform and click your name on the top right corner of the top navigation menu.
 
-![greenhouse-honeypot](/assets/images/Greenhouse1v2.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/Greenhouse1v2.png)
 
 2. Select ‘ATS Settings’ from the dropdown menu. This will redirect you to a new page with all Honeypot ATS connection options.
 
 3. Navigate to the Greenhouse section and click the associated button labelled ‘Connect’.
 
-<br />
-![greenhouse-honeypot](/assets/images/greenhouse2.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse2.png)
 
 4. Enter the account details requested in the pop up. These are related to your Greenhouse account and can be found on the Greenhouse platform. Once this information is entered, click ‘Connect’, and you’re done!
 
@@ -64,30 +59,19 @@ To find your relevant Greenhouse account details, log into the Greenhouse platfo
 2. Click ‘Configure’ on the top navigation menu.
 3. Click ‘Dev Center’ on the left navigation menu and then ‘API Credential Management’.
 
+	![greenhouse-honeypot](/assets/images/greenhouse3.png)
 
-![greenhouse-honeypot](/assets/images/greenhouse3.png)
-
-![greenhouse-honeypot](/assets/images/greenhouse4.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse4.png)
 
 4. Click ‘Create New API Key’.
 
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse5.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse5.png)
 
 5. Enter the text ‘Honeypot - Harvest’ as the Description.
 
 6. Select the option ‘Harvest’ from the dropdown menu. This will direct you to the API Key Permissions page.
 
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse6.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse6.png)
 
 7. On the API Key Permissions page, select each of the following permissions. Please ensure that they are marked with a checkmark. Do not select any of the other options.
  
@@ -104,82 +88,49 @@ To find your relevant Greenhouse account details, log into the Greenhouse platfo
 	* **GET: Retrieve User**
 	* **GET: List Users**
 
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse7.png)
 
-![greenhouse-honeypot](/assets/images/greenhouse7.png)
-
-![greenhouse-honeypot](/assets/images/greenhouse8.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse8.png)
 
 8. Click ‘Update’ to save the key’s permissions.
-<br />
 
-![greenhouse-honeypot](/assets/images/greenhouse9.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse9.png)
 
 9. Locate the “Honeypot - Harvest” key you created and click ‘Copy’.
 	
 
 10. Navigate back to the Honeypot platform and paste the copied key into the box labelled ‘Harvest API’.
 
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse10.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse10.png)
 
 **Woo-hoo, nice work! Let’s see what’s next.** 
 
-<br />
-
 ### Job Board API
-
-<br />
 
 1. Click ‘Configure’ on the top navigation menu.
 2. Navigate to the ‘Dev Center’ and then click ‘API Credential Management’.
 3. Click ‘Create New API Key’.
 
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse11.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse11.png)
 
 4. Enter the text ‘Honeypot - Job Board’ as the Description.
 5. Select the option ‘Job Board’ as the ‘Type’ from the dropdown menu and click ‘Create’.
 6. Locate the ‘Honeypot - Job Board’ key you created and click ‘Copy’. Navigate back to the Honeypot platform and paste the copied key into the box labelled ‘Job Board API’.
 
-<br />
-
 **YES! You are killing it.** 
 
-<br />
-
 ## Job Board URL
-
-<br />
 
 1. Click ‘Configure’ on the top navigation menu.
 2. Navigate to the ‘Dev Center’ and then click ‘API Credential Management’.
 3. Copy the number labelled ‘Your Board Token’.
 4. Navigate back to the Honeypot platform and paste the copied key into the box labelled ‘Your Board Token’.
 
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse12.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse12.png)
 
 Easy-Peasy! Final step now…
 
-<br />
-
 ## Secret Key
-
-<br />
 
 To create a secret key, you’ll first need to make two web hooks. Here’s what to do.
 1. Click ‘Configure’ on the top navigation menu.
@@ -195,11 +146,8 @@ To create a secret key, you’ll first need to make two web hooks. Here’s what
 
 5. Click ‘Create Web hook’ and the first web hook is done!
 
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse13.png)
 
-![greenhouse-honeypot](/assets/images/greenhouse13.png)
-
-<br />
 
 6. **Next, you will create a web hook to relay a candidate rejection from Greenhouse to the Honeypot platform.** Enter the following information into Greenhouse exactly as written.
 
@@ -212,10 +160,6 @@ To create a secret key, you’ll first need to make two web hooks. Here’s what
 7. Click ‘Create Web hook’.
 8. Navigate back to the Honeypot platform and enter the secret key created for your web hooks into the ‘Your Board Token’ box.
 
-<br />
-
-![greenhouse-honeypot](/assets/images/greenhouse14.png)
-
-<br />
+	![greenhouse-honeypot](/assets/images/greenhouse14.png)
 
 9. Click ‘Connect’ and your ATS is now connected to Honeypot!
