@@ -24,13 +24,9 @@ _If you need any help, your Customer Success Manager is on standby to help you t
 
 ## How to set up your Personio integration on Honeypot
 
-1.) Log in to the Honeypot platform and click your name on the top right corner of the top navigation menu.
-
-<br>
+1.) Log into the Honeypot platform and click your name on the top right corner of the top navigation menu.
 
 ![Connect to ATS](/assets/images/Greenhouse1v2.png)
-
-<br>
 
 2.) Select ‘ATS Settings’ from the dropdown menu. This will redirect you to a new page with all Honeypot ATS connection options.
 
@@ -40,11 +36,8 @@ _If you need any help, your Customer Success Manager is on standby to help you t
 
 ![Recruiting API Access Token](/assets/images/connect_ATS_personio.png)
 
-
 4.) Enter the account details requested in the pop up. These are related to your Personio account and can be found on the Personio platform. Once this information is entered, click ‘Connect’, and you’re done!
 
-
-<br>
 <em>If you need help locating this data on Personio, continue to the walkthrough below.</em>
 
 ## How to locate required Personio account details
@@ -54,22 +47,19 @@ To find the relevant Personio account details, log into the Personio platform us
 ### 1.) API Access Token
 Click ‘Settings’ on the left navigation menu and then ‘API’. This will reveal the account’s API credentials. Copy the supplied token next to ‘Recruiting API access token’ and paste it into the form on the Honeypot platform, next to the text ‘Recruiting API access token’.
 
-
 ![Recruiting API Access Token](/assets/images/Personio-screenshot-22.png)
 
 ### 2.) Company ID
-
 If you have not already done so, click ‘Settings’ on the left hand navigation menu and then ‘API’ (as you did in the previous step). Copy the supplied token next to ‘Company ID’ and paste it into the form on the Honeypot platform, next to the text ‘Company ID’.
 
-<br>
-3.) Account Name
+### 3.) Account Name
 Locate the URL bar in your browser. The text before ‘.personio’ is your company’s account name. For example, if the URL is https://mycompany.personio.de/, the account name is ‘mycompany’. While using the Personio platform, copy the text between ‘https://’ and ‘.personio’ and paste it into the Honeypot platform, next to the text ‘Account name’.
 
 ![Company ID](/assets/images/Personio-screenshot-4.png)
 <br>
 
 ### 4.) Channel ID
-Click ‘Settings’ on the left hand navigation menu and then ‘Recruiting. This will reveal several options related to your account. For reference, the URL might look like: https://mycompany.personio.de/configuration/recruiting/channels
+Click ‘Settings’ on the left hand navigation menu and then ‘Recruiting. This will reveal several options related to your account. For reference, the URL might look like this: https://mycompany.personio.de/configuration/recruiting/channels
 
 Select ‘Channels’ from the top navigation menu.
 If someone in your organisation has already created a channel for Honeypot, this will appear as an option. Simply click the channel name and then copy the supplied Channel ID. Paste this number into the form on the Honeypot platform, next to the text ‘Channel ID’.
