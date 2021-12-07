@@ -76,17 +76,17 @@ To find your relevant Greenhouse account details, log into the Greenhouse platfo
 7. On the API Key Permissions page, select each of the following permissions. Please ensure that they are marked with a checkmark. Do not select any of the other options.
  
 
-* **Applications:**
-	* **GET: List Applications**
-	* **PATCH: Update Application**
-* **Candidates:**
-	* **GET: List Candidates**
-* **Sources:**
-	* **Sources**
-	* **GET: List Sources**
-* **Users:**
-	* **GET: Retrieve User**
-	* **GET: List Users**
+	* **Applications:**
+		* **GET: List Applications**
+		* **PATCH: Update Application**
+	* **Candidates:**
+		* **GET: List Candidates**
+	* **Sources:**
+		* **Sources**
+		* **GET: List Sources**
+	* **Users:**
+		* **GET: Retrieve User**
+		* **GET: List Users**
 
 	![greenhouse-honeypot](/assets/images/greenhouse7.png)
 
@@ -151,11 +151,11 @@ To create a secret key, you’ll first need to make two web hooks. Here’s what
 
 6. **Next, you will create a web hook to relay a candidate rejection from Greenhouse to the Honeypot platform.** Enter the following information into Greenhouse exactly as written.
 
-* Name: Honeypot Rejected 
-* When: Candidate has been rejected
-* Export URL: https://app.honeypot.io/webhooks/greenhouse
-* Secret Key: Choose the same key as before 
-* Error Recipient Email: admin@honeypot.io
+	* Name: Honeypot Rejected 
+	* When: Candidate has been rejected
+	* Export URL: https://app.honeypot.io/webhooks/greenhouse
+	* Secret Key: Choose the same key as before 
+	* Error Recipient Email: admin@honeypot.io
 
 7. Click ‘Create Web hook’.
 8. Navigate back to the Honeypot platform and enter the secret key created for your web hooks into the ‘Your Board Token’ box.
