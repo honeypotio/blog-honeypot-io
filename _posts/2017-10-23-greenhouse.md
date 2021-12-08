@@ -138,11 +138,11 @@ To create a secret key, you’ll first need to make two web hooks. Here’s what
 3. Click ‘Web Hooks’ once more. 
 4. **Now you will create a web hook to forward candidates from the Honeypot platform to Greenhouse.** Enter the following information into Greenhouse exactly as written.
 
-* Name: Honeypot Hired 
-* When: Candidate has been hired
-* Export URL: https://app.honeypot.io/webhooks/greenhouse
-* Secret Key: Choose a secret key (this can be any combination of numbers). Don’t forget to take note of this number. You will need in the next steps. 
-* Error Recipient Email: admin@honeypot.io
+	* Name: Honeypot Hired 
+	* When: Candidate has been hired
+	* Export URL: https://app.honeypot.io/webhooks/greenhouse
+		* Secret Key: Choose a secret key (this can be any combination of numbers). Don’t forget to take note of this number. You will need in the next steps. 
+	* Error Recipient Email: admin@honeypot.io
 
 5. Click ‘Create Web hook’ and the first web hook is done!
 
