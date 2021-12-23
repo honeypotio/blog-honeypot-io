@@ -32,6 +32,10 @@
       @media #{$md-up} {
         padding: 24px;
       }
+
+      img {
+        width: 100%;
+      }
     }
 
     &__block {
