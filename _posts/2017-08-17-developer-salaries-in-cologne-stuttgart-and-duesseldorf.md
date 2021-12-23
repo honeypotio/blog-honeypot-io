@@ -10,9 +10,13 @@ permalink:  developer-salaries-in-cologne-stuttgart-and-duesseldorf/
 importance: 2
 ---
 
-Germany is a great location for developers to find jobs. A developer survey done by [Stack Overflow](https://www.quora.com/What-is-the-most-popular-programming-language-in-Berlin-or-Germany-Ruby-Node) for the year 2017 lists the highest paid programming languages and IT jobs in Germany:
+Update: We recently analysed 13,000 data points to find out what developers are being paid across Germany today. In short, we found that the average developer salary across Germany is €63k.
 
-<!--more--> 
+**[To get the full report and learn more about developer salaries in Germany, check out our report here.](https://cult.honeypot.io/developer-salary-report-2021/developer-salaries-germany-2021)**
+
+* * *
+
+Germany is a great location for developers to find jobs. A developer survey done by [Stack Overflow](https://www.quora.com/What-is-the-most-popular-programming-language-in-Berlin-or-Germany-Ruby-Node) for the year 2017 lists the highest paid programming languages and IT jobs in Germany:
 
 ![Highest paid programming languages in Germany](/assets/images/by-prog-language-salary.png)
 
