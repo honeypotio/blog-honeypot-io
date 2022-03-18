@@ -242,8 +242,8 @@ Some lovely Hamburg startups reached out to us to remind us to include them! The
 [49]: https://www.youtube.com/watch?v=O_myDsW4cMw&list=PLAEnfhLzGUL3nUXfKHMw-XPEeRq8JvQeh&index=5
 [50]: http://www.ey.com/Publication/vwLUAssets/ey-venture-capital-and-start-ups-in-germany-2015/$FILE/ey-venture-capital-and-start-ups-in-germany-2015.pdf
 [51]: http://brightup.de/
-[52]: http://www.roccat.org/de-DE/Home/Overview/
-[53]: http://www.mindflowapp.com/
+[52]: https://www.roccat.com/
+[53]: https://www.mindflowapp.me/
 [54]: https://riskident.com/en/
 [55]: https://www.teamdrive.com/en/
 [56]: https://secucloud.com/en/company/about-us
