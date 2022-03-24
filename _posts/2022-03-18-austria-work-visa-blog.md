@@ -1,5 +1,5 @@
 ---
-title:   Austria Work Visa: Explained [for Developers]
+title:  "Austria Work Visa: Explained for Developers"
 subtitle: "In this guide, we'll break down how to get the work visa you'll need to work in Austria."
 date:    2022-03-18 11:36:06
 layout:  post
