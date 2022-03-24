@@ -6,7 +6,7 @@ layout:  post
 author:  fabio_migliorini
 categories: [Developer Careers]
 cover_image: austria_visa_main-image.png
-permalink:  Austria-Work-Visa-Developers
+permalink:  austria-work-visa-developers/
 importance: 2
 ---
 
