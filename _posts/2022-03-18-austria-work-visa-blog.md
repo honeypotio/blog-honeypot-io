@@ -3,7 +3,7 @@ title:  "Austria Work Visa: Explained for Developers"
 subtitle: "In this guide, we'll break down how to get the work visa you'll need to work in Austria."
 date:    2022-03-18 11:36:06
 layout:  post
-author:  fabio_migliorini
+author:  hannah_augur
 categories: [Developer Careers]
 cover_image: austria_visa_main-image.png
 permalink:  austria-work-visa-developers/
@@ -11,6 +11,8 @@ importance: 2
 ---
 
 One of the great things about the developer’s skillset is that you can take it around the world. From Europe to Asia to the US, developers can apply their expertise and enjoy work and life across the globe, making it easier than ever to try new things, experience new cultures and leave your hometown for a taste of something fresh.
+
+<!--more-->
 
 But while many companies from different countries seek similar skills and points on your CV, the visa requirements to work and live somewhere frequently differ. In this guide, we’ll break down how to get the work visa you’ll need to work in Austria.
 
