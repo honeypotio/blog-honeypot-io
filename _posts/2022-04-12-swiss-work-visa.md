@@ -57,10 +57,11 @@ If you lose or leave your job, you can stay for another three to six months in S
 
 There are two main Swiss work visas for third country nationals. They are:
 
- Permit L: a short-term residence permit that gives you permission to live and work in Switzerland for up to one year. It is tied to the terms of the employment contract. In exceptional cases, the L permit may be extended for a further year, but not any longer under the same employer.
-Permit B: an initial or temporary residence permit valid for one year, which can be extended annually. These permits are issued on a quota basis and are tied to the same employer, so you cannot lose or leave your job without also having to leave Switzerland and apply for a new work visa with a new company.
+ * **Permit L:** a short-term residence permit that gives you permission to live and work in Switzerland for up to one year. It is tied to the terms of the employment contract. In exceptional cases, the L permit may be extended for a further year, but not any longer under the same employer.
 
-There is one other significant visa for third country nationals, which is Permit C. This permit is eligible for third country nationals who have lived in Switzerland for ten continuous years (or five, if you are a US or Canadian citizen) and it offers permanent residence. With a C permit you can change employers at will.
+* **Permit B:** an initial or temporary residence permit valid for one year, which can be extended annually. These permits are issued on a quota basis and are tied to the same employer, so you cannot lose or leave your job without also having to leave Switzerland and apply for a new work visa with a new company.
+
+* **There is one other significant visa for third country nationals, which is Permit C**. This permit is eligible for third country nationals who have lived in Switzerland for ten continuous years (or five, if you are a US or Canadian citizen) and it offers permanent residence. With a C permit you can change employers at will.
 
 If you are not from an EU state, the work visa situation is a little more complicated. The simplest way to think about it is this: **if you are an EU citizen, you need a work permit. If you are a third country national, you need a work permit and a work visa.** The work permit is what gives you permission to work in Switzerland; the work visa is what gives you permission to enter the country, and it is the document you show to border authorities upon arrival.
 
@@ -114,10 +115,5 @@ As is now clear, the most important part of applying for a Swiss work visa, espe
 #### Having trouble connecting with Swiss companies? Let Honeypot help out. We help companies in Germany, Austria, Switzerland and the Netherlands find experienced developers. Sign up here and if you’re accepted on our platform, you’ll start receiving interview invites. Your Swiss adventure awaits! [Sign up here](https://app.honeypot.io/users/sign_up) and if you’re accepted on our platform, you’ll start receiving interview invites. We can even help you with that tricky visa process!
 
 
-#### Good luck, and we hope you’ll be enjoying schnitzel and strudel in no time!
-
-
-* * * 
-
-**[Join Honeypot](https://app.honeypot.io/users/sign_up) today and receive 4 interview invites or more in three weeks.**
+Good luck, and we hope you’ll be enjoying schnitzel and strudel in no time!
 
