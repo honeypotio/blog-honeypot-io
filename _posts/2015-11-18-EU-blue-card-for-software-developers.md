@@ -28,4 +28,4 @@ If the Blue Card infographic leaves you with questions, drop us an [email][1]!
 
 
 [1]: mailto:hello@honeypot.io "Hello Honeypot"
-[2]: https://www.honeypot.io/users/sign_up?utm_source=blog "Developer jobs in Europe"
+[2]: https://app.honeypot.io/users/sign_up "Developer jobs in Europe"
