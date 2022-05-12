@@ -11,6 +11,9 @@
     "gulp-image-resize": "^0.10.0",
     "gulp-imagemin": "^3.0.3"
   },
+  "engines": {
+    "node": "<=9.11.2"
+  },
   "scripts": {
     "build": "gulp"
   },
