@@ -65,6 +65,12 @@ Select ‘Channels’ from the top navigation menu.
 If someone in your organisation has already created a channel for Honeypot, this will appear as an option. Simply click the channel name and then copy the supplied Channel ID. Paste this number into the form on the Honeypot platform, next to the text ‘Channel ID’.
 If your Channels list does not yet include an option for Honeypot, you will need to create this channel. Select the option ‘Add new channel…’ and follow the steps. Once this is completed, click on the newly created channel and then copy the supplied Channel ID. Paste this number into the form on the Honeypot platform, next to the text ‘Channel ID’
 
+<br>
+
+![Channel ID](/assets/images/personio-screenshot-5.png)
+
+<br>
+
 ### 5.) Enable XML Feed
 
 Make sure you have [enabled the XML feed on Person.io](https://support.personio.de/hc/en-us/articles/207576365-XML-Integration-of-Job-Openings-From-Personio-Into-Your-Company-Website):
@@ -72,13 +78,6 @@ Make sure you have [enabled the XML feed on Person.io](https://support.personio.
 2. In the tab <em>Career page</em>, go to <em>Activations</em>.
 3. Activate the checkbox <em>Enable XML</em> feed.
 4. Then click <em>Apply changes</em> in the bottom-right corner.
-
-
-<br>
-
-![Channel ID](/assets/images/personio-screenshot-5.png)
-
-<br>
 
 ### 6.) Connect
 
