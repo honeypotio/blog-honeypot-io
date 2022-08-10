@@ -71,7 +71,7 @@ Make sure you have[enabled the XML feed on Person.io](https://support.personio.d
 1. Navigate to <em>Settings > Recruiting > Recruiting</em>.
 2. In the tab <em>Career page</em>, go to <em>Activations</em>.
 3. Activate the checkbox <em>Enable XML</em> feed.
-4. Then click <em>Apply changes</em> in the bottom-right corner."
+4. Then click <em>Apply changes</em> in the bottom-right corner.
 
 
 <br>
