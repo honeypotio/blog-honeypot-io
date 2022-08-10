@@ -67,7 +67,7 @@ If your Channels list does not yet include an option for Honeypot, you will need
 
 ### 5.) Enable XML Feed
 
-Make sure you have[enabled the XML feed on Person.io](https://support.personio.de/hc/en-us/articles/207576365-XML-Integration-of-Job-Openings-From-Personio-Into-Your-Company-Website):
+Make sure you have [enabled the XML feed on Person.io](https://support.personio.de/hc/en-us/articles/207576365-XML-Integration-of-Job-Openings-From-Personio-Into-Your-Company-Website):
 1. Navigate to <em>Settings > Recruiting > Recruiting</em>.
 2. In the tab <em>Career page</em>, go to <em>Activations</em>.
 3. Activate the checkbox <em>Enable XML</em> feed.
@@ -80,4 +80,6 @@ Make sure you have[enabled the XML feed on Person.io](https://support.personio.d
 
 <br>
 
-6.) Once all the fields have been filled in, click on the “Connect” button and you're done!
+### 6.) Connect
+
+ Once all the fields have been filled in, click on the “Connect” button and you're done!
