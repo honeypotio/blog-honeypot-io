@@ -9,7 +9,7 @@ talent:
   email_input_placeholder: 'Your Email'
 recruiter:
   headline: 'Looking for tech talents? Join Honeypot!'
-  tagline: 'Over 1,000 candidates sign up weekly and over 1,500 companies hiring with us.'
+  tagline: '1k+ relevant, vetted talents are always live on our platform.'
   form_action: https://app.honeypot.io/invite_requests/new
   button_text: 'Join Honeypot'
   text_input_varname: invite_request[name]
