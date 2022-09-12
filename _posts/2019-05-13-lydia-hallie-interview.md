@@ -79,11 +79,6 @@ I think the working environment in the U.S. is so much better than Europe. Well,
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia60.jpg" style="width:100% !important;"></p>
-<p align="center">Source: @theavocoder</p>
-
-<br />
-
 ### Is the working culture different in America compared to Europe?
 
 <br />
@@ -132,11 +127,6 @@ I basically have one-hour Skype calls or sometimes screen shares with people and
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia2.jpg" style="width:100% !important;"></p>
-<p align="center">Source: @theavocoder</p>
-
-<br />
-
 ### Do you make your own coding challenges as well?
 
 <br />
@@ -177,11 +167,6 @@ When my articles first started to blow up, it was definitely hard to deal with b
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia5.jpg" style="width:100% !important;"></p>
-<p align="center">Source: @theavocoder</p>
-
-<br />
-
 ### What new technologies or languages do you think new developers should focus on?
 
 <br />
@@ -207,11 +192,6 @@ I started sharing my pictures and got into contact with so many developers, and 
 I remember publishing the article and the very next day it had 800 claps on Medium. I was like freaking out and thinking it was so crazy. I didn't look at it for three days after that and then it had 20,000 claps, and I was in shock. *[Editor’s Note: It’s now up to 92,000 as of May, 2019.]* 
 
 I almost had a heart attack.  It was incredibly fast and then I started receiving phone calls, emails, and everyone was adding me as a friend on social media. It was overwhelming, especially when people from Google and Amazon, and very big newspapers were reaching out to me. I just kind of ignored all of them, which I shouldn’t have. But it was just too much for me and I couldn't handle it at that time.
-
-<br />
-
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia3.jpg" style="width:100% !important;"></p>
-<p align="center">Source: @theavocoder</p>
 
 <br />
 
@@ -252,11 +232,6 @@ Yea! The projects I’m building with other people, my juniors, are really fun. 
 <br />
 
 We all use Slack. I tell them things to do, have trial reports, and work together. It’s great.
-
-<br />
-
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia4.jpg" style="width:100% !important;"></p>
-<p align="center">Source: @theavocoder</p>
 
 <br />
 
