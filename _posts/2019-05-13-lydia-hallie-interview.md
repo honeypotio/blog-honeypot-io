@@ -24,11 +24,6 @@ I’m a software developer who mainly works with JavaScript and web development.
 
 <br />
 
-<p align="center"><img alt="Lydia Hallie interview" src="/assets/images/lydia1.jpg" style="width:100% !important;"></p>
-<p align="center">Source: @theavocoder</p>
-
-<br />
-
 ### Which programming languages do you mainly work with?
 
 <br />
