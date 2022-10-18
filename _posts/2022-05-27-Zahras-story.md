@@ -1,5 +1,5 @@
 ---
-title: Zahra’s Story: How one developer relocated from Iran to Austria
+title: "Zahra’s Story: How one developer relocated from Iran to Austria"
 subtitle: "In 2020, Zahra decided she was ready for that challenge. She decided to take the plunge and start looking for job opportunities in Europe."
 date: 2022-05-27 16:27:15
 layout: post
