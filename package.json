@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "gm": "^1.23.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-changed": "^1.3.2",
     "gulp-image-resize": "^0.10.0",
     "gulp-imagemin": "^3.0.3"
