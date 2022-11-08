@@ -21,10 +21,6 @@
     }
   }
 
-  &-lowercase {
-    text-transform: none;
-  }
-
   &-sm {
     @include button-size(6px, 13px, 11px, 10px, 20px);
   }
@@ -32,4 +28,8 @@
   &-lg {
     @include button-size(10px, 37px, $fs-1 - 1px, $fs-2, 3px);
   }
+}
+
+.btn-lowercase {
+  text-transform: none;
 }
