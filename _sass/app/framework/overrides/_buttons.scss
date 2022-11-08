@@ -21,6 +21,10 @@
     }
   }
 
+  &-lowercase {
+    text-transform: none;
+  }
+
   &-sm {
     @include button-size(6px, 13px, 11px, 10px, 20px);
   }
