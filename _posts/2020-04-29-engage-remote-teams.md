@@ -17,7 +17,7 @@ We have quickly learned how much of a struggle it is to take our company culture
 
 <br />
 
-According to Gallup’s [State of the Global Workplace](http://news.gallup.com/reports/220313/state-global-workplace-2017.aspx?) survey, only 15% of employees are engaged in the workplace, and remote workers [reported even lower levels](https://hbr.org/2018/11/survey-remote-workers-are-more-disengaged-and-more-likely-to-quit) of engagement than their office counterparts. These two figures paint a very clear picture for managers moving into remote working situations. In this article, we’ve broken down each step of engagement so you can discover what works for your team, and we’ve also added some creative ways to keep the conversations going so that you and your team can emerge with strong connections.
+According to a [Gallup study](https://www.gallup.com/workplace/352949/employee-engagement-holds-steady-first-half-2021.aspx), only 20% of employees are engaged in the workplace, and remote workers [reported even lower levels](https://hbr.org/2018/11/survey-remote-workers-are-more-disengaged-and-more-likely-to-quit) of engagement than their office counterparts. These two figures paint a very clear picture for managers moving into remote working situations. In this article, we’ve broken down each step of engagement so you can discover what works for your team, and we’ve also added some creative ways to keep the conversations going so that you and your team can emerge with strong connections.
 
 <br />
 
