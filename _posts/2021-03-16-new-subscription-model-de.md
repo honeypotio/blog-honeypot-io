@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: new-subscription-model-de.jpg
 permalink:  new-subscription-model-de/
 importance: 2
+cta: recruiter
 ---
 
 Unsere Mission bei Honeypot ist es, Unternehmen und Entwickler zu verbinden. Wir sind kontinuierlich darum bemüht, diesen Prozess zu verbessern. Deshalb haben wir in den letzten beiden Quartalen verschiedene Anpassungen getestet, um zu verstehen, was unseren Partnern zu mehr Erfolg beim Recruiting helfen könnte.

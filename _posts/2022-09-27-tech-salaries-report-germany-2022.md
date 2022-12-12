@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: tech-salaries-germany-2022.png
 permalink:  tech-salaries-germany-2022/
 importance: 2
+cta: recruiter
 ---
 It's a tricky time to hire. The cumulative effects of COVID, the [Great Resignation](https://hbr.org/2022/03/the-great-resignation-didnt-start-with-the-pandemic), and global economic shifts have led to a scarcity of skilled tech workers in Germany. The problem is both Europe-wide—where the [Korn Ferry Institute found](https://www.kornferry.com/content/dam/kornferry/docs/pdfs/KF-Future-of-Work-Talent-Crunch-Report.pdf) that by 2030 the tech industry labor-skill shortage will reach 14.3 million workers—and specific to Germany, where Bitkom reported that [96,000 vacancies for IT experts in Germany remained unfilled in 2021](https://www.bitkom.org/Presse/Presseinformation/IT-Fachkraefteluecke-wird-groesser).
 

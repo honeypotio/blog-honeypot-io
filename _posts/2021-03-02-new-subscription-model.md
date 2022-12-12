@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: new-subscription-model.jpg
 permalink:  new-subscription-model-english/
 importance: 2
+cta: recruiter
 ---
 
 Our mission at Honeypot is to help companies and developers find each other. We constantly strive to improve this. That’s why, in the last two quarters, we tested several things to understand what could help our clients have more success on our platform.
