@@ -3,7 +3,7 @@ title:   "The Employer of Record (EOR) Decision-Making Guide"
 subtitle: "Read our Employer of Record (EOR) Decision-Making Guide before you commit to a service provider"
 date:    2022-12-13 10:10:16
 layout:  post
-author:  Honeypot
+author:  honeypot_bear
 categories: [HR Tips]
 cover_image: the-employer-of-record-decision-making-guide-blog-header.png
 permalink:  employer-of-record-eor-guide/
@@ -17,10 +17,12 @@ The concept of remote work has massively gained popularity. The normalization of
 
 But can it really be this simple? And our short answer is: every endeavor comes with its own set of challenges. We're all looking for quick wins, especially in times of high hiring need. We're here to support you in making the best possible decision. So, before you commit to a service provider, we advise you to read our **Employer of Record Decision-Making Guide**.
 
+<br />
 {% include button.html
   label="Get the free EOR guide"
   url="https://hello.honeypot.io/employer-of-record-ebook/"
 %}
+<br />
 
 ## **What is an Employer of Record (EOR)?**
 
@@ -95,6 +97,7 @@ Every country page follows the same framework. We have split the information int
 4. **Risks:** understand the risks you could be subject to if you are not complying with the local laws and regulations.
 
 <p align="center"><img alt="Local Employer of Record laws and requirements at glance " src="/assets/images/EOR-local-laws-requirements.png" style="width:400px !important;"></p><br>
+
 
 {% include button.html
   label="Get the free EOR guide"
