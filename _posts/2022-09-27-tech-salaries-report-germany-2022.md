@@ -59,8 +59,7 @@ In order to get the **full picture** and break down tech salaries further by gen
 {% include button.html
   label="Get the Tech Salaries Report 2022"
   url="https://hello.honeypot.io/tech-salary-report-germany-2022/"
-%
-}
+%}
 
 <br />
 
