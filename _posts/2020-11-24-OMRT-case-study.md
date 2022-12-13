@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: OMRT-case-study.jpg
 permalink:  OMRT-case-study/
 importance: 2
+cta: recruiter
 ---
 
 When you’re building a digital solution as sophisticated as OMRT’s, it’s important to get the best developers on board. However, the time, energy and money it takes to find them is like banging your head against a wall.

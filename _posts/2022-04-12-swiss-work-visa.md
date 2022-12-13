@@ -8,6 +8,7 @@ categories: [Developer Careers]
 cover_image: switzerland_visa.png
 permalink:  swiss-work-visa-developers/
 importance: 2
+cta: recruiter
 ---
 
 There are many reasons you might be drawn to live in Switzerland: amazing scenery, outdoor adventures from skiing to hiking, great fondue! And for developers, a vibrant working culture with huge demand for more software engineers and a booming startup scene. In 2019 Switzerland attracted $445 million in investments, and unlike more US-centric working cultures, overtime is much less expected, even in startups. Which means that you can enjoy a great salary, great job opportunities and great quality of life, with plenty of time on the weekends to enjoy your newfound love of mountains.

@@ -8,12 +8,18 @@ categories: [HR Tips]
 cover_image: tech-salaries-germany-2022.png
 permalink:  tech-salaries-germany-2022/
 importance: 2
+cta: recruiter
 ---
 It's a tricky time to hire. The cumulative effects of COVID, the [Great Resignation](https://hbr.org/2022/03/the-great-resignation-didnt-start-with-the-pandemic), and global economic shifts have led to a scarcity of skilled tech workers in Germany. The problem is both Europe-wide—where the [Korn Ferry Institute found](https://www.kornferry.com/content/dam/kornferry/docs/pdfs/KF-Future-of-Work-Talent-Crunch-Report.pdf) that by 2030 the tech industry labor-skill shortage will reach 14.3 million workers—and specific to Germany, where Bitkom reported that [96,000 vacancies for IT experts in Germany remained unfilled in 2021](https://www.bitkom.org/Presse/Presseinformation/IT-Fachkraefteluecke-wird-groesser).
 
 <!--more-->
 
 That means that if you're looking for top tech talent, you're competing with the rest of Germany to find, attract, and hire the best candidates. More than ever, it's important to know what you're up against, which is why Honeypot has published our [comprehensive breakdown of developer salaries](https://cult.honeypot.io/reads/developer-salaries-2022-report-germany). Now, we're bringing you new numbers and additional information to give anyone hiring tech talents the German salary benchmarks they need. With these insights, you can make better decisions as you prepare a salary offer, plan budgets, and understand how your current salaries perform against the market.
+
+{% include button.html
+  label="Get the Tech Salaries Report 2022"
+  url="https://hello.honeypot.io/tech-salary-report-germany-2022/"
+%}
 
 ## Current tech salaries in Germany
 
@@ -44,7 +50,10 @@ As you can see, the difference is particularly pronounced in junior roles. For e
 
 In order to get the **full picture** and break down tech salaries further by gender, talent location, language skils, company size etc. **download the full report**.
 
-## [Download The Tech Salaries Report 2022 Here](https://hello.honeypot.io/tech-salary-report-germany-2022/).
+{% include button.html
+  label="Get the Tech Salaries Report 2022"
+  url="https://hello.honeypot.io/tech-salary-report-germany-2022/"
+%}
 
 
 

@@ -8,6 +8,7 @@ categories: [Product]
 cover_image: announcing-new-roles-honeypot.png
 permalink:  introducing-new-roles/
 importance: 2
+cta: recruiter
 ---
 At Honeypot, monitoring the tech job market is part of our job. As
 expected, tech teams are growing in size and complexity amid the
