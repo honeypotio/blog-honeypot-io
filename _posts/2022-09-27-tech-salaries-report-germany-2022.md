@@ -16,6 +16,11 @@ It's a tricky time to hire. The cumulative effects of COVID, the [Great Resignat
 
 That means that if you're looking for top tech talent, you're competing with the rest of Germany to find, attract, and hire the best candidates. More than ever, it's important to know what you're up against, which is why Honeypot has published our [comprehensive breakdown of developer salaries](https://cult.honeypot.io/reads/developer-salaries-2022-report-germany). Now, we're bringing you new numbers and additional information to give anyone hiring tech talents the German salary benchmarks they need. With these insights, you can make better decisions as you prepare a salary offer, plan budgets, and understand how your current salaries perform against the market.
 
+{% include button.html
+  label="Get the Tech Salaries Report 2022"
+  url="https://hello.honeypot.io/tech-salary-report-germany-2022/"
+%}
+
 ## Current tech salaries in Germany
 
 The average salary for a developer in Germany depends on their role and years of experience, with significant jumps the more senior the developer is.
@@ -45,7 +50,10 @@ As you can see, the difference is particularly pronounced in junior roles. For e
 
 In order to get the **full picture** and break down tech salaries further by gender, talent location, language skils, company size etc. **download the full report**.
 
-## [Download The Tech Salaries Report 2022 Here](https://hello.honeypot.io/tech-salary-report-germany-2022/).
+{% include button.html
+  label="Get the Tech Salaries Report 2022"
+  url="https://hello.honeypot.io/tech-salary-report-germany-2022/"
+%}
 
 
 
