@@ -8,6 +8,7 @@ categories: [HR Tips]
 cover_image: the-employer-of-record-decision-making-guide-blog-header.png
 permalink:  employer-of-record-eor-guide/
 importance: 2
+cta: recruiter
 ---
 
 The workplace as we know it has ceased to exist. Was that too dramatic? Perhaps. But we can't deny that the last few years created a drastic shift in working conditions. And that shift opened up a new avenue of employment possibilities - one of them being globally remote.
