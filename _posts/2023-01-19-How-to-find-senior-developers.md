@@ -1,5 +1,5 @@
 ---
-title:   "How To Find Experienced Software Developers For Senior Roles"
+title:   "How to Find Experienced Software Developers for Senior Roles"
 subtitle: "Find and attract senior software developers with the help of this guide"
 date:    2023-01-19 10:10:16
 layout:  post
@@ -48,7 +48,7 @@ With a pre-filtered source of quality devs, you can afford to devote more time t
 
 ## How to sell your job opening to senior developers
 
-Once you've managed to get in touch with senior developers, the next task is to make them an interesting offer. Something that has a unique appeal, not just in terms of an increased salary, but also because of the [unique qualities of your company](https://blog.honeypot.io/benefits-of-employer-branding/) and of the position being advertised.
+Once you've managed to get in touch with senior developers, the next task is to make them an interesting offer. Something that has a unique appeal, not just in terms of [an increased salary](https://blog.honeypot.io/tech-salaries-germany-2022/), but also because of the [unique qualities of your company](https://blog.honeypot.io/benefits-of-employer-branding/) and of the position being advertised.
 
 ### Get your dev team to help you sell the brand
 
