@@ -24,7 +24,7 @@ In this article, we'll provide you with some ideas on how to approach this chall
 - How to promote your brand and your post to experienced developers
 - How to communicate with senior software developers
 
-<p align="center"><img alt="A group of senior developers at the workplace" src="/assets/images/senior-developers-image-blog-honeypot.png" style="width:400px !important;"></p><br>
+<p align="center"><img alt="A group of senior developers at the workplace" src="/assets/images/senior-developers-image-blog-honeypot.jpg" style="width:400px !important;"></p><br>
 
 ## Where to find experienced software developers
 
