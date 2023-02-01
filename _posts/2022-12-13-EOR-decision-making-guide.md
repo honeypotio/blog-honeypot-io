@@ -18,12 +18,10 @@ The concept of remote work has massively gained popularity. The normalization of
 
 But can it really be this simple? And our short answer is: every endeavor comes with its own set of challenges. We're all looking for quick wins, especially in times of high hiring need. We're here to support you in making the best possible decision. So, before you commit to a service provider, we advise you to read our **Employer of Record Decision-Making Guide**.
 
-<br />
 {% include button.html
   label="Get the free EOR guide"
-  url="https://hello.honeypot.io/employer-of-record-ebook/"
+  url="https://hello.honeypot.io/b2b-employer-of-record-org/"
 %}
-<br />
 
 ## **What is an Employer of Record (EOR)?**
 
@@ -84,7 +82,7 @@ We firmly believe borders should not be an obstacle when hiring a great workforc
 
 Nevertheless, globally remote is not as simple as we'd like it to be. Navigating through the realm of labor law and choosing from different EOR vendors can be overwhelming - especially during hiring urgency.
 
-We want to aid you in making an informed decision when it comes to these employment types. That is why we suggest you read [Honeypot's EOR guide](https://hello.honeypot.io/employer-of-record-ebook) when considering hiring remotely through an EOR.
+We want to aid you in making an informed decision when it comes to these employment types. That is why we suggest you read [Honeypot's EOR guide](https://hello.honeypot.io/b2b-employer-of-record-org/) when considering hiring remotely through an EOR.
 
 ## **What to expect from Honeypot's Employer of Record Guide**
 
@@ -102,7 +100,7 @@ Every country page follows the same framework. We have split the information int
 
 {% include button.html
   label="Get the free EOR guide"
-  url="https://hello.honeypot.io/employer-of-record-ebook/"
+  url="https://hello.honeypot.io/b2b-employer-of-record-org/"
 %}
 
 Happy hiring!
