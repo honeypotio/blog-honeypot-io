@@ -94,7 +94,7 @@ Processing of your application will take a maximum of 90 days, at which point yo
 
 The EU Blue Card is such a sought after visa because it provides a wide range of benefits that supersede traditional work visas in most EU countries. Here are some of the biggest benefits of having an EU Blue Card: 
 
-* Travel freely within the EU
+* Travel freely within the EU (for cards issued in Schengen countries)
 
 * Get the same work and travel conditions as citizens of the country
 
