@@ -16,6 +16,8 @@ One of the great things about the developer’s skillset is that you can take it
 
 But while many companies from different countries seek similar skills and points on your CV, the visa requirements to work and live somewhere frequently differ. In this guide, we’ll break down how to get the work visa you’ll need to work in Austria.
 
+Do you want to get a peek into the Austrian developer scene? Then check our [DevCities Vienna episode](https://www.youtube.com/watch?v=SVWoLf5QyOA).
+
 
 #### **In short: Developers who want to work in Austria usually apply for the Red-White-Red Card, but you can also aim for an EU Blue Card or even a short-term visa for shorter stays**.
 
