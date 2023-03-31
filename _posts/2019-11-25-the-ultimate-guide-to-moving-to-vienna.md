@@ -16,7 +16,7 @@ Thinking of moving to Vienna yourself? Check out the infographic below to discov
 
 <!--more-->
 
-TTo get a better feel, check our [DevCities Vienna episode](https://www.youtube.com/watch?v=SVWoLf5QyOA) to get a peek into the Austrian developer scene.
+Get a better feel of the developer's life in Vienna and watch our [DevCities Vienna episode](https://www.youtube.com/watch?v=SVWoLf5QyOA).
 
 <br />
 
