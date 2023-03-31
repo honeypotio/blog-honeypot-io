@@ -64,3 +64,6 @@ Once she became settled in Graz and her new job, many of Zahra’s fears drifted
 “Every day I wake up with so much motivation! I know I’m starting my day with the most friendly and supportive people at Blackshark, and every day I have something new to solve that makes me feel alive.” 
 
 In the end, Zahra says that she feels free and happy in Austria. Though she misses her family and being able to hear and use her mother tongue, she’s finding life in Europe is exactly what she needed.
+
+
+Before you go - watch our [DevCities Vienna episode](https://www.youtube.com/watch?v=SVWoLf5QyOA) to get a peek into the daily lives of Austrian developers.

@@ -14,6 +14,8 @@ Vienna’s high quality of life mixed with the increasing demand for technical c
 
 <!--more-->
 
+Watch our [DevCities Vienna episode](https://www.youtube.com/watch?v=SVWoLf5QyOA) to get a peek into the Austrian developer scene.
+
 Against this backdrop Honeypot, Europe’s largest developer-focused job platform, is opening a new office in the Austrian capital today. Hundreds of Austrian developers have already signed up with Honeypot to work in cities such as Berlin, Amsterdam, Munich, and Hamburg. From today, Austrian and international developers can also **make themselves visible to Austrian companies hiring in Vienna.**
 
 To celebrate Honeypot’s launch in Vienna, we decided to take a deep dive into life as a developer in the Austrian capital.
