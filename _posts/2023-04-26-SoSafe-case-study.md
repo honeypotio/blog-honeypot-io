@@ -1,7 +1,7 @@
 ---
 title:   "How SoSafe Reduced Hiring Costs by 60% Using Honeypot"
 subtitle: "With Honeypot, SoSafe was able to achieve its recruitment goals and fill open positions with the best talent available."
-date:    2023-04-26 10:10:16
+date:    2023-04-25 10:10:16
 layout:  post
 author:  honeypot_bear
 categories: [HR Tips]
