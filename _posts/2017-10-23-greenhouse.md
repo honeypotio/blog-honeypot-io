@@ -140,9 +140,9 @@ To create a secret key, you’ll first need to make two web hooks. Here’s what
 
 	* Name: Honeypot Hired 
 	* When: Candidate has been hired
-	* Export URL: https://app.honeypot.io/webhooks/greenhouse
+	* Export URL: https://ext.honeypot.io/webhooks/greenhouse
 		* Secret Key: Choose a secret key (this can be any combination of numbers). Don’t forget to take note of this number. You will need in the next steps. 
-	* Error Recipient Email: admin@honeypot.io
+	* Error Recipient Email: integrations@honeypot.io
 
 5. Click ‘Create Web hook’ and the first web hook is done!
 
@@ -153,9 +153,9 @@ To create a secret key, you’ll first need to make two web hooks. Here’s what
 
 	* Name: Honeypot Rejected 
 	* When: Candidate has been rejected
-	* Export URL: https://app.honeypot.io/webhooks/greenhouse
+	* Export URL: https://ext.honeypot.io/webhooks/greenhouse
 	* Secret Key: Choose the same key as before 
-	* Error Recipient Email: admin@honeypot.io
+	* Error Recipient Email: integrations@honeypot.io
 
 7. Click ‘Create Web hook’.
 8. Navigate back to the Honeypot platform and enter the secret key created for your web hooks into the ‘Your Board Token’ box.
