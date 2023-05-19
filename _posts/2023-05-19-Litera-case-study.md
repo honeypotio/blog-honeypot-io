@@ -5,7 +5,7 @@ date:    2023-05-19 10:10:16
 layout:  post
 author:  honeypot_bear
 categories: [HR Tips]
-cover_image: Chow-honeypot-became-litera-clocktimizer's-primary-tool-for-tech-talent-acquisition-blog-header.png
+cover_image: how-honeypot-became-litera-clocktimizer's-primary-tool-for-tech-talent-acquisition-blog-header.png
 permalink: honeypot-clocktimizer-success-case/
 importance: 2
 cta: recruiter
