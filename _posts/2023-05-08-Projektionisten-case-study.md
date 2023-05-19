@@ -16,6 +16,11 @@ Projektionisten is often on the lookout for great, new developers, and they were
 
 <!--more-->
 
+{% include button.html
+  label="Download detailed success story"
+  url="https://bit.ly/4530ScQ"
+%}
+
 ## About Projektionisten
 
 [Projektionisten](https://www.projektionisten.de/) specializes in UX/UI conception, design, and software development. For the past 20 years, they’ve been helping companies to achieve digital transformation.
@@ -69,6 +74,11 @@ With access to Honeypot's pre-vetted talent pool, the team was able to find the 
 They received **an impressive 83% interview invite response rate** and were able to quickly conduct **six interviews on the platform**. As a result, they hired **three German-speaking developers to join their tech team**.
 
 Honeypot partnership enabled the Projektionisten team streamline the recruitment process, saving them time and money, and helped them overcome their challenges.
+
+{% include button.html
+  label="Download detailed success story"
+  url="https://bit.ly/4530ScQ"
+%}
 
 Do you want to give Honeypot a try?
 
