@@ -14,10 +14,12 @@ cta: recruiter
 SoSafe, a fast-growing tech company based in Germany, had been relying heavily on external agencies for recruitment, which was both expensive and limited their control over the recruitment process. To address the high cost per hire, Nico joined the team as a Talent Acquisition Partner.
 <!--more-->
 
+
 {% include button.html
   label="Download detailed success story"
   url="https://bit.ly/3NZm1i7"
 %}
+
 
 ## About SoSafe
 
@@ -93,10 +95,12 @@ SoSafe's partnership with Honeypot provided a cost-effective solution to their r
 
 SoSafe's recruitment team gained the time to focus on other aspects of the recruitment process, such as streamlining the interview invite process.
 
+
 {% include button.html
   label="Download detailed success story"
   url="https://bit.ly/3NZm1i7"
 %}
+
 
 Do you want to give Honeypot a try?
 

@@ -15,10 +15,12 @@ Jelle initially found his job as a developer at Litera Clocktimizer through Hone
 
 <!--more-->
 
+
 {% include button.html
   label="Download detailed success story"
   url="https://bit.ly/3Wq9lmz"
 %}
+
 
 ## About Litera Clocktimizer
 
@@ -59,10 +61,12 @@ The results of Litera Clocktimizer's collaboration with Honeypot were impressive
 They **decreased the time-to-hire by 60%** compared to a popular sourciing platform. With an **1:4 interview to hire ratio** and **80% inverview acceptance rate** they were able to effectively grow their tech team.
 
 
+
 {% include button.html
   label="Download detailed success story"
   url="https://bit.ly/3Wq9lmz"
 %}
+
 
 
 ### Jelle on reasons why the best candidates come from Honeypot

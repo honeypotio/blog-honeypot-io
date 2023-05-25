@@ -16,10 +16,12 @@ Projektionisten is often on the lookout for great, new developers, and they were
 
 <!--more-->
 
+
 {% include button.html
   label="Download detailed success story"
   url="https://bit.ly/4530ScQ"
 %}
+
 
 ## About Projektionisten
 
@@ -75,10 +77,12 @@ They received **an impressive 83% interview invite response rate** and were able
 
 Honeypot partnership enabled the Projektionisten team streamline the recruitment process, saving them time and money, and helped them overcome their challenges.
 
+
 {% include button.html
   label="Download detailed success story"
   url="https://bit.ly/4530ScQ"
 %}
+
 
 Do you want to give Honeypot a try?
 
