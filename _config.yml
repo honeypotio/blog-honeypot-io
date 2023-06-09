@@ -10,6 +10,9 @@ github_username:  honeypotio
 # Build settings
 markdown: kramdown
 
+kramdown:
+  hard_wrap: true
+
 sass:
   sass_dir: _sass
   style: compressed
