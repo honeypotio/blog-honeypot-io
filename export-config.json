@@ -1,0 +1,10 @@
+{
+  "name": "markdown-json",
+  "cwd": "./",
+  "src": "_posts/",
+  "filePattern": "*.md",
+  "dist": "json_data/output.json",
+  "metadata": false,
+  "server": false,
+  "deterministicOrder": false
+}

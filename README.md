@@ -1,6 +1,5 @@
 # blog.honeypot.io
 
-
 ## Creating a new blog post
 
 `rake new['awesome new post title']`
@@ -8,6 +7,7 @@
 ## Adding new images
 
 1. Switch into the blog directory and fetch the latest data
+
 ```bash
 $ cd blog-honeypot.io
 $ git checkout gh-pages
@@ -15,12 +15,14 @@ $ git pull origin gh-pages
 ```
 
 2. Create a new branch
+
 ```bash
 $ git branch my-branch-name
 $ git checkout my-branch-name
 ```
 
-3. Place your new images in the [_assets](./_assets) directory!!
+3. Place your new images in the [\_assets](./_assets) directory!!
+
 ```
 .
 ├── _assets
@@ -41,6 +43,7 @@ gulp
 ```
 
 5. Add the new images to the repository
+
 ```bash
 $ git add _assets/cover-images/my-new-image.jpg _assets/images/my-new-image.jpg
 $ git add assets/cover-images/my-new-image.jpg assets/images/my-new-image.jpg
@@ -49,7 +52,7 @@ $ git push origin my-branch-name
 ```
 
 6. Create a pull request on [GitHub](https://github.com/honeypotio/blog-honeypot-io)
-![screen shot 2016-11-03 at 11 05 49](https://cloud.githubusercontent.com/assets/464300/19962001/d26c3c7c-a1b5-11e6-987e-ebd550a16d4d.png)
+   ![screen shot 2016-11-03 at 11 05 49](https://cloud.githubusercontent.com/assets/464300/19962001/d26c3c7c-a1b5-11e6-987e-ebd550a16d4d.png)
 
 ## Install dependencies
 
@@ -66,3 +69,10 @@ $ npm install
 
 `bundle exec jekyll serve`
 
+## Migrate data to JSON
+
+To migrate the Blog to a proper CMS like DatoCMS we first need to export the data to a friendlier format like JSON. We are using the library markdown-json for that purpose, which will use the config.json file
+
+```
+npx markdown-json -c export-config.json
+```
