@@ -1,0 +1,17 @@
+{
+  "name": "exporter",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@datocms/cma-client-node": "^2.2.6"
+  },
+  "scripts": {
+    "start": "bun index.ts"
+  }
+}
