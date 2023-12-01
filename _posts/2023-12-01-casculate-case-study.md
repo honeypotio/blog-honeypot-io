@@ -58,7 +58,7 @@ This helps Christian quickly shortlist compatible candidates and avoid wasting t
 
 Christian not only had a better experience on Honeypot, but he was also able to cut his hiring time by 80%, successfully hiring his first candidate in just 20 days.
 
-<p align="center"><img alt="Quote: There's no faster way to find qualified tech talent than Honeypot.’" src="/assets/images/christian-casculate-quote2.jpg.png" style="width:400px !important;"></p><br> 
+<p align="center"><img alt="Quote: There's no faster way to find qualified tech talent than Honeypot.’" src="/assets/images/christian-casculate-quote2.jpg" style="width:400px !important;"></p><br> 
 
 ## Results
 
@@ -75,6 +75,8 @@ Christian notes: ‘Honeypot's platform is so intuitive that I found suitable ca
 
 I had access to the platform for just 15 minutes before our initial meeting, and during that time, I discovered candidates whom I subsequently interviewed and ultimately hired.’
 
+<br>
+<br>
 
 Do you want to give Honeypot a try?
 

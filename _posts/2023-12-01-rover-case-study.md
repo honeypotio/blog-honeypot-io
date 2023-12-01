@@ -19,7 +19,7 @@ As a Senior HR Manager, Greg Penola oversees HR for Rover’s European workforce
 
 * Working location: Barcelona, Spain
 * Tech team headcount: 37
-* Tech stacks:  TPython, React, Django, React Native, Typescript
+* Tech stacks:  Python, React, Django, React Native, Typescript
 
 Based in Seattle, [Rover](https://www.rover.com/)  connects pet lovers with pet sitters, enabling even the busiest people to experience the joy of pet ownership.
 
@@ -39,7 +39,7 @@ All of those various sourcing methods led to high costs for Rover.
 
 Greg observed, ‘We weren't satisfied. Hiring became very expensive. It became clear that we needed to reduce costs and expedite our hiring process.’
 
-<p align="center"><img alt="Quote: We operate within a certain budget and our team wasn't able to fill the roles with the right caliber of candidates." src="/assets/images/rover-greg-quote1.jpg.png" style="width:400px !important;"></p><br>  
+<p align="center"><img alt="Quote: We operate within a certain budget and our team wasn't able to fill the roles with the right caliber of candidates." src="/assets/images/rover-greg-quote1.jpg" style="width:400px !important;"></p><br>  
 
 ## The solution
 
@@ -72,6 +72,8 @@ Thanks to this newfound efficiency, Rover’s recruiting team could re-evaluate 
 
 Greg notes: ‘The hires we've made so far really align with our company values and culture. They've quickly settled in and it feels like they've been with us for a long time.’
 
+<br>
+<br>
 
 Do you want to give Honeypot a try?
 

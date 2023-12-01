@@ -43,7 +43,7 @@ Despite trying numerous channels, including external recruiters, VC networks, an
 The candidates, unfortunately, rarely met the role requirements or fit his hiring budget.
 
 
-<p align="center"><img alt="Quote: Building a tech team at the beginning of 2022 was a major challenge. I spent a lot of time scheduling interviews, but the candidates didn't fit what we were looking for. I couldn't afford to waste time like that." src="/assets/images/konstantin-valuecase-quote1.jpg.png" style="width:400px !important;"></p><br>  
+<p align="center"><img alt="Quote: Building a tech team at the beginning of 2022 was a major challenge. I spent a lot of time scheduling interviews, but the candidates didn't fit what we were looking for. I couldn't afford to waste time like that." src="/assets/images/konstantin-valuecase-quote1.jpg" style="width:400px !important;"></p><br>  
 
 ## The solution
 
@@ -75,6 +75,8 @@ Additionally, the average time to hire has been notably **reduced to a swift 25 
 
 Due to this enhanced efficiency, Valuecase found Honeypot highly valuable and **ultimately hired 80% of their entire tech team through the platform**.
 
+<br>
+<br>
 
 Do you want to give Honeypot a try?
 
