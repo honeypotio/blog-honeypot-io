@@ -53,6 +53,11 @@ The set-up starts in your **onlyfy one** account.
   ![onlyfy-honeypot](/assets/images/onlyfy-integration-configure-api-key.png)
   <br/>
 
+- Once you've clicked `Save`, a new API key will be generated consisting of a random sequence of numbers and letters. Please `copy` your newly generated `API key` as you will need it for the next steps.
+
+  ![onlyfy-honeypot](/assets/images/onlyfy-integration-copy-api-key.png)
+  <br/>
+
 > _For more support on where to find your data visit the onlyfy one [help centre article.](https://help.onlyfy.com/hc/en-us/articles/18897698975505/)_
 
 From this point we will move into your **`Honeypot`** account.
