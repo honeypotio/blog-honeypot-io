@@ -2,7 +2,6 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
-{% assign cta = site.data.post_cta[page.cta] %}
 
 <div class="container">
   <div class="row">
@@ -89,13 +88,11 @@ layout: default
           linkedin=author.social.linkedin
         %}
 
-        {% include sign-up.html cta=cta %}
       </div><!-- ./post -->
     </div><!-- ./col-md-9 -->
 
     <div class="col-md-3">
       {% include featured-posts.html %}
-      {% include sidebar-signup.html %}
     </div>
 
     <div class="col-md-9">

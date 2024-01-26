@@ -55,8 +55,8 @@ decisions.
 
 ## Alright, how should I start?
 
-Well, the first prerequisite would be [signing up to
-Honeypot](https://app.honeypot.io/invite_requests/new). When
+Well, the first prerequisite would be signing up to
+Honeypot. When
 that's out of the way, follow these easy steps:
 
 * Log in;

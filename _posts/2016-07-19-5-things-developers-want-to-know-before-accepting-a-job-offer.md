@@ -39,15 +39,12 @@ How did everything start? Developers want to know the story behind the company. 
 What makes your company culture so special? Developers value  friendly and fun work environments which encourage learning. Don’t forget the amazing perks you offer. Oh, and that tech meetup you attend every month. Add some nice images from your office space and your team events to your careers page. That way developers can imagine  themselves right there!
 
 
-Taking a user-centric approach to your interview process will boost your company’s reputation as a friendly place to work. On [Honeypot][1], every company hiring developers has a company profile, listing these five key elements. Companies with more detailed profiles have their interview invitations and job offers accepted at a significantly higher rate. 
+Taking a user-centric approach to your interview process will boost your company’s reputation as a friendly place to work. On Honeypot, every company hiring developers has a company profile, listing these five key elements. Companies with more detailed profiles have their interview invitations and job offers accepted at a significantly higher rate. 
 
 Get into a culture of pitching your company during the interview process with developers - in the end it's not just the developer who has to convince you, you have to convince the developer!
 
 
 * * * 
 
-### Honeypot is a developer-focused job platform. Use Honeypot to filter by location, tech stack and salary and contact your favourite candidates directly. Sign-up to [start hiring][2] skilled and pre-screened developers today!
+### Honeypot is a developer-focused job platform. Use Honeypot to filter by location, tech stack and salary and contact your favourite candidates directly. Sign-up to start hiring skilled and pre-screened developers today!
 
-
-[1]: https://www.honeypot.io/pages/for_employers?utm_source=blog5
-[2]: https://www.honeypot.io/invite_requests/new?utm_source=blog5

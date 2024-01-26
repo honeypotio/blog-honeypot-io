@@ -125,4 +125,4 @@ Die aktive Personalbeschaffung erhöht bekanntlich die Zahl der geeigneten Kandi
 
 Es ist kein Geheimnis, dass die Hürden bei der Gewinnung von herausragenden Tech-Talenten höher sind als in anderen Tätigkeitsfeldern. Mit dem zunehmenden Fachkräftemangel vor allem im Technologiesektor muss sich jedes Unternehmen wieder auf die Optimierung seiner Personalabläufe besinnen.
 
-Ganz gleich, ob es darum geht, Time-to-Fill-Zeiten zu verkürzen, mehr qualifizierte Bewerber anzuziehen oder die Kosten der Stellenausschreibung zu senken: Reverse Recruiting ist der richtige Weg! Neugierig geworden? Dann melde dich an bei [Honeypot](https://www.honeypot.io/en/tech-hiring)!
+Ganz gleich, ob es darum geht, Time-to-Fill-Zeiten zu verkürzen, mehr qualifizierte Bewerber anzuziehen oder die Kosten der Stellenausschreibung zu senken: Reverse Recruiting ist der richtige Weg! Neugierig geworden? Dann melde dich an bei Honeypot!
