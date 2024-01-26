@@ -127,4 +127,4 @@ You will increase the number of qualified candidates when you actively source de
 
 It’s no secret that there are more barriers to hiring exceptional tech talent than in other professions, and as the scarcity of tech talent increases globally, every company should focus on optimising their tech recruitment metrics. 
 
-Whether your goal is to reduce time-to-fill, to increase your number of qualified candidates, or reduce your cost - reverse recruitment is the way to go! Curious? Then sign up to [Honeypot](https://www.honeypot.io/en/tech-hiring)!
+Whether your goal is to reduce time-to-fill, to increase your number of qualified candidates, or reduce your cost - reverse recruitment is the way to go! Curious? Then sign up to Honeypot!

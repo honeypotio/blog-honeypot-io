@@ -85,4 +85,4 @@ By the same token, senior software engineers tend not to suffer fools gladly. Co
 
 ## Get help from the experts
 
-Let Honeypot be your expert partner, helping you find and win the tech talents for your vacant positions. [Sign up and get instant access](https://www.honeypot.io/en/tech-hiring) to our vast database of senior software developers, updated with new, verified candidates on a weekly basis.
+Let Honeypot be your expert partner, helping you find and win the tech talents for your vacant positions.

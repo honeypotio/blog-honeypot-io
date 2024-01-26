@@ -74,7 +74,4 @@ Berlin CTO salaries range from as little as €58,000 to as much as €142,000 f
 
 * * *
 
-**[Join Honeypot][2] and make your next hire within 28 days.**
-
-[2]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=f&utm_content=160103&utm_campaign=com-no
-[1]: https://www.honeypot.io/invite_requests/new?utm_source=blogc
+**Join Honeypot and make your next hire within 28 days.**

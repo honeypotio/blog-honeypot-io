@@ -60,7 +60,3 @@ In order to get the **full picture** and break down tech salaries further by gen
   label="Get the Tech Salaries Report 2022"
   url="https://hello.honeypot.io/tech-salary-report-germany-2022/"
 %}
-
-<br />
-
-**Need extra help finding top tech talent?** [Honeypot has you covered](https://www.honeypot.io/en/tech-hiring?utm_source=blog).

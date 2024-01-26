@@ -77,4 +77,3 @@ While individual and structural obstacles can be difficult to overcome and certa
 [6]: https://www.honeypot.io
 [7]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151204&utm_campaign=dev-no
 [8]: https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=151204&utm_campaign=dev-no
-[9]: https://www.honeypot.io/invite_requests/new?invitation_type=company&utm_source=blogwm

@@ -77,6 +77,4 @@ Another [GitHub repository][2]{:target="_blank"} of interview questions for fron
 
 [1]: https://github.com/h5bp/Front-end-Developer-Interview-Questions
 [2]: https://github.com/khan4019/front-end-Interview-Questions
-[3]: https://www.honeypot.io/pages/for_employers?utm_source=blog&utm_medium=organic&utm_term=g&utm_content=151203&utm_campaign=hr-no
-[4]: https://www.honeypot.io/invite_requests/new?invitation_type=company&utm_source=blogfe
 
